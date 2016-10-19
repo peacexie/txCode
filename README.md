@@ -1,6 +1,3 @@
-# txCode
-贴心口袋(txCode)是Html5制作的系列经典的学习生活工具； 适合手机访问 或 Html5应用打包。http://yscode.txjia.com/tools/screen.htm
-
 ### 贴心口袋(txCode)
 
 * 是Html5制作的系列经典的学习生活工具；
