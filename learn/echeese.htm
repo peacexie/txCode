@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>谁动了我的奶酪</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+<!--
+p.title { color:#999; font-size:smaller; line-height:150%; padding:8px 0px; }
+p.title span{  color: #F0F; font-weight: bolder; }
+#subNav1 a, #subNav2 a { display:inline-block; padding:0px 3px; margin:1px 1px 8px 1px; border:1px solid #CCC; }
+.reindex { display:inline-block; border:1px solid #CCC; padding:5px; }
+-->
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+  <div class="blinks">
+    <i style="line-height:0px; line-height:0px;" id="e9top" name="e9top"></i>
+    <p><strong>谁动了我的奶酪</strong></p>
+    <div id="navAll">
+    <p id="subNav1" class="tc">
+    <a class="c999">章</a>
+    <a href="#e9top" onClick="MN_Show(1)">01</a>
+    <a href="#e9top" onClick="MN_Show(2)">02</a>
+    <a href="#e9top" onClick="MN_Show(3)">03</a>
+    <a href="#e9top" onClick="MN_Show(4)">04</a>
+    <a href="#e9top" onClick="MN_Show(5)">05</a>
+    <a href="#e9top" onClick="MN_Show(6)">06</a>
+    <a href="#e9top" onClick="MN_Show(7)">07</a><br>
+    <a href="#e9top" onClick="MN_Show(8)">08</a>
+    <a href="#e9top" onClick="MN_Show(9)">09</a>
+    <a href="#e9top" onClick="MN_Show(10)">10</a>
+    <a href="#e9top" onClick="MN_Show(11)">11</a>
+    <a href="#e9top" onClick="MN_Show(12)">12</a>
+    <a href="#e9top" onClick="MN_Show(13)">13</a>
+    <a href="#e9top" onClick="MN_Show(14)">14</a>
+    <a href="#e9top" onClick="MN_Show(15)">15</a> 
+    </p>
+    </div>
+  </div>
+  
+  <div class="mcontent" id="contents">
+    ...LOADING...
+  </div>
+  
+  <div class="blinks">
+  <p id="subNav2" class="tc"></p>
+  </div>
+  
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+</div>
+
+<script type="text/JavaScript">
+function MN_Show(id){
+	var data = __httpData__; 
+	var drem = data.split('Chapter ');
+	var dres = '<b>Chapter '+drem[id];
+	dres = dres.replace(/\n/g,'<br>');
+	dres += '<p class="tc">Chapter ['+id+'] End </p>'; 
+	jsElm.jeID('contents').innerHTML = dres;
+}
+var __httpData__ = '', pageArray = new Array(); 
+jsHttp('../udata/yuwen/echeese.txt?v2',"setTimeout('MN_Show(1);',200)");
+jsElm.jeID('subNav2').innerHTML = jsElm.jeID('subNav1').innerHTML; 
+</script>
+
+</BODY>
+</html>
+
+

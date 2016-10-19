@@ -1,0 +1,404 @@
+
+<div>﻿coffee pot  咖啡壶<br>
+coffee cup [ˈkɔfikʌp] 咖啡杯<br>
+paper towel [ˈpeipəˈtauəl] 纸巾<br>
+napkin [ˈnæpkɪn] 餐巾<br>
+tea -pot  茶壶<br>
+tea set [ti:set] 茶具<br>
+tea tray [ti:trei] 茶盘<br>
+caddy [ˈkædi] 茶罐<br>
+dish [dɪʃ] 碟<br>
+plate [pleɪt] 盘<br>
+saucer [ˈsɔ:sə(r)] 小碟子<br>
+rice bowl [raisbəul] 饭碗<br>
+chopsticks [ˈtʃɔpstɪks] 筷子<br>
+soup spoon [su:pspu:n] 汤匙<br>
+knife [naɪf] 餐刀<br>
+cup [kʌp] 杯子<br>
+glass [ɡlɑ:s] 玻璃杯<br>
+picnic lunch [ˈpikniklʌntʃ] 便当<br>
+fruit plate [fru:tpleit] 水果盘<br>
+bear\'s paw  熊掌<br>
+</div>
+
+<div>breast of deer [brestɔvdiə] 鹿脯<br>
+sea sturgeon [si:ˈstə:dʒən] 海鳝<br>
+salted jelly fish  海蜇皮<br>
+kelp [kelp] 海带<br>
+abalone [ˌæbəˈləʊni] 鲍鱼<br>
+shark fin [ʃɑ:kfin] 鱼翅<br>
+scallops  干贝<br>
+lobster [ˈlɒbstə(r)] 龙虾<br>
+bird\'s nest  燕窝<br>
+roast suckling pig [rəustˈsʌkliŋpiɡ] 烤乳猪<br>
+pig\'s knuckle  猪脚<br>
+boiled salted duck  盐水鸭<br>
+preserved meat  腊肉<br>
+barbecued pork  叉烧<br>
+sausage [ˈsɒsɪdʒ] 香肠<br>
+fried pork flakes  肉松<br>
+BAR-B-Q  烤肉<br>
+meat diet [mi:tˈdaiət] 荤菜<br>
+vegetables  素菜<br>
+meat broth [mi:tbrɔ:θ] 肉羹<br>
+</div>
+
+<div>local dish [ˈləukəldiʃ] 地方菜<br>
+Cantonese cuisine  广东菜<br>
+set meal [setmi:l] 客饭<br>
+curry rice [ˈkɜ:ri:rais] 咖喱饭<br>
+fried rice  炒饭<br>
+plain rice [pleinrais] 白饭<br>
+crispy rice [ˈkrispirais] 锅巴<br>
+gruel [ˈgru:əl] 粥=porridge；=soft...<br>
+noodles with gravy  打卤面<br>
+plain noodle [pleinˈnu:dl] 阳春面<br>
+casserole [ˈkæsərəʊl] 砂锅<br>
+chafing dish [ˈtʃeɪfɪŋ] 火锅=firepot<br>
+meat bun [mi:tbʌn] 肉包子<br>
+shao-mai  烧麦<br>
+preserved bean curd  腐乳<br>
+bean curd [bi:nkɜ:d] 豆腐<br>
+fermented soya beans  豆豉<br>
+pickled cucumbers  酱瓜<br>
+preserved egg  皮蛋<br>
+salted duck egg  咸鸭蛋<br>
+</div>
+
+<div>today\'s special  今日特餐<br>
+chef\'s special  主厨特餐<br>
+continental cuisine  欧式西餐<br>
+French fries  炸薯条<br>
+omelette ['ɒmlət] 简蛋卷<br>
+pastries  甜点<br>
+dried turnip [draidˈtɜ:nɪp] 萝卜干<br>
+menu [ˈmenju:] 菜单<br>
+French cuisine [frentʃkwɪˈzi:n] 法国菜<br>
+buffet [ˈbʌfɪt] 自助餐<br>
+fast food [fɑ:stfu:d] 快餐<br>
+specialty [ˈspeʃəlti] 招牌菜<br>
+aperitif [əˌperəˈti:f] 饭前酒<br>
+dim sum [ˌdɪmˈsʌm] 点心<br>
+baked potato [beɪktpəˈteitəu] 烘马铃薯<br>
+mashed potatoes  马铃薯泥<br>
+pudding [ˈpʊdɪŋ] 布丁<br>
+pickled vegetables  泡菜<br>
+kimchi [ˈkimtʃi:] 韩国泡菜<br>
+crab meat [kræbmi:t] 蟹肉<br>
+</div>
+
+<div>prawn [prɔ:n] 明虾<br>
+conch [kɔŋk] 海螺<br>
+escargots  田螺<br>
+braised beef  炖牛肉<br>
+bacon [ˈbeɪkən] 熏肉<br>
+poached egg  荷包蛋<br>
+sunny side up [ˈsʌnisaidʌp] 煎一面荷包蛋<br>
+over [ˈəʊvə(r)] 煎两面荷包蛋<br>
+fried egg  煎蛋<br>
+over easy [ˈəuvəˈi:zi] 煎半熟蛋<br>
+over hard  煎全熟蛋<br>
+scramble eggs  炒蛋<br>
+boiled egg [bɔɪldeɡ] 煮蛋<br>
+stone fire pot  石头火锅<br>
+sashi  日本竹筷<br>
+sake [ˈsɑ:ki] 日本米酒<br>
+miso shiru  味噌汤<br>
+roast meat [rəustmi:t] 铁板烤肉<br>
+sashimi [sɑ:ˈʃi:mi] 生鱼片<br>
+butter [ˈbʌtə(r)] 奶油<br>
+</div>
+
+<div>beverages  饮料<br>
+soya-bean milk [ˈsɔiəbi:nmilk] 豆浆<br>
+syrup of plum [ˈsirəpɔvplʌm] 酸梅汤<br>
+tomato juice [təˈmɑ:təudʒu:s] 番茄汁<br>
+orange juice [ˈɔrindʒdʒu:s] 橘子汁<br>
+coconut milk [ˈkəukənʌtmilk] 椰子汁<br>
+asparagus juice [əˈspærəgəsdʒu:s] 芦荟汁<br>
+grapefruit juice [ˈgreɪpˌfru:tdʒu:s] 葡萄柚汁<br>
+vegetable juice [ˈvedʒitəbldʒu:s] 蔬菜汁<br>
+ginger ale [ˈdʒindʒəeɪl] 姜汁<br>
+sarsaparilla [ˌsɑ:spəˈrɪlə] 沙士<br>
+soft drink [sɔftdriŋk] 汽水<br>
+coco-cola  可口可乐(coke)<br>
+tea leaves [ti:li:vz] 茶叶<br>
+black tea [blækti:] 红茶<br>
+jasmine tea [ˈdʒæzmɪnti:] 茉莉（香片）<br>
+tea bag [ti:bæɡ] 茶包<br>
+lemon tea [ˈlemənti:] 柠檬茶<br>
+white gourd tea  冬瓜茶<br>
+honey [ˈhʌni] 蜂蜜<br>
+</div>
+
+<div>chlorella [klɔ:ˈrelə] 绿藻<br>
+soda water  苏打水<br>
+artificial color [ˌɑ:tiˈfiʃəlˈkʌlə] 人工色素<br>
+ice water [aisˈwɔ:tə] 冰水<br>
+mineral water [ˈminərəlˈwɔ:tə] 矿泉水<br>
+distilled water  蒸馏水<br>
+long-life milk  保久奶<br>
+condensed milk [kənˈdenstmilk] 炼乳；炼奶<br>
+cocoa [ˈkəʊkəʊ] 可可<br>
+coffee mate  奶精<br>
+coffee [ˈkɒfi] 咖啡<br>
+iced coffee  冰咖啡<br>
+white coffee [hwaitˈkɔfi] 牛奶咖啡<br>
+black coffee [blækˈkɔfi] 纯咖啡<br>
+ovaltine  阿华田<br>
+chlorella yakult  养乐多<br>
+essence of chicken  鸡精<br>
+ice-cream cone  甜筒<br>
+sundae [ˈsʌndeɪ] 圣代；新地<br>
+ice-cream ['aɪskriːm] 雪糕<br>
+</div>
+
+<div>soft ice-cream [sɔftaiskri:m] 窗淇淋<br>
+vanilla ice-cream  香草冰淇淋<br>
+ice candy  冰棒<br>
+milk-shake  奶昔<br>
+straw [strɔ:] 吸管<br>
+pineapple [ˈpaɪnæpl] 凤梨<br>
+watermelon [ˈwɔ:təmelən] 西瓜<br>
+papaya [pəˈpaɪə] 木瓜<br>
+betelnut  槟榔<br>
+chestnut [ˈtʃesnʌt] 栗子<br>
+coconut [ˈkəʊkənʌt] 椰子<br>
+ponkan  碰柑<br>
+tangerine [ˌtændʒəˈri:n] 橘子<br>
+mandarin orange  橘<br>
+sugar-cane [ˈʃuɡəkein] 甘蔗<br>
+muskmelon [ˈmʌskˌmelən] 香瓜<br>
+shaddock [ˈʃædək] 文旦<br>
+juice peach [dʒu:spi:tʃ] 水蜜桃<br>
+pear [pɛə] 梨子<br>
+peach [pi:tʃ] 桃子<br>
+</div>
+
+<div>carambola [kærəmˈbəulə] 杨桃<br>
+cherry [ˈtʃeri] 樱桃<br>
+persimmon [pəˈsɪmən] 柿子<br>
+apple [ˈæpl] 苹果<br>
+mango [ˈmæŋgəʊ] 芒果<br>
+fig [fɪg] 无花果<br>
+water caltrop [ˈwɔ:təˈkæltrəp] 菱角<br>
+almond [ˈɑ:mənd] 杏仁<br>
+plum [plʌm] 李子<br>
+honey-dew melon [ˈhʌnidju:ˈmelən] 哈密瓜<br>
+loquat [ˈləukwɔt] 枇杷<br>
+olive [ˈɔliv] 橄榄<br>
+rambutan [ræmˈbu:tn] 红毛丹<br>
+durian [ˈdʊəriən] 榴梿<br>
+strawberry [ˈstrɔ:bəri] 草莓<br>
+grape [greɪp] 葡萄<br>
+grapefruit [ˈgreɪpfru:t] 葡萄柚<br>
+lichee [ˈli:ˌtʃi:] 荔枝<br>
+longan [ˈlɔŋɡən] 龙眼<br>
+wax-apple  莲雾<br>
+</div>
+
+<div>guava [ˈgwɑ:və] 番石榴<br>
+banana [bəˈnɑ:nə] 香蕉<br>
+tring bean  四季豆<br>
+pea [pi:] 豌豆<br>
+green soy bean [ɡri:nsɔɪbi:n] 毛豆<br>
+soybean sprout [ˈsɔɪˌbi:nspraut] 黄豆芽<br>
+mung bean sprout  绿豆芽<br>
+bean sprout [bi:nspraut] 豆芽<br>
+kale [keɪl] 甘蓝菜<br>
+cabbage [ˈkæbɪdʒ] 包心菜;大白菜<br>
+broccoli [ˈbrɒkəli] 花椰菜<br>
+mater convolvulus  空心菜<br>
+dried lily flower  金针菜<br>
+mustard leaf [ˈmʌstədli:f] 芥菜<br>
+celery [ˈseləri] 芹菜<br>
+tarragon [ˈtærəgən] 蒿菜<br>
+beetroot [ˈbi:tru:t] 甜菜=beet<br>
+agar-agar [ˈeiɡɑ:ˈeiɡɑ:] 紫菜<br>
+lettuce [ˈletɪs] 莴苣<br>
+spinach [ˈspɪnɪtʃ] 菠菜<br>
+</div>
+
+<div>leek [li:k] n.韭葱<br>
+caraway [ˈkærəweɪ] 香菜<br>
+hair-like seaweed [hɛəlaikˈsi:ˌwi:d] 发菜<br>
+preserved szechuan pickle  榨菜<br>
+salted vegetable  雪里红<br>
+asparagus [əˈspærəgəs] 芦荟<br>
+bamboo shoot [bæmˈbu:ʃu:t] 竹笋<br>
+dried bamboo shoot [draidbæmˈbu:ʃu:t] 笋干<br>
+chives [tʃaɪvz] 韭黄<br>
+ternip  白萝卜<br>
+carrot [ˈkærət] 胡萝卜<br>
+water chestnut [ˈwɔ:təˈtʃesˌnʌt] 荸荠<br>
+ficus tikaua  地瓜<br>
+long crooked squash [lɔŋˈkrukidskwɔʃ] 菜瓜<br>
+loofah [ˈlu:fə] 丝瓜<br>
+pumpkin [ˈpʌmpkɪn] 南瓜<br>
+bitter gourd [ˈbitəgɔ:d] 苦瓜<br>
+cucumber [ˈkju:kʌmbə(r)] 黄瓜<br>
+white gourd [hwaitgɔ:d] 冬瓜<br>
+gherkin [ˈɡə:kin] 小黄瓜<br>
+</div>
+
+<div>yam [jæm] 山芋<br>
+taro [ˈtɑ:rəu] 芋头<br>
+beancurd sheets  百叶<br>
+champignon [tʃæmˈpinjən] 香菇<br>
+button mushroom [ˈbʌtənˈmʌʃrum] 草菇<br>
+needle mushroom [ˈni:dlˈmʌʃrum] 金针菇<br>
+agaricus  蘑菇<br>
+dried mushroom [draidˈmʌʃrum] 冬菇<br>
+tomato [təˈmɑ:təu] 番茄<br>
+eggplant [ˈegplɑ:nt] 茄子<br>
+potato, spud  马铃薯<br>
+lotus root [ˈləutəsru:t] 莲藕<br>
+agaric [ˈægərɪk] 木耳<br>
+white fungus [hwaitˈfʌŋɡəs] 百木耳<br>
+ginger [ˈdʒɪndʒə(r)] 生姜<br>
+garlic [ˈɡɑ:lik] 大蒜<br>
+garlic bulb [ˈɡɑ:likbʌlb] 蒜头<br>
+green onion [ɡri:nˈʌnjən] 葱<br>
+onion [ˈʌnjən] 洋葱<br>
+scallion [ˈskæliən] 青葱,=leek<br>
+</div>
+
+<div>wheat gluten [hwi:tˈɡlu:tən] 面筋<br>
+miso [ˈmi:səʊ] 味噌<br>
+seasoning [ˈsi:zənɪŋ] 调味品<br>
+caviar [ˈkæviɑ:(r)] 鱼子酱<br>
+barbeque sauce  沙茶酱<br>
+tomato ketchup, tomato sauce  番茄酱<br>
+mustard [ˈmʌstəd] 芥茉<br>
+salt [sɔ:lt] 盐<br>
+sugar [ˈʃʊgə(r)] 糖<br>
+vinegar [ˈvɪnɪgə(r)] 醋<br>
+sweet [swi:t] 甜<br>
+sour [ˈsaʊə(r)] 酸<br>
+bitter [ˈbɪtə(r)] 苦<br>
+lard [lɑ:d] 猪油<br>
+peanut oil [ˈpi:nʌtɔil] 花生油<br>
+soy sauce [ˌsɔɪˈsɔ:s] 酱油<br>
+green pepper [ɡri:nˈpepə] 青椒<br>
+paprika [pəˈpri:kə] 红椒<br>
+star anise [stɑ:ˈænis] 八角<br>
+cinnamon [ˈsɪnəmən] 肉挂<br>
+</div>
+
+<div>curry [ˈkɜ:ri:] 咖喱<br>
+maltose [ˈmɔ:ltəʊz] 麦芽糖<br>
+jerky [ˈdʒɜ:ki:] 牛肉干<br>
+dried beef slices  牛肉片<br>
+dried pork slices  猪肉片<br>
+confection [kənˈfekʃn] 糖果<br>
+glace fruit  蜜饯<br>
+marmalade [ˈmɑ:məleɪd] 果酱<br>
+dried persimmon [draidpə(:)ˈsimən] 柿饼<br>
+candied melon [ˈkændidˈmelən] 冬瓜糖<br>
+red jujube [redˈdʒu:dʒu(:)b] 红枣<br>
+black date [blækdeit] 黑枣<br>
+glace date  蜜枣<br>
+dried longan [draidˈlɔŋɡən] 桂圆干<br>
+raisin [ˈreɪzn] 葡萄干<br>
+chewing gum [ˈtʃu:ɪŋ] 口香糖<br>
+nougat [ˈnu:ɡɑ:] 牛乳糖<br>
+mint [mɪnt] 薄荷糖<br>
+drop [drɔp] 水果糖<br>
+marshmallow [mɑ:ʃˈmæləu] 棉花糖<br>
+</div>
+
+<div>caramel [ˈkærəmel] 牛奶糖<br>
+peanut brittle [ˈpi:nʌtˈbritl] 花生糖<br>
+castor sugar [ˈkæstəˈʃuɡə] 细砂白糖<br>
+granulated sugar  砂糖<br>
+sugar candy [ˈʃuɡəˈkændi] 冰糖<br>
+butter biscuit [ˈbʌtəˈbiskit] 奶酥<br>
+rice cake [raiskeik] 年糕<br>
+moon cake [mu:nkeik] 月饼<br>
+green bean cake [ɡri:nbi:nkeik] 绿豆糕<br>
+popcorn [ˈpɔpkɔ:n] 爆米花<br>
+chocolate [ˈtʃɒklət] 巧克力<br>
+marrons glaces  糖炒栗子<br>
+breakfast [ˈbrekfəst] 早餐<br>
+lunch [lʌntʃ] 午餐<br>
+brunch [brʌntʃ] 早午餐<br>
+supper [ˈsʌpə(r)] 晚餐<br>
+late snack  宵夜<br>
+dinner [ˈdɪnə(r)] 正餐<br>
+ham and egg [hæmændeɡ] 火腿肠<br>
+buttered toast  奶油土司<br>
+</div>
+
+<div>French toast [frentʃtəust] 法国土司<br>
+muffin [ˈmʌfɪn] 松饼<br>
+cheese cake [tʃi:zkeik] 酪饼<br>
+white bread [hwaitbred] 白面包<br>
+brown bread [braunbred] 黑面包<br>
+French roll [frentʃrəul] 小型法式面包<br>
+appetizer [ˈæpɪtaɪzə(r)] 开胃菜<br>
+green salad [ɡri:nˈsæləd] 蔬菜沙拉<br>
+onion soup  洋葱汤<br>
+potage [pɔˈtɑ:ʒ] 法国浓汤<br>
+corn soup  玉米浓汤<br>
+minestrone [ˌmɪnəˈstrəʊni] 蔬菜面条汤<br>
+ox tail soup [ɔksteilsu:p] 牛尾汤<br>
+fried chicken  炸鸡<br>
+roast chicken [rəustˈtʃikin] 烤鸡<br>
+steak [steɪk] 牛排<br>
+T-bone steak  丁骨牛排<br>
+filet steak  菲力牛排<br>
+sirloin steak [ˈsɜ:ˌlɔɪnsteik] 沙朗牛排<br>
+club steak  小牛排<br>
+</div>
+
+<div>well done [weldʌn] 全熟<br>
+medium [ˈmi:diəm] 五分熟<br>
+rare [rɛə] 三分熟<br>
+beer [biə] 啤酒<br>
+draft beer [drɑ:ftbiə] 生啤酒<br>
+stout beer [stautbiə] 黑啤酒<br>
+canned beer [kændbiə] 罐装啤酒<br>
+red wine [redwain] 红葡萄酒<br>
+gin [dʒɪn] 琴酒<br>
+brandy ['brændɪ] 白兰地<br>
+whisky [ˈwɪski] 威士忌<br>
+vodka [ˈvɔdkə] 伏特加<br>
+on the rocks  酒加冰块<br>
+rum [rʌm] 兰酒<br>
+champagne [ʃæmˈpeɪn] 香槟<br>
+meat [mi:t] 肉<br>
+beef [bi:f] 牛肉<br>
+pork [pɔ:k] 猪肉<br>
+chicken [ˈtʃɪkɪn] 鸡肉<br>
+mutton [ˈmʌtn] 羊肉<br>
+</div>
+
+<div>bread [bred] 面包<br>
+steamed bread  馒头<br>
+rice noodles [raisˈnuːdl] 米粉<br>
+fried rice noodles  河粉<br>
+steamed vermicelli roll  肠粉<br>
+macaroni [ˌmækəˈrəʊni] 通心粉<br>
+bean thread [bi:nθred] 冬粉<br>
+bean curd with odor  臭豆腐<br>
+flour-rice noodle  面粉<br>
+noodles [ˈnu:dlz] 面条<br>
+instinct noodles  速食面<br>
+vegetable [ˈvedʒtəbl] 蔬菜<br>
+crust [krʌst] 面包皮<br>
+sandwich [ˈsænwɪtʃ] 三明治<br>
+toast [təust] 土司<br>
+hamburger [ˈhæmbɜ:gə(r)] 汉堡<br>
+cake [keɪk] 蛋糕<br>
+spring roll [spriŋrəul] 春卷<br>
+pancake [ˈpænkeɪk] 煎饼<br>
+fried dumpling  煎贴<br>
+</div>
+
+<div>rice glue ball [raisɡlu:bɔ:l] 元宵<br>
+glue pudding  汤圆<br>
+millet congee [ˈmɪlɪtˈkɔndʒi:] 小米粥<br>
+cereal [ˈsɪəriəl] 麦片粥<br>
+steamed dumpling  蒸饺<br>
+ravioli [ˌræviˈəʊli] 馄饨<br>
+</div>

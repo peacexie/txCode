@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>网络在线与离线</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+.on, .off{ display:inline-block; padding:3px 8px; margin:5px; }
+.on { color:#063; border:1px solid; }
+.off { background:#FC3; }
+i { color:#CCC; }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue" id="stabs">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+</p>
+
+<h2 class="msubject">网络在线与离线</h2>
+
+<div class="mcontent">
+  
+  <p><strong>检测结果：</strong></p>
+  <p class="tc">html5.online: <span id="status1">…检测中…</span></p>
+  <p class="tc">jQuery.ajax: <span id="status2">…检测中…</span></p>
+  <p class="tc"><span id="statmsg">(msg)</span></p>
+  <p class="tc pv10"><a href="?abcd1234" id="reload">更新href</a></p>
+  
+  <p><strong>注意：<!--dynamic部分--></strong></p>
+  <div><!--开发中……,更新中……-->
+  二者判定的结果可能不一样：<br>
+  1. 低版本的手机，使用[html5.online]可能不准确；<br>
+  2. 一般以[jQuery.ajax]为准。
+  </div>
+  <!--i>在线时更新，离线时用本地存储显示缓存.</i-->
+  
+</div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+<a id="seclink" style="display:none"></a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+/*
+* https://developer.mozilla.org/zh-CN/docs/Web/API/NavigatorOnLine.onLine
+* Firefox 4和 Opera 11.10 并不检测浏览器是否能真正连接上互联网,而是,除了在浏览器"脱机工作"开启时返回false,其他情况下都返回 true.
+* 早起版本的Chrome,浏览器处于离线状态.在打开第一个标签时.该属性值会返回true,随后就会返回正确的联网状态了.
+*/
+//*
+function setStatus(type,id){
+	var flag = type ? type : (navigator.onLine ? 'On' : 'Off'); //alert(flag);
+	if(!id) id = 'status1';
+	jsElm.jeID(id).innerHTML = flag=='On' ? '<span class="on">On-在线</span>' : '<span class="off">Off-离线</span>';
+}
+if(navigator.onLine){ 
+	setStatus(); 
+	jsElm.jeID("reload").href = '?rnd='+jsGuid();
+}
+window.addEventListener("online",online,false);
+function online(){ setStatus('On'); }
+window.addEventListener("offline",offline,false);
+function offline(){ setStatus('Off'); }
+//*/
+
+
+function netStatus(){
+	if(_cbase.run.sbase.indexOf('192.168.')>0 || _cbase.run.sbase.indexOf('127.0.')>0){
+		var urlb = 	_cbase.run.sbase+'mlabs/';
+	}else{
+		var urlb = 	_cbase.run.urlserver;	
+	}
+	var revar = jsGuid(); revar = 'reval_'+revar.replace('.','_');
+	var urlp = 'csfr-srv.php?act=on_off&revar='+revar;
+	//var info = {}, stat = '', msg = '', ers = '';
+	jQuery.ajax({
+		url:urlb+urlp,
+		dataType:"text", //
+		type:"GET", //"POST" 或 "GET"
+		success: function(data){
+			stat = 'OK';
+			msg = data;
+			//...调用成功代码
+			setStatus('On','status2');
+			jsElm.jeID('statmsg').innerHTML = msg;
+		},
+		error: function(XMLHttpRequest, textStatus, errorThrown){
+			stat = 'NG';
+			msg = textStatus;
+			ers = errorThrown;
+			//调用失败代码
+			setStatus('Off','status2');
+			jsElm.jeID('statmsg').innerHTML = msg;
+		}
+	});
+	//return {stat:stat,msg:msg,ers:ers};
+}
+netStatus();
+/*
+[dataType]
+"xml": 返回 XML 文档，可用 jQuery 处理。
+"html": 返回纯文本 HTML 信息；包含的 script 标签会在插入 dom 时执行。
+"script": 返回纯文本 JavaScript 代码。不会自动缓存结果。除非设置了 "cache" 参数。注意：在远程请求时(不在同一个域下)，所有 POST 请求都将转为 GET 请求。（因为将使用 DOM 的 script标签来加载）
+"json": 返回 JSON 数据 。
+"jsonp": JSONP 格式。使用 JSONP 形式调用函数时，如 "myurl?callback=?" jQuery 将自动替换 ? 为正确的函数名，以执行回调函数。
+"text": 返回纯文本字符串
+
+var ajaxTimeoutTest = $.ajax({
+　　url:'',  //请求的URL
+　　timeout : 1000, //超时时间设置，单位毫秒
+　　type : 'get',  //请求方式，get或post
+　　data :{},  //请求所传参数，json格式
+　　dataType:'json',//返回的数据格式
+　　success:function(data){ //请求成功的回调函数
+　　　　alert("成功");
+　　},
+　　complete : function(XMLHttpRequest,status){ //请求完成后最终执行参数
+　　　　if(status=='timeout'){//超时,status还有success,error等值的情况
+ 　　　　　 ajaxTimeoutTest.abort();
+　　　　　  alert("超时");
+　　　　}
+　　}
+});
+
+*/
+</script>
+</body>
+</html>

@@ -1,0 +1,158 @@
+
+<div>a [ei] art.一;一个;件<br>
+act [ækt] v.行动;做动作vt.扮演vi...<br>
+and [ænd] conj.和;与<br>
+are [ɑ:] v.是(be的第二人称单数现在时)<br>
+bag [bæɡ] n.书包;提包;袋子<br>
+book [buk] vt.登记入册;预订(票等);预约...<br>
+close [kləuz] adj.接近的;亲近的;亲密的v...<br>
+down [daun] adv.向下;在下面;往南pre...<br>
+fine [fain] adj.好的;细微的;细致的;精...<br>
+for [fɔ:] prep.[表示对象]为;供<br>
+good [ɡud] adj.好的;善良的;擅长…的n...<br>
+I [aɪ] pron.(主格)我<br>
+learn [lə:n] v.学习;学;学会<br>
+morning [ˈmɔ:niŋ] n.早上<br>
+my [mai] pron.我的<br>
+</div>
+
+<div>open [ˈəupən] adj.开着的;开放的;营业中的;...<br>
+stand [stænd] vi.站立;位于;经受n.台;...<br>
+take [teik] v.拿;乘车;船等<br>
+talk [tɔ:k] v.谈话n.讲话;会谈<br>
+teacher [ˈti:tʃə] n.教师;老师<br>
+thank [θæŋk] vt.谢谢;感谢n.感谢<br>
+to [tu:] prep.向;到;给…;往<br>
+unit [ˈju:nit] n.(教学)单元<br>
+up [ʌp] adv.向上prep.向上游<br>
+five [faɪv] num.五;五个;第五<br>
+four [fɔ:] num.四;四个;第四<br>
+give [ɡiv] v.给;产生<br>
+many [ˈmeni] adj.很多的<br>
+me [mi:] pron.我(I的宾语)<br>
+number [ˈnʌmbə] n.号码;数字<br>
+</div>
+
+<div>one [wʌn] num.一pron.一个(只)(表...<br>
+this [ðis] pron.这个<br>
+three [θri:] num.三;三个<br>
+tree [tri:] n.树;树木;语法树<br>
+two [tu:] num.二;两个n.两个(人或物...<br>
+can [kæn] vt.把…装罐aux.&v.能;...<br>
+dance [dɑ:ns] v.跳舞;舞蹈<br>
+draw [drɔ:] vt.画;划;拖;拉vi.移...<br>
+hand [hænd] n.手<br>
+jump [dʒʌmp] v.跳;跳跃vt.跳过vi....<br>
+old [əuld] adj.年老的;旧的;…岁的<br>
+write [rait] v.写;书写;写字;写作<br>
+ear [iə] n.耳朵<br>
+eye [ai] n.眼睛;眼力;鉴赏力<br>
+face [feis] vt.面向;面临;面对n.脸;...<br>
+</div>
+
+<div>mouth [mauθ] n.嘴;口;口腔<br>
+nose [nəuz] n.鼻子<br>
+taste [teist] vt.尝;辨(味);品尝;体验...<br>
+toe [təʊ] n.脚趾;足尖;(鞋、袜的)足尖部<br>
+touch [tʌtʃ] vt.碰;触摸;接触<br>
+wave [weiv] v.挥舞;挥动<br>
+apple [ˈæpl] n.苹果;苹果树<br>
+feel [fi:l] v.触摸;感觉<br>
+fruit [fru:t] n.水果;果实;成果;结果<br>
+is [iz] v.是(be的第三人称单数现在时)<br>
+it [it] pron.它<br>
+lemon [ˈlemən] n.柠檬(树);柠檬黄;淡黄色<br>
+melon [ˈmelən] n.(各种)瓜;甜瓜;瓜;西瓜<br>
+no [nəʊ] adj.没有adv.不;不是;...<br>
+not [nɔt] adv.不;不是;不会;没有<br>
+</div>
+
+<div>orange [ˈɔrindʒ] adj.橙色的;桔色的n.橘子;...<br>
+that [ðæt] adj.&pron.那;那个<br>
+the [ðə] det.起限定作用的冠词;定冠词a...<br>
+what [hwɔt] adj.什么…pron.什么<br>
+autumn [ˈɔ:təm] n.秋天;秋季<br>
+bean [bi:n] n.豆子;豆类物;豆;蚕豆<br>
+leaf [li:f] n.树叶;叶子<br>
+look [luk] vi.看;瞧;打量;看起来n....<br>
+moon [mu:n] n.月球;月亮;卫星<br>
+mooncake  n.月饼<br>
+taro [ˈtɑ:rəu] n.芋<br>
+wash [wɔʃ] vt.洗;洗涤;冲vi.洗手(...<br>
+family [ˈfæmili] n.家庭<br>
+father [ˈfɑ:ðə] n.爸爸;父亲<br>
+get [ɡet] v.有;得到;买到;收到<br>
+</div>
+
+<div>mother [ˈmʌðə] n.母亲;妈妈<br>
+balloon [bəˈlu:n] vi.如气球般膨胀n.气球<br>
+bicycle [ˈbaisikl] n.自行车;两轮脚踏车<br>
+doll [dɔl] n.洋娃娃;玩具娃娃<br>
+go [ɡəu] v.去;到<br>
+little [ˈlitl] adj.小的;年幼的<br>
+tongue [tʌŋ] n.舌头;语言;口语<br>
+tongue-twister [tʌŋˈtwɪstə] n.绕口令<br>
+</div>
+
+
+<div><b>下册</b><br>
+aunt [ɑ:nt] n.阿姨;姑妈等<br>
+card [kɑ:d] n.卡片;名片;纸牌<br>
+fold [fəuld] v.折叠;折起来;合拢n.褶;...<br>
+grandfather [ˈɡrændˌfɑ:ðə] n.祖父;外祖父<br>
+grandmother [ˈɡrændˌmʌðə] n.祖母;外祖母<br>
+like [laik] v.希望;想要vt.喜欢;喜爱...<br>
+new [nju:] adj.新的;没经验的;重新开始的...<br>
+try [trai] v.试;努力;尝试;试图<br>
+uncle [ˈʌŋkl] n.叔叔;伯父等<br>
+very [ˈveri] adv.很;十分;非常<br>
+</div>
+
+<div>well [wel] adv.好地;满意地;健康的in...<br>
+bee [bi:] n.蜂;蜜蜂;忙碌的人<br>
+bird [bə:d] n.鸟;禽类<br>
+butterfly [ˈbʌtəflai] n.蝴蝶;时髦的人<br>
+do [du:] vt.做;干;办;从事vi....<br>
+frog [frɔɡ] n.青蛙;蛙;蛙类动物<br>
+nine [naɪn] num.九;九个<br>
+ten [ten] num.十;十个(人或物)<br>
+brown [braun] adj.褐色的;棕色的<br>
+colour [ˈkʌlə] v.涂颜色<br>
+</div>
+
+<div>green [ɡri:n] adj.绿色的;青色的<br>
+in [in] prep.在…里面;在;在…情况;...<br>
+kite [kait] n.风筝;空头支票<br>
+orange [ˈɔrindʒ] adj.橙色的;桔色的n.橘子;...<br>
+out [aut] adj.外面的;往外去的adv....<br>
+fireman [ˈfaiəmən] n.消防员;消防队员;司炉工<br>
+follow [ˈfɔləu] v.跟随;跟着<br>
+goodbye [ˌɡʊdˈbaɪ] 再见(全)<br>
+milkman [ˈmɪlkˌmæn] n.送牛奶的人;卖(送)奶人<br>
+tall [tɔ:l] adj.高的;身材高的;有…高的<br>
+</div>
+
+<div>turn [tə:n] v.转向;转弯;变为;圈vt....<br>
+all [ɔ:l] adj.一切的;所有的;全部的p...<br>
+cook [kuk] v.烹调;煮;烧n.炊事员;...<br>
+doctor [ˈdɔktə] vt.医治n.医生;博士<br>
+listen [ˈlisn] vi.听;听从<br>
+nurse [nə:s] v.护理;养育;喂奶n.保姆;...<br>
+tell [tel] v.告诉;讲述;吩咐<br>
+farmer [ˈfɑ:mə] n.农民;农夫;农场主;牧场主<br>
+fat [fæt] adj.肥胖的n.脂肪<br>
+fisherman [ˈfiʃəˌmən] n.渔民;渔夫;捕鱼人<br>
+</div>
+
+<div>they [ðei] pron.(主格)他们;她们;他们...<br>
+coke [kəʊk] n.可口可乐<br>
+ice-cream ['aɪskriːm] n.冰淇淋<br>
+jelly [ˈdʒeli:] v.结冻n.果冻;胶状物<br>
+milk [milk] v.挤奶n.牛奶;(植物流出的)...<br>
+drink [driŋk] v.喝;饮n.饮料;酒<br>
+eat [i:t] vt.吃;喝vi.吃饭;吃东西<br>
+fish [fiʃ] v.捞取;探听vi.钓鱼n....<br>
+juice [dʒu:s] n.果汁;汁;液<br>
+meat [mi:t] n.(食用)肉类<br>
+noodle [ˈnu:dl] n.(常用复数)面条;傻瓜;笨蛋<br>
+</div>

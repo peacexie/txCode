@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>城市天气-Html5本地存储</title>
+<script src="../cjs/jsbase.js"></script>
+<script src="../cjs/tianqi.js"></script>
+<style type="text/css">
+p.msg { text-align:center; line-height:120%; margin: 10px auto;  }
+p.red { color:#F00; line-height:120%; margin:10px auto; } 
+p.mcnav { margin:10px 1px; }
+p.mtype { text-align:center; }
+p.mtype a { display:inline-block; padding:2px 5px; margin:0px auto 8px auto; border:1px solid #CCC; }
+table { width:100%; margin:auto; }
+table td { padding:5px 0px; white-space:nowrap; text-align:center; }
+table.out td{ padding:5px; }
+#tdperm{ padding:5px 5px; }
+#tdperm a{ display:inline-block; padding:5px 5px; }
+li { line-height:150%; text-indent:-15px; padding-left:20px; margin:10px 1px; }
+i { font-style:normal; font-weight:normal; }
+i.small { font-size:small; }
+b { font-size:larger; font-weight:bold; }
+b.bold { font-size:larger; font-weight:bold; }
+td.bg30{ background-color:#CCF; }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">工具收藏</a>
+</p>
+
+<div class="mcontent">
+
+  <p class="mcnav"><a href="#" class="icobox right" onClick="$('.mcontent').toggle();sopType('perm')">选择城市&gt;</a><strong>天气预报</strong></p>
+  <table border="1" class="tbnow" id="tbnow">
+  </table>
+
+  <p class="bgblue mcnav ph10">天气详情</p>
+  <div id="tqdetail"><p class="msg">请选择城市！</p></div>
+    
+</div>
+
+<div class="mcontent" style="display:none;">
+  <p class="mcnav"><a href="#" class="icobox right" onClick="$('.mcontent').toggle();">天气预报&gt;</a><strong>选择城市</strong></p>
+  <p class="mtype"><a onClick="sopType('letter')">按字母</a> # <a onClick="sopType('perm')">按诗歌</a> # <a onClick="sopType('pid')">按省份</a></p>
+  <table border="1" class="out">
+    <tr id="trletter">
+      <td>
+        <table border="1" id="tbletter">
+          <tr>
+            <td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td>
+          </tr>
+          <tr>
+            <td>H</td><td>I</td><td>J</td><td>K</td><td>L</td><td>M</td><td>N</td>
+          </tr>
+          <tr>
+            <td>O</td><td>P</td><td>Q</td><td>-</td><td>R</td><td>S</td><td>T</td>
+          </tr>
+          <tr>
+            <td>U</td><td>V</td><td>W</td><td>-</td><td>X</td><td>Y</td><td>Z</td>
+          </tr>
+        </table>
+      </td>
+    </tr>  
+    <tr id="trperm">
+      <td id="tdperm">
+        <a onClick="itmsPids('zx,hi,tw')">四市 - 琼钓 - 台港澳</a>；<br>
+        <a onClick="itmsPids('xj,xz,nx,nm,gx')">五区</a>-<a onClick="itmsPids('hl,jl,ln')">东三</a>-<a onClick="itmsPids('sd,sx,ha,he')">两河山</a>；<br>
+        <a onClick="itmsPids('gs,sn')"         >陕甘</a>--<a onClick="itmsPids('yn,gz')"  >云贵</a>--<a onClick="itmsPids('qh,sc')"     >青川</a>；<br>
+        <a onClick="itmsPids('js,jx,zj')"      >三江</a>-<a onClick="itmsPids('hn,hb')"   >两湖</a>-<a onClick="itmsPids('gd,fj,ah')"   >粤福安</a>。
+      </td>
+    </tr> 
+    <tr id="trpid">
+      <td>
+        <table border="1" id="tbpid">
+        </table>
+      </td>
+    </tr>  
+    <tr id="trcity">
+      <td>
+        <a name="imtop" id="imtop"></a>
+        <table border="1" id="tbcity">
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">工具收藏</a>
+</p> 
+
+</div>
+
+<script type="text/javascript">
+
+var areas = {};
+var urlb = 	_cbase.run.sbase;
+var urps = _cbase.run.urlserver; 
+//var urps = 'http://192.168.1.11/08tools/yssina/2/';
+var locStore = new multiStore('local');
+
+var ktq_list = _cbase.ck.ckpre+'ktq_list';
+var ktq_rems = _cbase.ck.ckpre+'ktq_rems';
+var vtq_def = '三沙,钓鱼岛,台北,广州,东莞,深圳,郴州,贺州,永州,香港,澳门,重庆,天津,上海,北京';
+var vtq_list = locStore.get(ktq_list); if(!vtq_list) vtq_list = vtq_def; 
+
+var ntq_nlife = 3; //缓存:天
+var vtq_noli = locStore.get(_cbase.ck.ckpre+'ktq_noli');
+
+loadArea();
+listCity();  
+var fadeLets = 'N';
+
+</script>
+
+<!--
+letter: 26 : I,O,U,V
+-->
+
+</body>
+</html>

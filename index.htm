@@ -1,0 +1,103 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>贴心口袋 --- 健康第一，学无止境；努力工作，积极生活</title>
+<script src="cjs/jsbase.js"></script>
+</head>
+<body>
+<!--[if lt IE 8]>
+<div class="LowIE" align="center">IE浏览器过低！<br>建议您更换浏览器如：<br>Chrome, Firefox, IE8+</div>
+<![endif]-->
+<div class="divOuter clearfix">
+  <p class="logo">贴心<img src="uimgs/logo/gezi1-40x.jpg" width="40" height="40">口袋</p>
+  
+  <div class="blinks" id="learn">
+    <p><a href="learn/index.htm" class="icobox right"><i class="icons ico-folder-open"></i></a>
+    <strong>学无止境</strong></p>
+    <ul>
+      <li><a href="learn/e900full.htm">英语900句</a> # <a href="learn/eword.htm">英语词汇</a> # <a href="learn/edays.htm">每日一句</a></li>
+      <li><a href="learn/cn-dizigui.htm">国学&#8226;弟子规</a> # <a href="learn/cn-zgpinyin.htm">增广贤文</a> # <a href="learn/cn-shici.htm">古诗词</a></li>      
+      <li><a href="learn/ms-suan24.htm">算24游戏</a> # <a href="learn/ms-9gong.htm">九宫幻方</a> # <a href="learn/ms_jssd.htm">数独游戏</a></li>
+    </ul>
+  </div>
+
+  <div class="blinks" id="mlabs">
+    <p><a href="mlabs/index.htm" class="icobox right"><i class="icons ico-folder-open"></i></a>
+    <strong>实验室</strong></p>
+    <ul>
+      <li><a href="mlabs/binfo.htm">基础信息</a> # <a href="mlabs/ponet.htm">线序端口</a> # <a href="mlabs/const.htm">Ascii常量</a></li>
+      <li><a href="mlabs/csframe.htm">CS模型</a> # <a href="html5/on_off.htm">在线状态</a> # <a href="html5/geo_pos.htm">地理位置</a></li>
+      <li><a href="html5/filedrag.html">文件拖放</a> # <a href="html5/orientation.htm">基本设备</a> # <a href="html5/msg-parent.html">frame通信</a></li>
+    </ul>
+  </div>
+
+  <div class="blinks" id="about">
+    <p><a href="about/index.htm" class="icobox right"><i class="icons ico-folder-open"></i></a>
+    <strong>积极生活</strong></p>
+    <ul>
+    
+      <li><a href="about/tianqi.htm">全国天气</a> # <a href="http://m.cheshouye.com/api/weizhang/?dp=12&dc=153" target="_blank">违章查询</a> # <a href="tools/mlnks.htm">收藏夹</a></li> 
+      <li><a href="about/attitude.htm">生命感言</a> # <a href="about/color.htm">颜色RGB</a> # <a href="about/desk.htm">Html桌面</a></li>
+      <li><a href="about/egg.htm">称鸡蛋</a> # <a href="about/carve.htm">雕刻欣赏</a> # <a href="about/tiexin.htm">贴心系列</a></li>
+    </ul>
+  </div>
+  
+  <div class="blinks" id="health"> 
+    <p><a href="health/index.htm" class="icobox right"><i class="icons ico-folder-open"></i></a>
+    <strong>健康保健</strong></p>
+    <ul>
+      <li><a href="health/cmxke.htm">食物相克</a> # <a href="health/cmshili.htm">保护视力</a> # <a href="health/anmorich.htm">日常按摩</a></li>
+      <li><a href="health/xwname.htm">常用穴位</a> # <a href="health/xwfunc.htm">功能穴位</a> # <a href="health/xwxing.htm">保健要穴</a></li>
+      <!--li><a href="health/anmo1.htm">保健按摩</a> # <a href="health/anmo2.htm">三个阶段</a></li-->
+      <li><a href="health/xbnvcao.htm">女保健操</a> # <a href="health/xbnanb.htm">三大功法</a> # <a href="health/xbnvxie.htm">五穴按摩</a></li>
+    </ul>
+  </div>
+  
+  <div class="footer">
+  	<p>
+    <!--a class="phx right" xhref="#index.html?act=exitapp">退出<i class="icons ico-extlink"></i></a-->
+    <a class="phx right" href="tools/admset.htm?sec=share">分享<i class="icons ico-contact ph1"></i></a>
+    <a class="phx" href="tools/admset.htm?sec=aset"><i class="icons ico-gear"></i>设置</a>
+    <span id="closedid" style="display:none">
+    <a class="phx" href="tools/admset.htm?sec=share"><i class="icons ico-contact"></i>分享</a>
+    <a class="phx" href="tools/admset.htm?sec=aset">＋①</a>
+    <a class="phx" href="tools/admset.htm?sec=aset">＋②</a>
+    </span>
+    </p>
+    <p class="clear tc">贴心口袋©<a href="http://txjia.com/tip/" class="cred">2014和平鸽</a></p>
+    <p class="tc"><a href="index.html?act=fhome">起始首页</a> - <a href="tools/copy.htm">责权申明</a> - <a href="tools/ctme.htm">联系方式</a></p>
+  </div>
+  
+</div>
+<script type="text/javascript">
+var locStore = new multiStore('local');
+var ls_skey = _cbase.ck.ckpre+'closed';
+function modClose(){
+	var ls_closed = locStore.get(ls_skey); 
+	if(!ls_closed) ls_closed = ','; 
+	var a = 'learn,mlabs,about,health'.split(',');
+	var n = 0, s = '', t = new Array('①','②','③','④'); //,'⑤'
+	for(j=0;j<4;j++){
+		var div = jsElm.jeID(a[j]);
+		if(ls_closed.indexOf(a[j])>0){
+			div.style.display = 'none'; 
+			s += '<a class="phx" href="'+a[j]+'/index.htm?sec=aset">＋'+t[n]+'</a>';
+			n++;
+		}
+	}
+	if(n>0){ 
+		jsElm.jeID('closedid').style.display = '';
+		jsElm.jeID('closedid').innerHTML = s;
+	} //console.log(n+':'+s);
+}
+modClose();
+var onLineFlag = navigator.onLine;
+var locStore = new multiStore('local');
+var ls_skey = _cbase.ck.ckpre+'closed';
+var ls_closed = locStore.get(ls_skey); 
+//console.log(ls_closed);
+</script>
+</body>
+</html>

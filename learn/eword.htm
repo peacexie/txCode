@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>英语词汇</title>
+<script src="../cjs/jsbase.js"></script>
+<script src="../udata/word/eword.js"></script>
+<style type="text/css">
+<!--
+p.title { color:#999; font-size:smaller; line-height:150%; padding:8px 0px; }
+p.title span{  color: #F0F; font-weight: bolder; }
+p.bt10px { text-align:center; margin-bottom:10px; }
+p.subtitle { color:#333; }
+#subNav1 a, #subNav2 a, #contents a { display:inline-block; padding:0px 3px; margin:1px 5px 8px 5px; border:1px solid #CCC; }
+.reindex { display:inline-block; border:1px solid #CCC; padding:5px; }
+#contents div p { font-size:larger; }
+-->
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+  <div class="blinks">
+    <i style="line-height:0px; line-height:0px;" id="e9top" name="e9top"></i>
+    <p><a href="#e9top" class="icobox right" onClick="initHome()" id="Ulist1"><i class="icons ico-arrowreturnthick-1-w"></i></a>
+      <strong id="etitle">etitle</strong></p>
+    <div id="navAll">
+    <p id="subNav1" class="tc">1</p>
+    </div>
+  </div>
+  
+  <div class="mcontent" id="contents"></div>
+  
+  <div class="blinks">
+  <p id="subNav2" class="tc">2</p>
+  </div>
+  
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+</div>
+
+<script type="text/JavaScript">
+var data,pmax,pinn;
+function showText(pno){
+	var pshow = (pno+1)/2;
+	var tmp = "<div><b>Page:"+pshow+":A</b><br>"+data[pno]; 
+	if((pno+1)<data.length) tmp += "<div><b>Page:"+pshow+":B</b><br>"+data[pno+1];
+	jsElm.jeID('contents').innerHTML = tmp;
+	var pa=pno+2; if(pa>pinn) pa = 1;
+	var ps=pno-2; if(ps<1) ps = pinn;
+	sprev = '<a href="#e9top" onClick="showText('+ps+')" class="e9snav">&lt;&lt; Prev</a>';
+	snext = '<a href="#e9top" onClick="showText('+pa+')" class="e9snav">Next &gt;&gt;</a>';
+	jsElm.jeID('subNav2').innerHTML = sprev+pshow+snext;
+}
+function showNav(){
+	var tmp = __httpData__; 
+	data = tmp.split('<div>'); //jsLog(data);
+	var nav = '', j, k=0;
+	for(var i=1;i<data.length;i=i+2){
+		j = (i+1)/2; k = j<10 ? '0'+j : j;
+		nav += "<a onClick=\"showText("+i+")\">"+k+"</a>";
+		pmax = j; pinn = i;
+	}
+	jsElm.jeID('subNav1').innerHTML = nav;
+	var dnum = rndDate(1,'d'); 
+	var dkey = dnum % pmax; if(dkey==0) dkey = pmax;
+	var dcrd = 2*dkey-1; //jsLog(dnum);jsLog(dkey);jsLog(dcrd);
+	showText(dcrd);
+}
+function loadText(fid,title){
+	jsHttp('../udata/word/word-'+fid+'.txt?v1',"setTimeout('showNav();',200)");
+	jsElm.jeID('etitle').innerHTML = '词汇:'+title;
+	jsElm.jeID('subNav1').style.display = '';
+	jsElm.jeID('subNav2').style.display = '';
+}
+function initHome(){
+	var s = '', n=0; 
+	eword = ewtab.split(';');
+	for(var i=1;i<eword.length;i++){
+		var t = eword[i]; //jsLog(t+i);
+		if(t.indexOf(',')<=0){
+			if(n>0) s += "</p>";
+			s += "<p class='subtitle'><strong>"+t+"</strong></p><p class='bt10px'>";
+			n++;
+		}else{
+			var u = t.split(","); if(u[0].indexOf('(br)')>0) s += "<br>";
+			var ti = u.length==3 ? u[2] : u[0];
+			s += "<a onClick=\"loadText('"+u[1]+"','"+ti+"')\">"+u[0]+"</a>";
+		}
+	}
+	jsElm.jeID('contents').innerHTML = s;
+	jsElm.jeID('etitle').innerHTML = '英语词汇';
+	jsElm.jeID('subNav1').style.display = 'none';
+	jsElm.jeID('subNav2').style.display = 'none';
+}
+initHome();
+</script>
+
+</BODY>
+</html>
+
+

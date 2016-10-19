@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1"><!--, maximum-scale=1.0, user-scalable=no;-->
+<title>贴心口袋(和平鸽@移动开发)</title>
+<script src="cjs/jsbase.js"></script>
+<style type="text/css">
+p.fnt4 { margin:20px 0px 1px 0px; }
+</style>
+<script type="text/javascript" charset="utf-8" src="phonegap.js"></script>
+<script type="text/javascript">
+function onBodyLoad(){       
+    document.addEventListener("deviceready", onDeviceReady, false);
+}
+function onDeviceReady(){ // do your thing!
+    navigator.notification.alert("PhoneGap is working")
+}
+function jumpEnter(){        
+   var idSec = document.getElementById('jumpSec');
+   nSec = idSec.innerHTML;
+   if(nSec>0) { idSec.innerHTML = nSec-1; }
+   if(nSec<=0) { location.href='index.htm'; }       
+   else { setTimeout("jumpEnter()",1000); }
+}
+</script>
+<style type="text/css">
+h1, p { text-align:center; }
+</style>
+</head>
+<body>
+<!--[if lt IE 8]>
+<div class="LowIE" align="center">IE浏览器过低！<br>建议您更换浏览器如：<br>Chrome, Firefox, IE8+</div>
+<![endif]-->
+<p class="pv5 bgblue">
+<a class="left ph10" href="tools/admset.htm?sec=share"><i class="icons ico-contact ph1"></i>分享</a>
+<i class="">&nbsp;</i>
+<a class="right ph10" href="tools/admset.htm?sec=aset">设置<i class="icons ico-gear ph1"></i></a> 
+</p>
+<p class="fnt4">健康第一,学无止境；<br>努力工作,积极生活。</p>
+<p class="pv10"><a href="index.htm" title="进入&gt;&gt;&gt;"><img src="uimgs/logo/gezi-fly.gif"></a></p>
+<p><a href="index.htm" id="jumpLink"><i class="icons ico-triangle-1-sw"></i>(<span id="jumpSec">5</span>秒)进入<i class="icons ico-triangle-1-se"></i></a></p>
+<h1 class="pv10">贴心口袋</h1> 
+<p class="c999">和平鸽@移动开发</p>
+<p><a href="tools/screen.htm" title="进入&gt;&gt;&gt;" class="cFFF">screen</a></p>
+<script type="text/javascript">
+var act = urlPara('act'); 
+if(act=='fhome'){ 
+	document.getElementById('jumpLink').innerHTML = '<i class="icons ico-triangle-1-sw"></i>(点击)进入<i class="icons ico-triangle-1-se"></i>';
+}else if(act=='exitapp'){
+	try{ navigator.app.exitApp(); }
+	catch(ex) { window.close(); }
+	//exec(null, null, "App", "exitApp", []);
+}else{
+	var locStore = new multiStore('local');
+	var ls_skey = _cbase.ck.ckpre+'start';
+	var ls_start = locStore.get(ls_skey); 
+	setTimeout("jumpEnter()",1000);
+	if(!ls_start){ 
+		locStore.set(ls_skey,'started');
+	}else{ 
+		//setTimeout("location.href='index.htm';",500);
+	}
+} //console.log(ls_start);
+</script>
+</body>
+</html>

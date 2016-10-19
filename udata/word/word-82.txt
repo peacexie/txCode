@@ -1,0 +1,177 @@
+
+<div>amateur [ˈæmətə] n.业余运动员,爱好者<br>
+archery [ˈɑ:tʃəri] n.射箭<br>
+assist [əˈsist] n.助杀<br>
+athletics [æθˈletɪks] n.田径<br>
+away [əˈwei] n.出局<br>
+backcourt [ˈbækˌkɔ:t] n.后场<br>
+backstroke [ˈbækstrəuk] n.仰泳<br>
+badminton [ˈbædmintən] n.羽毛球；羽毛球运动<br>
+base [beis] n.垒<br>
+baseball [ˈbeisbɔ:l] n.棒球<br>
+baseman [beismən] n.守垒员<br>
+basket [ˈbɑ:skit] n.篮框<br>
+basketball [ˈbɑːskɪtbɔːl] n.篮球<br>
+bat [bæt] n.乒乓球拍；球棒<br>
+batter [ˈbætə] n.击球员<br>
+batting [ˈbætiŋ] n.击球<br>
+boxer [ˈbɔksə] n.拳击运动员<br>
+boxing [ˈbɔksɪŋ] n.拳击<br>
+breaststroke [ˈbrestˌstrəuk] n.蛙泳<br>
+butterfly [ˈbʌtəflai] n.蝶泳<br>
+</div>
+
+<div>catcher [ˈkætʃə] n.接手<br>
+catching [ˈkætʃɪŋ] n.接球<br>
+center [ˈsentə] n.中锋<br>
+champion [ˈtʃæmpjən] n.冠军<br>
+championship [ˈtʃæmpi:ənˌʃɪp] n.冠军赛,锦标赛<br>
+coach [kəutʃ] n.教练员<br>
+competitor [kəmˈpetɪtə] n.运动员<br>
+court [kɔ:t] n.球场；网球场<br>
+cycling [ˈsaikliŋ] n.自行车<br>
+diamond [ˈdaiəmənd] n.内场<br>
+discus [ˈdɪskəs] n.掷铁饼<br>
+diving  n.跳水<br>
+down [daun] n.出局<br>
+dressage [dreˈsɑ:ʒ] n.盛装舞步<br>
+dribbling  n.运球<br>
+epee [eɪ'peɪ] n.重剑<br>
+equestrian [iˈkwestriən] n.马术<br>
+fencing [ˈfensiŋ] n.击剑<br>
+field [fi:ld] n.场地；足球场<br>
+fielder [ˈfi:ldə] n.守场员<br>
+</div>
+
+<div>foil [fɔil] n.花剑<br>
+football [ˈfutbɔ:l] n.足球<br>
+forwards [ˈfɔ:wədz] n.前锋<br>
+foul [faul] n.犯规<br>
+freestyle [ˈfri:stail] n.自由泳<br>
+frontcourt [ˈfrʌntˈkɔ:t] n.前场<br>
+glove [ɡlʌv] n.手套,分指手套<br>
+ground [ɡraund] n.场地<br>
+grounder [ˈɡraundə] n.地滚球<br>
+guide [ɡaid] n.领队<br>
+gymnastics [dʒɪmˈnæstɪks] n.体操<br>
+hammer [ˈhæmə] n.掷链球<br>
+handball [ˈhændbɔ:l] n.手球<br>
+hitter [ˈhitə] n.击球员<br>
+hockey [ˈhɔki] n.曲棍球<br>
+homer [ˈhəumə] n.本垒打<br>
+infield [ˈɪnˌfi:ld] n.内场<br>
+infielder [ˈinˌfi:də] n.内场手<br>
+javelin [ˈdʒævəlin] n.标枪<br>
+judo [ˈdʒu:dəʊ] n.柔道<br>
+</div>
+
+<div>jumping  n.跳跃；障碍赛<br>
+liner [ˈlainə] n.平直球<br>
+manager [ˈmænidʒə] n.总教练<br>
+marathon [ˈmærəˌθɔn] n.马拉松<br>
+mask [mɑ:sk] n.护面<br>
+offense [əˈfens] n.攻方<br>
+out [aut] n.出局<br>
+outfield [ˈaʊtˌfi:ld] n.外场<br>
+outfielder [ˈautfi:ldə] n.外场手<br>
+pass [pɑ:s] n.传球<br>
+pitch [pitʃ] n.足球场<br>
+pitcher [ˈpɪtʃə] n.投手<br>
+player [ˈpleɪə] n.运动员<br>
+playoff [ˈpleiɔ:f] n.季后赛<br>
+professional [prəˈfeʃənəl] n.职业运动员<br>
+racket [ˈrækit] n.乒乓球拍<br>
+rebound [ˈri:ˈbaʊnd] n.篮板<br>
+record [ˈrekɔ:d] n.纪录<br>
+referee [ˌrefəˈri:] n.裁判员<br>
+relay [ˈriːleɪ] n.接力<br>
+</div>
+
+<div>riding [ˈraɪdɪŋ] n.马术<br>
+rim [rim] n.篮框<br>
+ring [riŋ] n.圈<br>
+rowing [ˈrəʊɪŋ] n.赛艇<br>
+run [rʌn] n.得分<br>
+running [ˈrʌnɪŋ] n.跑步<br>
+sabre [ˈseɪbə] n.佩剑<br>
+sailing [ˈseɪlɪŋ] n.帆船<br>
+score [skɔ:] n.得分<br>
+second [ˈsekənd] n.亚军<br>
+shooting [ˈʃu:tɪŋ] n.射击<br>
+shortstop [ˈʃɔ:tˌstɔp] n.游击手<br>
+shuttle [ˈʃʌtl] n.羽毛球<br>
+shuttlecock [ˈʃʌtlkɔk] n.羽毛球<br>
+skeet [ski:t] n.双向飞碟<br>
+skiing  n.滑雪<br>
+snatch [snætʃ] n.抓举<br>
+soccer [ˈsɔkə] n.足球<br>
+softball [ˈsɔftˌbɔ:l] n.垒球<br>
+spectator [spekˈteitə] n.观众<br>
+</div>
+
+<div>surfing [ˈsə:fiŋ] n.冲浪<br>
+swimming [ˈswɪmɪŋ] n.游泳<br>
+swing [swiŋ] n.挥击；秋千<br>
+tennis [ˈtenɪs] n.网球<br>
+third [θɜ:d] n.第三名<br>
+throwing  n.传球；投掷<br>
+time-honored [ˈtaɪmˌɔnəd] n.历史悠久的<br>
+timekeeper [ˈtaɪmˌki:pə] n.计时员<br>
+track [træk] n.径赛；跑道<br>
+trap [træp] n.多向飞碟<br>
+triathlon [traiˈæθlɔn] n.铁人三项<br>
+umpire [ˈʌmˌpaɪə] n.裁判员<br>
+vault [vɔ:lt] n.跳马<br>
+volleyball [ˈvɔlibɔ:l] n.排球<br>
+walk [wɔ:k] n.竞走<br>
+walking [ˈwɔ:kɪŋ] n.竞走<br>
+winner [ˈwɪnə] n.胜利者<br>
+wrestler [ˈreslə(r)] n.摔跤运动员<br>
+wrestling [ˈreslɪŋ] n.摔跤<br>
+cheer-leader [ˈtʃɪəˌli:də] n.啦啦队长<br>
+</div>
+
+<div>coacher  n.跑垒指导员<br>
+heptathlon [hepˈtæθlən] n.女子七项全能<br>
+bag [bæɡ] n.垒垫,垒包<br>
+balk [bɔ:k] n.（棒球）投手犯规<br>
+bench [bentʃ] n.队员席<br>
+blocking  n.盖帽<br>
+bounce [bauns] n.反弹传球<br>
+bridge [bridʒ] n.角力桥<br>
+bunt [bʌnt] n.触击球<br>
+bunting [ˈbʌntɪŋ] n.触击<br>
+charging  n.撞人犯规<br>
+chest [tʃest] n.胸部传球<br>
+contestant [kənˈtestənt] n.运动员<br>
+cover [ˈkʌvə] n.补位<br>
+crossover [ˈkrɔsˌəuvə] n.双手交替运球<br>
+decathlon [diˈkæθlɔn] n.男子十项全能<br>
+defence [diˈfens] n.守方<br>
+fielding  n.防守<br>
+helmet [ˈhelmit] n.护帽<br>
+hit [hit] n.安全打<br>
+</div>
+
+<div>holding [ˈhəʊldɪŋ] n.阻挡犯规<br>
+hop [hɔp] n.三级跳远<br>
+infighting [ˈinfaitiŋ] n.近战<br>
+inning [ˈɪnɪŋ] n.局次<br>
+layup [ˈleiʌp] n.直接篮下得分<br>
+milt [milt] n.合指手套<br>
+overhead [ˈəuvəhed] n.过顶传球<br>
+pitching [ˈpitʃiŋ] n.投手投球<br>
+pursuit [pəˈsju:t] n.争先赛<br>
+pushing [ˈpʊʃɪŋ] n.推人犯规<br>
+rope [rəup] n.围绳<br>
+safe [seif] n.安全上垒<br>
+sliding [ˈslaidiŋ] n.滑垒<br>
+speed [spi:d] n.身前快速运球<br>
+spin [spin] n.转身运球<br>
+sprint [sprɪnt] n.追逐赛<br>
+stealing  n.偷垒<br>
+supporter [səˈpɔ:tə] n.护裆<br>
+tie [tai] n.打成平分<br>
+trainer [ˈtreɪnə] n.助理教练<br>
+uppercut [ˈʌpəkʌt] n.上钩拳<br>
+</div>

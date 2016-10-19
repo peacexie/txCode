@@ -1,0 +1,171 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>数字认知</title>
+<script src="../cjs/jsbase.js"></script>
+<script src="../cjs/ms_suiji.js" type="text/javascript"></script>
+<style type="text/css">
+div.group {
+	float:left;
+	padding:0px 3px;
+	overflow:visible;
+}
+.idShow {
+	width: 99%; text-align:center;
+	font-family: Arial, Helvetica, sans-serif, 'SimHei';
+	border: 1px solid #CCC;
+	margin: 5px auto;
+}
+span.part {
+	overflow:hidden;
+	text-align:center;
+	font-size:x-large;
+	display:block;
+	float:left;
+	padding: 10px;
+	border:1px solid #CCC;
+	margin:5px;
+}
+span.partsp {
+	text-align:center;
+	word-break:break-all;
+	font-size:x-large;
+	font-weight:bold;
+	display:block;
+	clear:both;
+	float:none;
+	border:1px solid #CCC;
+	margin:5px;	
+}
+span.partOp4 {
+	text-align:center;
+	word-break:break-all;
+	font-size:x-large;
+	font-weight:bold;
+	display:block;
+	clear:both;
+	float:none;
+	border:1px solid #CCC;
+}
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+<hr>
+<table border="0" cellpadding="00" cellspacing="0">
+  <form action="" method="get" name="fmPinyin" target="_self">
+    <tr>
+      <td align="center" class="bdr ">操作</td>
+      <td align="left" class="bdr"><div class="group">
+          <input name="act" type="radio" id="radio5" onClick="showChange()" value="n">
+          列表 </div>
+        <div class="group">
+          <input name="act" type="radio" id="radio6" value="1" onClick="showChange()">
+          随机1个 </div>
+        <div class="group">
+          <input type="radio" name="act" id="radio7" value="2" onClick="showChange()">
+          随机2个 </div>
+        <div class="group">
+          <input type="radio" name="act" id="radio9" value="3" onClick="showChange()">
+          随机3个 </div>
+        <div class="group">
+          <input type="radio" name="act" id="radio10" value="4" onClick="showChange()">
+          随机4个 </div>
+        <div class="group">
+          <input type="button" name="button" id="button" value="换一个" onClick="showChange()">
+          <input name="aut" type="checkbox" id="aut" value="Y" title="自动更换" checked>
+        </div></td>
+    </tr>
+    <tr>
+      <td align="center" class="bdr ">范围</td>
+      <td align="left" class="bdr"><div class="group">
+          <input name="tab" type="radio" id="radio2" value="012345" onClick="showChange()">
+          012345</div>
+        <div class="group">
+          <input type="radio" name="tab" id="radio3" value="6|7|8|9|10" onClick="showChange()">
+          678910</div>
+        <div class="group">
+          <input type="radio" name="tab" id="radio8" value="10|11|12|13|14|15|16|17|18|19|20" onClick="showChange()">
+          10-20</div>
+        <div class="group">
+          <input type="radio" name="tab" id="radio" value="20|21|22|23|24|25|26|27|28|29|30" onClick="showChange()">
+          20-30</div>
+        <div class="group">
+          <input type="radio" name="tab" id="radio12" value="30|31|32|33|34|35|36|37|38|39|40" onClick="showChange()">
+          30-40</div>
+        <div class="group">
+          <input type="radio" name="tab" id="radio4" value="40|50|60|70|80|90|100" onClick="showChange()">
+          40-100</div></td>
+    </tr>
+    <tr>
+      <td width="12%" align="center" class="bdr ">运算</td>
+      <td align="left" class="bdr"><div class="group">
+          <input type="radio" name="tab" id="radio4" value="+" onClick="showChange()">
+          加</div>
+        <div class="group">
+          <input type="radio" name="tab" id="radio4" value="-" onClick="showChange()">
+          减</div>
+        <div class="group">
+          <input type="radio" name="tab" id="radio4" value="*" onClick="showChange()">
+          剩</div>
+        <div class="group">
+          <input type="radio" name="tab" id="radio4" value="/" onClick="showChange()">
+          除</div>
+        <div class="group">
+          <input type="radio" name="tab" id="radio4" value="＋－×÷﹦" onClick="showChange()">
+          符号</div>
+        <div class="group">
+          <input type="radio" name="tab" id="radio4" value="_sx01" onClick="showChange()">
+          法则</div></td>
+    </tr>
+  </form>
+</table>
+<a name="Start"></a>
+<div style="line-height:8px;">&nbsp;</div>
+<div class="idShow" id="idShow"> <span class="part">1</span> <span class="part">2</span> <span class="part">3</span> <span class="part">4</span> <span class="part">5</span> <span class="part">6</span> <span class="sing">ɑ</span> <span class="sing">o</span> </div>
+<div style="clear:both"></div>
+<TABLE border="1" align="center" class="big" id="tab_sx01">
+  <TBODY>
+    <TR>
+      <th><span class="group">运算符号</span></th>
+    </TR>
+    <TR>
+      <TD>＋－×÷﹦</TD>
+    </TR>
+    <TR>
+      <th><span class="group">运算法则</span></th>
+    </TR>
+    <TR>
+      <TD>同级运算从左到右进行计算，<br>
+        先乘除后加减 <br>
+        有括号先算括号里面的 只用来拼写外来语、少数民族语言和方言。<br>
+        字母的手写体依照拉丁字母的一般书写习惯</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+// n1234,_sm_ym
+setRadio(document.fmPinyin.act,Math.random()>0.5?'1':'1');
+setRadio(document.fmPinyin.tab,Math.random()>0.5?'012345':'6|7|8|9|10');
+//setRadio(document.fmPinyin.tab,Math.random()>0.5?'6|7|8|9|10':'6|7|8|9|10');
+var funcName = 'showShuzi'; showShuzi();
+</script>
+
+</body>
+</html>

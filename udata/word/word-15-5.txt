@@ -1,0 +1,597 @@
+
+<div>conventional [kənˈvenʃənl] adj.通常的，传统的；常规的<br>
+perspective [pəˈspektiv] n.远景；观点；透视画法<br>
+spokesman [ˈspəuksmən] n.发言人<br>
+pompous [ˈpɔmpəs] adj.自大的<br>
+reciprocal [riˈsiprəkəl] adj.相互的；互利的<br>
+dominate [ˈdɔmineit] vi.居支配地位<br>
+contaminate [kənˈtæmineit] v.污染，弄脏<br>
+accuser [əˈkjuːzə(r)] n.原告，控诉者<br>
+deny [diˈnai] vt.否认；拒绝给予<br>
+layout [ˈleiaut] n.布置；设计；布局<br>
+mature [məˈtjuə] v.成熟<br>
+pounce [paʊns] v.猛扑，突袭<br>
+crisp [krisp] adj.脆的，易碎的；新鲜的；爽快的，...<br>
+insult [inˈsʌlt] v.&n.侮辱，辱骂<br>
+withstand [wiðˈstænd] vt.抵挡，经得起<br>
+clash [klæʃ] n.冲突<br>
+pollutant [pəˈlu:tnt] n.污染物质<br>
+nitrate [ˈnaɪˌtreɪt] n.硝酸盐<br>
+practically [ˈpræktikəli] adv.几乎，简直；实际上<br>
+abound [əˈbaund] v.充满，富于<br>
+</div>
+
+<div>wrap [ræp] vt.包，裹<br>
+hypnosis [hɪpˈnəʊsɪs] n.催眠状态<br>
+tropic [ˈtrɔpik] n.热带；回归线<br>
+quirk [kwɜ:k] n.奇事；怪癖<br>
+adult [ˈædʌlt] n.成年人<br>
+conscious [ˈkɔnʃəs] adj.意识到的；神志清醒的；有意的<br>
+monologue [ˈmɔnəlɔɡ] n.独白，个人长篇演说<br>
+ragged [ˈræɡid] adj.破烂的；参差不齐的<br>
+proceed [prəˈsi:d] vi.继续前进；继续做某事<br>
+rouse [rauz] vt.唤醒，惊醒；激发起<br>
+exchange [iksˈtʃeindʒ] v.调换，交换，互换<br>
+campus [ˈkæmpəs] n.（大学）校园<br>
+journal [ˈdʒə:nl] n.期刊，杂志；日记，日志<br>
+venture [ˈventʃə] vt.大胆提出<br>
+stipulate [ˈstɪpjəˌleɪt] v.规定；明确要求<br>
+ego [ˈeɡəu] n.自我，自负；（心理学）自我意识<br>
+scenic [ˈsi:nɪk] adj.景色优美的，风景秀丽的<br>
+pharmaceutical [ˌfɑ:məˈsu:tɪkəl] adj.制药的<br>
+lap [læp] n.膝部；（跑道的）一圈<br>
+fret [fret] v.苦恼；烦恼；发愁<br>
+</div>
+
+<div>conservation [ˌkɔnsəˈveiʃən] n.保存，保护；守恒<br>
+mighty [ˈmaɪti:] adj.强大的；强有力的；巨大的<br>
+decompose [ˌdi:kəmˈpəʊz] v.腐败；分解<br>
+lexicographer [ˌleksɪˈkɔgrəfə] n.辞典编纂者<br>
+dim [dim] vt.使暗淡<br>
+piety [ˈpaiəti] n.虔诚<br>
+spin [spin] vi.编织，杜撰；（使）旋转<br>
+counter [ˈkauntə] adv.反方向地<br>
+submit [səbˈmit] vt.呈交；提议，主张<br>
+conviction [kənˈvikʃən] n.确信，信服；坚信，坚定的信念<br>
+uncalled ['ʌn'kɔːld] adj.未叫到的，未被要求的<br>
+crooked [ˈkrukid] adj.弯曲的，歪的；不诚实的<br>
+steamer [ˈsti:mə] n.蒸锅；汽船<br>
+legitimate [liˈdʒitimit] v.使合法<br>
+polio [ˈpəʊli:ˌəʊ] n.小儿麻痹症<br>
+pester [ˈpestə] v.纠缠，烦扰<br>
+bloc [blɔk] n.集团<br>
+pastime [ˈpɑ:staim] n.消遣，娱乐<br>
+precedent [ˈpresidənt] n.前例；先例<br>
+emergency [iˈmə:dʒənsi] n.紧急情况，突发事件<br>
+</div>
+
+<div>lash [læʃ] n.睫毛；鞭打<br>
+nibble [ˈnɪbəl] v.一点点地咬，慢慢啃<br>
+fend [fend] vt.照料，照顾（自己）<br>
+generic [dʒəˈnerɪk] adj.一般的；普通的；寻常的<br>
+composition [ˌkɔmpəˈziʃən] n.构成；作文，作曲；（音乐等）作品<br>
+salute [səˈlu:t] n.招呼，敬礼<br>
+misconceive [ˌmɪskənˈsi:v] v.误解<br>
+accelerate [ækˈseləreit] v.（使）加速；促进<br>
+inaugurate [iˈnɔ:ɡjureit] v.开创；为…举行就职典礼<br>
+digest [daiˈdʒest] v.消化；吸收，领会<br>
+slice [slais] vt.把…切成薄片<br>
+mission [ˈmiʃən] n.使命，任务；代表团<br>
+damp [dæmp] v.使潮湿；弄湿<br>
+guild [ɡild] n.协会；行会<br>
+filament [ˈfɪləmənt] n.细丝；细线；丝状物<br>
+cite [sait] v.引用，引证；传讯<br>
+coed [ˈkəʊˌed] adj.男女同校的<br>
+basis [ˈbeisis] n.基础；根据；基本原则<br>
+astound [əˈstaʊnd] vt.使惊骇，使大吃一惊<br>
+title [ˈtaitl] n.标题；头衔，称号<br>
+</div>
+
+<div>conform [kənˈfɔ:m] vi.遵守，符合<br>
+refrigerator [riˈfridʒəreitə] n.冰箱；冷藏室<br>
+disregard [ˌdisriˈɡɑ:d] n.不理会<br>
+intersperse [ˌɪntəˈspɜ:s] v.散布，点缀<br>
+conception [kənˈsepʃən] n.概念，观念；构想；受孕<br>
+enrolment [ɪnˈrəʊlmənt] n.登记，注册；登记人数<br>
+desperate [ˈdespərit] adj.铤而走险的；渴望的<br>
+associate [əˈsəuʃieit] n.合伙人<br>
+military [ˈmilitəri] adj.军用的，军事的<br>
+erase [iˈreiz] v.擦掉，抹去<br>
+brake [breik] v.刹（车）<br>
+pyrite [ˈpaɪˌraɪt] n.黄铁矿<br>
+pharmacist [ˈfɑ:məsɪst] n.药剂师<br>
+hover [ˈhɔvə] v.（鸟、飞机等）翱翔；徘徊；犹豫，彷...<br>
+pillar [ˈpilə] n.柱子；栋梁<br>
+conquer [ˈkɔŋkə] v.征服，占领；克服，改正（恶习等）<br>
+verdict [ˈvə:dikt] n.（陪审团的）裁决，裁定；判断，意见<br>
+competitive [kəmˈpetitiv] adj.竞争的；好胜的<br>
+justify [ˈdʒʌstifai] vt.证明…是正当的；使每行排齐<br>
+vernacular [vəˈnækjələ] adj.本国语，地方语<br>
+</div>
+
+<div>overlap [ˌəuvəˈlæp] v.（与…）重叠<br>
+conclusive [kənˈklu:sɪv] adj.确定的；毫无疑问的<br>
+macabre [məˈkɑ:brə] adj.令人毛骨悚然的；恐怖的；可怕的<br>
+shackle [ˈʃækəl] n.（常用复）镣铐<br>
+janitor [ˈdʒænɪtə] n.管理员，管门人<br>
+inundate [ˈɪnʌnˌdeɪt] v.淹没，泛滥；使应接不暇<br>
+sparkle [ˈspɑ:kl] v.发火花，闪耀<br>
+adverbial [ædˈvɜːbiəl] n.&adj.副词（的），状语（的）<br>
+melodious [məˈləʊdi:əs] adj.悦耳的<br>
+amalgamate [əˈmælgəˌmeɪt] v.合并，混合<br>
+stripe [straip] n.长条，条纹；军服上表示军阶的臂章<br>
+complex [ˈkɔmpleks] n.综合体，复合体<br>
+masquerade [ˌmæskəˈreɪd] v.化装；伪装；冒充<br>
+rubric [ˈru:brɪk] n.（试卷等开头的）说明；题目<br>
+portfolio [pɔ:tˈfəʊli:ˌəʊ] n.投资组合；部长职务<br>
+tranquilizer [ˈtræŋkwəˌlaɪzə] n.安定药；镇静剂<br>
+secondary [ˈsekəndəri] adj.次要的；中级的；继发性的；第二...<br>
+explanatory [ɪkˈsplænəˌtɔ:ri:] adj.解释性的；说明性的<br>
+recruit [riˈkru:t] n.新兵，新成员<br>
+sympathetic [ˌsimpəˈθetik] adj.同情的；赞同的<br>
+</div>
+
+<div>fridge [fridʒ] n.冰箱<br>
+vinegar [ˈviniɡə] n.醋<br>
+collide [kəˈlaid] vi.碰撞，抵触<br>
+random [ˈrændəm] adj.随意的，随机的<br>
+remainder [riˈmeində] n.剩余物，剩余；剩下的人；余数<br>
+syllabus [ˈsɪləbəs] n.教学纲要<br>
+wretched [ˈretʃid] adj.不幸的，可怜的；卑鄙的，无耻的<br>
+otherwise [ˈʌðəwaiz] adv.否则；在其它方面；另外<br>
+itinerary [aɪˈtɪnəˌreri:] n.路线；旅程<br>
+label [ˈleibəl] vt.在…上贴标签；把…称为<br>
+empirical [emˈpirikəl] adj.经验主义的<br>
+indicative [inˈdikətiv] adj.指示的；象征的；暗示的<br>
+symphony [ˈsimfəni] n.交响曲<br>
+quantify [ˈkwɔntifai] vt.确定…的数量；量化<br>
+business [ˈbiznis] n.生意，业务；事务，职责；公司<br>
+alphabetical [ˌælfəˈbetɪkəl] adj.依字母顺序的<br>
+ballet [ˈbælei] n.芭蕾舞<br>
+proficient [prəˈfɪʃənt] adj.熟练的，精通的<br>
+elevate [ˈeliveit] v.提高，提升，提拔<br>
+innovation [ˌɪnəuˈveiʃən] n.创新，革新，改革；新事物；新方法<br>
+</div>
+
+<div>unique [ju:ˈni:k] n.独一无二的事物<br>
+intense [inˈtens] adj.强烈的，剧烈的；紧张的<br>
+mint [mint] n.薄荷（糖）；造币厂<br>
+recital [rɪˈsaɪtl] n.独奏会；唠叨<br>
+recommendation [ˌrekəmenˈdeiʃən] n.推荐（信），介绍（信）；建议，劝告<br>
+asymmetric [ˌæsɪˈmetrɪk] adj.不对称的<br>
+hostage [ˈhɔstidʒ] n.人质<br>
+hijack [ˈhaidʒæk] vt.劫持；操纵<br>
+glycerin [ˈglɪsərɪn] n.甘油<br>
+characteristic [ˌkæriktəˈristik] n.特色，特性<br>
+outbreak [ˈautbreik] n.爆发<br>
+hitherto [ˌhiðəˈtu:] adv.迄今，到目前为止<br>
+whiting [ˈhwaɪtɪŋ] n.白粉；牙鳕<br>
+wail [weil] v.哀号，痛哭<br>
+auditorium [ˌɔ:diˈtɔ:riəm] n.观众席；礼堂<br>
+caterpillar [ˈkætəpilə] n.毛虫<br>
+various [ˈvɛəriəs] adj.不同的，各种各样的；多方面的<br>
+guy [ɡaɪ] n.（男）人，家伙<br>
+electrician [ilekˈtriʃən] n.电工，电气技师<br>
+ensemble [ɑ:nˈsɑ:mbl] n.全体，整体，总体；合奏团，合唱团<br>
+</div>
+
+<div>swell [swel] v.（使）肿胀；涨大，膨胀；（使）增长...<br>
+conceivable [kənˈsi:vəbl] adj.可想到的；可想象的；可信的<br>
+receipt [riˈsi:t] n.收据，收条；收到<br>
+inattention [ˌɪnəˈtenʃən] n.疏忽；不注意<br>
+board [bɔ:d] v.上车（船）<br>
+sore [sɔ:] n.痛处，疮口<br>
+chin [tʃɪn] n.下巴，颏<br>
+embankment [emˈbæŋkmənt] n.堤岸，路堤<br>
+muster [ˈmʌstə] v.召集，聚集<br>
+wilderness [ˈwɪldənɪs] n.荒地，荒野<br>
+fee [fi:] n.酬金，费（如学费、手续费等）<br>
+wardrobe [ˈwɔ:drəub] n.衣橱；（个人、剧团的）全部服装<br>
+yacht [jɔt] n.游艇，快艇<br>
+buck [bʌk] v.抵抗；抵制；反抗<br>
+trumpet [ˈtrʌmpit] n.喇叭，小号<br>
+thunder [ˈθʌndə] vi.打雷，轰隆响<br>
+yoke [jəuk] n.束缚，轭套<br>
+regardless [riˈɡɑ:dlis] adv.不顾一切地，不管怎样<br>
+poke [pəuk] vt.戳，捅，杵<br>
+vice [vais] n.恶行；不道德行为；缺点；老虎钳<br>
+</div>
+
+<div>hound [haund] n.猎犬；赛犬<br>
+wreathe [ri:ð] v.完全笼罩，把…做成花环<br>
+crush [krʌʃ] v.压碎；推；压<br>
+democratic [ˌdeməˈkrætik] adj.民主的，民主政体的，民主作风的<br>
+remnant [ˈremnənt] n.残余物，零头布料<br>
+coverage [ˈkʌvəridʒ] n.范围，总额；保险额，保证金<br>
+apathy [ˈæpəθi:] n.漠然，冷淡<br>
+flagstone [ˈflægˌstəʊn] n.石板<br>
+cylinder [ˈsilində] n.圆柱体；圆筒；汽缸<br>
+civilian [siˈviljən] adj.平民的，民用的<br>
+apt [æpt] adj.恰当的；聪明的<br>
+activate [ˈæktiveit] v.使运作；使起作用；激活<br>
+wary [ˈwɛəri] adj.谨慎的，机警的，小心的<br>
+cashier [kæˈʃiə] n.出纳员<br>
+ruinous [ˈru:ənəs] adj.毁灭性的；极其昂贵的<br>
+uneven [ʌnˈi:vən] adj.不均衡的；不平坦的<br>
+virile [ˈvɪərəl] adj.有男子气概的，阳刚的<br>
+hint [hint] v.暗示<br>
+say [sei] n.发言，意见；发言权<br>
+inflammable [ɪnˈflæməbəl] adj.易燃的；易着火的<br>
+</div>
+
+<div>locker [ˈlɔkə] n.寄物柜，储物柜<br>
+average [ˈævəridʒ] adj.平均的；一般的<br>
+amends [əˈmendz] n.赔偿<br>
+matriculate [məˈtrɪkjəˌleɪt] v.注册入学；被录取入学<br>
+inflict [inˈflikt] v.予以（打击）；使遭受（损伤、苦痛等...<br>
+judgement [ˈdʒʌdʒmənt] n.判决，审判；判断力；判断，看法<br>
+modulate [ˈmɔdʒəˌleɪt] v.调整，调节；调制；变调<br>
+succinct [səkˈsɪŋkt] adj.简明的，简洁的<br>
+kidnap [ˈkidnæp] n.劫持；绑架<br>
+mythology [miˈθɔlədʒi] n.神话，神话学<br>
+orientate [ˈɔ:ri:enˌteɪt] v.确定方向；使适应<br>
+immense [iˈmens] adj.巨大的，广大的<br>
+overwrought [ˌəʊvəˈrɔ:t] adj.极不高兴的；过于激动的<br>
+grace [ɡreis] n.优美，优雅；风度，魅力<br>
+genetic [dʒiˈnetik] adj.遗传的；基因的<br>
+bald [bɔ:ld] adj.秃的；不加掩饰的<br>
+handcuffs  n.手铐<br>
+innocuous [ɪˈnɔkju:əs] adj.无害的；无冒犯之意的<br>
+disaster [diˈzɑ:stə] n.灾难，灾祸<br>
+tremor [ˈtremə] n.轻微地震；震颤，颤抖<br>
+</div>
+
+<div>ambitious [æmˈbiʃəs] adj.有雄心的，有抱负的<br>
+coil [kɔil] n.（一）卷；圈，线圈<br>
+culprit [ˈkʌlprit] n.罪犯<br>
+divert [daiˈvə:t] vt.使转向，使转移<br>
+recession [riˈseʃən] n.经济衰退<br>
+calculate [ˈkælkjuleit] vt.计算；估计；预料<br>
+prehistoric [ˌpri:hɪˈstɔ:rɪk] adj.史前的<br>
+vacuum [ˈvækjuəm] vt.以真空吸尘器清扫<br>
+cartoon [kɑ:ˈtu:n] n.卡通片，动画片；（报刊上的）漫画，...<br>
+aphorism [ˈæfəˌrɪzəm] n.格言<br>
+arrange [əˈreindʒ] vi.安排，商定<br>
+gene [dʒi:n] n.基因<br>
+perimeter [pəˈrɪmɪtə] n.外缘；边缘<br>
+residence [ˈrezidəns] n.住处，住宅；居住，居留<br>
+embarrass [imˈbærəs] vt.使尴尬；使窘迫；使害羞<br>
+anticipate [ænˈtisipeit] v.预料，预期<br>
+propriety [prəˈpraɪɪti:] n.适当；正当<br>
+dairy [ˈdɛəri] adj.产牛奶的<br>
+cushion [ˈkuʃən] n.垫子，坐垫<br>
+twinkle [ˈtwɪŋkəl] n.闪烁；闪亮<br>
+</div>
+
+<div>cordial [ˈkɔ:djəl] adj.友好的，可亲的<br>
+practicable [ˈpræktikəbl] adj.能实行的，行得通的<br>
+shock [ʃɔk] vt.使震惊<br>
+boundary [ˈbaundəri] n.分界线，边界<br>
+trick [trik] v.欺骗<br>
+slogan [ˈsləuɡən] n.标语，口号<br>
+dispute [disˈpju:t] n.争论，争吵<br>
+dilute [daiˈlju:t] v.（使）稀释；（使）冲淡<br>
+definite [ˈdefinit] adj.明确的；肯定的<br>
+compute [kəmˈpju:t] vt.计算；估计<br>
+magnitude [ˈmæɡnitju:d] n.巨大；庞大；重要（性）<br>
+dispel [dɪˈspel] v.驱散，消除<br>
+sector [ˈsektə] n.（尤指商业或贸易）部门；扇形面<br>
+null [nʌl] adj.无效力的，无效的，无价值的<br>
+detrimental [ˌdetriˈmentl] adj.损害的，造成伤害的<br>
+clear [kliə] v.清除；（雾霭）消散<br>
+pedestrian [piˈdestriən] n.行人；步行者<br>
+formulate [ˈfɔ:mjuleit] v.规划；策划；构想<br>
+invisible [inˈvizəbl] adj.看不见的，无形的<br>
+peak [pi:k] adj.最高的；高峰的<br>
+</div>
+
+<div>motif [məʊˈti:f] n.（图案的）基本花纹，（衣服的）花边...<br>
+physician [fiˈziʃən] n.内科医生<br>
+economic [ˌɪkəˈnɔmik] adj.经济学的，经济（上）的<br>
+sclerosis [skləˈrəʊsɪs] n.硬化症，硬化<br>
+aesthetic [i:sˈθetik] adj.美学的；审美的<br>
+credentials [krəˈdenʃlz] n.资格；资格证书<br>
+perpendicular [ˌpɜ:pənˈdɪkjələ] adj.垂直的<br>
+discreet [disˈkri:t] adj.（言行）谨慎的；考虑周到的<br>
+employment [imˈplɔimənt] n.工作；雇用；就业<br>
+appreciable [əˈpri:ʃəbəl] adj.可察觉的；明显的；相当大的<br>
+guarantee [ˌɡærənˈti:] v.保证，担保<br>
+captive [ˈkæptiv] n.俘虏<br>
+quarantine [ˈkwɔ:rənˌti:n] n.检疫；隔离<br>
+identify [aiˈdentifai] vt.认出；识别；分辨出；确认；指认<br>
+assignment [əˈsainmənt] n.分派，分配；作业，任务<br>
+disdain [disˈdein] v.轻视，鄙视<br>
+seminar [ˈseminɑ:] n.研究小组，研讨会，（大学的）研究课<br>
+uniform [ˈju:nifɔ:m] adj.一致的<br>
+determine [diˈtə:min] v.决定；下决心；确定<br>
+rug [rʌɡ] n.小地毯；毛毯<br>
+</div>
+
+<div>liner [ˈlainə] n.邮轮，客轮<br>
+financial [faɪˈnænʃ(ə)l] adj.财政的，金融的<br>
+corporate [ˈkɔ:pərit] adj.共同的，全体的；公司的，企业的<br>
+organization [ˌɔ:ɡənaiˈzeiʃən] n.组织，安排；团体<br>
+virtuous [ˈvɜ:tʃu:əs] adj.有品德的，善良的，贞洁的，有效...<br>
+agile [ˈædʒəl] adj.敏捷的，灵活的<br>
+starfish [ˈstɑ:ˌfɪʃ] n.海星<br>
+fastidious [fæˈstɪdi:əs] adj.讲究的；一丝不苟的<br>
+varied [ˈveəri:d] adj.各式各样的；形形色色的<br>
+rehearse [rɪˈhɜ:s] vt.排练；复述<br>
+invariably [ɪnˈveəriəbli] adv.不变地；总是；始终如一地<br>
+plus [plʌs] n.加号<br>
+series [ˈsiəri:z] n.系列<br>
+quiver [ˈkwivə] vi.颤动；抖动<br>
+deserve [diˈzə:v] v.应得；应受；值得<br>
+simultaneous [ˌsiməlˈteinjəs] adj.同时的，同时存在的<br>
+microcosm [ˈmaɪkrəˌkɔzəm] n.小宇宙；微观世界<br>
+tap [tæp] vt.开发；轻拍<br>
+repel [riˈpel] v.击退；使厌恶<br>
+prospective [prəsˈpektiv] adj.预期的，未来的；可能成为的<br>
+</div>
+
+<div>psychiatry [sɪˈkaɪətri:] n.精神病学；精神病治疗<br>
+pavement [ˈpeɪvmənt] n.人行道<br>
+preliminary [priˈliminəri] n.准备工作；初赛<br>
+pivot [ˈpɪvət] n.枢纽；要点；中心点<br>
+allude [əˈlu:d] v.间接提到，暗指<br>
+switch [switʃ] v.接通，切断（电源）；转变<br>
+entity [ˈentiti] n.实体<br>
+misrepresent [mɪsˌreprɪˈzent] vt.误传；歪曲<br>
+traction [ˈtrækʃən] n.拉力，牵引力；牵引治疗<br>
+scoop [sku:p] n.铲子，勺子；独家新闻<br>
+obscene [ɔbˈsi:n] adj.淫秽的<br>
+thereby [ˈðɛəbai] adv.因此，从而<br>
+palatable [ˈpælətəbəl] adj.美味的；可接受的<br>
+catastrophe [kəˈtæstrəfi] n.重大灾难；灾祸<br>
+ostensible [ɔˈstensəbəl] adj.表面的，貌似真实的<br>
+witness [ˈwitnis] vt.目击；为…作证，证明<br>
+straightforward [streitˈfɔ:wəd] adj.直率的，直爽的；简明的，易懂的<br>
+verify [ˈverifai] vt.证实，证明；查清，核实<br>
+elsewhere [ˈelsˈhwɛə] adv.在别处，到别处<br>
+earthquake [ˈə:θkweik] n.地震<br>
+</div>
+
+<div>profuse [prəˈfju:s] adj.大量的，丰富的；（道歉或感谢）...<br>
+integral [ˈintiɡrəl] adj.基本的；构成整体所必需的<br>
+primary [ˈpraiməri] adj.首要的，主要的；基本的，初级的...<br>
+contemporary [kənˈtempərəri] n.同时代的人<br>
+budget [ˈbʌdʒit] n.预算，预算案，预算额；经费，生活费<br>
+whirlwind [ˈhwɜ:lˌwɪnd] n.旋风<br>
+pretext [ˈpri:tekst] n.借口<br>
+smooth [smu:ð] vt.使光滑<br>
+tolerance [ˈtɔlərəns] n.忍耐（力），忍受，容忍<br>
+clasp [klɑ:sp] v.扣住，扣紧；抱紧<br>
+narrative [ˈnærətiv] n.叙述，记叙文<br>
+fabric [ˈfæbrik] n.织物；布料；基本结构<br>
+compensate [ˈkɔmpenseit] v.弥补；赔偿<br>
+deplore [diˈplɔ:] v.谴责；强烈反对<br>
+voluntary [ˈvɔləntəri] adj.自愿的，志愿的<br>
+validity [vəˈlɪdɪtɪ] n.有效（性）；合法（性）；正当性<br>
+funeral [ˈfju:nərəl] n.葬礼；丧礼<br>
+overtake [ˌəuvəˈteik] vt.赶上，超过；突然降临于<br>
+ecology [iˈkɔlədʒi] n.生态学，生态<br>
+arbitrary [ˈɑ:bitrəri] adj.任意的，武断的；任性的；主观的<br>
+</div>
+
+<div>despatch [disˈpætʃ] v.&n.派遣<br>
+implant [ɪmˈplænt] v.注入，灌输<br>
+calamity [kəˈlæmiti] n.灾难；灾祸；祸患<br>
+trigger [ˈtriɡə] vt.引起；触发<br>
+carp [kɑ:p] n.鲤鱼<br>
+periscope [ˈperɪˌskəʊp] n.潜望镜，展望镜<br>
+faith [feiθ] n.信任；宗教<br>
+unicorn [ˈju:nɪˌkɔ:n] n.（传说中的）独角兽<br>
+scent [sent] n.气味，香气<br>
+raw [rɔ:] adj.生的；未加工的；不熟练的<br>
+brass [brɑ:s] n.黄铜；铜管乐器<br>
+render [ˈrendə] vt.致使，造成；给予；翻译<br>
+provisional [prəˈvɪʒənəl] adj.暂时的，临时的<br>
+connection [kəˈnekʃən] n.连接；（亲属、社会上的）关系<br>
+peer [piə] n.同辈；同龄人<br>
+blank [blæŋk] adj.空白的；无表情的<br>
+deadline [ˈdedlain] n.截止时间，截止日期<br>
+span [spæn] n.一段时间；跨度<br>
+deliberate [diˈlibərit] v.仔细考虑<br>
+encounter [inˈkauntə] n.遭遇<br>
+</div>
+
+<div>nozzle [ˈnɔzəl] n.喷嘴<br>
+sequence [ˈsi:kwəns] n.连续，系列；次序，顺序<br>
+expertise [ˌekspɜːˈtiːz] n.专门技术；专门知识；专长<br>
+circuit [ˈsə:kit] n.线路，电路；巡回，巡游<br>
+aquatic [əˈkwætɪk] adj.水生的，水中的<br>
+automation [ˌɔ:təˈmeiʃən] n.自动化<br>
+tumour [ˈtjuːmə(r)] n.瘤，肿块<br>
+potter [ˈpɔtə] n.陶工，陶艺家<br>
+recycle [ˌri:ˈsaikl] v.回收利用；循环利用<br>
+humble [ˈhʌmbl] v.使谦逊；使感到卑微<br>
+chew [tʃu:] v.咀嚼<br>
+mole [məʊl] n.痣，鼹鼠，防波堤<br>
+cable [ˈkeibl] vt.打电报<br>
+macaque [məˈkæk] n.短尾猿<br>
+cart [kɑ:t] n.手推车<br>
+exterminate [ɪkˈstɜ:məˌneɪt] v.消灭，灭绝<br>
+chisel [ˈtʃɪzəl] v.凿，雕，刻（木头、石头）<br>
+garlic [ˈɡɑ:lik] n.大蒜<br>
+underwrite [ˈʌndəˌraɪt] vt.签名于下；承诺支付<br>
+virtual [ˈvə:tjuəl] adj.几乎的；实际上的<br>
+</div>
+
+<div>incidence [ˈinsidəns] n.发生（率）<br>
+undulate [ˈʌndʒəˌleɪt] v.波动，起伏<br>
+certainty [ˈsə:tnti] n.确定，必然；必然的事<br>
+offshore [ˈɔ:fˈʃɔ:] adj.近岸的；近海的；向海的<br>
+notably [ˈnəʊtəblɪ] adv.显著地，显然地；格外地，特别地<br>
+pants  n.裤子<br>
+disclose [disˈkləuz] v.透露，泄露<br>
+cereal [ˈsiəriəl] n.谷物；谷类食品，麦片<br>
+panorama [ˌpænəˈrɑ:mə] n.全景；概论<br>
+incipient [ɪnˈsɪpi:ənt] adj.初期的；初始的<br>
+album [ˈælbəm] n.相片册，邮票簿<br>
+fluent [ˈflu:ənt] adj.流利的，流畅的<br>
+fibre [ˈfaibə] adj.纤维<br>
+buffalo [ˈbʌfələu] n.水牛，美洲野牛<br>
+dialect [ˈdaiəlekt] n.方言<br>
+toad [təud] n.蟾蜍，癞蛤蟆<br>
+chronic [ˈkrɔnik] adj.（疾病）慢性的；严重的<br>
+polish [ˈpɔliʃ] vt.磨光，擦亮<br>
+farewell [ˈfɛəˈwel] adj.告别<br>
+husky [ˈhʌski:] adj.声音沙哑的<br>
+</div>
+
+<div>spring [spriŋ] n.春天，春季<br>
+threshold [ˈθreʃhəuld] n.门槛；门口<br>
+mentality [menˈtæliti] n.心态；思维方式<br>
+beloved [biˈlʌvid] n.爱人，心爱的人<br>
+tender [ˈtendə] adj.嫩的，柔软的；温柔的<br>
+jerk [dʒə:k] vi.急拉<br>
+plug [plʌɡ] v.堵塞，塞住<br>
+tactic [ˈtæktik] n.手段，策略<br>
+picturesque [ˌpiktʃəˈresk] adj.生动的；风景如画的<br>
+symbol [ˈsimbəl] n.象征，符号，标志<br>
+specific [spiˈsifik] adj.特定的，特殊的；明确的，具体的<br>
+endanger [enˈdeɪndʒə] vt.危害，危及<br>
+clinic [ˈklinik] n.诊所<br>
+crude [kru:d] n.原油<br>
+statue [ˈstætju:] n.塑像，雕像<br>
+nutrition [nju:ˈtriʃən] n.营养；营养品<br>
+pension [ˈpenʃən] n.抚恤金，养老金，津贴<br>
+roast [rəust] n.一大块烤肉<br>
+shanty [ˈʃænti:] n.简陋的小木屋<br>
+disgust [disˈɡʌst] v.使厌恶；使憎恶<br>
+</div>
+
+<div>ample [ˈæmpl] adj.充裕的；丰富的；宽敞的<br>
+indefinite [inˈdefinit] adj.不明确的；无限期的<br>
+quaint [kweint] adj.古雅的；古色古香的；奇特的<br>
+demonstrate [ˈdemənstreit] vi.示威<br>
+stimulus [ˈstimjuləs] n.刺激物<br>
+asterisk [ˈæstəˌrɪsk] n.星号<br>
+stitch [stitʃ] v.缝（合）<br>
+ponder [ˈpɔndə] v.沉思，考虑<br>
+stake [steik] vt.下赌注<br>
+artery [ˈɑ:təri] n.动脉；要道<br>
+erratic [ɪˈrætɪk] adj.不稳定的；难以预测的；不规则的<br>
+laborious [ləˈbɔ:ri:əs] adj.耗时费力的；辛苦的；艰难的<br>
+drought [draut] n.久旱；旱灾<br>
+essence [ˈesns] n.实质；本质；精髓<br>
+audition [ɔ:ˈdɪʃən] n.听觉；试听<br>
+overflow [ˌəuvəˈfləu] n.溢流口<br>
+glutinous [ˈglu:tnəs] adj.黏的；胶质的；胶似的<br>
+disperse [disˈpə:s] v.（使）分散；驱散<br>
+equilibrium [ˌi:kwəˈlɪbri:əm] n.平衡<br>
+herd [hə:d] n.牛群，兽群；一般民众，芸芸众生<br>
+</div>
+
+<div>ptolemaic  adj.托勒密的；天动说的<br>
+ethereal [ɪˈθɪəri:əl] adj.缥缈的；飘逸的；天上的<br>
+communication [kəˌmju:niˈkeiʃən] n.通讯；交流；传达；消息<br>
+ensue [inˈsju:] vi.接着发生，随之而来<br>
+nullify [ˈnʌləˌfaɪ] v.使无效，抵消<br>
+inspire [inˈspaiə] vt.激励；鼓舞；启发；促使<br>
+solicit [səˈlisit] v.恳求，乞求，教唆<br>
+truant [ˈtru:ənt] n.旷课者；逃学者<br>
+sake [seik] n.缘故，理由<br>
+chant [tʃɑ:nt] v.吟唱；反复呼喊<br>
+cast [kɑ:st] n.全体演员；铸件<br>
+momentum [məuˈmentəm] n.势头；冲劲；（物理学中的）动量<br>
+excrement [ˈekskrəmənt] n.排泄物，大便<br>
+synonym [ˈsinənim] n.同义词<br>
+battery [ˈbætəri] n.电池（组）；（器具等的）一组，一套<br>
+conspicuous [kənˈspikjuəs] adj.显著的，显眼的，显而易见的<br>
+wean [wi:n] v.断奶，戒掉<br>
+uncap [ʌnˈkæp] v.脱掉帽子；打开盖子<br>
+giggle [ˈɡiɡl] v.咯咯地笑<br>
+tide [taid] n.潮，潮汐；潮流，趋势<br>
+</div>
+
+<div>dispose [disˈpəuz] v.处理；处置；安排<br>
+remarkable [riˈmɑ:kəbl] adj.显著的，了不起的<br>
+cultivate [ˈkʌltiveit] vt.耕作；培养；种植<br>
+shrewd [ʃru:d] adj.聪明的，精明的；诡诈的，滑头的<br>
+mirage [mɪˈrɑ:ʒ] n.幻想；幻景，海市蜃楼<br>
+burrow [ˈbʌrəu] v.挖洞<br>
+turbulent [ˈtə:bjulənt] adj.狂暴的；混乱的，动荡的<br>
+anthology [ænˈθɔlədʒi:] n.（诗、文等的）选集<br>
+inestimable [ɪnˈestəməbəl] adj.难以计算的；无法估计的<br>
+septic [ˈseptɪk] adj.受感染的<br>
+drowse [draʊz] n.瞌睡<br>
+ancestor [ˈænsistə] n.祖宗，祖先<br>
+aisle [ail] n.走廊，侧廊<br>
+evoke [iˈvəuk] vt.唤起；召唤；引起<br>
+annoy [əˈnɔi] vt.使烦恼，使生气；打扰<br>
+isle [ail] n.岛<br>
+glacier [ˈɡlæsjə] n.冰河，冰川<br>
+shape [ʃeip] vt.使成形，塑造<br>
+airing [ˈeərɪŋ] n.晾干，风干，兜风<br>
+entry [ˈentri] n.进入；进入权；入口<br>
+</div>
+
+<div>sarcasm [ˈsɑ:ˌkæzəm] n.讥讽，讽刺，嘲弄<br>
+bob [ˈbɔb] v.上下疾动，剪短，行屈膝礼<br>
+proposal [prəˈpəuzəl] n.建议；求婚<br>
+balance [ˈbæləns] v.（使）保持平衡<br>
+transparent [trænsˈpɛərənt] adj.透明的<br>
+arouse [əˈrauz] vt.唤醒，叫醒；唤起，激起<br>
+grab [ɡræb] v.抓住；夺取；吸引<br>
+fidget [ˈfɪdʒɪt] n.烦躁之人<br>
+profane [prəʊˈfeɪn] v.亵渎，玷污<br>
+recline [rɪˈklaɪn] v.斜倚；向后倾斜（坐椅）<br>
+convenience [kənˈvi:njəns] n.方便，便利；有益的工具；便利设备；...<br>
+fault [fɔ:lt] n.过失，缺点；责任<br>
+supervise [ˈsju:pəvaiz] v.监督，管理，监视，指导<br>
+accommodation [əˌkɔməˈdeiʃən] n.住处，膳宿<br>
+barrel [ˈbærəl] n.圆木桶；枪管<br>
+incite [inˈsait] v.鼓动，刺激<br>
+gender [ˈdʒendə] n.性，性别<br>
+zeal [zi:l] n.热心，热情，热忱<br>
+supposition [ˌsʌpəˈzɪʃən] n.猜想，推测<br>
+cellar [ˈselə] n.地窖，地下室<br>
+</div>
+
+<div>whence [hwens] adv.从何处；从哪里<br>
+prospectus [prəˈspektəs] n.章程，简章，说明书<br>
+gown [ɡaun] n.长袍；女裙；女礼服<br>
+alternate [ˈɔːltə(r)neɪt] adj.交替的，轮流的<br>
+snout [snaʊt] n.口鼻部<br>
+refrain [riˈfrein] vi.抑制，制止，忍住<br>
+phenomenon [fiˈnɔminən] n.现象<br>
+sink [siŋk] n.（厨房中的）洗涤槽<br>
+kindle [ˈkɪndl] vt.点燃<br>
+offset [ˈɔfset] vt.抵消；补偿<br>
+convert [kənˈvə:t] n.皈依者<br>
+nourishment [ˈnʌriʃmənt] n.食物；营养（情况）<br>
+alter [ˈɔ:ltə] v.改变；变更；更改<br>
+rally [ˈræli] v.振作；恢复<br>
+approximate [əˈprɔksimit] vi.接近，近似于<br>
+slap [slæp] vt.打…一巴掌<br>
+launch [lɔ:ntʃ] n.发射<br>
+breakthrough [ˈbreikˌθru:] n.突破；重大进展<br>
+dense [dens] adj.密集的，稠密的；（烟、雾等）浓...<br>
+venerable [ˈvenərəbəl] adj.令人尊敬的；神圣庄严的<br>
+</div>
+
+<div>testimony [ˈtestiməni] n.（尤指法庭上的）证言，口供；证明<br>
+boutique [bu:ˈti:k] n.时尚商店；时装店；精品店<br>
+incidentally [ˌɪnsiˈdentəli] adv.附带提及地；顺便地<br>
+detach [diˈtætʃ] v.拆卸；（使）分开；（使）分离<br>
+donation [dəuˈneiʃən] n.捐赠，赠送；捐赠物；捐款<br>
+storage [ˈstɔ:ridʒ] n.贮藏，存储<br>
+flu [flu:] n.流感<br>
+distil [disˈtil] v.蒸馏，用蒸馏法提取；提炼<br>
+handbook [ˈhændbuk] n.手册；指南<br>
+decentralize [di:ˈsentrəˌlaɪz] v.使权力分散；下放…的权力<br>
+recur [riˈkə:] vi.复发；再次发生<br>
+extinguisher [ɪkˈstɪŋgwɪʃə] n.灭火器；熄灭者<br>
+occur [əˈkə:] vi.出现，发生；存在<br>
+bump [bʌmp] v.碰撞，颠簸　<br>
+dinosaur [ˈdainəsɔ:] n.恐龙<br>
+perceptible [pəˈseptəbəl] adj.看得见的；察觉得到的<br>
+live [liv] adj.活的，活生生的；实况转播的<br>
+knot [nɔt] v.打结；痉挛，紧缩<br>
+extra [ˈekstrə] n.额外的事物<br>
+optimum [ˈɔptiməm] adj.最优的；最佳的；最适宜的<br>
+</div>
+
+<div>counterfeit [ˈkaʊntəˌfɪt] v.伪造，仿造<br>
+</div>

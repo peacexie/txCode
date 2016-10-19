@@ -1,0 +1,121 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>English 900 Full</title>
+<script src="../cjs/jsbase.js"></script>
+<script type="text/javascript" src="../udata/eday/e900data.js"></script>
+<style type="text/css">
+<!--
+.style3 { color: #FF00FF; font-weight: bolder; }
+#subNav { padding:0px; margin:0px; }
+#subNav a{ display:inline-block; padding:0px 2px; margin:5px 3px; border:1px solid #CCC; }
+.reindex { display:inline-block; border:1px solid #CCC; padding:5px; }
+#L0 li { line-height:100%; padding:0px 0px 8px 0px; }
+#L0 a { line-height:180%; margin:0px; }
+#L0 a.act { color:#F00; border:1px solid #3CF; }
+#L0 span { font-size:small; }
+-->
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+  <div class="blinks">
+    <i id="e9top" name="e9top"></i>
+    <p><a href="#e9top" class="icobox right" onClick="MM_show(0)" id="Ulist1" style="display:none"><i class="icons ico-arrowreturnthick-1-w"></i></a>
+      <strong>英语900句</strong></p>
+    <ul id="L0">
+      <li><a href="#e9top" onClick="MM_show(1)">第001-150句</a>
+      <span id="N1">见面问候,课堂用语,辨别物品,物品所有,辨别身份,介绍礼节,年-月-日,谈论事物,述说时间,谈论日期</span>
+      </li>
+      <li><a href="#e9top" onClick="MM_show(2)">第151-300句</a>
+      <span id="N2">拜访朋友,谈论语言,谈论活动,询问年龄,日常生活,昨天活动,朋友聊天,谈论过去,询问地址,提-问-题</span>
+      </li>
+      <li><a href="#e9top" onClick="MM_show(3)">第301-450句</a>
+      <span id="N3">形容物品,寻求帮助,打听问路,关于婚姻,邻居朋友,计划将来,谈论天气,疾病健康,生活习惯,询问意见</span>
+      </li>
+      <li><a href="#e9top" onClick="MM_show(4)">第451-600句</a>
+      <span id="N4">订计划,作决定,-旅游-,-购物-,吃东西,夜生活,-约会-,-看病-,打电话,写书信</span>
+      </li>
+      <li><a href="#e9top" onClick="MM_show(5)">第601-750句</a>
+      <span id="N5">叙谈体验,寻找住房,谈论衣着,不同观点,将来活动,过去的事,喜不喜欢,劝说提议,请人帮忙,旅行准备</span>
+      </li>
+      <li><a href="#e9top" onClick="MM_show(6)">第751-900句</a>
+      <span id="N6">国籍国家,地理地貌,教育学习,职业工作,农场工厂,业余爱好,文体活动,报刊杂志,电视时政,音乐文学</span>
+      </li>
+    </ul>
+  </div>
+
+  <div class="mcontent">
+    <p id="subNav" style="display:none"></p>
+    <p id="subList"></p>
+    <p class="tc pv10" id="Ulist2" style="display:none"><a href="#e9top" onClick="MM_show(0)" class="reindex">返回单元目录<i class="icons ico-arrowreturnthick-1-w"></i></a></p>
+  </div>
+  
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+</div>
+
+<script type="text/JavaScript">
+
+function inText(obj){ 
+	return document.all?obj.innerText:obj.textContent; 
+} 
+function MS_show(id,sid){
+	id = id>0 ? id : nowDataID;
+	if(id>0){
+		nowDataID = id;
+	}else{
+		id = nowData;
+	}
+	var dnav = inText(jsElm.jeID('N'+id));
+	var dnar = dnav.split(',');
+	var snav = '';
+	for(i=1;i<11;i++){
+		 //j = i==10 ? 'A' : i; //j+''+
+		 snav += '<a href="#e9top" onClick="MS_show(0,'+i+')">'+dnar[i-1]+'</a>';
+	}
+	jsElm.jeID('subNav').innerHTML = snav;
+	var stitle = L00T[(id-1)*10+sid];
+	var dataid = (id-1)*150+(sid-1)*15+1;
+	var html = '<span class="style3">'+stitle+'</span>';
+	for(j=0;j<15;j++){
+		html += '<br>'+L00X[dataid+j];
+	}
+	jsElm.jeID('subList').innerHTML = html;
+}
+function MM_show(id){
+	jsElm.jeID('subNav').style.display = id==0 ? 'none' : '';
+	jsElm.jeID('subList').style.display = id==0 ? 'none' : '';
+	if(id>0){ 
+        MS_show(id,rndDate(1,'d1'));
+	}else{ 
+	}
+	jsElm.jeID('L0').style.display = id==0 ? '' : 'none';
+	jsElm.jeID('Ulist1').style.display = id==0 ? 'none' : '';
+	jsElm.jeID('Ulist2').style.display = id==0 ? 'none' : '';
+}
+function Aut_page(){
+	var m1 = rndDate(1,'m'); m1 = Math.floor(m1%2)==0 ? 3 : 0; //console.log(m1); 
+	var d2 = rndDate(1,'d2'); orx = d2 + m1; //console.log(rx+':'+rndDate(1,'d1')); 
+	var offset = mgetStore('ke900_offset');
+	orx = orx + offset; if(orx>6) orx = orx-6;		
+	return orx;
+}
+var npage = Aut_page();
+var nowDataID; MM_show(npage); 
+$('#L0 a').eq(npage-1).addClass('act'); 
+</script>
+</BODY>
+</html>

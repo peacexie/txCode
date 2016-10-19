@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>通信API</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; border:1px solid #CCC; }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue" id="stabs">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+</p>
+
+<p class="subNav">
+<a href="?" class="bggray">通信API</a>
+<a href="#e9top" class="bgblue">XXXXX</a>
+</p>
+<div class="mcontent">
+
+    <div>
+    <input type="text" id="msg" />
+    <input type="button" id="send" value="发送信息">
+    </div>
+    <iframe src="msg-sub.html" id="f"></iframe>
+    <div id="msg_box">
+    </div>
+    <p>http://www.jb51.net/html5/79830.html</p>
+
+</div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+<a id="seclink" style="display:none"></a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+$(document).ready(function () {
+window.addEventListener('message', function (ev) {
+//应该要检查消息来源
+$('#msg_box').html(ev.origin + ' 发来消息：' + ev.data);
+
+var w_h = ev.data;
+//未做格式检查
+$('#f').css('width', w_h.split(',')[0] + 'px');
+$('#f').css('height', w_h.split(',')[1] + 'px');
+
+}, false);
+
+function p() {
+var frame = window.frames[0];
+frame.postMessage($('#msg').val(), _cbase.run.sbase+'html5/msg-sub.html'); // http://localhost:3317/html5%E4%B8%8Ecss3/06%E9%80%9A%E8%AE%AFapi/
+}
+$('#send').click(function () {
+p();
+});
+setTimeout(p, 200);
+});
+</script>
+</body>
+</html> 

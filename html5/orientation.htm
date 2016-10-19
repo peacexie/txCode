@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>重力感应</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; border:1px solid #CCC; }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+<p class="topnav bgblue" id="stabs">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+</p>
+
+<p class="subNav">
+<a href="orientation.htm" class="bgblue">重力感应</a>
+<a href="rotation.htm" class="bgblue">屏幕旋转</a>
+<a href="smslinks.htm" class="bgblue">短信链接</a>
+</p>
+
+<div class="mcontent">
+  <p class="bgblue bold ph10"> 重力感应</p>
+  <p> &nbsp; &#8226; http://www.jb51.net/html5/162914.html</p>
+  <p> &nbsp; &#8226; html5 利用重力感应实现摇一摇换颜色可用来做抽奖等等</p>
+  <p> &nbsp; &#8226; 我从网上找到了一个案例，是用来摇一摇换颜色的，非常好用，不过测试后，需要注意的有： </p>
+  <p> &nbsp; &#8226; 注意|<br>
+    1、必须要ios或者是安卓4.0以上的才能实现功能应用。 <br>
+    2、如果加如z坐标的判断，就会出现屏幕乱变颜色的情况，估计太敏感了…………或者是没找到对的用法，希望大家能给指正 <br>
+    3、这个功能稍微改改，就可以变成抽奖的方法，比大转盘、刮刮卡要时尚些，哈哈 </p>
+</div>
+ 
+<script type="text/javascript"> 
+var color = new Array('red', 'blue', 'yellow', 'green', '#00f', '#0ff'); 
+if(window.DeviceMotionEvent) { 
+var speed = 25; 
+var x = y = z = lastX = lastY = lastZ = 0; 
+window.addEventListener('devicemotion', function(){ 
+var acceleration =event.accelerationIncludingGravity; 
+x = acceleration.x; 
+y = acceleration.y; 
+//z = acceleration.z; 
+if(Math.abs(x-lastX) > speed || Math.abs(y-lastY) > speed ) { 
+document.body.style.backgroundColor = color[Math.round(Math.random()*10)%6]; 
+} 
+lastX = x; 
+lastY = y; 
+//lastZ = z; 
+}, false); 
+} 
+</script>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+<a id="seclink" style="display:none"></a>
+</p>
+
+</div>
+
+</body>
+</html>

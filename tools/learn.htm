@@ -1,0 +1,65 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>国学英语学习</title>
+<script src="../cjs/jsbase.js"></script>
+<style>
+iframe { width:480px;}
+.mtab{ margin:auto; }
+.mtab td{ padding:5px; text-align:center; }
+</style>
+</head>
+<body>
+<table class="mtab">
+  <tr>
+    <td colspan="2"> 
+<a href="#" onClick="uset(1)">英语900句-每日一句</a> # 
+<a href="#" onClick="uset(2)">英语词汇-双语美文</a> # 
+<a href="#" onClick="uset(3)">全国天气-违章查询</a> # 
+<a href="#" onClick="uset(4)">弟子规-增广贤文</a>
+</td>
+  </tr>
+  <tr>
+    <td><iframe width="100%" src="../learn/e900full.htm" name="if1" id="if1" frameborder="1"></iframe></td>
+    <td><iframe width="100%" src="../learn/edays.htm" name="if2" id="if2" frameborder="1"></iframe></td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+function uwSize(){	
+	var cw, ch;
+	if (self.innerHeight) {	// all except Explorer
+		cw = self.innerWidth;
+		ch = self.innerHeight;
+	} else if (document.documentElement && document.documentElement.clientHeight) { // IE6 Strict Mode
+		cw = document.documentElement.clientWidth;
+		ch = document.documentElement.clientHeight;
+	} else if (document.body) { // other Explorers
+		cw = document.body.clientWidth;
+		ch = document.body.clientHeight;
+	}
+	var obj = {}; 
+	obj.cw = cw;
+	obj.ch = ch;
+	return obj;	
+}
+
+function uset(i){	
+	var cfg = new Array();
+	cfg[1] = '../learn/e900full.htm,../learn/edays.htm';
+	cfg[2] = '../learn/eword.htm,../learn/emwen.htm';
+	cfg[3] = '../about/tianqi.htm,http://m.cheshouye.com/api/weizhang/?dp=12&dc=153';
+	cfg[4] = '../learn/cn-dizigui.htm,../learn/cn-zgpinyin.htm';
+	var cf1 = cfg[i].split(',');
+	$("#if1").attr("src",cf1[0]);
+	$("#if2").attr("src",cf1[1]);
+}
+
+var ws = uwSize();
+$("iframe").attr("height",ws.ch-60);
+
+</script>
+</body>
+</html>

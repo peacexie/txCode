@@ -1,0 +1,161 @@
+
+<div>month 月份<br>
+一月：January<br>
+二月：February<br>
+三月：March<br>
+四月：April<br>
+五月：May <br>
+六月：June <br>
+七月：July<br>
+八月：August <br>
+九月：September <br>
+十月：October <br>
+十一月：November<br>
+十二月：December<br>
+</div>
+
+<div>Week [-]周,工作周<br> 
+Monday [Mon ]星期一<br> 
+Tuesday [Tue] 星期二<br> 
+Wednesday [Wed] 星期三<br> 
+Thursday [Thu] 星期四<br> 
+Friday [Fri] 星期五<br> 
+Saturday [Sat] 星期六<br> 
+Sunday [Sun] 星期天<br>
+</div>
+
+<div>数字 [-] Number<br>
+1 [-] one<br>
+2 [-] two<br>
+3 [-] three<br>
+4 [-] four<br>
+5 [-] five<br>
+6 [-] six<br>
+7 [-] seven<br>
+8 [-] eight<br>
+9 [-] nine<br>
+10 [-] ten<br>
+11 [-] eleven<br>
+12 [-] twelve<br>
+13 [-] thirteen<br>
+14 [-] fourteen<br>
+15 [-] fifteen<br>
+16 [-] sixteen<br>
+17 [-] seventeen<br>
+18 [-] eighteen<br>
+19 [-] nineteen<br>
+20 [-] twenty<br>
+</div>
+
+<div>21 [-] twenty-one<br>
+22 [-] twenty-two<br>
+23 [-] twenty-three<br>
+24 [-] twenty-four<br>
+25 [-] twenty-five<br>
+26 [-] twenty-six<br>
+27 [-] twenty-seven<br>
+28 [-] twenty-eight<br>
+29 [-] twenty-nine<br>
+30 [-] thirty<br>
+40 [-] forty<br>
+50 [-] fifty<br>
+60 [-] sixty<br>
+70 [-] seventy<br>
+80 [-] eighty<br>
+90 [-] ninety<br>
+100 [-] one hundred<br>
+</div>
+
+<div>
+1、第一类<br>
+first [1st] 第一<br>
+second [2nd] 第二<br>
+third [3rd] 第三<br>
+（在括号里的是缩写形式,均在阿拉伯数字后面加上相应序数词的最后两个字母构成,以下各类与此相同.）这类序数词只有三个,在整个序数词里面是特殊的,就和第一类基数词一样,需要逐个地硬记下来.<br>
+2、第二类：<br>
+fourth [4th] 第四<br>
+fifth [5th] 第五<br>
+sixth [6th] 第六<br>
+seventh [7th] 第七<br>
+eighth [8th] 第八<br>
+ninth [9th] 第九<br>
+tenth [10th] 第十<br>
+eleventh [11th] 第十一<br>
+twelfth [12th] 第十二<br>
+thirteenth [13th] 第十三<br>
+fourteenth [14th] 第十四<br>
+fifteenth [15th] 第十五<br>
+sixteenth [16th] 第十六<br>
+seventeenth [17th] 第十七<br>
+eighteenth [18th] 第十八<br>
+nineteenth [19th] 第十九<br>
+这一类序数词共有十六个.均在相应的基数词后面加上后缀－th构成.要注意其中fifth、eighth、ninth、twelth四个词的拼法.<br>
+</div>
+
+<div>3、第三类：<br>
+twentieth [20th] 第二十<br>
+thirtieth [30th] 第三十<br>
+fortieth [40th] 第四十<br>
+fiftieth [50th] 第五十<br>
+sixtieth [60th] 第六十<br>
+seventieth [70th] 第七十<br>
+eightieth [80th] 第八十<br>
+ninetieth [90th] 第九十<br>
+这一类全是十位整数的序数词,共八个.它们的构成方法是：先将相应的十位整数的基数词词尾－ty中的y改成i,然后在加上后缀－eth.<br>
+4、第四类：<br>
+thirty-first [31th] 第三十一<br>
+sixty-second [62nd] 第六十二<br>
+eighty-seventh [87th] 第八十七<br>
+ninety-eighth [98th] 第九十八<br> 
+</div>
+
+<div><b>过年用语</b><br> 
+gift money [ɡiftˈmʌni] n.压岁钱；<br>
+dumpling [ˈdʌmplɪŋ] n.汤团，饺子；水果布丁；矮胖的人；[用...<br>
+poetic couplet  对联<br>
+rice cake [raiskeik] n.年糕；米糕；<br>
+The Spring Festival  ﻿春节；<br>
+lunar January [ˈlju:nəˈdʒænjuəri] 正月；<br>
+the beginning of Chinese New Year  春节<br>
+Spring Festival couplets  n.春联，门对；<br>
+New Year picture [nju:jə:ˈpiktʃə] 年画；<br>
+lantern [ˈlæntən] n.灯笼；灯塔；灯罩；灯饰；<br>
+red packet [redˈpækit] 红袋子；红包；<br>
+lion dance [ˈlaiəndɑ:ns] 舞狮；狮子舞；<br>
+dragon dance [ˈdræɡəndɑ:ns] 舞龙；龙舞；<br>
+get rid of the ill-fortune  去晦气；<br>
+bid farewell to the old year  辞旧岁；<br>
+spring cleaning [spriŋˈkli:nɪŋ] 扫房；<br>
+Tang-yuan  汤圆；<br>
+Eight Treasures Rice  八宝饭；<br>
+red date [reddeit] 红枣；<br>
+peanut brittle [ˈpi:nʌtˈbritl] n.花生糖；<br>
+propose a toast [prəˈpəuzətəust] 举杯；敬酒；<br>
+过年 [guònián] celebratetheNewYe...<br>
+chafing dish [ˈtʃeɪfɪŋ] n.火锅；<br>
+</div>
+
+<div>watermelon seed [ˈwɔ:təˌmelənsi:d] 西瓜子；<br>
+cross talk [krɔstɔ:k] n.他处传来的干扰，串话；相声；<br>
+fireworks ['faɪəwɜ:ks] n.烟火；烟火(firework的名词...<br>
+守岁 [shǒusuì] stayuplateorall...<br>
+lunar calendar [ˈlju:nəˈkælində] n.农历或称阴历；<br>
+ancestor cult [ˈænsistəkʌlt] 祭祖宗；<br>
+firecracker [ˈfaɪəkrækə(r)] n.爆竹，鞭炮；<br>
+The Lantern Festival  元宵节；<br>
+pay a New Year call  拜年；<br>
+New Year’s Eve  除夕<br>
+winter vacation [ˈwintəvəˈkeiʃən] n.寒假；年假；<br>
+买年货  名specialpurchasesf...<br>
+taboo [tə'bu:] n.禁忌；忌讳；戒律；禁忌的事物（或行为...<br>
+oval kumquat [ˈəuvəlˈkʌmkwɔt] 金桔；<br>
+riddles written on lanterns  灯谜；<br>
+春节联欢晚会  名SpringFestivalGal...<br>
+firecracker [ˈfaɪəkrækə(r)] n.爆竹，鞭炮；<br>
+family reunion dinner  年夜饭；<br>
+traditional opera  戏曲；<br>
+variety show [vəˈraiətiʃəu] 杂耍；综艺节目；<br>
+paper-cut ['peɪpərk'ʌt] n.剪纸；<br>
+exhibit of lanterns  灯会<br>
+short sketch [ʃɔ:tsketʃ] 小品；<br>
+</div>

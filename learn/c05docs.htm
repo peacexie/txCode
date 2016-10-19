@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>分校读本</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+<!--
+p.subNav { padding:8px; }
+p.subNav a { display:block; padding:0px 3px; margin:1px 1px 8px 1px; border:1px solid #CCC; }
+p.title{ padding:5px 5px 0px 5px; margin:1px; }
+p.title a { display:inline-block; padding:1px 8px; margin:5px 0px; border:1px solid #CCC; }
+table { border:1px solid #CCC; margin:10px; }
+td { padding:0px 5px; border-top:1px solid #CCC; border-right:1px solid #CCC; }
+.mcontent p { padding:10px 1px }
+-->
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+  <p class="title"><strong>分校读本</strong></p>
+
+  <p class="subNav">
+      <a href="#e9top">善美之歌</a>
+      <a href="#e9top">我是文明小学生</a>
+      <a href="#e9top">105班群规</a>
+  </p>
+
+
+<div class="mcontent" id="d1">
+<p class="title"><a href="#e9top" onClick="goIndex()" class="right">返回目录<i class="icons ico-arrowreturnthick-1-w"></i></a>
+<a class="bgblue">善美之歌</a></p>
+
+<pre>
+<b>善美之歌</b>
+
+至善至美好儿童，
+全面发展德为先。
+文明守纪心灵美，
+亲近师友习礼仪。
+
+勤学好问求上进，
+言行一致有诚信。
+善行善心常相伴，
+至善至美要牢记。
+
+</pre>
+
+</div>
+
+<div class="mcontent">
+<p class="title"><a href="#e9top" onClick="goIndex()" class="right">返回目录<i class="icons ico-arrowreturnthick-1-w"></i></a>
+<a class="bgblue">我是文明小学生</a></p>
+
+<p>我是文明小学...生</p>
+
+</div>
+
+<div class="mcontent">
+<p class="title"><a href="#e9top" onClick="goIndex()" class="right">返回目录<i class="icons ico-arrowreturnthick-1-w"></i></a>
+<a class="bgblue">105班群规</a></p>
+
+<p>105班群规</p>
+
+</div>
+  
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+function goIndex(){
+	$(".mcontent").hide();
+	$("p.subNav").show();
+}
+$("p.subNav a").click(function(){
+	var index = $(this).index();
+	$(".mcontent").hide();
+	$(".mcontent").eq(index).show();
+	$("p.subNav").hide();
+});
+goIndex();
+$("#d1").show();
+$("p.subNav").hide();
+</script>
+
+</BODY>
+</html>
+
+
+
+
+

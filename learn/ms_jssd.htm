@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>数独游戏 --- 开心数独游戏——吃了睡写</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+<!--
+ul, li { margin: 0px; padding: 0px; }
+ul { list-style-type: none; }
+#gong { width: 297px; height: 297px; text-align: center; 
+border-bottom-width: 1px; border-left-width: 1px; 
+border-bottom-style: solid; 
+border-left-style: solid; 
+border-bottom-color: #333; 
+border-left-color: #333; margin: auto; }
+#gong li { height: 32px; width: 32px; 
+overflow: hidden; font-size: 24px; line-height: 32px; float: left; 
+border-top-width: 1px; 
+border-right-width: 1px; 
+border-top-style: solid; 
+border-right-style: solid; 
+border-top-color: #333; border-right-color: #333; font-weight: bold; 
+background-color: #E8E8E8; color: #009900; cursor: default; }
+#gong li input { border-top-style: none; border-right-style: none; border-bottom-style: none; border-left-style: none; width: 100%; height: 40px; text-align: center; line-height: 36px; font-size: 24px; color: #0033FF; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; }
+#gong li.err, #gong li.err input { background-color: #FF0000; }
+table { width: 100%; margin: auto; }
+.subNav { text-align: center; padding: 5px; margin: 1px; }
+.subNav a { display: inline-block; padding: 1px 8px; border: 1px solid #CCC; }
+-->
+</style>
+</head>
+<body>
+<div class="divOuter clearfix">
+  <p class="topnav bgblue"> <a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a> <a href="index.htm">学无止境</a> </p>
+  <p class="subNav"> <a href="#e9top" class="bggray">数独游戏</a> </p>
+  <div id="d"></div>
+  <p class="tc pv10">
+    <select id="nan">
+      <option value="0.45">简单</option>
+      <option value="0.65" selected="selected">中等</option>
+      <option value="0.75">难</option>
+      <option value="0.85">难+</option>
+    </select>
+    <input type="submit" name="Submit" value="重来" onclick="Reset()" />
+    <input type="submit" name="Submit22" value="答案" onclick="daan()" />
+    <input type="submit" name="Submit2" value="交卷" onclick="if(confirm('确定都填对了吗？\n交卷后不可以更改哦\n确定吗？'))check()" />
+
+  <br>
+  bbs.blueidea.com/thread-2899593-1-1.html
+  </p> 
+  <script language="javascript">
+var classNum = [1,2,3,4,5,6,7,8,9];
+var classArr = new Array();
+function game(nan){
+  classNum.sort(function(){ return Math.random()>0.5?-1:1; });//打乱数字；
+  for(i=0;i<9;i+=3){
+   classArr[i/3] = classNum.slice(i,i+3);
+  }
+  var S = new Array();
+  S[0] = new Array();
+  for(i=0;i<3;i++){
+   classArr.unshift(classArr.pop());
+   S[0][i]=new Array();
+   S[0][i]=classArr.slice(0,4);
+  }
+
+  for(i=1;i<3;i++){
+   S[i] = new Array();
+   for(m=0;m<3;m++){
+    S[i][m] = new Array();
+    for(n=0;n<3;n++){
+     var _arr = S[i-1][m][n].slice(0,4);
+     _arr.unshift(_arr.pop());
+     S[i][m][n] = _arr;
+    }
+   }
+  }
+  var c = S.toString().replace(/(\d),/g,function(){
+       var e=arguments[1];
+	   e = Math.random()>nan?e:'<input type="text" rel='+e+' maxlength="1" />';
+	   return e+"</li><li>";
+   });
+  ul.innerHTML="";
+  ul.innerHTML="<li>"+c+"</li>";
+}
+function check(){
+ var lis = ul.getElementsByTagName('li');
+ var i=0,li,err=false;
+ while(li=lis[i]){
+    li = li.firstChild;
+    if(err)return;
+   if(li.nodeType!=3){
+   var value = li.value;
+   if(value=='' || value == ' '){alert('未填写完整，失败！\n重来！');Reset();return;}
+    if(parseInt(value)!=parseInt(li.getAttribute('rel'))){
+	 var heng = parseInt(i/9);
+	 for(j=heng*9;j<(heng+1)*9;j++){
+	   var tli = lis[j].nodeType==3?lis[j].innerHTML:lis[j].firstChild.value;
+	   tli = parseInt(tli);
+	   if(parseInt(value)==tli && i!=j){
+	   li.parentNode.className = 'err';
+	   lis[j].className = 'err';
+	   err = true;
+	  }
+	 }
+	 for(j=i%9;j<81;j+=9){
+	   var tli = lis[j].nodeType==3?lis[j].innerHTML:lis[j].firstChild.value;
+	  tli = parseInt(tli);
+	   if(parseInt(value)==tli && i!=j){
+	   li.parentNode.className = 'err';
+	   lis[j].className = 'err';
+	   err = true;
+	   }
+	  }
+	  if(err){alert('出错了，失败！\n重新开始！');Reset();return;}
+	 }
+   }
+   i++;
+ }
+ alert('恭喜，满意100分！\n继续！');
+ Reset();
+}
+function daan(){
+ var lis = ul.getElementsByTagName('input');
+ var i=0,li;
+ while(li=lis[i]){
+   li.value=li.getAttribute('rel');
+   i++;
+ }
+}
+function Reset(){
+ var nan=document.getElementById('nan');
+ game(Number(nan.options[nan.selectedIndex].value));
+}
+var div,ul;
+window.onload=function (){
+div=document.createElement("div");
+div.setAttribute("id","gong");
+ul = document.createElement("ul");
+div.appendChild(ul);
+document.getElementById('d').appendChild(div);
+ game(0.65);
+}
+</script>
+  <p class="topnav bggray"> <a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a> <a href="index.htm">学无止境</a> </p>
+</div>
+</BODY>
+</html>

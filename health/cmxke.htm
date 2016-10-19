@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>食物相克</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+<!--
+td { text-align:center; padding:1px; border:1px solid #CCC; white-space:nowrap; }
+.note { font-size:small; color:#666; text-align:left; white-space:normal; line-height:120%; padding:5px; }
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; border:1px solid #CCC; }
+input, select { width: 180px; display:block; margin:5px; }
+table { margin:1px auto 10px auto; }
+div.set { width: 210px; margin:auto; }
+-->
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">健康保健</a>
+</p>
+
+  <p class="subNav">
+  <a href="#anmo2.htm" class="bgblue">食物查询</a>
+  <a href="#anmo2.htm" class="bgblue">结果查询</a>
+  <a href="#anmo1.htm" class="bgblue">相克列表</a>
+  </p>
+
+<div class="mcontent">
+<h2 class="msubject">按食物查询相克</h2>
+<div class="set">
+<select id="sel_name" onChange="setSelKeys('name')"><option value=''>-请选择或输入-</option></select>
+<input id="name" type="text">
+<input type="button" value="食物名称查询" onClick="doSearch('name')">
+</div>
+<div id="res_name"></div>
+</div>
+<div class="mcontent">
+<h2 class="msubject">按结果查询相克</h2>
+<div class="set">
+<select id="sel_jguo" onChange="setSelKeys('jguo')"><option value=''>-请选择或输入-</option></select>
+<input id="jguo" type="text">
+<input type="button" value="相克现象查询" onClick="doSearch('jguo')">
+</div>
+<div id="res_jguo"></div>
+</div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">健康保健</a>
+</p>
+
+</div>
+
+<div class="mcontent">
+
+<h2 class="msubject">常见食物相克列表</h2>
+
+<table id="list">
+  <tr>
+    <td>食物</td>
+    <td>食物</td>
+    <td class="note">冲突的原因</td>
+  </tr>
+  <tr> 
+    <td><a href="#4">豆腐</a></td>
+    <td><a href="#4">大葱</a></td>
+    <td class="note">容易影响钙的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#">豆浆</a></td>
+    <td><a href="#5">鸡蛋</a></td>
+    <td class="note">影响蛋白质的吸收和消化。</td>
+  </tr>
+  <tr>
+    <td><a href="#6">豆浆</a></td>
+    <td><a href="#6">蜂蜜</a></td>
+    <td class="note">不易被人体吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#7">胡萝卜</a></td>
+    <td><a href="#7">萝卜</a></td>
+    <td class="note">降低营养成分的吸收，特别是维生素C。</td>
+  </tr>
+  <tr>
+    <td><a href="#8">萝卜</a></td>
+    <td><a href="#8">桔</a></td>
+    <td class="note">容易导致甲状腺肿。</td>
+  </tr>
+  <tr>
+    <td><a href="#9">竹笋</a></td>
+    <td><a href="#9">羊肝</a></td>
+    <td class="note">多食容易产生不良反应。</td>
+  </tr> 
+  <tr>
+    <td><a href="#10">菠菜</a></td>
+    <td><a href="#10">豆腐</a></td>
+    <td class="note">降低营养成分的吸收，产生不容性钙。</td>
+  </tr>
+  <tr>
+    <td><a href="#11">菠菜</a></td>
+    <td><a href="#11">黄鳝</a></td>
+    <td class="note">二者性味功能不协调，且容易导致腹泻。</td>
+  </tr>
+  <tr>
+    <td><a href="#12">大蒜</a></td>
+    <td><a href="#12">蜂蜜</a></td>
+    <td class="note">二者食性相反。</td>
+  </tr>
+  <tr>
+    <td><a href="#13">芥菜</a></td>
+    <td><a href="#13">鲫鱼</a></td>
+    <td class="note">影响肾功能，容易引起水肿。</td>
+  </tr>
+  <tr>
+    <td><a href="#14">韭菜</a></td>
+    <td><a href="#">蜂蜜</a></td>
+    <td class="note">二者食性相反。</td>
+  </tr>
+  <tr>
+    <td><a href="#15">芹菜</a></td>
+    <td><a href="#15">黄瓜</a></td>
+    <td class="note">降低营养成分的吸收。</td>
+  </tr> 
+  <tr>
+    <td><a href="#17">莴苣</a></td>
+    <td><a href="#">蜂蜜</a></td>
+    <td class="note">不利肠胃，容易腹泻。</td>
+  </tr>
+  <tr>
+    <td><a href="#18">金瓜</a></td>
+    <td><a href="#18">黄鳝</a></td>
+    <td class="note">二者成分复杂，容易产生复杂生化反应。</td>
+  </tr>
+  <tr>
+    <td><a href="#">金瓜</a></td>
+    <td><a href="#19">虾类</a></td>
+    <td class="note">二者成分复杂，容易产生复杂生化反应。</td>
+  </tr>
+  <tr>
+    <td><a href="#">金瓜</a></td>
+    <td><a href="#20">蟹类</a></td>
+    <td class="note">同属寒冷食物，有损肠胃。</td>
+  </tr>
+  <tr> 
+    <td><a href="#22">南瓜</a></td>
+    <td><a href="#22">菜花</a></td>
+    <td class="note">降低营养成分的吸收，特别是维生素C。</td>
+  </tr>
+  <tr>
+    <td><a href="#">南瓜</a></td>
+    <td><a href="#23">小白菜</a></td>
+    <td class="note">降低营养成分的吸收，特别是维生素C。</td>
+  </tr>
+  <tr>
+    <td><a href="#">南瓜</a></td>
+    <td><a href="#24">油菜</a></td>
+    <td class="note">降低营养成分的吸收，特别是维生素C。</td>
+  </tr>
+  <tr>
+    <td><a href="#25">南瓜</a></td>
+    <td><a href="#25">羊肉</a></td>
+    <td class="note">容易导致胸闷腹胀，肠胃气壅。</td>
+  </tr>
+  <tr> 
+    <td><a href="#26">南瓜</a></td>
+    <td><a href="#26">辣椒</a></td>
+    <td class="note">降低营养成分的吸收，特别是维生素C。</td>
+  </tr>
+  <tr>
+    <td><a href="#27">酸芥菜</a></td>
+    <td><a href="#27">鲫鱼</a></td>
+    <td class="note">影响肾功能，容易引起水肿。</td>
+  </tr>
+  <tr>
+    <td><a href="#28">芥菜头</a></td>
+    <td><a href="#28">鲫鱼</a></td>
+    <td class="note">影响肾功能，容易引起水肿。</td>
+  </tr>
+  <tr>
+    <td><a href="#30">核桃</a></td>
+    <td><a href="#30">白酒</a></td>
+    <td class="note">二者同属大热食物，容易引起血热。</td>
+  </tr>
+  <tr>
+    <td><a href="#31">狗肉</a></td>
+    <td><a href="#31">大蒜</a></td>
+    <td class="note">同食助火，容易损人，特别对于火热阳盛的人必须忌食。</td>
+  </tr>
+  <tr>
+    <td><a href="#32">狗肉</a></td>
+    <td><a href="#32">鲤鱼</a></td>
+    <td class="note">可能发生复杂的生化反应,产生对人体不利的物质，不宜同食。</td>
+  </tr>
+  <tr> 
+    <td><a href="#33">狗肉</a></td>
+    <td><a href="#33">茶水</a></td>
+    <td class="note">容易产生对人体有害物质，绝对不宜。</td>
+  </tr>
+  <tr>
+    <td><a href="#34">牛肝</a></td>
+    <td><a href="#34">毛豆</a></td>
+    <td class="note">容易影响维生素C的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#35">牛肝</a></td>
+    <td><a href="#35">番茄</a></td>
+    <td class="note">容易影响维生素C的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#36">牛肝</a></td>
+    <td><a href="#36">辣椒</a></td>
+    <td class="note">容易影响维生素C的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#37">牛肝</a></td>
+    <td><a href="#37">鲇鱼</a></td>
+    <td class="note">二者可产生不良的生化反应，有害人体。</td>
+  </tr>
+  <tr>
+    <td><a href="#38">牛肉</a></td>
+    <td><a href="#38">板栗</a></td>
+    <td class="note">容易引起不良反应；且不宜消化；对于严重者甚至引起呕吐。</td>
+  </tr>
+  <tr> 
+    <td><a href="#40">兔肉</a></td>
+    <td><a href="#40">姜</a></td>
+    <td class="note">兔肉酸冷性寒，姜辛辣性热，寒热同食，容易腹泻。</td>
+  </tr>
+  <tr>
+    <td><a href="#41">兔肉</a></td>
+    <td><a href="#41">洋姜</a></td>
+    <td class="note">兔肉酸冷性寒，姜辛辣性热，寒热同食，容易腹泻。</td>
+  </tr>
+  <tr>
+    <td><a href="#42">兔肉</a></td>
+    <td><a href="#42">鸡蛋</a></td>
+    <td class="note">兔肉酸冷性寒，鸡蛋甘平微寒，容易刺激胃肠引起腹泻。</td>
+  </tr>
+  <tr>
+    <td><a href="#43">兔肉</a></td>
+    <td><a href="#43">芥茉</a></td>
+    <td class="note">兔肉酸冷性寒，与芥末性味相反，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#44">羊肉</a></td>
+    <td><a href="#44">苦荞麦粉</a></td>
+    <td class="note">荞麦气味甘平，性寒；羊肉大热，二者功能相反，不宜相配。</td>
+  </tr>
+  <tr>
+    <td><a href="#">羊肉</a></td>
+    <td><a href="#45">荞麦</a></td>
+    <td class="note">荞麦气味甘平，性寒；羊肉大热，二者功能相反，不宜相配。</td>
+  </tr>
+  <tr>
+    <td><a href="#">羊肉</a></td>
+    <td><a href="#46">奶酪</a></td>
+    <td class="note">乳酪味甘酸性寒，含酶；而羊肉大热，二者可能引起不良反应，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#">羊肉</a></td>
+    <td><a href="#47">醋</a></td>
+    <td class="note">醋宜于寒性食物配合，羊肉大热，不宜相配。</td>
+  </tr>
+  <tr>
+    <td><a href="#">羊肉</a></td>
+    <td><a href="#48">豆瓣酱</a></td>
+    <td class="note">豆酱性味咸寒，能解除热毒；而羊肉大热动火，二者功能相反，不宜同食。</td>
+  </tr>
+  <tr> 
+    <td><a href="#49">猪肝</a></td>
+    <td><a href="#49">毛豆</a></td>
+    <td class="note">容易影响维生素C的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#50">猪肝</a></td>
+    <td><a href="#50">菜花</a></td>
+    <td class="note">菜花中大量的纤维素影响猪肝中铜、铁、锌等微量元素的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#51">猪肝</a></td>
+    <td><a href="#51">辣椒</a></td>
+    <td class="note">容易影响维生素C的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#52">猪肝</a></td>
+    <td><a href="#52">番茄</a></td>
+    <td class="note">容易影响维生素C的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#53">猪肝</a></td>
+    <td><a href="#53">鹌鹑</a></td>
+    <td class="note">可能发生复杂的化学反应，破坏营养物质的吸收，产生不良的生理效应。</td>
+  </tr>
+  <tr>
+    <td><a href="#54">猪肉</a></td>
+    <td><a href="#54">黄豆</a></td>
+    <td class="note">1、影响人体的对营养元素的正常吸收。2、容易引起消化不良而形成腹胀气壅气滞。</td>
+  </tr>
+  <tr>
+    <td><a href="#55">猪肉</a></td>
+    <td><a href="#55">螺类</a></td>
+    <td class="note">二者同属凉性，且滋腻易伤肠胃。</td>
+  </tr>
+  <tr>
+    <td><a href="#56">鸡</a></td>
+    <td><a href="#56">大蒜</a></td>
+    <td class="note">大蒜属火，鸡甘酸温补，二者食性不同，功能相佐。</td>
+  </tr>
+  <tr>
+    <td><a href="#57">鸡</a></td>
+    <td><a href="#57">鲤鱼</a></td>
+    <td class="note">二者功能相乘。</td>
+  </tr>
+  <tr>
+    <td><a href="#58">鸡</a></td>
+    <td><a href="#58">芥茉</a></td>
+    <td class="note">二者同食会伤元气，芥末是热性食物；鸡是温补之品，恐助火热，会伤健康。</td>
+  </tr>
+  <tr>
+    <td><a href="#60">鸭</a></td>
+    <td><a href="#60">甲鱼</a></td>
+    <td class="note">同属于凉性，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#62">鸡蛋</a></td>
+    <td><a href="#62">豆浆粉</a></td>
+    <td class="note">二者同食容易降低人体对蛋白质的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#63">大黄鱼</a></td>
+    <td><a href="#63">苦荞麦粉</a></td>
+    <td class="note">芥麦性寒，黄鱼多脂，不宜消化。</td>
+  </tr>
+  <tr>
+    <td><a href="#64">大黄鱼</a></td>
+    <td><a href="#64">荞麦</a></td>
+    <td class="note">芥麦性寒，黄鱼多脂，不宜消化。</td>
+  </tr>
+  <tr>
+    <td><a href="#65">海鳗</a></td>
+    <td><a href="#65">牛肝</a></td>
+    <td class="note">可能发生复杂的生化反应,产生对人体不利的物质，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#66">黄鳝</a></td>
+    <td><a href="#66">狗肉</a></td>
+    <td class="note">容易温热助火，常人不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#69">鲫鱼</a></td>
+    <td><a href="#">猪肉</a></td>
+    <td class="note">容易产生生化反应，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#70">鲤鱼</a></td>
+    <td><a href="#70">赤小豆</a></td>
+    <td class="note">二者同属于利水物质，对于病人可以，正常人不可同用。</td>
+  </tr>
+  <tr>
+    <td><a href="#">鲤鱼</a></td>
+    <td><a href="#71">芥菜头(腌)</a></td>
+    <td class="note">容易产生致癌物质，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#">鲤鱼</a></td>
+    <td><a href="#72">蕨菜(腌)</a></td>
+    <td class="note">容易产生致癌物质，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#">鲤鱼</a></td>
+    <td><a href="#73">雪里蕻(腌)</a></td>
+    <td class="note">容易产生致癌物质，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#">鲤鱼</a></td>
+    <td><a href="#74">韭菜花(腌)</a></td>
+    <td class="note">容易产生致癌物质，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#75">鳗鲡</a></td>
+    <td><a href="#75">牛肝</a></td>
+    <td class="note">可能发生复杂的生化反应,产生对人体不利的物质，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#76">小黄鱼</a></td>
+    <td><a href="#76">苦荞麦粉</a></td>
+    <td class="note">芥麦性寒，黄鱼多脂，不宜消化。</td>
+  </tr>
+  <tr>
+    <td><a href="#">小黄鱼</a></td>
+    <td><a href="#77">荞麦</a></td>
+    <td class="note">芥麦性寒，黄鱼多脂，不宜消化。</td>
+  </tr>
+  <tr>
+    <td><a href="#78">螺类</a></td>
+    <td><a href="#78">甜瓜</a></td>
+    <td class="note">同属于凉性食物，有损肠胃。</td>
+  </tr>
+  <tr>
+    <td><a href="#81">螺类</a></td>
+    <td><a href="#81">冰棒类</a></td>
+    <td class="note">容易引起消化不良。</td>
+  </tr>
+  <tr>
+    <td><a href="#">虾类</a></td>
+    <td><a href="#82">毛豆</a></td>
+    <td class="note">容易发生不良生化反应,产生有毒物质，不宜同食。</td>
+  </tr>
+  <tr> 
+    <td><a href="#83">虾类</a></td>
+    <td><a href="#83">番茄</a></td>
+    <td class="note">容易发生不良生化反应,产生有毒物质，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#">虾类</a></td>
+    <td><a href="#84">辣椒</a></td>
+    <td class="note">容易发生不良生化反应,产生有毒物质，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#">蟹类</a></td>
+    <td><a href="#85">茄子</a></td>
+    <td class="note">同属寒凉食物，容易伤人肠胃，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#">蟹类</a></td>
+    <td><a href="#86">梨</a></td>
+    <td class="note">同属寒凉食物，容易伤人肠胃，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#">蟹类</a></td>
+    <td><a href="#87">甜瓜</a></td>
+    <td class="note">容易产生腹泻，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#88">蟹类</a></td>
+    <td><a href="#88">奶柿子</a></td>
+    <td class="note">同属寒凉食物，且不宜消化，甚至出现呕吐，腹泻等中毒现象。</td>
+  </tr>
+  <tr> 
+    <td><a href="#89">蟹类</a></td>
+    <td><a href="#89">石榴</a></td>
+    <td class="note">容易消化不良，刺激肠胃，产生腹痛、呕吐等不良反应。</td>
+  </tr>
+  <tr>
+    <td><a href="#90">蟹类</a></td>
+    <td><a href="#90">泥鳅</a></td>
+    <td class="note">二者功能相反，且容易产生不良反应。</td>
+  </tr>
+  <tr>
+    <td><a href="#91">蟹类</a></td>
+    <td><a href="#91">冰棒类</a></td>
+    <td class="note">容易产生腹泻，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#92">蟹类</a></td>
+    <td><a href="#92">花生米</a></td>
+    <td class="note">容易产生腹泻，不宜同食。</td>
+  </tr>
+  <tr>
+    <td><a href="#93">蟹类</a></td>
+    <td><a href="#93">柿子</a></td>
+    <td class="note">同属寒凉食物，且不宜消化，甚至出现呕吐，腹泻等中毒现象。</td>
+  </tr>
+  <tr>
+    <td><a href="#94">茶水</a></td>
+    <td><a href="#94">羊肉</a></td>
+    <td class="note">容易引起便秘。</td>
+  </tr>
+  <tr> 
+    <td><a href="#95">茶水</a></td>
+    <td><a href="#95">鸡蛋</a></td>
+    <td class="note">不易消化。</td>
+  </tr>
+  <tr>
+    <td><a href="#96">茶水</a></td>
+    <td><a href="#96">白酒</a></td>
+    <td class="note">对肾脏、心脏都有一定损坏。</td>
+  </tr>
+  <tr>
+    <td><a href="#97">蜂蜜</a></td>
+    <td><a href="#97">菱角</a></td>
+    <td class="note">容易消化不良、腹胀、腹泻。</td>
+  </tr>
+  <tr>
+    <td><a href="#98">红糖</a></td>
+    <td><a href="#98">豆浆</a></td>
+    <td class="note">会产生变性沉淀物。</td>
+  </tr>
+  <tr> 
+    <td><a href="#99">红糖</a></td>
+    <td><a href="#99">豆浆粉</a></td>
+    <td class="note">会产生变性沉淀物。</td>
+  </tr>
+  <tr>
+    <td><a href="#100">红糖</a></td>
+    <td><a href="#100">竹笋</a></td>
+    <td class="note">容易产生对人体不利的生化反应。</td>
+  </tr>
+  <tr>
+    <td><a href="#101">红糖</a></td>
+    <td><a href="#101">牛奶</a></td>
+    <td class="note">会降低营养价值。</td>
+  </tr>
+  <tr>
+    <td><a href="#103">红糖</a></td>
+    <td><a href="#103">奶粉类</a></td>
+    <td class="note">会降低营养价值。</td>
+  </tr>
+  <tr>
+    <td><a href="#104">山楂球</a></td>
+    <td><a href="#104">胡萝卜</a></td>
+    <td class="note">降低营养成分的吸收，特别是维生素C。</td>
+  </tr>
+  <tr>
+    <td><a href="#105">山楂球</a></td>
+    <td><a href="#105">南瓜</a></td>
+    <td class="note">降低营养成分的吸收，特别是维生素C。</td>
+  </tr>
+  <tr>
+    <td><a href="#">山楂球</a></td>
+    <td><a href="#106">笋瓜</a></td>
+    <td class="note">降低营养成分的吸收，特别是维生素C。</td>
+  </tr>
+  <tr>
+    <td><a href="#108">醋</a></td>
+    <td><a href="#108">胡萝卜</a></td>
+    <td class="note">影响维生素A的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#109">醋</a></td>
+    <td><a href="#109">海参</a></td>
+    <td class="note">容易影响口味。</td>
+  </tr>
+  <tr>
+    <td><a href="#111">醋</a></td>
+    <td><a href="#111">牛奶</a></td>
+    <td class="note">不易消化，容易引起腹泻。</td>
+  </tr> 
+  <tr>
+    <td><a href="#112">豆瓣酱</a></td>
+    <td><a href="#112">鲤鱼</a></td>
+    <td class="note">辣椒火热，容易引发风火，口舌生疮。</td>
+  </tr>
+  <tr>
+    <td><a href="#113">辣椒酱</a></td>
+    <td><a href="#113">鲤鱼</a></td>
+    <td class="note">辣椒火热，容易引发风火，口舌生疮。</td>
+  </tr>
+  <tr>
+    <td><a href="#114">甲鱼</a></td>
+    <td><a href="#114">芥菜</a></td>
+    <td class="note">容易产生不良反应。</td>
+  </tr>
+  <tr>
+    <td><a href="#116">甲鱼</a></td>
+    <td><a href="#116">猪肉</a></td>
+    <td class="note">同属寒性。</td>
+  </tr>
+  <tr>
+    <td><a href="#">甲鱼</a></td>
+    <td><a href="#117">鸭蛋</a></td>
+    <td class="note">同属于凉性食物。</td>
+  </tr>
+  <tr>
+    <td><a href="#">甲鱼</a></td>
+    <td><a href="#118">咸鸭蛋</a></td>
+    <td class="note">同属于凉性食物。</td>
+  </tr>
+  <tr>
+    <td><a href="#119">甲鱼</a></td>
+    <td><a href="#119">芥茉</a></td>
+    <td class="note">冷热相反。</td>
+  </tr>
+  <tr>
+    <td><a href="#">甲鱼</a></td>
+    <td><a href="#120">苋菜</a></td>
+    <td class="note">容易产生不良反应。</td>
+  </tr>
+  <tr>
+    <td><a href="#122">辣椒</a></td>
+    <td><a href="#122">南瓜</a></td>
+    <td class="note">降低营养成分的吸收，特别是维生素C。</td>
+  </tr>
+  <tr>
+    <td><a href="#123">辣椒</a></td>
+    <td><a href="#123">胡萝卜</a></td>
+    <td class="note">降低营养成分的吸收，特别是维生素C。</td>
+  </tr>
+  <tr>
+    <td><a href="#124">胡萝卜</a></td>
+    <td><a href="#124">桔子</a></td>
+    <td class="note">容易导致甲状腺肿。</td>
+  </tr>
+  <tr>
+    <td><a href="#125">白萝卜</a></td>
+    <td><a href="#125">桔子</a></td>
+    <td class="note">容易导致甲状腺肿。</td>
+  </tr>
+  <tr>
+    <td><a href="#126">黄瓜</a></td>
+    <td><a href="#126">菠菜</a></td>
+    <td class="note">降低营养成分的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#127">黄瓜</a></td>
+    <td><a href="#127">菜花</a></td>
+    <td class="note">降低营养成分的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#">黄瓜</a></td>
+    <td><a href="#128">番茄</a></td>
+    <td class="note">降低营养成分的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#129">黄瓜</a></td>
+    <td><a href="#129">辣椒</a></td>
+    <td class="note">降低营养成分的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#">黄瓜</a></td>
+    <td><a href="#130">红辣椒</a></td>
+    <td class="note">降低营养成分的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#">黄瓜</a></td>
+    <td><a href="#131">桔子</a></td>
+    <td class="note">降低营养成分的吸收。</td>
+  </tr>
+  <tr>
+    <td><a href="#134">石螺</a></td>
+    <td><a href="#134">木耳</a></td>
+    <td class="note">不利消化。</td>
+  </tr>
+  <tr>
+    <td><a href="#135">李</a></td>
+    <td><a href="#135">青鱼</a></td>
+    <td class="note">容易引起消化不良。</td>
+  </tr>
+  <tr>
+    <td><a href="#137">柿子</a></td>
+    <td><a href="#137">马铃薯</a></td>
+    <td class="note">不宜消化，容易产生胃柿石。</td>
+  </tr>
+  <tr>
+    <td><a href="#138">柿子</a></td>
+    <td><a href="#138">海带</a></td>
+    <td class="note">容易引起肠胃不适。</td>
+  </tr>
+  <tr>
+    <td><a href="#139">柿子</a></td>
+    <td><a href="#139">紫菜</a></td>
+    <td class="note">同属高钙食物，容易产生过多不容性结合物。</td>
+  </tr>
+  <tr> 
+    <td><a href="#">柿子</a></td>
+    <td><a href="#140">章鱼</a></td>
+    <td class="note">有损肠胃且易腹泻。</td>
+  </tr>
+  <tr>
+    <td><a href="#">柿子</a></td>
+    <td><a href="#141">甘薯</a></td>
+    <td class="note">不宜消化，容易产生胃柿石。</td>
+  </tr>
+  <tr>
+    <td><a href="#142">花生</a></td>
+    <td><a href="#142">黄瓜</a></td>
+    <td class="note">黄瓜一般生食，二者多食，容易导致腹泻。</td>
+  </tr>
+
+</table>
+
+</div>
+
+<script type="text/javascript">
+
+// 检查重复
+function chkNameKeys(){
+	var keys = '(,', tds, a, j, key;
+	$("#list").find('tr').each(function(i, etr) {
+		tds = $(etr).find('td');
+		key = $(tds).eq(0).text() +','+ $(tds).eq(1).text();	
+		if(key.length>0 && keys.indexOf(key)<=0){
+			keys += key+',';
+		}else{
+			console.log(key);	
+		}
+    });
+} //chkNameKeys();
+
+function setSelKeys(type){
+	$('#'+type).val($('#sel_'+type).val());
+}
+
+function setNameKeys(){
+	var keys = '(,', tds, a, j, key;
+	$("#list").find('tr').each(function(i, etr) {
+        //if(i==0) { continue; }
+		tds = $(etr).find('td');
+		if(i==0){
+			key = '';
+		}else{
+			key = $(tds).eq(0).text() +','+ $(tds).eq(1).text();	
+			key = key.replace(/，/g,',');
+			key = key.replace(/\(腌\)/g,',');
+		}
+		try{
+			a = key.split(',');
+			for(j=0;j<a.length;j++){
+				if(a[j].length>0 && keys.indexOf(a[j])<=0){
+					keys += a[j]+',';
+					$("#sel_name").append("<option value='"+a[j]+"'>"+a[j]+"</option>");
+				}
+			}
+		}catch(ex){};
+    });
+} setNameKeys();
+
+function setJguoKeys(){
+	var keys, j, a;
+	keys = '营养成分 钙 蛋白质 维生素C 微量元素 吸收 消化 生化反应 致癌物质 有毒物质 有害物质 腹泻 腹胀 肾功能 肠胃 水肿 气壅 胸闷 血热 助火 损人 火热阳盛 中毒 呕吐 便秘 肾脏 心脏 沉淀物 口味 口舌生疮 风火 胃柿石';
+	a = keys.split(' ');
+	for(j=0;j<a.length;j++){
+		$("#sel_jguo").append("<option value='"+a[j]+"'>"+a[j]+"</option>");
+	}
+} setJguoKeys();
+
+function doSearch(type){
+	var v = $('#'+type).val();
+	if(v.replace(/[^\x00-\xff]/g, "**").length<2){
+		alert('至少输入2个字符或1个汉字查询！');
+		return;	
+	}
+	var re='<table>', key, no=0, tds;
+	$("#list").find('tr').each(function(i, etr) {
+        //if(i==0) { continue; }
+		tds = $(etr).find('td');
+		if(type=='name'){
+			key = $(tds).eq(0).html() + $(tds).eq(1).html();	
+		}else{
+			key = $(tds).eq(2).html();		
+		}
+		try{
+			if(key.indexOf(v)>=0){
+				re += '<tr>'+$(etr).html()+'</tr>';
+				no++;
+			}
+		}catch(ex){};
+    });
+	if(no==0) re += '<tr><td>查无结果！</td></tr>';
+	re += '</table>';
+	$('#res_'+type).html(re);
+}
+
+function change(){
+	$("p.subNav a").each(function(){
+		$(this).removeClass("bggray");
+		$(this).addClass("bgblue");
+	});	
+	$(".mcontent").hide();
+}
+$("p.subNav a").click(function(){
+	if($(this).hasClass("bggray")){
+		return;	
+	}
+	var index = $(this).index();
+	change();
+	$(".mcontent").eq(index).show();
+	$("p.subNav a").eq(index).addClass("bggray");
+	$("p.subNav a").eq(index).removeClass("bgblue");
+});
+change(0);
+$(".mcontent").eq(0).show();
+</script>
+
+</body>
+</html>

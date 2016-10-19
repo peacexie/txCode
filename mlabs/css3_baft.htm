@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CSS3-伪类before和after！</title>
+<script src="../cjs/jsbase.js"></script>
+<style>
+.diva{width:96%; border:1px solid #000; line-height:50px; margin:10px;}
+.divb{width:96%; border:1px solid #FC0;}
+.after,.before,.block{border:1px solid #330;}
+.after:after{content:'我在后面吧'; color:#F00;}
+.before:before{content:'我在前面吧'; color:#F00;}
+.block:after{content:'我是块元素，我占一行'; color:#F00; display:block;}
+.block{display:block;}
+.iconp {
+  font-size:24px;
+  display: inline-block;
+  font-style: normal;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} 
+.icon-aaa:before { content:"\2638"; }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">实验室</a>
+</p>
+
+<h2 class="msubject">CSS3-伪类before和after！</h2>
+<div class="mcontent">
+  
+  <p class="brd-bot">1、selector:before( sRules ) 它要和content属性一起使用，设置在对象前（依据对象树的逻辑结构）发生的内容；<br>
+2、selector:after( sRules ) 和before用法一样，不过它是设置在对象后（依据对象树的逻辑结构）发生的内容；
+  <br>
+  看例子容易理解些！</p>
+  
+  <p class="diva">after<span class="after">我是里面的内容</span></p>
+  <p class="diva">before<span class="before">我是里面的内容</span></p>
+  <p class="divb">block<span class="block">我是里面的内容</span></p>
+  
+  aa<span class="iconp icon-aaa"></span>bb
+  <style>.icon-2649:before { content:"\2649"; }</style>
+  <span class="iconp icon-2649"></span>
+  <style>.icon-2650:before { content:"\2650"; }</style>
+  <span class="iconp icon-2650"></span>
+  <style>.icon-2651:before { content:"\2651"; }</style>
+  <span class="iconp icon-2651"></span>
+  <style>.icon-2652:before { content:"\2652"; }</style>
+  <span class="iconp icon-2652"></span>
+  <style>.icon-2653:before { content:"\2653"; }</style>
+  <span class="iconp icon-2653"></span>
+  <style>.icon-2654:before { content:"\2654"; }</style>
+  <span class="iconp icon-2654"></span>  
+  <script>document.write('<style>.icon-2655:before { content:"\2655"; }</style><span class="iconp icon-2655"></span>');</script>
+  
+  
+
+</div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">实验室</a>
+<a id="seclink" style="display:none"></a>
+</p>
+
+</div>
+
+</body>
+</html>

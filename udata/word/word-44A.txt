@@ -1,0 +1,836 @@
+
+<div>Algeria [ælˈdʒɪəri:ə] n.阿尔及利亚<br>
+Algerian  adj.阿尔及利亚的<br>
+Calcutta [kælˈkʌtə] 加尔各答<br>
+Cambridge [ˈkeɪmbrɪdʒ] n.剑桥大学<br>
+Christian [ˈkristʃən] n.基督教徒<br>
+Hollywood [ˈhɔli:ˌwʊd] n.好莱坞<br>
+Indian [ˈɪndjən] n.印第安人<br>
+Indonesia [ˌindəuˈni:zjə] n.印度尼西亚<br>
+Jupiter [ˈdʒu:pɪtə] n.木星<br>
+Leningrad  n.列宁格勒<br>
+Mercury [ˈmɜːkjəri] n.水星<br>
+Milky Way [ˈmɪlki:] n.银河<br>
+Morocco [məˈrɔkəu] 摩洛哥<br>
+Oxford [ˈɔksfəd] n.牛津城<br>
+Pisa [ˈpi:zə] 比萨<br>
+Siberian  adj.西伯利亚的<br>
+Thames [temz] 泰晤士河<br>
+Venus [ˈvi:nəs] n.金星<br>
+abandon [əˈbændən] n.放任，纵情<br>
+abatement [əˈbeɪtmənt] n.减少<br>
+</div>
+
+<div>abbey [ˈæbi:] n.修道院<br>
+ablaze [əˈbleɪz] adj.闪耀的<br>
+abolition [ˌæbəˈlɪʃən] n.废除<br>
+abominable [əˈbɔmənəbəl] adj.可恶的<br>
+abrupt [əˈbrʌpt] adj.突然的<br>
+absorb [əbˈsɔ:b] vt.吸收；并入<br>
+absorbing  adj.引人入胜的<br>
+absurd [əbˈsə:d] adj.荒唐的<br>
+absurdity [əbˈsɜ:dɪtɪ] n.荒唐<br>
+abundant [əˈbʌndənt] adj.充裕的<br>
+accidental [ˌæksiˈdentl] adj.意外的<br>
+accommodation [əˌkɔməˈdeiʃən] n.适应<br>
+accord [əˈkɔ:d] vt.给予<br>
+accordingly [əˈkɔ:diŋli] adv.因而<br>
+accumulation [əˌkju:mjəˈleɪʃən] n.积累<br>
+accuracy [ˈækjurəsi] n.精确，准确<br>
+ache [eik] vi.作痛<br>
+acre [ˈeikə] n.英亩<br>
+acrobatic [ˌækrəˈbætɪk] adj.杂技的<br>
+act [ækt] n.法令；法案<br>
+</div>
+
+<div>acute [əˈkju:t] adj.敏锐的<br>
+adder [ˈædə] n.蝰蛇<br>
+adequacy [ˈædɪkwəsɪ] n.能力<br>
+adjust [əˈdʒʌst] vt.使适应(与to连用)<br>
+administer [ədˈministə] vt.管理<br>
+administration [ədˌminisˈtreiʃən] n.管理；下药<br>
+administrative [ædˈmɪnɪˌstreɪtɪv] n.行政管理的<br>
+administrator [ædˈmɪnɪˌstreɪtə] n.管理人员<br>
+adverse [ˈædvə:s] adj.不利的；逆的<br>
+aesthetic [i:sˈθetik] adj.美的<br>
+affluent [ˈæfluənt] adj.富有的<br>
+afloat [əˈfləʊt] adv.在水上<br>
+afresh [əˈfreʃ] adv.重新<br>
+age [eidʒ] vi.老化<br>
+ageing [ˈeidʒiŋ] n.老化<br>
+agent [ˈeidʒənt] n.情报人员<br>
+aggravate [ˈæɡrəveit] vt.加剧<br>
+aggression [əˈgreʃən] n.侵略<br>
+agitation [ˌædʒɪˈteɪʃən] n.骚动<br>
+agony [ˈæɡəni] n.极度痛苦<br>
+</div>
+
+<div>air [eə(r)] n.神态<br>
+albatross [ˈælbətrɔs] n.信天翁<br>
+ale [eɪl] n.啤酒(尤指淡色啤酒)<br>
+alternative [ɔ:lˈtə:nətiv] adj.可选择的,n.变通办法<br>
+ammunition [ˌæmjuˈniʃən] n.弹药<br>
+analogous [əˈnæləgəs] adj.类似的<br>
+anarchy [ˈænəki:] n.混乱<br>
+ancestor [ˈænsistə] n.祖先<br>
+ancestral [ænˈsestrəl] adj.祖先的<br>
+anonymity [ˌænəˈnɪmɪti:] n.匿名<br>
+anthropology [ˌænθrəˈpɔlədʒi:] n.人类学<br>
+antisocial [ˌænti:ˈsəʊʃəl] adj.反社会的<br>
+appalling  adj.骇人的<br>
+apparent [əˈpærənt] adj.明显的<br>
+appetite [ˈæpitait] n.欲望<br>
+applied [əˈplaɪd] adj.应用的<br>
+apply [əˈplai] vt.使用<br>
+appointment [əˈpɔintmənt] n.任命<br>
+appreciation [əˌpri:ʃi:ˈeɪʃən] n.鉴赏；理解<br>
+approximately [əˈprɔksimitli] adv.大约<br>
+</div>
+
+<div>approximation [əˌprɔksəˈmeɪʃən] n.近似<br>
+apt [æpt] adj.易于...<br>
+archaic [ɑ:ˈkeɪɪk] adj.古老的<br>
+arena [əˈri:nə] n.竞技场<br>
+argue [ˈɑ:ɡju:] vt.辩论；论证<br>
+argument [ˈɑ:ɡju:mənt] n.争辩<br>
+arise [əˈraiz] vi.出现<br>
+armament [ˈɑ:məmənt] n.武器装备<br>
+arouse [əˈrauz] vt.唤醒<br>
+arrant [ˈærənt] adj.彻头彻尾的<br>
+arsenic [ˈɑ:sənɪk] n.砒霜<br>
+ascent [əˈsent] n.上升<br>
+assemble [əˈsembl] vi.集合<br>
+assess [əˈses] vt.评估<br>
+assumption [əˈsʌmpʃən] n.假定；设想<br>
+assurance [əˈʃuərəns] n.信心<br>
+astronomical [ˌæstrəˈnɔmɪkəl] adj.天文的(比喻极大的)；天文的(比...<br>
+astronomy [əsˈtrɔnəmi] n.天文学<br>
+atmospheric [ˌætməˈsferɪk] adj.大气的<br>
+authority [ɔ:ˈθɔriti] n.权威<br>
+</div>
+
+<div>authorize [ˈɔ:θəraiz] vt.批准<br>
+avenging  adj.报复的<br>
+average [ˈævəridʒ] vt.平均达,adj.平常的<br>
+await [əˈweit] vt.等待<br>
+awareness [əˈweənɪs] n.意识<br>
+balance [ˈbæləns] vi.平衡<br>
+balanced  adj.均衡的<br>
+ballad [ˈbæləd] n.民歌<br>
+ballast [ˈbæləst] n.压舱物<br>
+banal [bəˈnæl] adj.陈腐的<br>
+banker [ˈbæŋkə] n.银行家<br>
+barbarian [bɑ:ˈbeəri:ən] n.野蛮人<br>
+barbarous [ˈbɑ:bərəs] adj.野蛮的<br>
+barely [ˈbɛəli] adv.仅仅<br>
+barge [bɑ:dʒ] n.驳船<br>
+baseball [ˈbeisbɔ:l] n.棒球<br>
+basically [ˈbeisikəli] adv.基本上<br>
+bat [bæt] n.蝙蝠<br>
+battlefield [ˈbætlˌfi:ld] n.战场<br>
+beast [bi:st] n.兽<br>
+</div>
+
+<div>beaver [ˈbi:və] n.海狸<br>
+behave [biˈheiv] vi.行动<br>
+being [ˈbi:ɪŋ] n.存在<br>
+belly [ˈbeli] n.腹部<br>
+bill [bil] n.帐单<br>
+billion [ˈbiljən] num.(英)万亿<br>
+binding [ˈbaɪndɪŋ] adj.有约束力的<br>
+biological [ˌbaiəˈlɔdʒikəl] adj.生物学的<br>
+biologist [baɪˈɔlədʒɪst] n.生物学家<br>
+biology [baiˈɔlədʒi] n.生物学<br>
+bitter [ˈbitə] adj.痛苦的<br>
+blurring  n.模糊<br>
+boast [bəust] vt.自夸，自吹自擂n.夸口，自负<br>
+body [ˈbɔdi] n.尸体<br>
+bodyguard [ˈbɔdi:ˌgɑ:d] n.卫队<br>
+bondage [ˈbɔndidʒ] n.束缚<br>
+boredom [ˈbɔ:dəm] n.厌烦<br>
+boring [ˈbɔ:riŋ] n.钻孔<br>
+bow [bəu] n.船头<br>
+break [breik] n.间断<br>
+</div>
+
+<div>breeze [bri:z] n.微风<br>
+brink [briŋk] n.边缘<br>
+bronze [brɔnz] n.青铜<br>
+bud [bʌd] n.花蕾<br>
+bulrush [ˈbulrʌʃ] n.芦苇<br>
+burden [ˈbə:dən] n.负担<br>
+burial [ˈberiəl] n.埋葬<br>
+burrow [ˈbʌrəu] vt.挖，掘<br>
+burst [bə:st] n.突发；一阵一阵的迸发<br>
+buzz [bʌz] vi.嗡嗡叫<br>
+cable [ˈkeibl] n.电缆<br>
+cacti [ˈkæktaɪ] n.仙人掌<br>
+calf [kæf] n.仔<br>
+camshaft [ˈkæmʃɑ:ft] n.凸轮轴<br>
+candidate [ˈkændidit] n.候选人<br>
+cannon [ˈkænən] n.大炮<br>
+capture [ˈkæptʃə] vt.夺得<br>
+carrier [ˈkæriə] n.带菌者<br>
+case [keis] n.事例<br>
+cast [kɑ:st] vt.抛<br>
+</div>
+
+<div>castle [ˈkɑːsl] n.船楼<br>
+casualty [ˈkæʒjuəlti] n.伤亡<br>
+cat [kæt] n.猫科动物<br>
+cautious [ˈkɔ:ʃəs] adj.谨慎的<br>
+censorship [ˈsensəˌʃɪp] n.审查<br>
+centimetre [ˈsentiˌmi:tə] n.厘米<br>
+challenger [ˈtʃælindʒə] n.挑战<br>
+chaos [ˈkeiɔs] n.混乱<br>
+character [ˈkæriktə] n.特性<br>
+characteristic [ˌkæriktəˈristik] adj.特有的<br>
+characterization [ˌkærəktərɪˈzeɪʃən] n.人物塑造<br>
+charming  adj.媚人的<br>
+chemist [ˈkemist] n.化学家<br>
+cheque [tʃek] n.支票<br>
+cherub [ˈtʃerəb] n.小天使<br>
+chief [tʃi:f] adj.主要的,n.首领<br>
+childish [ˈtʃaɪldɪʃ] adj.幼稚的<br>
+circle [ˈsə:kl] n.界<br>
+clash [klæʃ] n.冲突<br>
+cliche ['kliːʃeɪ] n.陈词滥调<br>
+</div>
+
+<div>coarse [kɔ:s] adj.粗劣的<br>
+cobra [ˈkəubrə] n.眼镜蛇<br>
+cod [kɔd] n.鳕鱼(复数不加s)<br>
+code [kəud] n.法规，法典；准则<br>
+cohabitation [ˌkəʊhæbɪˈteɪʃən] n.同居<br>
+coke [kəʊk] n.焦炭<br>
+cold [kəuld] adj.冷冰冰的<br>
+collaboration [kəˌlæbəˈreɪʃn] n.合作<br>
+colour-blind  adj.色盲的<br>
+colourless [ˈkʌləlɪs] adj.平庸的<br>
+combative [ˈkɔmbətiv] adj.好斗的<br>
+combination [ˌkɔmbiˈneiʃən] n.结合体<br>
+commission [kəˈmiʃən] n.委员会<br>
+commitment [kəˈmɪtmənt] n.约束<br>
+commonplace [ˈkɔmənpleis] adj.平凡的<br>
+compassion [kəmˈpæʃən] n.同情<br>
+compatible [kəmˈpætəbl] adj.相容的<br>
+compel [kəmˈpel] vt.强迫<br>
+compensation [ˌkɔmpenˈseiʃən] n.补偿<br>
+competence [ˈkɔmpitəns] n.能力<br>
+</div>
+
+<div>competitive [kəmˈpetitiv] adj.竞争性的<br>
+component [kəmˈpəunənt] n.组成部分<br>
+compose [kəmˈpəuz] vi.组成(与of连用)<br>
+comprehend [ˌkɔmpriˈhend] vt.理解<br>
+compression [kəmˈpreʃən] n.压缩<br>
+conceited [kənˈsi:tɪd] adj.自高自大的<br>
+conceive [kənˈsi:v] vi.想像<br>
+concern [kənˈsə:n] vt.涉及<br>
+conclude [kənˈklu:d] vi.得出结论<br>
+concrete [ˈkɔnkri:t] adj.具体的<br>
+condemned  adj.被判死刑的<br>
+condition [kənˈdiʃən] vt.制约<br>
+confess [kənˈfes] vt.承认<br>
+confine [kənˈfain] vt.限制,n.境界<br>
+confines [ˈkɔnfaɪnz] n.范围<br>
+conflict [ˈkɔnflikt] n.冲突<br>
+confront [kənˈfrʌnt] vt.面对<br>
+conjuring [ˈkʌndʒərɪŋ] n.魔术<br>
+connection [kəˈnekʃən] n.亲戚<br>
+conqueror [ˈkɔŋkɵrə] n.征服者<br>
+</div>
+
+<div>conquest [ˈkɔŋkwest] n.征服<br>
+consciousness [ˈkɔnʃəsnɪs] n.认识<br>
+consequently [ˈkɔnsikwəntli] adv.因而<br>
+constitute [ˈkɔnstitju:t] vt.构成<br>
+consumption [kənˈsʌmpʃən] n.消耗；消费<br>
+contemporary [kənˈtempərəri] adj.当代的,n.同代人<br>
+content [ˈkɔntent] vi.感到满意<br>
+contrary [ˈkɔntrəri] adj.相反的<br>
+contrast [ˈkɔntræst] n.对照；悬殊差别<br>
+contribute [kənˈtribjut] vt.贡献<br>
+contribution [ˌkɔntriˈbju:ʃən] n.贡献<br>
+controversial [ˌkɔntrəˈvə:ʃəl] adj.引起争论的<br>
+controversy [ˈkɔntrəvə:si] n.争论<br>
+conversion [kənˈvə:ʃən] n.转变<br>
+convey [kənˈvei] vt.传达<br>
+cost [kɔst] n.成本<br>
+counteract [ˌkauntəˈrækt] vt.抵消,vi.抵消<br>
+court [kɔ:t] vt.寻求,n.大学内的大院<br>
+cowardly [ˈkaʊədli:] adj.懦怯的<br>
+cowboy [ˈkaʊˌbɔɪ] n.牛仔<br>
+</div>
+
+<div>craft [krɑ:ft] n.船<br>
+crave [kreiv] vt.渴求<br>
+craving [ˈkreɪvɪŋ] n.渴望(与for连用)<br>
+credibility [ˌkredəˈbɪlɪti:] n.可信性<br>
+credible [ˈkredəbl] adj.可信的<br>
+credit [ˈkredit] vt.相信...有,n.债权<br>
+creditor [ˈkredɪtə] n.债权人<br>
+cricket [ˈkrikit] n.板球<br>
+crude [kru:d] adj.原始的<br>
+cruelty [ˈkru:əlti:] n.残酷<br>
+cruise [kru:z] n.巡航<br>
+crust [krʌst] n.地壳<br>
+cultivate [ˈkʌltiveit] vt.培养<br>
+cultivation [ˌkʌltəˈveɪʃən] n.培养<br>
+curative [ˈkjuərətiv] adj.治病的<br>
+current [ˈkʌrənt] n.气流<br>
+cushion [ˈkuʃən] n.垫层<br>
+customary [ˈkʌstəməri] adj.司空见惯的；通常的<br>
+cycle [ˈsaikl] n.循环<br>
+cylinder [ˈsilində] n.圆柱体<br>
+</div>
+
+<div>cynic [ˈsɪnɪk] n.愤世嫉俗者<br>
+dale [deɪl] n.山谷<br>
+damaging  adj.有害的<br>
+date [deit] vt.注...日期<br>
+debtor [ˈdetə] n.债务人<br>
+decade [ˈdekeid] n.十年<br>
+decay [diˈkei] vi.腐败,n.衰退<br>
+decency [ˈdi:sənsi:] n.体面<br>
+decline [diˈklain] vi.缩短,n.衰退<br>
+decompose [ˌdi:kəmˈpəʊz] vi.腐烂<br>
+decree [diˈkri:] vi.规定<br>
+deem [di:m] vt.认为<br>
+defect [diˈfekt] n.缺陷<br>
+defendant [diˈfendənt] n.被告<br>
+defensive [dɪˈfensɪv] adj.防卫的<br>
+definition [ˌdefiˈniʃən] n.定义<br>
+defy [diˈfai] vt.违抗<br>
+delicate [ˈdelikit] adj.灵敏的<br>
+delinquency [dɪˈlɪŋkwənsi:] n.犯罪<br>
+demon [ˈdi:mən] n.恶魔<br>
+</div>
+
+<div>demonstration [ˌdemənˈstreɪʃən] n.展示<br>
+deposit [diˈpɔzit] vt.使淤积,n.矿层<br>
+deprive [diˈpraiv] vt.剥夺；剥夺(与of连用)<br>
+derrick [ˈderɪk] n.井架<br>
+desirable [diˈzaiərəbl] adj.可取的<br>
+devastation [ˌdevəsˈteɪʃɵn] n.破坏<br>
+device [diˈvais] n.装置<br>
+devoted [dɪˈvəʊtɪd] adj.热心的<br>
+devotion [diˈvəuʃən] n.热爱<br>
+diagnosis [ˌdaiəɡˈnəusis] n.诊断<br>
+diameter [daiˈæmitə] n.直径<br>
+dictate [dikˈteit] vt.命令<br>
+dictatorship [dɪkˈteɪtəˌʃɪp] n.独裁政治<br>
+dimension [diˈmenʃən] n.维<br>
+diplomatic [ˌdipləˈmætik] adj.外交的<br>
+direct [diˈrekt] vt.指向<br>
+disband [dɪsˈbænd] vt.解散<br>
+disbelieve [ˌdɪsbɪˈli:v] vt.不相信<br>
+discern [diˈsə:n] vt.辨明<br>
+discharge [disˈtʃɑ:dʒ] n.排泄<br>
+</div>
+
+<div>discipline [ˈdisiplin] n.戒律；纪律<br>
+discontented [ˌdɪskənˈtentɪd] adj.心怀不满的<br>
+disgraceful [dɪsˈgreɪsfəl] adj.不光彩的<br>
+disgruntled [disˈgrʌntld] n.不满的<br>
+disgusting [dɪsˈgʌstɪŋ] adj.令人作呕的<br>
+disillusionment [ˌdɪsɪˈlu:ʒənmənt] n.幻灭感<br>
+disloyalty [ˌdisˈlɔiəlti] n.不忠诚<br>
+dismissal [dɪsˈmɪsəl] n.遣散<br>
+disorder [disˈɔ:də] n.失调<br>
+dispose [disˈpəuz] vi.处理(与of连用)<br>
+dispute [disˈpju:t] vt.争夺<br>
+distinction [disˈtiŋkʃən] n.差别<br>
+distort [disˈtɔ:t] vt.歪曲<br>
+distress [disˈtres] n.忧伤<br>
+distribute [disˈtribju:t] vt.分送<br>
+distributor [dɪˈstrɪbjətə] n.配电盘<br>
+disturb [diˈstə:b] vt.妨碍<br>
+disturbance [disˈtə:bəns] n.打断<br>
+dividend [ˈdividend] n.红利<br>
+domesticate [dəˈmestɪˌkeɪt] vt.驯养<br>
+</div>
+
+<div>dominant [ˈdɔminənt] adj.占统治地位的<br>
+don [dɔn] vt.戴上<br>
+doorman [ˈdɔ:ˌmæn] n.看门人<br>
+downwards [ˈdaʊnwədz] adv.向下<br>
+draft [drɑ:ft] n.草稿<br>
+drainage [ˈdreinidʒ] n.排水设备<br>
+drastically [ˈdræstɪkəlɪ] adv.大幅度地<br>
+draw [drɔ:] vt.开立(票据等)；挣得<br>
+dredge [dredʒ] vt.挖掘<br>
+drug [drʌɡ] n.药品<br>
+drum [drʌm] n.鼓状物<br>
+dune [du:n] n.沙丘<br>
+dwelling [ˈdwelɪŋ] n.住宅；住所<br>
+earnings [ˈɜ:nɪŋz] n.利润<br>
+earthquake [ˈə:θkweik] n.地震<br>
+echo [ˈekəʊ] n.回声<br>
+edifice [ˈedəfɪs] n.大厦<br>
+edit [ˈedit] vt.修改<br>
+effectiveness [əˈfektɪvnɪs] n.成效<br>
+ego [ˈeɡəu] n.自我<br>
+</div>
+
+<div>elapse [iˈlæps] vi.(时间的)消逝<br>
+elbow [ˈelbəu] n.肘<br>
+electrode [ɪˈlekˌtrəʊd] n.电极<br>
+electronics [ilekˈtrɔniks] n.电子学<br>
+element [ˈelimənt] n.成分<br>
+eliminate [iˈlimineit] vt.消除<br>
+elusive [ɪˈlu:sɪv] adj.难以捉摸的<br>
+embarrassing [ɪmˈbærəsɪŋ] adj.令人为难的<br>
+emergency [iˈmə:dʒənsi] n.紧急情况<br>
+emission [ɪˈmɪʃən] n.散发<br>
+emotion [iˈməuʃən] n.强烈感情<br>
+emphasize [ˈemfəsaiz] vt.强调<br>
+empire [ˈempaiə] n.帝国<br>
+employment [imˈplɔimənt] n.职业<br>
+emptiness [ˈemptɪnɪs] n.空虚<br>
+encounter [inˈkauntə] n.偶尔相遇<br>
+encourage [inˈkʌridʒ] vt.促进<br>
+encyclopaedic  adj.广博的<br>
+endeavour [inˈdevə] vi.努力<br>
+endowment [enˈdaʊmənt] n.捐赠的基金<br>
+</div>
+
+<div>enforced  adj.强加的<br>
+enhance [inˈhɑ:ns] vt.增进<br>
+enrich [inˈritʃ] vt.丰富<br>
+enterprising [ˈentəˌpraɪzɪŋ] adj.雄心勃勃的<br>
+entertaining [ˌentəˈteɪnɪŋ] adj.有趣的<br>
+entity [ˈentiti] n.存在<br>
+envision [enˈvɪʒən] vt.预想<br>
+epic [ˈepik] n.史诗<br>
+epidemic [ˌepiˈdemik] n.流行病<br>
+equilibrium [ˌi:kwəˈlɪbri:əm] n.平衡状态<br>
+erode [ɪˈrəʊd] vt.侵蚀<br>
+espionage [ˌespiəˈnɑ:ʒ] n.间谍活动<br>
+essential [iˈsenʃəl] adj.本质上的,n.要点<br>
+essentially [iˈsenʃəli] adv.基本上<br>
+estate [isˈteit] n.社会阶层；庄园<br>
+eternal [i:ˈtə:nl] adj.永久的<br>
+eternity [ɪˈtɜ:nɪti:] n.永恒<br>
+evaluation [ɪˌvæljʊˈeɪʃən] n.评估<br>
+eventual [ɪˈventʃu:əl] adj.最后的<br>
+ever-increasing  adj.不断增长的<br>
+</div>
+
+<div>evil [ˈi:vəl] n.恶行<br>
+evolution [ˌi:vəˈlu:ʃən] n.进化<br>
+exacting [ɪgˈzæktɪŋ] adj.严格的<br>
+excessive [ikˈsesiv] adj.过分的<br>
+exert [iɡˈzə:t] vt.产生<br>
+exhaustion [ɪgˈzɔ:stʃən] n.精疲力竭<br>
+exhibit [iɡˈzibit] vt.显示<br>
+exigency [ˈeksədʒənsi:] n.紧迫<br>
+expand [iksˈpænd] vi.扩张<br>
+expedient [ɪkˈspi:di:ənt] adj.有利的<br>
+expedition [ˌekspiˈdiʃən] n.考察队<br>
+experiment [iksˈperimənt] n.实验<br>
+explosion [iksˈpləuʒən] n.激增<br>
+exquisite [ˈekskwizit] adj.精细的<br>
+exterminate [ɪkˈstɜ:məˌneɪt] vt.消灭<br>
+extinction [ɪkˈstɪŋkʃən] n.灭绝<br>
+facilitate [fəˈsiliteit] vt.促进<br>
+faculty [ˈfækəlti] n.本领<br>
+familiarity [fəˌmɪlˈjærɪti:] n.熟悉<br>
+fancy [ˈfænsi] n.想像力<br>
+</div>
+
+<div>far-reaching [ˈfɑ:ˈri:tʃɪŋ] adj.深远的<br>
+fast [fɑ:st] n.斋戒<br>
+fatuous [ˈfætʃu:əs] adj.愚蠢的；荒唐的<br>
+feat [fi:t] n.技艺<br>
+feature [ˈfi:tʃə] n.特征<br>
+feed [fi:d] vt.喂养,vi.以...为食物<br>
+fervently [ˈfɜ:vəntlɪ] adv.热情地<br>
+fierce [fiəs] adj.凶猛的<br>
+finance [faiˈnæns] n.财政<br>
+financially [faɪˈnænʃəlɪ] adv.经济上<br>
+fishery [ˈfɪʃəri:] n.渔场<br>
+fission [ˈfɪʃən] n.裂变<br>
+flare [flɛə] n.闪烁<br>
+flat [flæt] adj.平躺的；平的<br>
+fleet [fli:t] n.舰队<br>
+flimsy [ˈflɪmzi:] adj.站不住脚的<br>
+flint [flɪnt] n.燧石，打火石<br>
+floating [ˈfləʊtɪŋ] adj.浮在水上的<br>
+flock [flɒk] n.羊群<br>
+flow [fləu] n.流量<br>
+</div>
+
+<div>foam [fəum] n.泡沫<br>
+force [fɔ:s] n.军队<br>
+ford [fɔːd] n.可涉水而过的地方<br>
+foresee [fɔ:ˈsi:] vt.预见<br>
+forge [fɔ:dʒ] vt.伪造<br>
+forgery [ˈfɔ:dʒəri] n.伪造<br>
+form [fɔ:m] vt.组成<br>
+formation [fɔ:ˈmeiʃən] n.组成；队形<br>
+formula [ˈfɔ:mjulə] n.配方；基本格局<br>
+foundation [faunˈdeiʃən] n.基金<br>
+fraction [ˈfrækʃən] n.小部分<br>
+frankly [ˈfræŋkli:] adv.坦率地说<br>
+free fall [fri:fɔ:l] 自由落体<br>
+friction [ˈfrikʃən] n.摩擦<br>
+fringe [frindʒ] n.边缘<br>
+frustration [frʌˈstreɪʃən] n.挫折<br>
+fuel [fjuəl] n.燃料<br>
+fun [fʌn] n.娱乐<br>
+function [ˈfʌŋkʃən] n.作用,vi.起作用<br>
+fundamental [ˌfʌndəˈmentəl] n.根本<br>
+</div>
+
+<div>fury [ˈfjuəri] n.勃然大怒<br>
+futile [ˈfju:tail] adj.无用的<br>
+gale [ɡeɪl] n.大风<br>
+gallows [ˈgæləʊz] n.绞刑架<br>
+gang [ɡæŋ] n.一帮人<br>
+garlic [ˈɡɑ:lik] n.大蒜<br>
+garrison [ˈɡærisn] n.卫戍部队<br>
+gateway [ˈgeɪtˌweɪ] n.大门<br>
+generalize [ˈdʒenərəlaiz] vt.归纳<br>
+generally [ˈdʒenərəli] adv.一般地<br>
+generate [ˈdʒenəreit] vt.发(电)；导致<br>
+generation [ˌdʒenəˈreiʃən] n.一代<br>
+genius [ˈdʒi:njəs] n.天才<br>
+geologist [dʒɪˈɔlədʒɪst] n.地质学家<br>
+gifted [ˈgɪftɪd] adj.有天赋的<br>
+gleam [ɡli:m] n.光芒；(喻)短暂微弱的显现<br>
+globe [ɡləub] n.地球<br>
+glorious [ˈɡlɔ:riəs] adj.光辉灿烂的<br>
+goal [ɡəul] n.目的地<br>
+good [ɡud] n.利益<br>
+</div>
+
+<div>goodwill [ˈgʊdˈwɪl] n.友谊<br>
+gorilla [ɡəˈrilə] n.大猩猩<br>
+gossip [ˈɡɔsip] n.流言蜚语<br>
+govern [ˈɡʌvən] vt.治理<br>
+grain [ɡrein] n.粒<br>
+grandiose [ˈgrændi:ˌəʊs] adj.壮观的<br>
+graph [ɡrɑ:f] n.曲线图<br>
+grasp [ɡrɑ:sp] vt.理解,n.紧握<br>
+grave [ɡreiv] adj.严重的<br>
+gravity [ˈɡræviti] n.重量<br>
+greed [ɡri:d] n.贪婪<br>
+green [ɡri:n] n.公共草地<br>
+grid [grɪd] n.电网<br>
+grim [ɡrim] adj.冷酷无情的<br>
+grind [ɡraind] vt.碾<br>
+grip [ɡrip] n.紧握<br>
+grudge [ɡrʌdʒ] vt.怨恨<br>
+guarantee [ˌɡærənˈti:] vt.担保<br>
+gulf [ɡʌlf] n.深渊<br>
+gunner [ˈgʌnə(r)] n.炮手<br>
+</div>
+
+<div>hamper [ˈhæmpə] vt.妨碍<br>
+handle [ˈhændl] vt.操纵<br>
+hang [hæŋ] vi.笼罩(与over连用)<br>
+hanging [ˈhæŋɪŋ] n.绞刑<br>
+harmony [ˈhɑ:məni] n.和谐<br>
+harness [ˈhɑ:nis] vt.利用<br>
+harp [hɑ:p] n.竖琴<br>
+hasten [ˈheɪsən] vi.急忙，赶忙<br>
+haunt [hɔ:nt] vt.萦绕心头<br>
+hazard [ˈhæzəd] n.危害<br>
+head [hed] vt.在...开头,n.水位差<br>
+heave [hi:v] vt.拖<br>
+hedge [hedʒ] n.树篱<br>
+hence [hens] adv.因此<br>
+herbage [ˈhə:bidʒ] n.牧草<br>
+herd [hə:d] n.兽群<br>
+heretic [ˈherɪtɪk] n.异教徒<br>
+herring [ˈherɪŋ] n.鲱鱼(复数不加s)<br>
+hierarchy [ˈhaiərɑ:ki] n.等级制度<br>
+hint [hint] n.启示，暗示<br>
+</div>
+
+<div>homicide [ˈhɑmɪˌsaɪd] n.凶杀<br>
+horizontal [ˌhɔriˈzɔntəl] adj.水平的<br>
+host [həust] n.主人<br>
+household [ˈhaushəuld] adj.家用的<br>
+hovercraft [ˈhʌvəˌkræft] n.气垫船<br>
+huddle [ˈhʌdl] vi.拥挤<br>
+hull [hʌl] n.船体<br>
+humanity [hju:ˈmæniti] n.人类<br>
+humour [ˈhju:mə] n.情绪<br>
+hydrogen [ˈhaidrədʒən] n.氢<br>
+hypocrisy [hiˈpɔkrəsi] n.伪善<br>
+hypothesis [haiˈpɔθisis] n.假说<br>
+ideal [aiˈdiəl] n.理想<br>
+ignoble [ɪgˈnəʊbəl] adj.不体面的<br>
+ignorant [ˈiɡnərənt] adj.无知的<br>
+illiterate [ɪˈlɪtərɪt] n.文盲<br>
+illogical [ɪˈlɔdʒɪkəl] adj.不合逻辑的<br>
+illumination [ɪˌlu:məˈneɪʃən] n.启发<br>
+illustration [ˌɪləˈstreiʃən] n.插图<br>
+image [ˈimidʒ] n.形象<br>
+</div>
+
+<div>immolation [ɪməˈleɪʃən] n.杀戮<br>
+immortal [iˈmɔ:tl] adj.不朽的<br>
+impending  adj.迫近的<br>
+imperceptible [ˌɪmpəˈseptəbəl] adj.感觉不到的<br>
+imperial [imˈpiəriəl] adj.帝国的<br>
+implication [ˌɪmpliˈkeiʃən] n.含义；暗示<br>
+import [ˈimpɔ:t] n.意义<br>
+impose [imˈpəuz] vt.强加<br>
+impulse [ˈimpʌls] n.推动力<br>
+inability [ˌɪnəˈbɪlɪti:] n.无能，无力<br>
+inaccessible [ˌɪnækˈsesəbəl] adj.进不去的<br>
+inclement [ɪnˈklemənt] adj.险恶的<br>
+inclined [ɪnˈklaɪnd] adj.倾斜的<br>
+inconvenience [ˌɪnkənˈvi:njəns] vt.打扰<br>
+incumbent [inˈkʌmbənt] adj.义不容辞的<br>
+incur [inˈkə:] vt.承担<br>
+incurable [ɪnˈkjʊərəbəl] adj.不可救药的<br>
+indication [ˌɪndiˈkeiʃən] n.表示<br>
+indigestion [ˌɪndɪˈdʒestʃən] n.消化不良<br>
+indignity [ɪnˈdɪgnɪti:] n.侮辱<br>
+</div>
+
+<div>individual [ˌɪndiˈvidjuəl] adj.个人的<br>
+induce [inˈdju:s] vt.诱使；引起<br>
+industrialist [ɪnˈdʌstriəlɪst] n.实业家<br>
+industrious [ɪnˈdʌstri:əs] adj.勤劳的<br>
+infant [ˈɪnfənt] n.婴儿<br>
+infect [inˈfekt] vt.传染<br>
+infinite [ˈinfinit] adj.无穷的<br>
+inherent [inˈhiərənt] adj.固有的<br>
+inherit [inˈherit] vt.继承<br>
+initial [iˈniʃəl] adj.开始的<br>
+initiative [iˈniʃiətiv] n.积极性<br>
+inject [inˈdʒekt] vt.注入<br>
+inmost [ˈɪnˌməʊst] adj.内心深处的<br>
+inner [ˈinə] adj.内部的<br>
+innumerable [iˈnju:mərəbl] adj.无数的<br>
+inscription [inˈskripʃən] n.题词<br>
+inspiration [ˌɪnspəˈreiʃən] n.灵感<br>
+instant [ˈinstənt] adj.即刻的<br>
+institute [ˈinstitju:t] n.(研究)所<br>
+institution [ˌɪnstiˈtju:ʃən] n.机构；制度<br>
+</div>
+
+<div>intense [inˈtens] adj.强烈的<br>
+interior [inˈtiəriə] n.内部<br>
+interpret [inˈtə:prit] vt.阐明<br>
+interval [ˈintəvəl] n.(时间)间隔；间隔时间<br>
+intervene [ˌɪntəˈvi:n] vi.干涉<br>
+interview [ˈintəvju:] n.访问<br>
+intimation [ˌɪntɪˈmeɪʃn] n.暗示<br>
+intrepid [ɪnˈtrepɪd] adj.无畏的<br>
+invest [inˈvest] vt.赋予,vi.对...投资<br>
+ionosphere [aiˈɔnəsfiə] n.电离层<br>
+irregular [ɪˈregjələ] adj.不定期的<br>
+irresistible [ˌɪrɪˈzɪstəbəl] adj.不可抗拒的<br>
+jar [dʒɑ:] n.瓶<br>
+joint [dʒɔint] adj.共同的<br>
+juice [dʒu:s] n.果汁<br>
+juvenile [ˈdʒu:vinail] adj.青少年的<br>
+keen [ki:n] adj.强烈的<br>
+keep [ki:p] n.生计<br>
+key [ki:] adj.关键性的<br>
+kick [kik] vt.踢<br>
+</div>
+
+<div>kidney [ˈkidni] n.肾脏<br>
+knee [ni:] n.膝盖<br>
+knight [nait] n.骑士<br>
+know [nəʊ] vt.经历过<br>
+large-scale [ˈlɑ:dʒˈskeɪl] adj.大规模的<br>
+largely [ˈlɑ:dʒli] adv.主要地<br>
+lark [lɑ:k] n.云雀<br>
+latitude [ˈlætitju:d] n.纬度<br>
+laudable [ˈlɔ:dəbəl] adj.值得称赞的<br>
+launch [lɔ:ntʃ] vt.发送<br>
+laundry [ˈlɔ:ndri] n.洗衣店<br>
+laying  n.铺设<br>
+legend [ˈledʒənd] n.传说<br>
+legion [ˈli:dʒən] n.军团<br>
+lessen [ˈlesən] vi.减少<br>
+lighten [ˈlaɪtn] vt.减轻<br>
+lightly [ˈlaɪtli:] adv.轻易地<br>
+lightning [ˈlaitniŋ] n.闪电<br>
+likelihood [ˈlaiklihud] n.可能性<br>
+linen [ˈlinin] n.亚麻布<br>
+</div>
+
+<div>link [liŋk] n.联系<br>
+list [list] vi.&n.倾斜<br>
+literally [ˈlitərəli] adv.确确实实地<br>
+literary [ˈlitərəri] adj.文学的<br>
+lizard [ˈlɪzəd] n.蜥蜴<br>
+longing [ˈlɔ:ŋɪŋ] n.渴望<br>
+longitudinal [lɔndʒiˈtju:dinl] adj.纵向的<br>
+low-grade [ˈləʊˈgreɪd] n.低档<br>
+loyalty [ˈlɔiəlti] n.忠诚<br>
+luxury [ˈlʌkʃəri] n.奢侈<br>
+magical [ˈmædʒɪkəl] adj.有魔力的<br>
+magpie [ˈmægˌpaɪ] n.鹊<br>
+maintenance [ˈmeintinəns] n.维持<br>
+majestic [məˈdʒestik] adj.威严的<br>
+majority [məˈdʒɔriti] n.大多数<br>
+mammoth [ˈmæməθ] n.猛犸<br>
+manifest [ˈmænifest] adj.明显的<br>
+mariner ['mærɪnə] n.海员<br>
+mark [mɑ:k] n.标记<br>
+marked [mɑ:kt] adj.显著的<br>
+</div>
+
+<div>marshal [ˈmɑ:ʃəl] n.元帅<br>
+mask [mɑ:sk] vt.掩盖<br>
+mass [mæs] n.块体；质量；人群，芸芸众生<br>
+massive [ˈmæsiv] adj.大型的<br>
+materialism [məˈtɪəri:əˌlɪzəm] n.唯物主义<br>
+matter-of-fact [ˈmætərəvˈfækt] adj.实事求是的<br>
+maximum [ˈmæksiməm] adj.最多的<br>
+mean [mi:n] adj.可鄙的<br>
+means  n.资力，收入<br>
+measure [ˈmeʒə] n.措施<br>
+measurement [ˈmeʒəmənt] n.大小，规模<br>
+mechanical [miˈkænikəl] adj.物理的；无意识的<br>
+mechanization [ˌmekənaɪˈzeɪʃən] n.机械化<br>
+mediaeval [ˌmi:di:ˈi:vəl] adj.中世纪的<br>
+medium [ˈmi:djəm] n.媒介物<br>
+meet [mi:t] vt.支付<br>
+menace [ˈmenəs] n.威胁<br>
+merciful [ˈmɜ:sɪfəl] adj.仁慈的<br>
+mermaid [ˈmɜ:ˌmeɪd] n.美人鱼<br>
+messenger [ˈmesindʒə] n.信使<br>
+</div>
+
+<div>mice [maɪs] n.鼠<br>
+might [mait] n.力量<br>
+migrant [ˈmaiɡrənt] n.移民<br>
+migration [maɪˈgreɪʃən] n.迁移<br>
+mild [maild] adj.温和的<br>
+mill [mil] n.磨坊<br>
+millennium [məˈleni:əm] n.一千年<br>
+mineral [ˈminərəl] adj.矿物的<br>
+mining [ˈmaɪnɪŋ] n.采矿<br>
+minority [maiˈnɔriti] n.少数<br>
+mix [miks] vi.混在一起<br>
+mobility [məʊˈbɪlɪti:] n.流动性；机动性<br>
+mock [mɔk] vt.嘲笑<br>
+modernity [mɔˈdə:niti] n.现代性<br>
+modest [ˈmɔdist] adj.适中的<br>
+modify [ˈmɔdifai] vt.修正<br>
+moment [ˈməʊmənt] n.重要<br>
+monetary [ˈmʌnitəri] adj.金融的，金钱的<br>
+monstrous [ˈmɔnstrəs] adj.大得怕人的<br>
+mood [mu:d] n.情绪<br>
+</div>
+
+<div>moon [mu:n] n.卫星<br>
+morality [məˈræliti] n.道德<br>
+morally [ˈmɔ:rəlɪ] adv.道义上<br>
+moreover [mɔ:ˈrəuvə] adv.而且<br>
+mosquito [məsˈki:təu] n.蚊虫<br>
+motion [ˈməuʃən] n.活动<br>
+motivation [ˌməʊtəˈveɪʃən] n.行为的动机<br>
+mount [maunt] vt.放置；架有,vi.骑上(与on...<br>
+muddle-headed [ˈmʌdlˌhedɪd] adj.糊涂的<br>
+multiply [ˈmʌltiplai] vi.繁殖<br>
+mumbo-jumbo [ˈmʌmbəuˈdʒʌmbəu] n.繁文缛节<br>
+municipality [mjuˌnisiˈpæliti] n.市政当局<br>
+muscle [ˈmʌsl] n.肌肉<br>
+mushroom [ˈmʌʃrum] n.蘑菇<br>
+muzzle [ˈmʌzl] n.炮口<br>
+myriad [ˈmiriəd] adj.无数的<br>
+mystic [ˈmistik] adj.神秘的<br>
+myth [miθ] n.神话<br>
+mythology [miˈθɔlədʒi] n.(总称)神话<br>
+namely [ˈneimli] adv.即<br>
+</div>
+
+<div>naturalist [ˈnætʃərələst] n.博物学家<br>
+nature [ˈneitʃə] n.种类<br>
+navigation [ˌnæviˈɡeiʃən] n.航海<br>
+navy [ˈneivi] n.海军<br>
+necessity [niˈsesiti] n.必要性<br>
+needy [ˈni:di:] adj.贫困的<br>
+neglect [niˈɡlekt] vt.忽视<br>
+neighbouring [ˈneɪbərɪŋ] adj.邻近的<br>
+nepotism [ˈnepəˌtɪzəm] n.裙带关系<br>
+network [ˈnetwə:k] n.网<br>
+non-existent  adj.不存在的<br>
+nonsense [ˈnɔnsəns] n.胡说八道<br>
+nowadays [ˈnauədeiz] adv.现今<br>
+nuclear [ˈnju:kliə] adj.原子核的<br>
+nut [nʌt] n.坚果<br>
+obligation [ˌɔbliˈɡeiʃən] n.义务<br>
+observation [ˌɔbzə:ˈveiʃən] n.言论；观测报告<br>
+obstruction [əbˈstrʌkʃən] n.障碍物<br>
+obtainable [əbˈteɪnəbl] adj.可得到的<br>
+occupation [ˌɔkjuˈpeiʃən] n.职业，工作<br>
+</div>
+
+<div>odds [ɔdz] n.可能性<br>
+odour [ˈəudə] n.气味<br>
+offence [əˈfens] n.犯罪<br>
+offensive [əˈfensiv] adj.进攻的<br>
+omen [ˈəʊmən] n.预兆<br>
+ominous [ˈɔmənəs] adj.不祥的<br>
+operation [ˌɔpəˈreiʃən] n.作战<br>
+opposition [ˌɔpəˈzɪʃən] n.反对；对立面；反对物<br>
+optimism [ˈɔptimizəm] n.乐观主义<br>
+ordeal [ɔ:ˈdi:l] n.折磨<br>
+organ [ˈɔ:ɡən] n.机构<br>
+organic [ɔ:ˈɡænik] adj.有机的<br>
+organism [ˈɔ:ɡənizəm] n.有机体<br>
+organization [ˌɔ:ɡənaiˈzeiʃən] n.组织<br>
+origin [ˈɔridʒin] n.起源；由来<br>
+original [əˈridʒinəl] adj.有创见的<br>
+ornament [ˈɔ:nəmənt] vt.装饰<br>
+orphanage [ˈɔ:fənɪdʒ] n.孤儿院<br>
+outlaw [ˈautlɔ:] n.逃犯<br>
+outlay [ˈaʊtˌleɪ] n.支付<br>
+</div>
+
+<div>outline [ˈautlain] n.轮廓<br>
+outsider [aʊtˈsaɪdə] n.局外人，在野的人<br>
+outwards [ˈaʊtwədz] adv.向外<br>
+overdraw [ˌəʊvəˈdrɔ:] vt.透支<br>
+overpopulation [ˌəʊvəˌpɔpjəˈleɪʃən] n.人口过剩<br>
+overwork [ˌəʊvəˈwɜ:k] vi.劳累过度<br>
+owe [əu] vt.感激(与to连用)<br>
+oxygen [ˈɔksidʒən] n.氧气<br>
+pace [peis] n.速度<br>
+packed [pækt] adj.挤得满满的<br>
+pagan [ˈpeɪgən] n.异教徒<br>
+parachute [ˈpærəʃu:t] n.降落伞<br>
+paradoxical [ˌpærəˈdɒksɪkl] adj.自相矛盾的<br>
+partake [pɑ:ˈteɪk] vi.参与(与of连用)<br>
+particle [ˈpɑ:tikl] n.粒子<br>
+particular [pəˈtikjulə] n.详细情况<br>
+partridge [ˈpɑ:trɪdʒ] n.鹧鸪<br>
+pastime [ˈpɑ:staim] n.消遣<br>
+patent [ˈpeitənt] n.专利权<br>
+path [pɑ:θ] n.途径<br>
+</div>
+
+<div>pathetic [pəˈθetik] adj.可怜的<br>
+patriotism [ˈpeɪtri:əˌtɪzəm] n.爱国心<br>
+patrol [pəˈtrəul] n.巡逻队<br>
+patronage [ˈpeɪtrənɪdʒ] n.恩惠<br>
+pattern [ˈpætən] n.方式；类型；模式<br>
+peak [pi:k] n.山峰<br>
+pear [pɛə] n.梨子<br>
+peep [pi:p] vi.窥探<br>
+penalty [ˈpenəlti] n.刑罚<br>
+penetrate [ˈpenitreit] vt.进入<br>
+penholder [ˈpenˌhəuldə] n.笔杆<br>
+pennant [ˈpenənt] n.三角旗<br>
+perceive [pəˈsi:v] vt.看见<br>
+perception [pəˈsepʃən] n.感觉<br>
+perilous [ˈperələs] adj.危险的，冒险的<br>
+persecute [ˈpə:sikju:t] vt.迫害<br>
+personality [ˌpə:səˈnæliti] n.个性<br>
+pertinent [ˈpə:tinənt] adj.中肯的<br>
+pervade [pəˈveɪd] vt.渗透<br>
+pest [pest] n.有害动物<br>
+</div>

@@ -1,0 +1,330 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>基础信息</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+<!--
+.sec { border-top:1px solid #666; }
+.sec p { padding:3px; margin:8px;  }
+.css3 { font-weight:bold; font-size: larger; color: #009; text-align:center; text-shadow: 0px -3px 0px #FFF, 0px 2px 3px #333; border-radius: 32px; margin:8px; }
+p.css3 { border:5px solid #3A6EA5; }
+p.title { color:#666; font-size:smaller; line-height:150%; background:#DDD; border-bottom:1px solid #CCC; }
+p.test { line-height:100%; }
+p span, .span { color:#0A246A; font-weight:bold; }
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; margin:5px 1px; border:1px solid #CCC; }
+.btn { width:70px; }
+-->
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">实验室</a>
+</p>
+
+  <p class="tc"><strong>基础信息</strong></p>
+  
+  <div class="sec">
+    <p class="title"><strong>userAgent/location.href</strong></p>
+    <p class="test" id="jsua">JS NOT Support(不支持JavaScript)!</p>
+    <p class="test" id="jshref"></p>
+    <!--
+    <textarea style="width:100%;"></textarea>
+    <input type="text" style="width:100%;" value="">
+    -->
+  </div>
+  
+  <div class="sec">
+    <p class="title"><a class="icobox right" onClick="$('#scss3').toggle();"><i class="icons ico-folder-open"></i></a>
+    <strong>CSS3 &amp; Datalist…</strong></p>
+    <div id="scss3" style="display:none;">
+      <p class="css3">CSS3 (圆角样式):看到[圆角/阴影]效果了吗？
+      <br>没有看到，表示不支持CSS3。 
+      </p>
+      <p class="test" contenteditable="true" title="[contenteditable]">这是一段可编辑的段落,请试着编辑该文本。</p>
+     <p class="test">
+      Datalist: <input type="url" list="url_list" name="link" />
+      <datalist id="url_list">
+      <option label="W3School" value="http://www.W3School.com.cn" />
+      <option label="Google" value="http://www.google.com" />
+      <option label="Microsoft" value="http://www.microsoft.com" />
+      </datalist>
+      </p>
+      <p class="test">
+      Placeholder: 
+      <input type="text" id="fmdata[keywords]" name="fmdata[keywords]" placeholder="请以半角逗号隔开"  value="" />
+      </p>
+    </div>
+  </div>
+  
+  <div class="sec">
+    <p class="title"><a class="icobox right" onClick="$('#media').toggle();"><i class="icons ico-folder-open"></i></a>
+    <strong>媒体 Media</strong></p>
+    <div id="media" style="display:none;">
+      <p>综合x3：
+      <audio controls>
+      <source src="../uimgs/media/yinfu85.mp3" />
+      <source src="../uimgs/media/kaiguan.ogg" />
+      <source src="../uimgs/media/kaiguan.wav" />
+      [audio]不支持。
+      </audio>
+      </p>
+      <!--audio src="../uimgs/media/chra.wav" controls>[audio]不支持。</audio-->
+      <p>yinfu85.mp3：<audio src="../uimgs/media/yinfu85.mp3" controls></audio></p>
+      <p>kaiguan.ogg：<audio src="../uimgs/media/kaiguan.ogg" controls></audio></p>
+      <p>kaiguan.wav：<audio src="../uimgs/media/kaiguan.wav" controls></audio></p>
+       
+    </div>
+  </div>
+  
+  <div class="sec">
+    <p class="title"><a class="icobox right" onClick="$('#scanvas').toggle();"><i class="icons ico-folder-open"></i></a>
+    <strong>svg矢量图 &amp; canvas画布</strong></p>
+    <div id="scanvas" style="display:none;">
+	  <svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="190">
+        <polygon points="100,10 40,180 190,60 10,60 160,180"
+        style="fill:lime;stroke:purple;stroke-width:5;fill-rule:evenodd;" />
+      </svg>
+      <canvas id="h5Canvas" width="360" height="50">不支持HTML5[canvas]。</canvas>   
+    </div>
+  </div>
+  
+  <div class="sec">
+    <p class="title"><a class="icobox right" onClick="$('#fstyle').toggle();"><i class="icons ico-folder-open"></i></a>
+    <strong>字体样式</strong></p>
+      <div id="fstyle" style="display:none;">    
+      <p class="test">字体样式：默认-Default；</p>
+      <p class="test"><strong>字体样式：Tag-strong；</strong></p>
+      <p class="test"><a>字体样式：Tag-a；</a></p>
+      <p class="test"><b>字体样式：Tag-b；</b></p>
+      <p class="test"><i>字体样式：Tag-i；</i></p>
+      <p class="test"><s>字体样式：Tag-s；(不赞成使用)</s></p>
+      <p class="test"><u>字体样式：Tag-u；(不赞成使用)</u></p>
+      <p class="test"><span style="font-weight:bold">字体样式：span:bold；</span></p>
+      <p class="test"><span style="font-weight:bolder">字体样式：span:bolder；</span></p>
+      <p class="test"><span style="font-weight:100">字体样式：span:100；</span></p>
+      <p class="test"><span style="font-weight:300">字体样式：span:300；</span></p>
+      <p class="test"><span style="font-weight:500">字体样式：span:500；</span></p>
+      <p class="test"><span style="font-weight:700">字体样式：span:700；</span></p>
+      <p class="test"><span style="font-weight:900">字体样式：span:900；</span></p>
+	  </div>
+  </div>
+  
+  <div class="sec">
+    <p class="title"><strong>screen/storage/platform</strong></p>
+    <p class="test">screen.width|height: <span id="screen"></span></p>
+    
+    <p class="test">cookieEnabled: <span id="jscook"></span></p>
+    <p class="test">platform: <span id="jsplat"></span></p>
+    <p class="test">localStorage: <span id="locstore">不支持本地存储。</span></p>
+  </div>
+  
+  <div class="sec">
+    <p class="title"><strong>时间 &amp; 转化</strong></p>
+    <p class="test">Date.now: <span id="jsnow"></span></p>
+    <p class="test">
+      <input name="dtstr" type="text" id="dtstr" size="20">
+      <input name="btn2stamp" type="button" id="btn2stamp" value="-&gt;stamp" size="20" onClick="f2stamp()" class="btn">
+    </p>
+    <p class="test">
+      
+      <input name="dtstamp" type="text" id="dtstamp" size="20">
+      <input name="btn2str" type="button" id="btn2str" value="-&gt;string" size="15" onClick="f2str()" class="btn">
+    </p>
+  </div>
+  
+  <div class="sec">
+    <p class="title"><a class="icobox right" onClick="$('#jsdet2').toggle();"><i class="icons ico-folder-open"></i></a>
+    <strong>navigator.screen(detail)</strong></p>
+      <div id="jsdet2">    
+        <p class="subNav">
+        <a class="bgblue" onClick="jsdfunc('screen')">screen</a>
+        <a class="bgblue" onClick="jsdfunc('navigator')">navigator</a>
+        <!--a class="bgblue" onClick="jsdfunc('xx')">xx</a-->
+        <a class="bgblue" onClick="jsdfunc('mimeTypes')">mimeTypes</a>
+        <a class="bgblue" onClick="jsdfunc('plugins')">plugins</a>
+        </p>
+  		<div id='jsdet2list' class="pv10">
+        请选择
+  		</div>
+	  </div>
+<script type="text/javascript">
+function jsdfunc(type){
+	var dmax = 3;
+	var obj = navigator;
+	if(type=='screen') obj = window.screen;
+	if(type=='mimeTypes'){ 
+		return jsElm.jeID('jsdet2list').innerHTML = objMimeTypes();
+	}
+	if(type=='plugins'){ 
+		return jsElm.jeID('jsdet2list').innerHTML = objPlugins();
+	}
+	if(obj){
+		jsElm.jeID('jsdet2list').innerHTML = objItems(obj,1,dmax);
+	}
+}
+
+function objItems(obj,deep,dmax){
+	if(!obj) obj = window;
+	if(!deep) deep = 1;
+	if(!dmax) dmax = 3;
+	var s = '<ul>';
+	for(i in obj){
+		var v = obj[i]; 
+		var t = typeof(obj[i]); 
+		s += '<li>('+t+')'+i+'='+v;
+		if (v === null){
+			s += '</li>';
+			continue;
+		} 
+		//*
+		if (i === 'top' || i === 'window' || i === 'location' || i === 'document' || i === 'chrome' || i === 'external' ){
+			s += '（……'+i+'）</li>';
+			continue;
+		}
+		//*/	
+		if(t=='object'){ 
+			if(deep<dmax){
+				if (i==='mimeTypes' || i==='plugins'){
+					s += '（……'+i+'）</li>';
+					continue;
+				}
+				s += '</li>'+objItems(obj[i],deep+1);
+			}else{
+				s += '（……）</li>'; //'+obj[i].length+'
+			}
+		}else{
+			s += '</li>';
+		}
+	}
+	s += '</ul>';
+	return s;
+} jsdfunc('screen');
+
+function objPlugins(){
+	var ps = navigator.plugins;
+	var s = '<ul>';
+	for (var i=0; i<ps.length; i++){
+		s += '<li>name: <span class="span">' + ps[i].name + '</span>';
+		s += '<br>description: <span class="span">' + ps[i].description + '</span>';
+		s += '<br>filename: <span class="span">' + ps[i].filename + '</span></li>';
+	}
+	s += '</ul>';
+	return s;
+}
+
+function objMimeTypes(){
+	var ps = navigator.mimeTypes;
+	var s = '<ul>';
+	for (var i=0; i<ps.length; i++){
+		s += '<li>type: <span class="span">' + ps[i].type + '</span>';
+		s += '<br>description: <span class="span">' + ps[i].description + '</span>';
+		s += '<br>suffixes: <span class="span">' + ps[i].suffixes + '</span></li>';
+	}
+	s += '</ul>';
+	return s;
+}
+
+
+</script>           
+  </div>  
+  
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">实验室</a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+
+jsElm.jeID('jsua').innerHTML = navigator.userAgent;
+jsElm.jeID('jshref').innerHTML = location.href;
+jsElm.jeID('screen').innerHTML = window.screen.width+' x '+window.screen.height;
+jsElm.jeID('jscook').innerHTML = navigator.cookieEnabled;
+jsElm.jeID('jsplat').innerHTML = navigator.platform;
+
+var locStore = new multiStore('local');
+var ls_skey = _cbase.ck.ckpre+'start';
+var ls_start = locStore.get(ls_skey); 
+var lsSupport = (('localStorage' in window) && (window['localStorage'] !== null));
+if(lsSupport) jsElm.jeID('locstore').innerHTML = '('+ls_start+')支持本地存储。';
+
+var h5cnv = jsElm.jeID("h5Canvas");
+var h5cxt = h5cnv.getContext("2d");
+h5cxt.moveTo(20,1);
+h5cxt.lineTo(140,40);
+h5cxt.lineTo(20,40);
+h5cxt.stroke();
+
+// 时间转换时间戳
+//alert(transdate('2014-02-32 12:23:32'));
+function toStamp(endTime){ 
+	var date=new Date(); 
+	date.setFullYear(endTime.substring(0,4)); 
+	date.setMonth(endTime.substring(5,7)-1); 
+	date.setDate(endTime.substring(8,10)); 
+	date.setHours(endTime.substring(11,13)); 
+	date.setMinutes(endTime.substring(14,16)); 
+	date.setSeconds(endTime.substring(17,19)); 
+	return Date.parse(date)/1000; 
+} 
+// 时间戳转换时间  2011-3-16 16:50:43 格式
+function toDate(tm){ 
+	var tt = new Date(parseInt(tm) * 1000);
+	return fmtDate(tt); 
+} 
+function fmtDate(dtobj,format){ 
+	if(!format) format = "yyyy-MM-dd hh:mm:ss";
+	var o = { 
+		"M+" : dtobj.getMonth()+1, //month 
+		"d+" : dtobj.getDate(), //day 
+		"h+" : dtobj.getHours(), //hour 
+		"m+" : dtobj.getMinutes(), //minute 
+		"s+" : dtobj.getSeconds(), //second 
+		"q+" : Math.floor((dtobj.getMonth()+3)/3), //quarter 
+		"S" : dtobj.getMilliseconds() //millisecond 
+	} 
+	if(/(y+)/.test(format)) { 
+		format = format.replace(RegExp.$1, (dtobj.getFullYear()+"").substr(4 - RegExp.$1.length)); 
+	} 
+	for(var k in o) { 
+		if(new RegExp("("+ k +")").test(format)) { 
+			format = format.replace(RegExp.$1, RegExp.$1.length==1 ? o[k] : ("00"+ o[k]).substr((""+ o[k]).length)); 
+		} 
+	} 
+	return format; 
+} 
+
+function f2stamp(){ 
+	var str = jsElm.jeID('dtstr').value;
+	jsElm.jeID('dtstamp').value = toStamp(str);
+}
+function f2str(){ 
+	var stamp = jsElm.jeID('dtstamp').value;
+	jsElm.jeID('dtstr').value = toDate(stamp);
+}
+//alert(transdate('2014-02-32 12:23:32'));
+var dtnow = new Date();
+jsElm.jeID('jsnow').innerHTML = dtnow.toLocaleString();
+jsElm.jeID('dtstr').value = fmtDate(dtnow); 
+jsElm.jeID('dtstamp').value = Date.parse(dtnow)/1000;
+
+
+//document.write(navItems());
+//document.write('<hr>');
+//document.write(navItems(window.screen,1,1));
+
+</script>
+
+</BODY>
+</html>
+
+

@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Desk</title>
+<script src="../cjs/jsbase.js?noimp=1"></script>
+<style type="text/css">
+<!--
+body,td,th {
+	font-size: 18pt;
+	color: #CCFF00;
+}
+body {
+	background-color: #3A6EA5;
+	overflow:hidden;
+}
+td.fsmall, th.fsmall { font-size:1px; }
+A:link { color:#99CC66; font-size:12pt; text-decoration:none; }
+A:visited { color:#99CC66; font-size:12pt; text-decoration:none; }
+A:hover { color:#99CC66; font-size:12pt; text-decoration:none; }
+p.return { width:120px; text-align:center; display:inline-block; padding:5px; margin:5px auto; }
+p.return a { display:inline-block; padding:0px 3px; margin:1px 1px 8px 1px; border:1px solid #CCC; }
+-->
+</style>
+</head>
+<body>
+<table border="0" align="center" cellpadding="1" cellspacing="1" id="tabOuter">
+  <tr>
+    <td align="center" class="fsmall">&nbsp;</td>
+    <td width="20%" align="center">健康<br>
+Health</td>
+    <td width="20%" align="center">淡泊<br>
+      <font style="font-size:15px; ">for Wealth</font></td>
+    <td width="20%" align="center">微笑<br>
+Smile</td>
+    <td align="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="fsmall">&nbsp;</td>
+    <td colspan="3" align="center"><span id="ShowTextYYMM"></span></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" class="fsmall">&nbsp;</td>
+    <td align="center">学习<br>
+Study</td>
+    <td width="20%" align="center"><img src="../uimgs/logo/gezi-fly.gif"></td>
+    <td align="center">分享<br>
+    Share</td>
+    <td align="center">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="right" class="fsmall">&nbsp;</td>
+    <td colspan="3" align="center" valign="bottom"> MOBILE, JobTitle, ENGLISH<br>
+    <a href="#">job6</a> - <a href="index.htm" class="reindex">返回</a> - <a href="#">作品</a><br></td>
+    <td align="right">&nbsp;</td>
+  </tr>
+</table>
+<script type="text/html"><!--language="vbscript"-->
+  oDate = "2005-8-28"
+  oYY   = DatePart("yyyy",oDate)
+  oMM   = DatePart("m",oDate)
+  oDD   = DatePart("d",oDate)
+  nDate = Date()
+  nYY   = DatePart("yyyy",nDate)
+  nMM   = DatePart("m",nDate)
+  nDD   = DatePart("d",nDate)
+  AllMM = DateDiff("m",oDate,nDate) 
+  MM    = AllMM Mod 12
+  YY    = (AllMM-MM) / 12
+  DD    = Day(Now())-oDD
+  if DD<-15 and MM>0 and nMM-1>0 then 
+	  MM = MM-1
+	  tDate = nYY&"-"&nMM-1&"-"&oDD
+	  DD = DateDiff("d",tDate,nDate) 
+  end if
+  ShowStr = ""
+  ShowStr = ShowStr& ""
+  ShowStr = ShowStr& "<b>"&YY&"</b><font style='font-size:9pt;'>年</font>"
+  ShowStr = ShowStr& "<b>"&MM&"</b><font style='font-size:9pt;'>月</font>"
+  ShowStr = ShowStr& "<font style='font-size:12pt;'>("&DD&"天)</font> &nbsp; "
+  ShowStr = ShowStr& "<font style='font-size:12pt;'>"&oDate&" ~ "&Date()&"</font>"
+  //ShowTextYYMM.innerHTML = ShowStr
+</script>
+<script type="text/javascript">
+var ws = winSize(); //console.log(ws); //winWidth: 320, winHeight: 480}
+var w = ws.winWidth-10, h = ws.winHeight-10;
+jsElm.jeID('tabOuter').style.width = w+'px'; 
+jsElm.jeID('tabOuter').style.height = h+'px';
+/*
+if(self != top){
+	jsElm.jeID('tabOuter').style.width = '100%'; 
+	jsElm.jeID('tabOuter').style.height = '100%'; 
+	alert(window.screen.height);
+}else{
+	jsElm.jeID('tabOuter').style.width = window.screen.width+'px'; 
+	jsElm.jeID('tabOuter').style.height = window.screen.height+'px'; 
+}*/
+</script>
+</body>
+</html>

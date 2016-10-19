@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>应用中心-iframe</title>
+<script src="../cjs/jsbase.js"></script>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">实验室</a>
+</p>
+
+  <h2 class="msubject">iframe-(打开外部内容)</h2>
+  <div class="mcontent">
+    <p class="bgblue ph10 tc">
+      <a href="http://m.cheshouye.com/api/weizhang/?dp=12&dc=153">违章</a>
+      <a href="?url=_urlweb_plus/sdev/dg121.php">dg121</a> # 
+      <a href="?url=http://m.baidu.com/">baidu</a> # 
+      <a href="?url=http://m.baidu.com/news?idx=20000&itj=22">news</a> # 
+      <a href="?url=_urlserver_csfr-srv.php">svr</a> # 
+      <a href="?" class="icons ico-arrowrefresh-1-w"></a>
+    </p>
+  </div>
+  
+<div class="mcontent" id="iframeid">
+  loading...
+</div>
+  
+</div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">实验室</a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+var urlRes = urlPara('url');
+if(urlRes && urlRes.length>12){ //alert(urlRes);
+	urlRes += (urlRes.indexOf('?')>0 ? '&' : '?')+'_rnd_'+Math.random().toString(); //
+	jsElm.jeID('iframeid').innerHTML = '<iframe src="'+urlRes+'" width="100%;" height="320" marginwidth="0"></iframe>';
+}
+fixUrls();
+</script>
+</body>
+</html>

@@ -1,0 +1,224 @@
+
+<div>adder [ˈædə] n.蝰蛇<br>
+albatross [ˈælbətrɔs] n.信天翁<br>
+alligator [ˈælɪˌgeɪtə] n.短吻鳄,美洲鳄<br>
+alpaca [ælˈpækə] n.羊驼<br>
+ant [ænt] n.蚂蚁<br>
+armadillo [ˌɑ:məˈdɪləʊ] n.犰狳<br>
+ass [æs] n.驴<br>
+badger [ˈbædʒə] n.獾<br>
+bat [bæt] n.蝙蝠<br>
+bear [bɛə] n.熊<br>
+beaver [ˈbi:və] n.河狸<br>
+bee [bi:] n.蜜蜂<br>
+bison [ˈbaɪsən] n.美洲野牛<br>
+blackbird [ˈblækˌbɜ:d] n.乌鸫<br>
+buffalo [ˈbʌfələu] n.水牛<br>
+bull [bul] n.公牛<br>
+bullfrog [ˈbulfrɔɡ] n.牛蛙<br>
+butterfly [ˈbʌtəflai] n.蝴蝶<br>
+caiman [ˈkeimən] n.凯门鳄<br>
+calf [kæf] n.小牛,牛犊<br>
+</div>
+
+<div>camel [ˈkæməl] n.骆驼<br>
+canary [kəˈneəri:] n.金丝雀<br>
+cat [kæt] n.猫<br>
+chaffinch [ˈtʃɑ:fintʃ] n.苍头燕雀<br>
+chameleon [kəˈmi:ljən] n.变色龙,避役<br>
+chicken [ˈtʃikin] n.鸡,雏鸡<br>
+chimpanzee [ˌtʃimpənˈzi:] n.黑猩猩<br>
+cicada [siˈkeidə] n.蝉<br>
+cobra [ˈkəubrə] n.眼镜蛇<br>
+cock [kɔk] n.公鸡<br>
+colt [kəʊlt] n.马驹,小马<br>
+condor [ˈkɔnˌdɔ:] n.秃鹰<br>
+cormorant [ˈkɔ:mərənt] n.鸬鹚<br>
+cow [kau] n.母牛<br>
+crab [kræb] n.螃蟹<br>
+cricket [ˈkrikit] n.蟋蟀<br>
+crocodile [ˈkrɔkədail] n.鳄鱼,非洲鳄<br>
+crow [krəu] n.乌鸦<br>
+cuckoo [ˈku:ku:] n.杜鹃,布谷鸟<br>
+deer [diə] n.鹿<br>
+</div>
+
+<div>dog [dɔɡ] n.狗<br>
+dolphin [ˈdɔlfin] n.海豚<br>
+donkey [ˈdɔŋki] n.驴<br>
+dormouse [ˈdɔ:maus] n.睡鼠<br>
+dove [dʌv] n.鸽<br>
+duck [dʌk] n.鸭<br>
+duckbill [ˈdʌkˌbɪl] n.鸭嘴兽<br>
+eagle [ˈi:ɡl] n.鹰<br>
+elephant [ˈelifənt] n.象<br>
+ewe [ju:] n.母羊<br>
+falcon [ˈfælkən] n.隼<br>
+ferret [ˈferɪt] n.雪貂<br>
+firefly [ˈfaɪəˌflaɪ] n.萤火虫<br>
+fly [flai] n.苍蝇<br>
+foal [fəʊl] n.马驹,小马<br>
+fowl [faʊl] n.珍珠鸡<br>
+fox [fɔks] n.狐狸<br>
+frog [frɔɡ] n.青蛙<br>
+gibbon [ˈɡibən] n.长臂猿<br>
+giraffe [dʒəˈræf] n.长颈鹿<br>
+</div>
+
+<div>glowworm [ˈgləʊˌwɜ:m] n.萤火虫<br>
+goat [ɡəut] n.山羊<br>
+goose [ɡu:s] n.鹅<br>
+gorilla [ɡəˈrilə] n.大猩猩<br>
+grouse [graʊs] n.松鸡<br>
+guinea [ˈɡini] n.珍珠鸡<br>
+gull [gʌl] n.海鸥<br>
+hare [heə] n.野兔<br>
+hawk [hɔ:k] n.隼<br>
+hedgehog [ˈhedʒˌhɔ:g] n.刺猬<br>
+heifer [ˈhefə] n.小母牛<br>
+hen [hen] n.母鸡<br>
+hippopotamus [ˌhɪpəˈpɔtəməs] n.河马<br>
+hog [hɔ:g] n.阉猪,肥猪<br>
+horse [hɔ:s] n.马<br>
+hummingbird [ˈhʌmɪŋˌbɜ:d] n.蜂雀<br>
+hyena [haɪˈi:nə] n.鬣狗<br>
+iguana [ɪˈgwɑ:nə] n.鬣蜥<br>
+kangaroo [ˌkæŋgəˈru:] n.袋鼠<br>
+kingfisher [ˈkɪŋˌfɪʃə] n.翠鸟<br>
+</div>
+
+<div>kite [kait] n.鹞<br>
+kitten [ˈkitn] n.小猫<br>
+kitty [ˈkiti] n.小猫<br>
+koala [kəʊˈɑ:lə] n.考拉,树袋熊<br>
+lamb [læm] n.羊羔,羔羊<br>
+lark [lɑ:k] n.百鸟,云雀<br>
+leopard [ˈlepəd] n.豹<br>
+lion [ˈlaiən] n.狮<br>
+lizard [ˈlɪzəd] n.蜥蜴<br>
+lobster [ˈlɔbstə] n.龙虾<br>
+lynx [liŋks] n.猞猁<br>
+macaw [məˈkɔ:] n.金刚鹦鹉<br>
+magpie [ˈmægˌpaɪ] n.喜鹊<br>
+mallard [ˈmælɑːd] n.野鸭,凫<br>
+mantis [ˈmæntɪs] n.螳螂<br>
+mare [mɛə] n.母马<br>
+marmot [ˈmɑ:mət] n.土拨鼠<br>
+mole [məʊl] n.鼹鼠<br>
+monkey [ˈmʌŋki] n.猴子<br>
+mosquito [məsˈki:təu] n.蚊子<br>
+</div>
+
+<div>mouse [maus] n.家鼠<br>
+mule [mju:l] n.骡<br>
+mustang [ˈmʌstæŋ] n.野马<br>
+newt [nju:t] n.蝾螈<br>
+nightingale [ˈnaɪtnˌgeɪl] n.夜莺<br>
+orangutan [əræŋu:ˈtæŋ] n.猩猩<br>
+ostrich [ˈɔstrɪtʃ] n.鸵鸟<br>
+otter [ˈɔtə] n.水獭<br>
+owl [aul] n.枭,猫头鹰<br>
+ox [ɔks] n.牛<br>
+parrot [ˈpærət] n.鹦鹉<br>
+partridge [ˈpɑ:trɪdʒ] n.石鸡,鹧鸪<br>
+peacock [ˈpi:ˌkɔk] n.孔雀<br>
+pelican [ˈpelɪkən] n.鹈鹕<br>
+penguin [ˈpeŋɡwin] n.企鹅<br>
+pheasant [ˈfezənt] n.雉,野鸡<br>
+phoenix [ˈfi:nɪks] n.凤凰<br>
+pig [piɡ] n.猪<br>
+platypus [ˈplætɪpəs] n.鸭嘴兽<br>
+plover [ˈplʌvə] n.千鸟<br>
+</div>
+
+<div>porcupine [ˈpɔ:kjəˌpaɪn] n.箭猪,豪猪<br>
+puma [ˈpju:mə] n.美洲豹<br>
+puppy [ˈpʌpi] n.小狗<br>
+pussy [ˈpʊsi:] n.小猫<br>
+python [ˈpaɪˌθɔn] n.蟒蛇<br>
+quail [kweɪl] n.鹌鹑<br>
+rabbit [ˈræbit] n.兔子<br>
+rat [ræt] n.鼠<br>
+rattlesnake [ˈrætlˌsneɪk] n.响尾蛇<br>
+reindeer [ˈreɪnˌdɪə] n.驯鹿<br>
+rhinoceros [raɪˈnɔsərəs] n.犀牛<br>
+robin [ˈrɔbɪn] n.知更鸟<br>
+salamander [ˈsæləmændə] n.蝾螈<br>
+seagull [ˈsi:gʌl] n.海鸥<br>
+seal [si:l] n.海豹<br>
+shark [ʃɑ:k] n.鲨鱼<br>
+sheep [ʃi:p] n.羊<br>
+silkworm [ˈsɪlkˌwɜ:m] n.蚕<br>
+snail [sneil] n.蜗牛<br>
+snake [sneik] n.蛇<br>
+</div>
+
+<div>snipe [snaɪp] n.鹬<br>
+sparrow [ˈspærəʊ] n.麻雀<br>
+spider [ˈspaidə] n.蜘蛛<br>
+squirrel [ˈskwirəl] n.松鼠<br>
+stork [stɔ:k] n.鹳<br>
+swallow [ˈswɔləu] n.燕子<br>
+swan [swɔn] n.天鹅<br>
+swine [swaɪn] n.猪<br>
+tabby [ˈtæbi] n.雌猫<br>
+thoroughbred [ˈθɜ:rəʊˌbred] n.纯种马<br>
+thrush [θrʌʃ] n.画眉<br>
+tiger [ˈtaiɡə] n.虎<br>
+toad [təud] n.蟾蜍<br>
+tomcat [ˈtɔmkæt] n.雄猫,公猫<br>
+tortoise [ˈtɔ:tɪs] n.乌龟<br>
+triton [ˈtraitn] n.蝾螈<br>
+turkey [ˈtɜːki] n.火鸡<br>
+turtle [ˈtə:tl] n.龟<br>
+viper [ˈvaɪpə] n.蝰蛇<br>
+vole [vəul] n.田鼠<br>
+</div>
+
+<div>vulture [ˈvʌltʃə] n.秃鹫<br>
+walrus [ˈwɔ:lrəs] n.海象<br>
+weasel [ˈwi:zəl] n.鼬,黄鼠狼<br>
+whale [hweil] n.鲸<br>
+wildcat [ˈwaildkæt] n.野猫<br>
+wolf [wulf] n.狼<br>
+woodpecker [ˈwʊdˌpekə] n.啄木鸟<br>
+worm [wə:m] n.蚯蚓<br>
+yak [jæk] n.牦牛<br>
+zebra [ˈzi:brə] n.斑马<br>
+cygnet [ˈsɪgnɪt] n.小天鹅<br>
+dromedary [ˈdrʌmədəri] n.单峰驼<br>
+gannet [ˈɡænit] n.塘鹅<br>
+gavial [ˈɡeiviəl] n.恒河鳄<br>
+goldfinch [ˈɡəuldfintʃ] n.金翅雀<br>
+grimalkin [ɡriˈmælkin] n.雌猫<br>
+boa [ˈbəʊə] n.王蛇<br>
+boar [bɔ:] n.种猪<br>
+bullock [ˈbulək] n.小阉牛<br>
+cayman [ˈkeimən] n.凯门鳄<br>
+</div>
+
+<div>cob [kɔb] n.雄天鹅<br>
+cockatoo [ˌkɔkəˈtu:] n.大葵花鹦鹉<br>
+gander [ˈgændə] n.雁<br>
+gazelle [gəˈzel] n.小羚羊<br>
+gilt [gɪlt] n.小母猪<br>
+heron [ˈherən] n.苍鹰<br>
+llama [ˈlɑ:mə] n.大羊驼<br>
+panther [ˈpænθə] n.美洲豹<br>
+parakeet [ˈpærəˌki:t] n.长尾鹦鹉<br>
+pigeon [ˈpidʒin] n.野鸽<br>
+piglet [ˈpɪglɪt] n.猪崽<br>
+pony [ˈpəuni] n.矮马<br>
+porpoise [ˈpɔ:pəs] n.大西洋鼠海豚<br>
+ptarmigan [ˈtɑ:miɡən] n.雷鸟<br>
+sloth [slɔ:θ] n.獭猴<br>
+starling [ˈstɑ:liŋ] n.八哥<br>
+steer [stiə] n.小阉牛<br>
+swift [swift] n.褐雨燕<br>
+teal [ti:l] n.小野鸭<br>
+tuatara [tu:əˈtɑ:rə] n.古蜥蜴<br>
+</div>
+
+<div>turtledove [ˈtɜ:tlˌdʌv] n.斑鸠<br>
+whitethroat [ˈwaitθrəut] n.白喉雀<br>
+</div>

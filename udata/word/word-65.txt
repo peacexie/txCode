@@ -1,0 +1,136 @@
+
+<div>bin [bin] n.箱子(贮藏食物等用的);垃圾箱;...<br>
+park [pɑ:k] vt.停放;停放车辆n.公园;...<br>
+road [roʊd] n.道路;公路<br>
+building  n.建筑物;房屋;大楼;建筑<br>
+Shanghai [ˈʃæŋhai] n.上海<br>
+apple [ˈæpl] n.苹果;苹果树<br>
+bird [bə:d] n.小鸟<br>
+biscuit [ˈbiskit] n.(英)饼干;(美)软饼<br>
+hot dog [hɔtdɔɡ] n.热狗(红肠面包)<br>
+juice [dʒu:s] n.果汁;汁;液<br>
+</div>
+
+<div>water [ˈwɔ:tə] v.浇水vt.给…浇水;垂涎n...<br>
+cat [kæt] n.猫<br>
+dog [dɔɡ] n.狗<br>
+run [rʌn] v.(使)跑;奔跑;行驶;运转<br>
+sleep [sli:p] v.睡觉<br>
+swim [swim] vt.游过vi.游泳;充满;充...<br>
+egg [eɡ] n.蛋;卵;鸡蛋<br>
+fish [fiʃ] v.捞取;探听vi.钓鱼n....<br>
+ferry [ˈferi] vt.运送n.渡船;渡口<br>
+train [trein] v.训练;培养;培训vi.受训...<br>
+</div>
+
+<div>taxi [ˈtæksi] v.[指飞机](使)滑行n.出租车...<br>
+car [kɑ:] n.汽车;小汽车;轿车<br>
+bus [bʌs] n.公共汽车;总线;信息通路<br>
+van [væn] n.面包车;箱式送货车<br>
+girl [ɡə:l] n.女孩子;姑娘;女儿<br>
+hand [hænd] n.手<br>
+light [lait] adj.光;光线;点燃;轻的<br>
+go [ɡəu] vi.去;走;离去;变为<br>
+fast [fɑ:st] adv.快速地adj.快的<br>
+slow [sləu] adj.慢慢的;慢的;迟钝的;不...<br>
+</div>
+
+<div>ice-cream ['aɪskriːm] n.冰淇淋<br>
+jelly [ˈdʒeli:] v.结冻n.果冻;胶状物<br>
+on [ɔn] adv.向前;靠近;临近;进展...<br>
+under [ˈʌndə] adv.在下面;少于prep.在...<br>
+bell [bel] n.钟;铃;钟声;铃声<br>
+star [stɑ:] n.星星;明星<br>
+present [ˈprezənt] adj.出席的;提供;上演;介绍...<br>
+tree [tri:] n.树;树木;语法树<br>
+kite [kait] n.风筝;空头支票<br>
+glove [ɡlʌv] n.(一只)手套<br>
+</div>
+
+<div>scarf [skɑ:f] n.围巾;头巾;领带<br>
+winter [ˈwintə] n.冬天;冬季<br>
+cold [kəuld] adj.冷的;寒冷的n.感冒;...<br>
+wind [wind] v.蜿蜒;缠绕n.风(向)<br>
+snow [snəu] v.下雪n.雪<br>
+</div>
+
+<div>belt [belt] n.带;腰带;皮带;区<br>
+sock [sɔk] n.袜子;短袜<br>
+shirt [ʃə:t] n.(男式)衬衫<br>
+dress [dres] v.穿衣;打扮;给…穿衣n.服...<br>
+coat [kəut] n.上衣;外衣;外套;表皮<br>
+moon [mu:n] n.月球;月亮;卫星<br>
+</div>
+
+
+<div><b>下册</b><br>
+hen [hen] n.母鸡;雌禽<br>
+chick [tʃɪk] n.小鸡<br>
+duck [dʌk] n.鸭子;鸭;鸭肉<br>
+cow [kau] n.乳牛;母牛;奶牛;母兽<br>
+sheep [ʃi:p] n.羊;绵羊;易受人摆布的人<br>
+pig [piɡ] n.猪;小猪;野猪;猪肉<br>
+nose [nəuz] n.鼻子<br>
+orange [ˈɔrindʒ] adj.橙色的;桔色的n.橘子;...<br>
+bear [bɛə] v.具有;记(在心里);粗鲁的人;...<br>
+elephant [ˈelifənt] n.(动物)象<br>
+</div>
+
+<div>tiger [ˈtaiɡə] n.老虎<br>
+monkey [ˈmʌŋki] n.猴子;猿<br>
+panda [ˈpændə] n.熊猫;猫熊<br>
+pencil [ˈpensəl] n.铅笔<br>
+quilt [kwilt] n.被子;被褥<br>
+door [dɔ:] n.门;门口;出入口;门状物<br>
+bed [bed] n.床<br>
+room [ru:m] n.房间;卧室;空间;地方<br>
+sofa [ˈsəufə] n.长沙发;沙发<br>
+table [ˈteibl] vt.搁置;提交讨论n.桌子;...<br>
+</div>
+
+<div>lamp [læmp] n.灯;油灯;光源<br>
+rubber [ˈrʌbə] n.橡皮擦<br>
+sweet [swi:t] adj.甜的n.糖果<br>
+skip [skip] vi.跳绳<br>
+swing [swiŋ] v.荡秋千n.秋千<br>
+climb [klaim] v.攀登;爬n.攀登;爬;攀...<br>
+fly [flai] vt.驾驶(飞机);放(风筝);飘...<br>
+ride [raid] v.坐车;乘车;骑(马、自行车、摩...<br>
+tree [tri:] n.树;树木;语法树<br>
+umbrella [ʌmˈbrelə] n.雨伞;伞<br>
+</div>
+
+<div>dirty [ˈdə:ti] adj.脏的;肮脏的;卑鄙的;下...<br>
+wash [wɔʃ] vt.洗;洗涤;冲vi.洗手(...<br>
+towel [ˈtauəl] n.毛巾;手巾<br>
+soap [səup] n.肥皂(不可数名词)<br>
+toothbrush [ˈtu:θˌbrʌʃ] n.牙刷<br>
+toothpaste [ˈtu:θˌpeɪst] n.牙膏<br>
+van [væn] n.面包车;箱式送货车<br>
+wind [wind] v.蜿蜒;缠绕n.风(向)<br>
+plate [pleit] n.盘子;碟子<br>
+glass [ɡlɑ:s] n.玻璃杯;玻璃<br>
+</div>
+
+<div>fork [fɔ:k] n.叉子;叉;餐叉<br>
+knife [naif] n.刀子;小刀<br>
+spoon [spu:n] n.匙;汤匙;调羹<br>
+chopsticks [ˈtʃɔpstɪks] n.(通常用复数)筷子<br>
+X-ray [ˈeksrei] n.Ｘ射线;Ｘ光;X射线;X光(...<br>
+sun [sʌn] vt.晒太阳n.太阳;日<br>
+cloud [klaud] n.云;云状物;一大群<br>
+hot [hɔt] adj.热的;炎热的;辣的;急躁...<br>
+beach [bi:tʃ] n.海滩;沙滩<br>
+</div>
+
+<div>shell [ʃel] vt.剥…的壳;炮击n.壳;贝...<br>
+sand [sænd] vt.(尤指用沙纸)磨光n.沙;...<br>
+yellow [ˈjeləu] adj.黄的;黄色的n.黄色<br>
+clock [klɔk] vt.计时n.时钟<br>
+day [dei] n.天;日;白天;一天<br>
+night [nait] n.晚上;夜晚;夜空<br>
+breakfast [ˈbrekfəst] vi.吃早饭n.早饭;早餐<br>
+lunch [lʌntʃ] n.午餐;午饭;便餐<br>
+dinner [ˈdinə] n.餐;饭;正餐;晚餐<br>
+zoo [zu:] n.动物园<br>
+</div>

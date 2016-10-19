@@ -1,0 +1,883 @@
+
+<div>Accra [əˈkrɑ:] n.阿克拉(加纳首都)<br>
+America [əˈmerɪkə] n.美国，美洲<br>
+American [əˈmerɪkən] adj.美国的,n.美国人<br>
+April [ˈeiprəl] n.4月<br>
+Athens [ˈæθənz] n.雅典(希腊首都)<br>
+August [ɔ:ˈɡʌst] n.8月<br>
+Australia [ɔ:ˈstreɪljə] n.澳洲，澳大利亚<br>
+Australian [ɔ:ˈstreɪljən] n.澳洲人，澳大利亚人<br>
+Austria [ˈɔ:stri:ə] n.奥地利<br>
+Austrian [ˈɔstrɪən] n.奥地利人<br>
+Berlin [bɜ:ˈlɪn] n.柏林<br>
+Bombay [bɔmˈbei] n.孟买<br>
+Brazil [brəˈzil] n.巴西<br>
+Brazilian [brəˈzɪliən] adj.巴西人的，巴西的<br>
+Canada [ˈkænədə] n.加拿大<br>
+Canadian [kəˈneɪdjən] n.加拿大人<br>
+China [ˈtʃaɪnə] n.中国<br>
+Chinese [tʃaɪˈni:z] n.中国人，中文，汉语<br>
+Danish [ˈdeiniʃ] adj.丹麦的，丹麦人的<br>
+December [diˈsembə] n.12月<br>
+</div>
+
+<div>Denmark [ˈdenmɑ:k] n.丹麦<br>
+Dutch [dʌtʃ] adj.荷兰的，荷兰人的<br>
+Egypt [ˈi:dʒɪpt] n.埃及<br>
+England [ˈɪŋglənd] n.英格兰，英国<br>
+English [ˈɪŋglɪʃ] adj.英国的,n.英语<br>
+February [ˈfebruəri] n.2月<br>
+Finland [ˈfɪnlənd] n.芬兰<br>
+Finnish [ˈfiniʃ] n.芬兰语,adj.芬兰的<br>
+France [fræns] n.法国<br>
+French [frentʃ] adj.法国人的，法国的<br>
+Friday [ˈfraidi] n.星期五<br>
+Geneva  n.日内瓦<br>
+German [ˈdʒɜ:mən] adj.德国人的，德国的<br>
+Germany [ˈdʒɜ:məni:] n.德国<br>
+Greece [gri:s] n.希腊(国名)<br>
+Greek [gri:k] adj.希腊人的，希腊的<br>
+Holland [ˈhɔlənd] n.荷兰<br>
+India [ˈɪndɪə] n.印度<br>
+Indian [ˈɪndjən] n.印度人,adj.印度的<br>
+Italian [ɪˈtæljən] adj.意大利的<br>
+</div>
+
+<div>Italy [ˈɪtəlɪ] n.意大利<br>
+January [ˈdʒænjuəri] n.1月<br>
+Japan [dʒəˈpæn] n.日本<br>
+Japanese [ˌdʒæpəˈni:z] n.日本人,adj.日本的<br>
+July [dʒu:ˈlai] n.7月<br>
+June [dʒu:n] n.6月<br>
+London [ˈlʌndən] n.伦敦(英国首都)<br>
+Madrid  n.马德里(西班牙首都)<br>
+March [mɑ:tʃ] n.3月<br>
+Miss [mɪs] n.小姐<br>
+Monday [ˈmʌndi] n.星期一<br>
+Moscow [ˈmɔskəu] n.莫斯科(俄罗斯首都)<br>
+Mrs [ˈmɪsɪz] n.夫人<br>
+New York  n.纽约市，纽约州<br>
+Nigeria [naiˈdʒiəriə] n.尼日利亚<br>
+Nigerian  n.尼日利亚人<br>
+Norway [ˈnɔ:ˌweɪ] n.挪威<br>
+Norwegian [nɔ:ˈwi:dʒən] adj.挪威的，挪威人的<br>
+November [nəuˈvembə] n.11月<br>
+October [ɔkˈtəubə] n.10月<br>
+</div>
+
+<div>Poland [ˈpəʊlənd] n.波兰<br>
+Polish [ˈpəʊlɪʃ] n.波兰语,adj.波兰的<br>
+Rome [rəʊm] n.罗马(意大利首都)<br>
+Russia [ˈrʌʃə] n.俄国，俄罗斯<br>
+Russian [ˈrʌʃən] adj.俄国的，俄语的<br>
+Saturday [ˈsætədi] n.星期六<br>
+Scotch [skɔtʃ] adj.苏格兰的<br>
+Scotland [ˈskɔtlənd] n.苏格兰(英国)<br>
+September [səpˈtembə] n.9月<br>
+Spain [speɪn] n.西班牙<br>
+Spanish [ˈspænɪʃ] adj.西班牙的，西班牙人<br>
+Stockholm [ˈstɔkhəum] n.斯德哥尔摩<br>
+Sunday [ˈsʌndi] n.星期日<br>
+Sweden [ˈswi:dn] n.瑞典<br>
+Swedish [ˈswi:dɪʃ] adj.瑞典人的，瑞典的<br>
+Sydney [ˈsɪdni:] n.悉尼(澳大利亚港市)<br>
+Teheran  n.德黑兰(伊朗首都)<br>
+Thursday [ˈθə:zdi] n.星期四<br>
+Tokyo [ˈtəukjəu] n.东京(日本首都)<br>
+Tuesday [ˈtju:zdi] n.星期二<br>
+</div>
+
+<div>Turkey [ˈtə:ki] n.土耳其<br>
+Turkish [ˈtɜ:kɪʃ] n.土耳其语<br>
+Wednesday [ˈwenzdi] n.星期三<br>
+X-ray [ˈeksrei] n.Ｘ射线，Ｘ光<br>
+Yugoslavia [ˈju:ɡəuˈslɑ:vjə] n.南斯拉夫<br>
+about [əˈbaut] adv.大约，周围，围着<br>
+abroad [əˈbrɔ:d] adv.到(在)国外<br>
+absent [ˈæbsənt] adj.缺席的，不在的<br>
+across [əˈkrɔs] prep.穿,过,在..对面<br>
+actor [ˈæktə] n.男演员，行动者<br>
+actress [ˈæktris] n.女演员<br>
+address [əˈdres] n.地址<br>
+advice [ədˈvais] n.忠告，建议<br>
+aeroplane [ˈɛərəplein] n.飞机<br>
+afford [əˈfɔ:d] vt.(费用)负担得起<br>
+afraid [əˈfreid] adj.害怕的<br>
+afternoon [ˌɑ:ftəˈnu:n] n.下午，午后<br>
+again [əˈɡen] adv.又，再一次，此外<br>
+ago [əˈɡəu] adv.以前，前<br>
+air [eə(r)] vt.使...通风,n.空气<br>
+</div>
+
+<div>airport [ˈɛəpɔ:t] n.机场<br>
+all [ɔ:l] adj.所有的，全部的<br>
+along [əˈlɔŋ] prep.沿着<br>
+already [ɔ:lˈredi] adv.已经，早已<br>
+always [ˈɔ:lweiz] adv.总是，无例外地<br>
+among [əˈmʌŋ] prep.在...中间<br>
+amuse [əˈmju:z] vt.娱乐，使...喜欢<br>
+another [əˈnʌðər] pro.再一，又一<br>
+answer [ˈɑ:nsə] vt.&vi.回答，答复<br>
+any [ˈeni] adj.什么；一些，一点<br>
+apple [ˈæpl] n.苹果<br>
+appointment [əˈpɔintmənt] n.预约，约会，任命<br>
+armchair [ˈɑ:mˌtʃeə] n.扶椅<br>
+arrive [əˈraiv] vi.到达(某地)<br>
+as [æz] adv.(同)...一样；那样<br>
+ask [ɑ:sk] vt.&vi.询问，质问<br>
+aspirin [ˈæspərɪn] n.阿斯匹林<br>
+assistant [əˈsistənt] n.营业员，服务员<br>
+association [əˌsəuʃiˈeiʃən] n.协会<br>
+attendant [əˈtendənt] n.服务员，招待员<br>
+</div>
+
+<div>autumn [ˈɔ:təm] n.秋，秋季<br>
+away [əˈwei] adv.离去<br>
+awful [ˈɔ:ful] adj.糟透的，讨厌的<br>
+baby [ˈbeibi] n.婴儿，小儿<br>
+back [bæk] adv.向后，退,n.背部<br>
+bad [bæd] adj.坏的，恶的，严重的<br>
+bag [bæɡ] n.袋，提包，枕套<br>
+baker [ˈbeɪkə] n.面包师傅<br>
+banana [bəˈnɑ:nə] n.香蕉<br>
+bank [bæŋk] n.堤岸，河边；埂，垄<br>
+bar [bɑːr] n.条，棒，杆；栅栏<br>
+barber [ˈbɑ:bə] n.理发师<br>
+basket [ˈbɑ:skit] n.篮子<br>
+bath [bɑ:θ] n.洗澡<br>
+bean [bi:n] n.豆角<br>
+beard [biəd] n.胡子，络腮胡子<br>
+beautiful [ˈbju:təful] adj.美丽的<br>
+beauty [ˈbju:ti] n.美丽的，美<br>
+because [biˈkɔz] conj.因为<br>
+bed [bed] n.床<br>
+</div>
+
+<div>bedroom [ˈbedˌru:m] n.卧室<br>
+beef [bi:f] n.牛肉<br>
+beer [biə] n.啤酒<br>
+beg [beɡ] vt.请求,乞求,vi.行乞<br>
+behind [biˈhaind] prep.在...后面<br>
+believe [biˈli:v] vt.&vi.相信，认为<br>
+belong [biˈlɔŋ] vi.属于,归(某人)所有<br>
+beside [biˈsaid] prep.在...旁边<br>
+best [best] adj.最好的,adv.最，极<br>
+better [ˈbetə] adj.较好的，更好的<br>
+between [biˈtwi:n] prep.在...之间<br>
+big [biɡ] adj.大的<br>
+birthday [ˈbə:θdei] n.生日<br>
+biscuit [ˈbiskit] n.饼干<br>
+black [blæk] adj.黑的，黑色的<br>
+blouse [blauz] n.女衬衣，短上衣<br>
+blue [blu:] adj.蓝色的<br>
+blunt [blʌnt] adj.钝的<br>
+boat [bəut] n.(小)船，艇<br>
+boiling [ˈbɔɪlɪŋ] adj.沸腾的<br>
+</div>
+
+<div>bone [bəun] n.骨头<br>
+book [buk] n.书，手册<br>
+bookcase [ˈbʊkˌkeɪs] n.书橱<br>
+boss [bɔs] n.老板，头子，工头<br>
+both [bəuθ] pro.两者<br>
+bottle [ˈbɔtl] n.瓶子<br>
+box [bɔks] n.盒，箱<br>
+bread [bred] n.面包<br>
+break [breik] vt.打碎，打断<br>
+breakfast [ˈbrekfəst] n.早餐<br>
+bridge [bridʒ] n.桥，桥梁<br>
+bring [briŋ] vt.带来，拿来<br>
+brother [ˈbrʌðə] n.兄弟<br>
+brown [braun] adj.棕色的，褐色的<br>
+building  n.建筑物，大楼<br>
+busy [ˈbizi] adj.忙的<br>
+butcher [ˈbutʃə] n.肉商，屠夫<br>
+butter [ˈbʌtə] n.黄油；黄油状的食品；奉承话；...<br>
+buy [bai] vt.购买，雇用，博得<br>
+cabbage [ˈkæbidʒ] n.卷心菜<br>
+</div>
+
+<div>cake [keik] n.饼，糕，蛋糕，点心<br>
+call [kɔ:l] vi.访问,呼喊,打电话<br>
+car [kɑ:] n.汽车<br>
+card [kɑ:d] n.明信片，卡片<br>
+careful [ˈkɛəful] adj.小心的<br>
+carpet [ˈkɑ:pit] n.地毯<br>
+carry [ˈkæri] vt.搬，运送，携带<br>
+case [keis] n.箱，柜，盒，情况<br>
+cat [kæt] n.猫<br>
+catch [kætʃ] vt.抓住，赶上<br>
+certainly [ˈsə:tnli] adv.当然，一定<br>
+certificate [səˈtifikeit] n.证书<br>
+chair [tʃɛə] n.椅子<br>
+chalk [tʃɔ:k] n.粉笔<br>
+change [tʃeindʒ] n.零钱；变化，交换<br>
+charge [tʃɑ:dʒ] vt.罚款，指控<br>
+cheap [tʃi:p] adj.便宜的，廉价的<br>
+cheer [tʃiə] vt.&vi.高兴，振作<br>
+cheese [tʃi:z] n.干酪，乳酪<br>
+chemist [ˈkemist] n.药店，化学家<br>
+</div>
+
+<div>chicken [ˈtʃikin] n.小鸡，(美)鸡<br>
+children [ˈtʃɪldrən] n.孩子们<br>
+chocolate [ˈtʃɔkəlit] n.巧克力，巧克力糖<br>
+choice [tʃɔis] adj.精选的,n.挑选<br>
+church [tʃə:tʃ] n.教堂<br>
+cinema [ˈsinəmə] n.电影院<br>
+city [ˈsiti] n.城市<br>
+clean [kli:n] adj.干净的<br>
+clerk [klɑ:k] n.办事员，职员<br>
+clever [ˈklevə] adj.聪明的<br>
+climate [ˈklaimit] n.气候<br>
+climb [klaim] vt.攀登，爬<br>
+cloud [klaud] n.云<br>
+coat [kəut] n.上衣，大衣，外套<br>
+coffee [ˈkɔfi] n.咖啡<br>
+coin [kɔin] n.硬币<br>
+cold [kəuld] adj.冷的，冷淡,n.冷<br>
+colour [ˈkʌlə] n.颜色<br>
+come [kʌm] vi.来<br>
+company [ˈkʌmpəni] n.公司<br>
+</div>
+
+<div>conductor [kənˈdʌktə] n.(公共汽车等)售票员<br>
+conversation [ˌkɔnvəˈseiʃən] n.会话，谈话<br>
+cook [kuk] vt.煮，烧，烹调<br>
+cooker [ˈkukə] n.炉灶，炊具<br>
+correct [kəˈrekt] vt.改正,adj.正确的<br>
+cost [kɔst] vt.&vi.花费，支付<br>
+count [kaunt] vt.点，数，计数<br>
+counter [ˈkauntə] n.柜台<br>
+country [ˈkʌntri] n.国家，乡间<br>
+cover [ˈkʌvə] vt.覆盖,n.盖子，罩子<br>
+crash [kræʃ] n.碰撞<br>
+crowd [kraud] n.群，人群<br>
+cry [krai] vi.哭，叫喊<br>
+cup [kʌp] n.杯子，杯状物<br>
+cupboard [ˈkʌbəd] n.碗橱<br>
+curiously [ˈkjʊərɪəslɪ] adv.好奇地<br>
+customer [ˈkʌstəmə] n.顾客，买主<br>
+customs [ˈkʌstəmz] adj.海关的；定做的(衣)<br>
+dad [dæd] n.爸爸<br>
+dairy [ˈdɛəri] n.牛奶场，奶品店<br>
+</div>
+
+<div>daughter [ˈdɔ:tə] n.女儿<br>
+dear [diə] adj.亲爱的<br>
+dentist [ˈdentist] n.牙医<br>
+depend [diˈpend] v.依靠<br>
+deposit [diˈpɔzit] n.保证金<br>
+describe [disˈkraib] vt.描述<br>
+desk [desk] n.书桌<br>
+dictionary [ˈdikʃənəri] n.词典<br>
+difficult [ˈdifikəlt] adj.困难的，艰苦的<br>
+dirty [ˈdə:ti] adj.脏的<br>
+dish [diʃ] n.盘子<br>
+do [du:] vt.做，从事；完成<br>
+dog [dɔɡ] n.狗<br>
+door [dɔ:] n.门，户<br>
+down [daun] adv.往下<br>
+dream [dri:m] vi.&vt.做梦,n.梦<br>
+dress [dres] n.服装(主要指外衣)<br>
+drink [driŋk] vi.&vt.喝，饮<br>
+drive [draiv] vt.&vi.驱使，驾车<br>
+drop [drɔp] vt.摔下，使落下<br>
+</div>
+
+<div>dry [drai] adj.干的，干燥的<br>
+during [ˈdjuəriŋ] prep.在...期间<br>
+dust [dʌst] vt.拂去灰尘,n.灰尘<br>
+early [ˈɜrli] adv.早,adj.初期的<br>
+east [iːst] n.东，东方,adj.东方的<br>
+easy [ˈi:zi] adj.容易的<br>
+eat [i:t] vt.&vi.吃，喝(汤)<br>
+egg [eɡ] n.蛋，鸡蛋<br>
+either [ˈaiðə] adj.二者之一,adv.也<br>
+electric [iˈlektrik] adj.电的<br>
+embarrassed [ɪmˈbærəst] adj.窘迫，尴尬<br>
+employee [ˌemplɔiˈi:] n.雇员<br>
+empty [ˈempti] adj.空的,vt.使空<br>
+engineer [ˌendʒiˈniə] n.工程师<br>
+enough [iˈnʌf] adv.&adj.充足，充分<br>
+enter [ˈentə] vt.&vi.进入，加入<br>
+envelope [ˈenvələup] n.信封<br>
+evening [ˈi:vniŋ] n.傍晚，晚间；晚会<br>
+everything [ˈevriθiŋ] pro.一切事物<br>
+examination [ɪɡˌzæmɪˈneɪʃn] n.考试，检查<br>
+</div>
+
+<div>except [ikˈsept] prep.除...之外<br>
+exciting [ikˈsaitiŋ] adj.令人兴奋的<br>
+excuse [iksˈkju:z] v.原谅，辩解,n.原谅，辩解<br>
+expensive [iksˈpensiv] adj.昂贵的，耗费巨大的<br>
+extra [ˈekstrə] adj.外加的<br>
+face [feis] n.脸，面子，面貌<br>
+fail [feil] vi.&vt.失败，不及格<br>
+fall [fɔ:l] vi.落下，倒下，跌倒<br>
+family [ˈfæmili] n.家庭<br>
+famous [ˈfeiməs] adj.著名的<br>
+fancy [ˈfænsi] vt.想想，设想<br>
+fare [fɛə] n.车(船)费，旅客票价<br>
+fashion [ˈfæʃən] n.式样，流行式样<br>
+fat [fæt] adj.胖的<br>
+father [ˈfɑ:ðə] n.父<br>
+favourite [ˈfeɪvərɪt] adj.特别喜爱的<br>
+feel [fi:l] vt.触摸，感觉，认为<br>
+fellow [ˈfeləu] n.人，伙伴<br>
+few [fju:] adj.少数的，很少<br>
+film [film] n.胶卷，电影<br>
+</div>
+
+<div>find [faind] vt.找到，发现<br>
+fine [fain] adj.好的<br>
+finish [ˈfiniʃ] n.结束，结尾,vi.终止<br>
+floor [flɔ:] n.地板<br>
+flower [ˈflauə] n.花<br>
+flu [flu:] n.流行性感冒<br>
+fly [flai] vi.飞，飞行<br>
+forget [fəˈɡet] vt.遗忘，想不起<br>
+fork [fɔ:k] n.叉<br>
+fresh [freʃ] adj.新鲜的<br>
+friend [frend] n.朋友<br>
+from [frɔm] prep.从，自<br>
+front [frʌnt] n.前部，前面，正面<br>
+fruit [fru:t] n.水果<br>
+full [ful] adj.满的<br>
+funny [ˈfʌni] adj.有趣的，滑稽的<br>
+future [ˈfju:tʃə] adj.将来的，未来的<br>
+garage [ˈɡærɑ:ʒ] n.汽车修理厂，车库<br>
+garden [ˈɡɑ:dn] n.园子，花园，庭园<br>
+gentleman [ˈdʒentlmən] n.绅士，阁下<br>
+</div>
+
+<div>girl [ɡə:l] n.女孩，姑娘<br>
+give [ɡiv] vt.给，送给，授予<br>
+glass [ɡlɑ:s] n.玻璃，玻璃杯<br>
+glue [ɡlu:] n.胶水，胶,v.用胶粘<br>
+go [ɡəu] vi.去，走，前进<br>
+good [ɡud] adj.好的<br>
+goodbye [ˌɡʊdˈbaɪ] int.再会，再见<br>
+grandfather [ˈɡrændˌfɑ:ðə] n.祖父，外祖父<br>
+grandmother [ˈɡrændˌmʌðə] n.祖母，外祖母<br>
+grass [ɡrɑ:s] n.草，草地<br>
+green [ɡri:n] adj.绿色的<br>
+greengrocer [ˈɡri:nɡrəusə] n.蔬菜水果商<br>
+greet [ɡri:t] vt.&vi.致候，问安<br>
+grey [ɡrei] adj.灰的，灰色的<br>
+grocery [ˈgrəʊsəri:] n.杂货<br>
+ground [ɡraund] n.地面，土地，底<br>
+grow [ɡrəu] vt.&vi.生长；培育<br>
+guess [ɡes] vi.&vt.&n.猜测，猜中<br>
+haircut [ˈheəˌkʌt] n.理发<br>
+half [hɑ:f] adj.一半的<br>
+</div>
+
+<div>hammer [ˈhæmə] n.锤，榔头<br>
+handbag [ˈhændbæɡ] n.手提包(女用)<br>
+handle [ˈhændl] n.提手，柄<br>
+handwriting [ˈhændˌraitiŋ] n.笔迹，书写，书法<br>
+happen [ˈhæpən] vi.(偶然)发生<br>
+hard [hɑrd] adv.努力地,adj.坚硬的<br>
+hat [hæt] n.帽子<br>
+have [hæv] vt.有，知道；吃，喝<br>
+headache [ˈhedeik] n.头痛<br>
+hear [hiə] vt.&vi.听见<br>
+heaven [ˈhevn] n.天空，天，天堂<br>
+heavy [ˈhevi] adj.重的<br>
+here [hiə] adv.在这里，向这里<br>
+hey [heɪ] int.嘿，嗨(惊讶等)<br>
+high [hai] adj.高的<br>
+hill [hil] n.小山<br>
+holiday [ˈhɔlədi] n.假日，节日；假期<br>
+homework [ˈhəumwə:k] n.(学生的)家庭作业<br>
+honey [ˈhʌni] n.蜂蜜<br>
+hope [həup] vt.希望<br>
+</div>
+
+<div>hostel [ˈhɔstəl] n.旅店，招待所<br>
+hot [hɔt] adj.热的<br>
+hour [ˈauə] n.小时，钟头，时间<br>
+house [haus] n.房屋<br>
+housewife [ˈhauswaif] n.家庭主妇<br>
+housework [ˈhauswə:k] n.家务<br>
+how [hau] adv.怎样，如何，多少<br>
+hurriedly [ˈhʌrɪdlɪ] adv.匆忙地，急促地<br>
+hurt [hə:t] vt.使受伤，伤害<br>
+husband [ˈhʌzbənd] n.丈夫<br>
+ice-cream ['aɪskriːm] n.冰淇淋<br>
+idea [aiˈdiə] n.思想，概念，主意<br>
+immediately [iˈmi:diətli] adv.立刻，马上<br>
+impossible [imˈpɔsəbl] adj.不可能的<br>
+ink [iŋk] n.墨水<br>
+instead [inˈsted] adv.代替，顶替<br>
+intelligence [inˈtelidʒəns] n.智力，理解力<br>
+interesting [ˈintristiŋ] adj.有趣的，有意思的<br>
+into [ˈɪntuː] prep.进入...之内<br>
+introduce [ˌɪntrəˈdju:s] vt.介绍<br>
+</div>
+
+<div>invite [inˈvait] vt.邀请<br>
+jam [dʒæm] n.果酱<br>
+job [dʒɔb] n.工作，职业<br>
+joke [dʒəuk] n.&vi.开玩笑<br>
+jump [dʒʌmp] vi.跳，惊跳,vt.跳过<br>
+just [dʒʌst] adv.正好，刚刚，仅仅<br>
+keep [ki:p] vt.&vi.遵守，保持<br>
+kettle [ˈketl] n.水壶<br>
+key [ki:] n.钥匙，关口；关键<br>
+king [kiŋ] n.国王，大王<br>
+kitchen [ˈkitʃin] n.厨房<br>
+knife [naif] n.刀子，小刀<br>
+know [nəʊ] vt.知道，懂得，相识<br>
+label [ˈleibəl] n.标签<br>
+lady [ˈleidi] n.女士，夫人，妇人<br>
+lamb [læm] n.羔羊肉，小羊肉<br>
+lamp [læmp] n.灯<br>
+large [lɑ:dʒ] adj.大的，巨大的<br>
+last [lɑ:st] adj.最后的，刚过去的<br>
+late [leit] adj.迟，晚；晚期的<br>
+</div>
+
+<div>later [ˈleitə] adv.后来，较晚<br>
+lavatory [ˈlævətəri] n.盥洗室，厕所<br>
+lazy [ˈleizi] adj.懒的<br>
+lean [li:n] v.倾斜，探出<br>
+leave [li:v] vt.&vi.离开，遗忘<br>
+left [left] n.左边<br>
+lemonade [ˌleməˈneid] n.柠檬水<br>
+lesson [ˈlesən] n.一课，课程<br>
+let [let] vt.容许，使得，假设<br>
+letter [ˈletə] n.信<br>
+lettuce [ˈletis] n.莴苣<br>
+library [ˈlaibrəri] n.图书馆(室)<br>
+licence [ˈlaisəns] n.许可，特许，执照<br>
+lift [lift] vt.抬起，搬起<br>
+light [lait] adj.轻的，浅淡的<br>
+like [laik] vt.喜欢，爱好<br>
+limit [ˈlimit] n.限制，极限<br>
+list [list] n.名单，清单<br>
+listen [ˈlisn] vi.听，倾听，听从<br>
+litter [ˈlitə] n.落叶层<br>
+</div>
+
+<div>little [ˈlitl] adj.小的，年轻的<br>
+loaf [ləuf] n.块，片，条<br>
+long [lɔŋ] adj.长的<br>
+look [luk] vi.&vt.看，注视<br>
+lose [lu:z] vt.遗失<br>
+loud [laud] adj.响亮的，大声的<br>
+lovely [ˈlʌvli] adj.可爱的，好看的<br>
+low [ləu] adj.低的，矮的<br>
+lucky [ˈlʌki] adj.幸运的<br>
+lunch [lʌntʃ] n.午餐，午饭<br>
+madam [ˈmædəm] n.夫人，太太，女士<br>
+magazine [ˌmæɡəˈzi:n] n.杂志<br>
+make [meik] n.(产品)来源,vt.制造<br>
+man [mæn] n.男人<br>
+manager [ˈmænidʒə] n.经理<br>
+many [ˈmeni] adj.许多的，很多的<br>
+match [mætʃ] n.火柴<br>
+mathematics [ˌmæθiˈmætiks] n.数学<br>
+matter [ˈmætə] n.事情，物质，内容<br>
+meal [mi:l] n.饭食，(一)餐<br>
+</div>
+
+<div>mean [mi:n] vt.意指，意谓<br>
+measles [ˈmi:zəlz] n.麻疹<br>
+meat [mi:t] n.(食用)肉<br>
+mechanic [miˈkænik] n.机修工，技工<br>
+medicine [ˈmedisin] n.药<br>
+meet [mi:t] vt.遇到，会见<br>
+member [ˈmembə] n.成员<br>
+mess [mes] n.杂乱，凌乱<br>
+middle-aged  adj.中年的<br>
+mild [maild] adj.温和的，温暖的<br>
+mile [mail] n.英里<br>
+millionaire [ˌmiljəˈnɛə] n.百万富翁<br>
+mince [mɪns] n.绞肉，肉馅<br>
+mink [mɪŋk] n.貂皮<br>
+minute [ˈminit] n.分(钟)，瞬间<br>
+miss [mis] vt.惦念；未赶上<br>
+mistake [misˈteik] n.错误，过失，误会<br>
+model [ˈmɔdəl] n.型号，模型<br>
+moment [ˈməʊmənt] n.片刻，瞬间<br>
+month [mʌnθ] n.月，一个月的时间<br>
+</div>
+
+<div>morning [ˈmɔ:niŋ] n.早晨，上午<br>
+mother [ˈmʌðə] n.母<br>
+mouth [mauθ] n.嘴，口<br>
+move [mu:v] vi.&vt.搬迁，移动<br>
+much [mʌtʃ] adj.很多的，许多的；很多的；许多的<br>
+mum [mʌm] n.妈妈<br>
+mumps [mʌmps] n.腮腺炎<br>
+must [mʌst] v.&aux.必须，应当<br>
+name [neim] n.名字<br>
+nationality [ˌnæʃəˈnæliti] n.国籍<br>
+near [niə] prep.靠近,adj.亲近的<br>
+nearly [ˈniəli] adv.几乎，将近<br>
+need [ni:d] vt.需要<br>
+neighbour [ˈneibə] n.邻居<br>
+neither [ˈni:ðə] adv.也不<br>
+never [ˈnevə] adv.决不，永不，从不<br>
+new [nju:] adj.新的<br>
+news [nju:z] n.新闻，消息，音信<br>
+newspaper [ˈnju:sˌpeipə] n.报纸<br>
+next [nekst] adj.下一(个)；与..邻接<br>
+</div>
+
+<div>nice [nais] adj.令人愉快的，和蔼的<br>
+night [nait] n.夜晚，夜间，黑夜<br>
+noise [nɔiz] n.闹声，噪音，声响<br>
+noon [nu:n] n.中午<br>
+north [nɔ:θ] n.北，北方,adj.北方的<br>
+note [nəut] n.纸币，备忘录，记录<br>
+nothing [ˈnʌθiŋ] n.&adv.没有什么东西<br>
+now [nau] adv.现在<br>
+number [ˈnʌmbə] n.数(字，量)，数(值)<br>
+nurse [nə:s] n.护士<br>
+o'clock [əˈklɔk] n.点钟<br>
+off [ɔf] prep.&adv.&adj.离开<br>
+offer [ˈɔfə] vt.提供，提出<br>
+office [ˈɔfis] n.办公室,营业所,公司<br>
+officer [ˈɔfisə] n.官员<br>
+old [əuld] adj.老的，旧的<br>
+open [ˈəupən] adj.开着的,vt.打开<br>
+opposite [ˈɔpəzit] adj.对面的<br>
+orange [ˈɔrindʒ] adj.橘黄色的n.橘子<br>
+other [ˈʌðə(r] adj.别的，其余的<br>
+</div>
+
+<div>over [ˈəuvə] prep.在...之上<br>
+overseas [ˌəuvəˈsi:z] adj.海外的，国外的<br>
+overtake [ˌəuvəˈteik] vt.追上<br>
+pack [pæk] vt.包装，挤满<br>
+pad [pæd] n.衬垫，信笺簿<br>
+paint [peint] vt.上漆<br>
+pair [pɛə] n.一双，一对<br>
+pardon [ˈpɑ:dən] n.&vt.原谅<br>
+park [pɑ:k] n.公园<br>
+parrot [ˈpærət] n.鹦鹉<br>
+party [ˈpɑ:ti] n.聚会，政党<br>
+pass [pɑ:s] vt.&vi.通过<br>
+passenger [ˈpæsindʒə] n.乘客<br>
+passport [ˈpɑ:spɔ:t] n.护照，通行证，执照<br>
+pea [piː] n.豌豆<br>
+peach [pi:tʃ] n.桃<br>
+pear [pɛə] n.梨<br>
+pen [pen] n.(钢)笔<br>
+pence [pens] n.便士(英货币)<br>
+pencil [ˈpensəl] n.铅笔<br>
+</div>
+
+<div>penny [ˈpeni] n.便士(英国货币单位)<br>
+perhaps [pəˈhæps] adv.或许，可能，大概<br>
+person [ˈpɜːsn] n.人；人称<br>
+photograph [ˈfəutəɡrɑ:f] n.照片<br>
+picture [ˈpiktʃə] n.图画，照片<br>
+piece [pi:s] n.片，块<br>
+pilot [ˈpailət] n.飞行员，领航员<br>
+pink [piŋk] adj.粉红色的,n.粉红色<br>
+pity [ˈpiti] n.令人遗憾的事<br>
+place [pleis] vt.放置，排列,n.地方<br>
+plate [pleit] n.盘<br>
+platform [ˈplætfɔ:m] n.月台<br>
+pleasant [ˈplezənt] adj.愉快的，适意的<br>
+pleasantly [ˈplezntlɪ] adv.愉快地<br>
+please [pli:z] vi.请<br>
+plenty [ˈplenti] adj.充足的，大量的<br>
+pocket [ˈpɔkit] n.衣袋，钱袋，财力<br>
+policeman [pəˈli:smən] n.警察<br>
+policewoman [pəˈli:sˌwʊmən] n.女警察<br>
+pool [pu:l] n.水池；（液体的）一摊；共同储金v...<br>
+</div>
+
+<div>postman [ˈpəustmən] n.邮递员<br>
+potato [pəˈteitəu] n.土豆<br>
+pound [paund] n.磅<br>
+powder [ˈpaudə] n.粉，粉末，火药<br>
+present [ˈprezənt] n.礼物<br>
+pretty [ˈpriti] adj.漂亮的，可爱的<br>
+price [prais] n.价格，价钱，价<br>
+problem [ˈprɔbləm] n.问题<br>
+program [ˈprəuɡræm] n.程序，节目<br>
+prosecute [ˈprɔsikju:t] vt.处罚，对...起诉<br>
+pure [pjuə] adj.纯的<br>
+quarter [ˈkwɔ:tə] n.四分之一，一刻钟<br>
+quickly [ˈkwɪklɪ] adv.快，迅速地<br>
+quiet [ˈkwaiət] adj.宁静的<br>
+quotient [ˈkwəʊʃənt] n.商数，份额<br>
+race [reis] n.比赛，赛跑，赛马<br>
+radio [ˈreidiəu] n.收音机<br>
+rain [rein] n.雨,vi.下雨<br>
+read [ri:d] vt.&vi.阅读，读<br>
+ready [ˈredi] adj.准备好的，有准备的<br>
+</div>
+
+<div>recognize [ˈrekəɡnaiz] vt.认出，认识，承认<br>
+red [red] adj.红的，红色的<br>
+refrigerator [riˈfridʒəreitə] n.(电)冰箱<br>
+regard [riˈɡɑ:d] n.问候，致意；注重<br>
+regularly [ˈregjʊləlɪ] adv.经常地，定期地<br>
+remain [riˈmein] vi.保持，继续<br>
+remember [riˈmembə] vt.记住，记得，想起<br>
+repair [riˈpɛə] vt.&vi.修理，修补<br>
+reporter [riˈpɔ:tə] n.记者<br>
+rest [rest] n.其余者<br>
+restaurant [ˈrestərənt] n.饭店，餐馆<br>
+retire [riˈtaiə] vt.退休<br>
+rich [ritʃ] adj.油腻的，味浓的<br>
+right [rait] adj.好的,n.右边<br>
+ripe [raip] adj.熟的，成熟的<br>
+rise [raiz] vi.上升，站起<br>
+river [ˈrivə] n.江，河<br>
+room [ru:m] n.室，房间，场所<br>
+rubbish [ˈrʌbiʃ] n.垃圾<br>
+run [rʌn] vi.&vt.跑，奔，逃<br>
+</div>
+
+<div>rusty [ˈrʌsti:] adj.生锈的<br>
+sad [sæd] adj.悲哀的，糟透的<br>
+sale [seil] n.卖，拍卖，销路<br>
+salesman [ˈseilzmən] n.售货员，推销员<br>
+same [seim] adj.同样的<br>
+say [sei] vt.&vi.说，讲，表明<br>
+school [sku:l] n.学校<br>
+season [ˈsi:zən] n.季，季节<br>
+see [si:] vi.&vt.看见<br>
+sell [sel] vt.卖，出售，销售<br>
+sensational [senˈseɪʃənəl] adj.轰动的<br>
+serve [sə:v] vt.&vi.侍候(顾客)<br>
+set [set] vi.降落，下山<br>
+sharp [ʃɑ:p] adj.锋利的<br>
+shave [ʃeiv] vi.刮脸<br>
+shelf [ʃelf] n.搁板，架子<br>
+shine [ʃain] vi.照耀，发光<br>
+ship [ʃip] n.(大)船，轮船<br>
+shirt [ʃə:t] n.衬衫(衣)<br>
+shopping [ˈʃɔpɪŋ] n.购物<br>
+</div>
+
+<div>short [ʃɔ:t] adj.矮的<br>
+show [ʃəu] vt.给...看，显示<br>
+shut [ʃʌt] adj.关着的,vt.关闭<br>
+sign [sain] n.标记，牌子<br>
+since [sins] conj.自...以来，既然<br>
+sister [ˈsistə] n.姐妹<br>
+sit [sit] vi.坐，就座<br>
+size [saiz] n.大小，尺寸，尺码<br>
+skirt [skə:t] n.裙(子)<br>
+sky [skai] n.天空<br>
+sleep [sli:p] vi.睡,n.睡眠<br>
+slip [slip] vt.&vi.滑倒；失足<br>
+slowly [ˈsləʊli] adv.慢慢地<br>
+small [smɔ:l] adj.小的，少的<br>
+smart [smɑ:t] adj.漂亮的，时髦的<br>
+smile [smail] vi.&n.微笑<br>
+snow [snəu] vi.下雪,n.雪，下雪<br>
+so [səʊ] adv.也；如此，这<br>
+soap [səup] n.肥皂<br>
+soft [sɔft] adj.柔软的，柔滑的<br>
+</div>
+
+<div>some [sʌm] adj.若干的，多少的<br>
+someone [ˈsʌmwʌn] pro.有人，某人<br>
+sometimes [ˈsʌmtaimz] adv.有时，往往<br>
+son [sʌn] n.儿子<br>
+sorry [ˈsɔri] adj.抱歉的<br>
+sour [ˈsauə] adj.酸的<br>
+south [sauθ] n.南，南方,adj.南方的<br>
+speak [spi:k] vi.&vt.讲，说，谈话<br>
+speed [spi:d] n.速度<br>
+spell [spel] vt.&vi.拼写<br>
+spend [spend] vt.度过，花费(钱等)<br>
+spoon [spu:n] n.匙，调羹<br>
+spot [spɔt] n.地点，斑点<br>
+spring [spriŋ] n.春，春季<br>
+square [skwɛə] n.广场，正方形<br>
+stale [steil] adj.陈腐的<br>
+stand [stænd] vi.&vt.站立；持久<br>
+station [ˈsteiʃən] n.车站<br>
+stationer [ˈsteɪʃənə] n.文具商<br>
+stationery [ˈsteiʃənəri] n.文具<br>
+</div>
+
+<div>stay [stei] vi.停留<br>
+steak [steik] n.牛排<br>
+still [stil] adv.仍，至今还<br>
+stop [stɔp] vi.&vt.停止，逗留<br>
+story [ˈstɔ:ri] n.故事<br>
+street [stri:t] n.街，街区<br>
+student [ˈstju:dənt] n.学生<br>
+stupid [ˈstju:pid] adj.愚笨的<br>
+subject [ˈsʌbdʒikt] n.题目<br>
+suddenly [ˈsʌdnlɪ] adv.突然地<br>
+sugar [ˈʃuɡə] n.糖<br>
+suit [sju:t] n.一套衣服,vt.适合<br>
+suitcase [ˈsju:tkeis] n.小提箱<br>
+summer [ˈsʌmə] n.夏天<br>
+sun [sʌn] n.太阳，恒星<br>
+surprise [səˈpraiz] n.惊奇，意外事<br>
+surround [səˈraund] vt.包围，环绕<br>
+swallow [ˈswɔləu] vt.吞下，咽下<br>
+sweep [swi:p] vt.扫，打扫<br>
+sweet [swi:t] adj.甜的<br>
+</div>
+
+<div>swim [swim] vi.游泳<br>
+table [ˈteibl] n.桌子<br>
+take [teik] vt.&vi.拿，捉；占领<br>
+tall [tɔ:l] adj.高的<br>
+tap [tæp] n.龙头<br>
+tea [ti:] n.茶，茶叶<br>
+teacher [ˈti:tʃə] n.教师(员)，老(导)师<br>
+teacup [ˈti:ˌkʌp] n.茶杯<br>
+teapot [ˈti:ˌpɔt] n.茶壶<br>
+teeth [ti:θ] n.牙齿<br>
+telephone [ˈtelifəun] n.电话，电话机<br>
+television [ˈteliˌviʒən] n.电视机<br>
+tell [tel] vt.讲，告诉,vi.报告<br>
+temperature [ˈtempəritʃə] n.温度<br>
+terrible [ˈterəbl] adj.可怕的<br>
+than [ðən] conj.比，比较<br>
+thank [θæŋk] vt.感谢<br>
+that [ðæt] pro.那(个)<br>
+then [ðen] adv.然后，其时<br>
+thief [θi:f] n.贼，窃贼，小偷<br>
+</div>
+
+<div>thin [θin] adj.瘦的<br>
+think [θiŋk] vt.想，考虑，想起<br>
+thirsty [ˈθə:sti] adj.渴(望)的，干(燥)的<br>
+this [ðis] pro.这，这个，这事<br>
+those [ðəuz] adj.&pro.那些<br>
+through [θru:] prep.穿过，通过；通过,穿过,透过<br>
+throw [θrəu] vt.扔，投，摔倒<br>
+ticket [ˈtikit] n.票，券，标签，号牌<br>
+tie [tai] n.领带<br>
+till [til] prep.直到<br>
+time [taim] n.时间，时刻，时光<br>
+tired [ˈtaiəd] adj.疲乏，累<br>
+tobacco [təˈbækəu] n.烟草，烟叶，烟<br>
+today [təˈdei] n.今天<br>
+together [təˈɡeðə] adv.在一起<br>
+tomato [təˈmɑ:təu] n.西红柿<br>
+tomorrow [təˈmɔrəu] n.明天，未来<br>
+tongue [tʌŋ] n.舌，语言<br>
+tonight [təˈnait] n.今晚<br>
+too [tu:] adv.也，还；太，很<br>
+</div>
+
+<div>toothache [ˈtu:θˌeɪk] n.牙痛<br>
+torch [tɔ:tʃ] n.火炬，手电筒，火把<br>
+tourist [ˈtuərist] n.旅游者<br>
+town [taun] n.(城)镇<br>
+track [træk] n.(运动场的)跑道<br>
+train [trein] n.列车，火车<br>
+tramp [træmp] n.流浪者<br>
+travel [ˈtrævəl] n.旅行,vi.旅行<br>
+tree [tri:] n.树木<br>
+trousers  n.裤子<br>
+truth [tru:θ] n.真相，真理，真实性<br>
+try [trai] vt.&vi.试，试着<br>
+type [taip] vt.&vi.打字<br>
+typist [ˈtaipist] n.打字员<br>
+tyre [ˈtaiə] n.轮胎<br>
+ugly [ˈʌɡli] adj.丑陋的，难看的<br>
+umbrella [ʌmˈbrelə] n.伞，伞形<br>
+uncomfortable [ʌnˈkʌmfətəbəl] adj.不舒服的<br>
+under [ˈʌndə] prep.在...之下，在下<br>
+understand [ˌʌndəˈstænd] vt.&vi.了解，理解<br>
+</div>
+
+<div>upstairs [ˌʌpˈstɛəz] adv.楼上<br>
+urgent [ˈə:dʒənt] adj.紧急的，急切的<br>
+usually [ˈjuːʒuəli] adv.通常<br>
+valley [ˈvæli] n.山谷<br>
+vase [vɑ:z] n.花瓶<br>
+vegetable [ˈvedʒitəbl] n.蔬菜<br>
+very [ˈveri] adv.很，非常,adj.很，非常<br>
+village [ˈvilidʒ] n.村，村庄，乡村<br>
+visitor [ˈvizitə] n.访问者，参观者<br>
+voice [vɔis] n.声音，(讲话)声<br>
+wait [weit] vi.等待<br>
+walk [wɔ:k] vi.行，走，步行<br>
+wall [wɔ:l] n.墙，墙壁，城墙<br>
+want [wɔnt] vt.要，想要，需求<br>
+wardrobe [ˈwɔ:drəub] n.衣橱<br>
+warm [wɔ:m] adj.温暖的，暖和的<br>
+warmly [ˈwɔ:mlɪ] adv.热情地<br>
+wash [wɔʃ] vt.洗，冲洗，冲走<br>
+watch [wɔtʃ] n.手表，看守，警戒<br>
+water [ˈwɔ:tə] n.水,vt.&vi.浇水<br>
+</div>
+
+<div>wave [weiv] vi.挥手招呼,vt.挥动<br>
+way [wei] n.路，路程，路线<br>
+wear [wɛə] vt.&vi.穿，戴；磨损<br>
+weather [ˈweðə] n.天气，气候；处境<br>
+well [wel] n.安好的，好的<br>
+west [west] n.西，西方,adj.西方的<br>
+wet [wet] adj.潮湿的，多雨的<br>
+what [hwɔt] adj.什么，多少，多么！<br>
+when [hwen] adv.什么时候,n.时候<br>
+where [hwɛə] adv.在哪里<br>
+which [hwitʃ] adj.&pro.哪一(个)<br>
+whisky [ˈhwiski] n.威士忌酒<br>
+white [hwait] adj.白色的<br>
+whose [hu:z] pro.谁的<br>
+wife [waif] n.妻子<br>
+window [ˈwindəu] n.窗户<br>
+windy [ˈwɪndi:] adj.起风的，有风的<br>
+wine [wain] n.葡萄酒，果子酒，酒<br>
+winner [ˈwɪnə] n.获胜者，得奖者<br>
+winter [ˈwintə] n.冬，冬季<br>
+</div>
+
+<div>with [wið] prep.与..一起，和,用<br>
+woman [ˈwumən] n.女人，妇女<br>
+wood [wud] n.树林，木质，木材<br>
+word [wə:d] n.单词；台词；口信<br>
+work [wə:k] n.工作，工件，功率<br>
+world [wɜː(r)ld] n.世界<br>
+worry [ˈwʌri] vi.&vt.&n.烦恼，担忧<br>
+worth [wə:θ] adj.值，相当...之价值<br>
+wrong [rɔŋ] adj.错误的，不适当的<br>
+year [jə:] n.年，岁数<br>
+yellow [ˈjeləu] adj.黄的，黄色的<br>
+yet [jet] adv.还，仍，更<br>
+young [jʌŋ] adj.年轻的<br>
+youth [ju:θ] n.少年，少小时代<br>
+zip [zip] n.拉链<br>
+cigaret [ˌsigəˈret] n.<br>
+cloakroom [ˈkləʊkˌru:m] n.存放衣帽间<br>
+untidy [ʌnˈtaɪdi:] adj.不整齐的，零乱的<br>
+tobacconist [təˈbækənɪst] n.烟草商<br>
+tin [tin] n.白铁罐<br>
+</div>
+
+<div>thirstily  adv.口渴地<br>
+teaspoonful [ˈti:spu:nˌfʊl] n.一茶匙的量，一满匙<br>
+sideboard [ˈsaɪdˌbɔ:d] n.餐具橱<br>
+sharpen [ˈʃɑ:pən] vt.使锐利，使尖锐<br>
+roast [rəust] adj.烤过的<br>
+put [put] vt.置放于某处<br>
+ow [au] int.哎哟<br>
+nuisance [ˈnju:səns] n.讨厌的人或事物<br>
+newsagent  n.报纸杂志经销社<br>
+milkman [ˈmɪlkˌmæn] n.送牛奶工人<br>
+knock [nɔk] vt.&vi.敲、击、打<br>
+ill [il] adj.有病的，难过的<br>
+hullo [həˈləʊ] int.喂<br>
+excite [ikˈsait] vt.使兴奋，使激动<br>
+compact [kəmˈpækt] n.带镜子的小粉盒<br>
+compartment [kəmˈpɑ:tmənt] n.列车车厢的分隔间<br>
+cut [kʌt] vt.切、割<br>
+dinner [ˈdinə] n.(一天中的)主餐,晚餐<br>
+eh [eɪ] int.啊，嗯(惊奇等)<br>
+enjoy [inˈdʒɔi] vt.享受...之乐趣<br>
+</div>
+
+<div>anything [ˈeniθiŋ] n.&pro.无论什么东西<br>
+</div>

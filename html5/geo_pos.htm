@@ -1,0 +1,117 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HTML5-获取地理位置</title>
+<script src="../cjs/jsbase.js"></script>
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=1.3"></script>
+<style type="text/css">
+table { background:#CCC; }
+td { background:#FFF; border:1px solid #CCC; }
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; border:1px solid #CCC; }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+</p>
+
+<p class="subNav">
+<a href="geo_pos.htm" class="bggray">GEO</a>
+<a href="geo_gis.htm" class="bgblue">GIS</a>
+<a href="geolocation.html" class="bgblue">Demo</a>
+</p>
+
+<div class="mcontent">
+
+<p class="pv5"> &nbsp; <a href="#" onClick="init()">获取地理位置信息</a></p>
+<p id="idinfo"></p>
+<p class="pv5"> &nbsp; <a href="#" onClick="showMap()">显示地图</a></p>
+<div id="map" style="width:100%;height:320px; border:0px solid #CCC;"></div>
+  
+</div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+
+function getLocation(cbOK, cbError){ 
+	if(navigator.geolocation){
+		var opt = {timeout:4000}; //enableHighAccuracy:true,
+		/*
+		enableHighAcuracy — 布尔值： 表示是否启用高精确度模式，如果启用这种模式，浏览器在获取位置信息时可能需要耗费更多的时间。
+		timeout — 整数： 表示浏览需要在指定的时间内获取位置信息，否则触发errorCallback。
+		maximumAge — 整数/常量： 表示浏览器重新获取位置信息的时间间隔。
+		*/
+		navigator.geolocation.getCurrentPosition(cbOK, cbError, opt);
+	}else{
+		alert("您的浏览器不支持使用HTML 5来获取地理位置服务");
+	}
+}
+
+function showMap(){
+	var posObj = posInfo;
+	var longitude = posObj.coords.longitude;
+	var latitude = posObj.coords.latitude;
+	var map = new BMap.Map("map");
+	var point = new BMap.Point(longitude, latitude); // 创建点坐标
+	map.centerAndZoom(point, 15);
+	var marker = new BMap.Marker(new BMap.Point(longitude, latitude)); // 创建标注
+	map.addOverlay(marker); // 将标注添加到地图中
+}
+
+function funcOK(posObj){
+	posInfo = posObj;
+	var coords = posObj.coords;
+	var arr = 'longitude,latitude,accuracy,altitude,altitudeAccuracy,heading,speed'.split(',');
+	var i,itm,str = '';
+	for(i=0;i<arr.length;i++){
+		eval("itm = coords."+arr[i]+"");
+		if(itm)	{
+			str += arr[i]+'='+itm+'<br>';
+		}
+	}
+	if(coords.timestamp){
+		str += '<br>timestamp='+posObj.timestamp;
+	}
+	jsElm.jeID('idinfo').innerHTML = str;
+}
+
+function funcError(posObj){
+	switch(posObj.code){
+	case 1:
+		alert("位置服务被拒绝");
+	break;
+	case 2:
+		alert("暂时获取不到位置信息");
+	break;
+	case 3:
+		alert("获取信息超时");
+	break;
+	case 4:
+		alert("未知错误");
+	break;
+	}
+}
+
+function init(){
+	getLocation(funcOK, funcError);
+}
+
+var posInfo;
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,59 @@
+
+td {
+	text-align:center;
+	background-color:#FFFFFF;
+	overflow:hidden;
+	line-height:150%;
+	padding:3px;
+}
+.day1 { padding:5px 0px; line-height:150%; }
+.day1 .dnum {
+	display:inline-block;
+	font-size:larger;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	line-height:150%;
+}
+.dm {
+    color:#000099;
+	padding:1px 1px 0px 1px;
+	border:1px #666666 solid;
+	background-color:#D0D0D0;
+}
+.d24c {
+    color:#FF00FF;
+	border:1px #999999 solid;
+	padding:1px 1px 0px 1px;
+}
+.d24b {
+	border-right:0px;
+}
+fieldset {
+	height:100%;
+	padding:5px;
+}
+legend {
+	font-weight:bold;
+}
+.th {
+	background-color:#CCCCFF;
+	font-weight:bold;
+	width:14%;
+}
+.tNull {
+	background-color:#FFFFFF;
+}
+
+table.out { border:0px; max-width:680px; min-width:640px; margin:1px auto 0px auto; page-break-after: always; }
+div.out { max-width:680px; min-width:640px; margin:30px auto; }
+table { width:100%; margin:auto; }
+table.c { border:2px solid #333; }
+table.c td { border:1px solid #999; position:relative; }
+.notes { font-size:small; text-align:left; line-height:150%; }
+.ntitle { color:#666; }
+.umark { display:inline-block; position:absolute; top:1px; right:10px; }
+.nitem { display:inline-block; padding:0px 10px; }
+
+table.mtitle { border:0px; }
+table.mtitle td { border:0px; font-weight:bold; }
+

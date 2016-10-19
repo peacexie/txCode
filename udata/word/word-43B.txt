@@ -1,0 +1,891 @@
+
+<div>noble [ˈnəubl] n.贵族<br>
+nomad [ˈnəʊˌmæd] n.游牧民<br>
+northern  adj.北部的<br>
+nostril [ˈnɔstril] n.鼻孔<br>
+notable [ˈnəutəbl] adj.著名的，显要的<br>
+note [nəut] vt.注意到,n.口气<br>
+noticeable [ˈnəutisəbl] adj.明显的<br>
+novice [ˈnɔvɪs] n.新手<br>
+nuclear [ˈnju:kliə] adj.核子的，原子能的，核的，中心的<br>
+numerous [ˈnju:mərəs] adj.许多<br>
+nursery [ˈnə:səri] n.育婴室<br>
+objective [əbˈdʒektiv] n.目标<br>
+oblige [əˈblaidʒ] vt.迫使<br>
+obscure [əbˈskjuə] adj.卑微的，无名的<br>
+obscurity [ɔbˈskjʊərɪti:] n.默默无闻<br>
+observe [əbˈzə:v] vt.注意到<br>
+obstacle [ˈɔbstəkl] n.障碍<br>
+obstinately [ˈɑbstənɪtlɪ] adv.固执地<br>
+obtain [əbˈtein] vt.得到<br>
+occasion [əˈkeiʒən] vt.引起<br>
+</div>
+
+<div>occupy [ˈɔkjupai] vt.使忙碌,vi.占<br>
+occurrence [əˈkʌrəns] n.(偶发)事件<br>
+octopus [ˈɔktəpəs] n.章鱼<br>
+odd [ɔd] adj.奇怪的<br>
+oddly [ˈɔdlɪ] adv.奇怪地<br>
+odds [ɔdz] n.困难，差额<br>
+official [əˈfiʃəl] n.官员<br>
+officious [əˈfɪʃəs] adj.好管闲事的<br>
+old-fashioned [ˈəuldˈfæʃənd] adj.老式的<br>
+operate [ˈɔpəreit] vi.运转<br>
+operation [ˌɔpəˈreiʃən] n.行动；操作；工作<br>
+opportunity [ˌɔpəˈtju:niti] n.机会<br>
+orbit [ˈɔ:bit] vi.沿轨道运行,n.轨道<br>
+orderly [ˈɔ:dəli] adj.有条不紊的<br>
+originally [əˈrɪdʒənəli:] adv.原来<br>
+outlandish [aʊtˈlændɪʃ] adj.稀奇古怪的<br>
+outskirt [ˈaʊtˌskɜ:t] n.(常用复数)郊区<br>
+overall [ˈəuvərɔ:l] n.工作服<br>
+overbalance [ˌəuvəˈbæləns] vi.失去平衡<br>
+overflow [ˌəuvəˈfləu] vt.溢出<br>
+</div>
+
+<div>overnight [ˌəuvəˈnait] adv.一夜之间；在头一天晚上<br>
+overthrow [ˌəuvəˈθrəu] vt.推翻<br>
+pace [peis] n.步，步调<br>
+pain [pein] n.疼痛<br>
+palace [ˈpælis] n.府，邸<br>
+panic [ˈpænik] n.惊慌<br>
+paradise [ˈpærədais] n.天堂<br>
+parliamentary [ˌpɑ:ləˈmentəri:] adj.国会的<br>
+part [pɑ:t] n.台词<br>
+partial [ˈpɑ:ʃəl] adj.部分的<br>
+particularly [pəˈtikjuləli] adv.特别地<br>
+party [ˈpɑ:ti] n.批，组<br>
+pass [pɑ:s] n.关隘<br>
+passage [ˈpæsidʒ] n.流逝<br>
+passer-by [ˌpɑːsə(r)ˈbaɪ] n.过路人<br>
+past [pɑːst] n.过去<br>
+pasture [ˈpɑ:stʃə] n.牧场<br>
+patrol [pəˈtrəul] vt.巡逻<br>
+pavement [ˈpeɪvmənt] n.人行道<br>
+peace [pi:s] n.宁静<br>
+</div>
+
+<div>peaceful [ˈpi:sful] adj.宁静的<br>
+perform [pəˈfɔ:m] vt.完成，提供<br>
+performance [pəˈfɔ:məns] n.运行<br>
+perfume [ˈpə:fju:m] n.香水<br>
+period [ˈpiəriəd] n.一段时间<br>
+permanent [ˈpə:mənənt] adj.永久的<br>
+permission [pəˈmiʃən] n.允许<br>
+perpetual [pəˈpetʃuəl] adj.永久的<br>
+personal [ˈpə:sənəl] adj.私人的<br>
+phase [feiz] n.(月)相<br>
+phenomena [fiˈnɔminə] n.现象<br>
+philosopher [fiˈlɔsəfə] n.哲学家<br>
+photographer [fəˈtɔgrəfə] n.摄影师<br>
+phrase [freiz] n.措词<br>
+physical [ˈfizikəl] adj.身体的<br>
+piece [pi:s] vt.拼合,n.件，个<br>
+pioneer [ˌpaiəˈniə] n.先驱<br>
+pipe [paip] n.管道<br>
+pity [ˈpiti] n.怜悯<br>
+plank [plæŋk] n.木板<br>
+</div>
+
+<div>plant [plɑ:nt] n.植物<br>
+plaster [ˈplɑ:stə] n.熟石膏<br>
+plateau [ˈplætəu] n.高原<br>
+platform [ˈplætfɔ:m] n.平台<br>
+plead [pli:d] vt.辩护<br>
+pleased  adj.高兴的<br>
+plug [plʌɡ] vt.堵，塞，插上，插栓,n.塞子，...<br>
+plumber [ˈplʌmə] n.管子工<br>
+plunge [plʌndʒ] vi.跳入(与into连用)<br>
+point [pɔint] vi.指向(与to连用)<br>
+poison [ˈpɔizən] vt.毒死,n.毒药<br>
+polish [ˈpɔliʃ] vt.擦亮<br>
+popularity [ˌpɔpjəˈlærɪti:] n.名望<br>
+port [pɔ:t] n.港口<br>
+porter [ˈpɔ:tə] n.杂务工<br>
+position [pəˈziʃən] n.地位；姿势<br>
+pot [pɔt] n.壶<br>
+pounce [paʊns] vi.猛抓(与on连用)；猛扑(与on连...<br>
+pound [paund] n.磅<br>
+pour [pɔ:] vt.倾注,vi.源源不断地流<br>
+</div>
+
+<div>poverty [ˈpɔvəti] n.贫困<br>
+power [ˈpauə] n.力量<br>
+practice [ˈpræktis] n.业务；习惯做法<br>
+pray [prei] vi.祷告<br>
+precariously [prɪˈkeərɪəslɪ] adv.不安全地<br>
+precise [priˈsais] adj.周密的，精确的<br>
+precisely [prɪˈsaɪsli:] adv.正好<br>
+prehistoric [ˌpri:hɪˈstɔ:rɪk] adj.史前的，古老的<br>
+prelude [ˈprelˌju:d] n.序幕<br>
+premises [ˈpremɪsɪz] n.房屋<br>
+premium [ˈpri:miəm] n.保险费<br>
+presence [ˈprezəns] n.在场<br>
+present [ˈprezənt] vt.呈递<br>
+preserve [priˈzə:v] vt.保存<br>
+president [ˈprezidənt] n.总统<br>
+press [pres] n.印刷机<br>
+pretentious [priˈtenʃəs] adj.做作的<br>
+previous [ˈpri:viəs] adj.以前的<br>
+price [prais] n.价格<br>
+pride [praid] vt.骄傲<br>
+</div>
+
+<div>priest [pri:st] n.牧师<br>
+primitive [ˈprimitiv] adj.原始的<br>
+prince [prins] n.王子<br>
+prise [praɪz] vt.撬开<br>
+prison [ˈprizən] n.监狱<br>
+privilege [ˈprivilidʒ] n.特权；好处<br>
+prize [praiz] adj.珍贵的<br>
+proceed [prəˈsi:d] vi.继续进行<br>
+process [ˈprəuses] n.过程<br>
+procession [prəˈseʃən] n.行列<br>
+product [ˈprɔdʌkt] n.产品<br>
+professional [prəˈfeʃənəl] adj.职业的<br>
+project [prəˈdʒekt] n.工程；方案，计划<br>
+prompt [prɔmpt] vt.怂恿,adj.及时的<br>
+proportion [prəˈpɔ:ʃən] n.部分<br>
+propose [prəˈpəuz] vt.打算<br>
+prosecute [ˈprɔsikju:t] vt.告发<br>
+prosperous [ˈprɔspərəs] adj.繁荣的<br>
+protection [prəˈtekʃən] n.保护<br>
+provide [prəˈvaid] vt.提供<br>
+</div>
+
+<div>prudent [ˈpru:dnt] adj.谨慎的<br>
+publication [ˌpʌbliˈkeiʃən] n.出版物<br>
+publish [ˈpʌbliʃ] vt.出版<br>
+pudding [ˈpudiŋ] n.布丁(一种甜点心)<br>
+puma [ˈpju:mə] n.美洲狮<br>
+pump [pʌmp] vt.用泵打...,vi.抽水<br>
+punctuality [ˌpʌŋktjʊˈælɪtɪ] n.准时<br>
+punishment [ˈpʌnɪʃmənt] n.惩罚<br>
+purchase  vt.购买,n.购买<br>
+pursue [pəˈsju:] vt.实行<br>
+push [puʃ] vt.伸<br>
+puzzle [ˈpʌzl] vt.使迷惑,vi.迷惑<br>
+qualification [ˌkwɔlifiˈkeiʃən] n.本领，资格<br>
+qualify [ˈkwɔlifai] v.具有资格，证明合格<br>
+quarrel [ˈkwɔrəl] vi.吵架<br>
+quasar [ˈkweɪˌzɑ:] n.类星体<br>
+quicken [ˈkwɪkən] vt.加快<br>
+rabbit [ˈræbit] n.兔<br>
+radically [ˈrædɪkəlɪ] adv.急剧地<br>
+raft [rɑ:ft] n.木筏<br>
+</div>
+
+<div>raid [reid] n.袭击<br>
+rainbow [ˈreinbəu] n.虹<br>
+raise [reiz] vt.提起；筹集<br>
+rambling [ˈræmblɪŋ] adj.杂乱无章的<br>
+ransom [ˈrænsəm] n.赎金<br>
+rashly [ˈræʃlɪ] adv.莽撞地，轻率地<br>
+rate [reit] n.速度<br>
+rattle [ˈrætl] vi.格格作响<br>
+reaction [riˈækʃən] n.反应<br>
+readily [ˈredili] adv.乐意地<br>
+real [riəl] adj.实际的<br>
+realistic [ˌriəˈlistik] adj.逼真的<br>
+realm [relm] n.王国<br>
+rebound [ˈri:ˈbaʊnd] vi.弹回，返回<br>
+recluse [ˈrekˌlu:s] n.隐士<br>
+reconstruct [ˌri:kənˈstrʌkt] vt.(按原样)修复<br>
+record [ˈrekɔ:d] n.记录，记载vt.&vi.记录，...<br>
+recover [rɪˈkʌvə(r)] vt.弥补<br>
+recovery [riˈkʌvəri] n.恢复<br>
+reduce [riˈdju:s] vt.减慢；减少；迫使<br>
+</div>
+
+<div>refer [riˈfə:] vt.提及(与to连用)<br>
+reflect [riˈflekt] vt.细想<br>
+regain [ri:ˈgeɪn] vt.恢复<br>
+regard [riˈɡɑ:d] vt.看待<br>
+regiment [ˈredʒimənt] n.(军)团<br>
+regular [ˈreɡjulə] adj.常来的<br>
+regularity [ˌregjʊˈlærɪtɪ] n.规律性<br>
+relate [riˈleit] vt.讲述<br>
+relation [riˈleiʃən] n.关系<br>
+relatively [ˈrelətɪvlɪ] adv.比较地，相对地<br>
+relaxation [ˌri:lækˈseɪʃən] n.轻松<br>
+relieve [riˈli:v] vt.解除<br>
+reluctantly [rɪˈlʌktəntlɪ] adv.勉强地<br>
+rely [riˈlai] vi.依靠(常与on连用)<br>
+remain [riˈmein] vt.停留，逗留<br>
+remains [riˈmeins] n.遗迹<br>
+remarkable [riˈmɑ:kəbl] adj.惊人的，非凡的<br>
+remote [riˈməut] adj.很少的<br>
+repeatedly [riˈpi:tidli] adv.反复地<br>
+repel [riˈpel] vt.排斥<br>
+</div>
+
+<div>report [riˈpɔ:t] n.报告<br>
+represent [ˌrepriˈzent] vt.代表<br>
+reprimand [ˈreprəˌmænd] vt.申斥，训斥<br>
+reproach [riˈprəutʃ] vt.责备<br>
+republic [riˈpʌblik] n.共和国<br>
+reputation [ˌrepjuˈteiʃən] n.名声<br>
+requisite [ˈrekwɪzɪt] n.必需品<br>
+resemblance [riˈzembləns] n.相象<br>
+resist [riˈzist] vt.抵制<br>
+resolution [ˌrezəˈlu:ʃən] n.决心<br>
+resolve [riˈzɔlv] vi.决心<br>
+resourceful [rɪˈsɔ:sfəl] adj.足智多谋的<br>
+respect [risˈpekt] n.尊敬<br>
+respectable [rɪˈspektəbəl] adj.体面的<br>
+response [riˈspɔns] n.响应；反应<br>
+rest [rest] vi.放在(与on连用)；倚靠<br>
+restrict [risˈtrikt] vt.限制<br>
+result [riˈzʌlt] vi.产生(与from连用)<br>
+retrace [ri:ˈtreɪs] vt.折回，返回<br>
+retreat [riˈtri:t] n.退却<br>
+</div>
+
+<div>reveal [riˈvi:l] vt.露出<br>
+revolve [riˈvɔlv] vi.旋转<br>
+revulsion [rɪˈvʌlʃən] n.嫌恶<br>
+reward [riˈwɔ:d] vt.奖赏；报偿<br>
+rhythm [ˈriðəm] n.节奏<br>
+rickety [ˈrɪkɪti:] adj.摇晃的<br>
+rid [rid] n.摆脱<br>
+ridicule [ˈrɪdɪˌkju:l] vt.嘲笑<br>
+rig  vt.装配<br>
+rightly [ˈraɪtli:] adv.应该<br>
+rim [rim] n.边，缘<br>
+ring [riŋ] n.拳击场地；戒指<br>
+rip [rip] vt.划破<br>
+rise [raiz] n.提高，升高<br>
+rocket [ˈrɔkit] n.火箭<br>
+role [rəul] n.角色<br>
+roll [rəul] vt.卷,vi.左右摇摆；滚<br>
+rope [rəup] n.绳子<br>
+rough [rʌf] adj.崎岖不平的<br>
+roughly [ˈrʌflɪ] adv.粗鲁地<br>
+</div>
+
+<div>routine [ru:ˈti:n] n.日常事务<br>
+rub [rʌb] vt.擦<br>
+rubber [ˈrʌbə] n.橡皮<br>
+rubble [ˈrʌbəl] n.碎石<br>
+rudder [ˈrʌdə] n.舵<br>
+rug [rʌɡ] n.小地毯，毛毯<br>
+ruin [ˈruin] vt.毁坏<br>
+rule [ru:l] n.规则<br>
+run [rʌn] vi.变得；(戏剧的)连续上演<br>
+rural [ˈruərəl] adj.农村的<br>
+rust [rʌst] vi.生锈<br>
+sacred [ˈseikrid] adj.神圣的<br>
+sacrifice [ˈsækrifais] vt.牺牲<br>
+sad [sæd] adj.糟糕的<br>
+safeguard [ˈseifɡɑ:d] vt.保护<br>
+sail [seil] n.帆<br>
+salvage [ˈsælvidʒ] vt.打捞,n.(遇难船只的)打捞<br>
+sample [ˈsɑ:mpl] n.样品<br>
+sarcastically [sɑ:rˈkæstɪkəlɪ] adv.讽刺地<br>
+sardine [sɑ:ˈdi:n] n.沙丁鱼<br>
+</div>
+
+<div>satellite [ˈsætəlait] n.人造卫星<br>
+satisfying  adj.令人满意的<br>
+saying [ˈseɪɪŋ] n.俗话<br>
+scale [skeil] n.规模<br>
+scanty [ˈskænti:] adj.贫乏的<br>
+scene [si:n] n.景色<br>
+scheme [ski:m] n.计划，方案<br>
+science [ˈsaiəns] n.科学<br>
+scientific [ˌsaiənˈtifik] adj.科学的<br>
+scoop [sku:p] vt.挖出<br>
+scorn [skɔ:n] n.嘲弄<br>
+scour [ˈskauə] vt.搜索<br>
+screen [skri:n] n.(电视的)屏幕<br>
+scrub [skrʌb] vt.擦洗<br>
+sculpture [ˈskʌlptʃə] n.雕塑品<br>
+seabed [ˈsi:bed] n.海床<br>
+search [sə:tʃ] n.搜查<br>
+searcher [ˈsɜːtʃə(r)] n.搜寻者<br>
+secret [ˈsiːkrət] n.秘密<br>
+secretive [ˈsi:krɪtɪv] adj.保密的<br>
+</div>
+
+<div>seek [si:k] vt.寻求<br>
+seemingly [ˈsiːmɪŋli] adv.表面上<br>
+seize [si:z] vt.夺取<br>
+select [siˈlekt] vt.选择<br>
+self-confidence [ˈselfˈkɔnfɪdəns] n.自信<br>
+self-discipline [ˈselfˈdɪsəplɪn] n.自我约束<br>
+self-respecting  adj.有自尊心的<br>
+sense [sens] n.见识，理智<br>
+sentiment [ˈsentimənt] n.伤感<br>
+sequence [ˈsi:kwəns] n.序列<br>
+series [ˈsiəri:z] n.系列<br>
+serious [ˈsiəriəs] adj.重要的<br>
+seriously [ˈsɪərɪəslɪ] adv.认真地<br>
+set [set] n.(一)套，(一)批<br>
+settle [ˈsetl] vt.解决,vi.安身<br>
+severe [siˈviə] adj.严厉的<br>
+severely [səˈvɪrlɪ] adv.严厉地，严肃地<br>
+shade [ʃeid] n.色度<br>
+shallow [ˈʃæləu] adj.浅的<br>
+shape [ʃeip] vt.使具有...形状,n.形状<br>
+</div>
+
+<div>share [ʃɛə] vt.共同使用<br>
+sharply [ˈʃɑ:plɪ] adv.急剧地<br>
+shawl [ʃɔ:l] n.披巾，围巾<br>
+sheet [ʃi:t] n.被单；(纸的)张<br>
+shelter [ˈʃeltə] n.掩蔽处<br>
+shiver [ˈʃivə] vi.打颤<br>
+shoot [ʃu:t] vt.射<br>
+shortly [ˈʃɔ:tli] adv.不久<br>
+shower [ˈʃauə] n.淋浴；阵雨<br>
+shrewd [ʃru:d] adj.精明的<br>
+shrug [ʃrʌɡ] vt.耸(肩)<br>
+shy [ʃai] adj.畏缩的<br>
+side [said] n.壁，边<br>
+sight [sait] n.情景，景色<br>
+signor  n.(意大利语)先生<br>
+signpost [ˈsaɪnˌpəʊst] n.(十字路口)路标<br>
+silence [ˈsailəns] n.寂静<br>
+silk [silk] n.丝绸<br>
+silly [ˈsili] adj.无聊的<br>
+silver [ˈsilvə] n.银器<br>
+</div>
+
+<div>similar [ˈsimilə] adj.相似的<br>
+similarly [ˈsimiləli] adv.同样<br>
+simple [ˈsimpl] adj.简单的<br>
+sinking [ˈsiŋkiŋ] n.下沉<br>
+sip [sip] vt.呷<br>
+sire [saɪə] n.(古用法)陛下<br>
+siren [ˈsaiərin] n.警报器，汽笛<br>
+situation [ˌsitjuˈeiʃən] n.情况；地点，位置<br>
+sixpence [ˈsikspəns] n.六便士<br>
+skeleton [ˈskelitn] n.骷髅<br>
+sketch [sketʃ] n.图样<br>
+skier [ˈski:ə] n.滑雪者<br>
+skill [skil] n.技术<br>
+slam [slæm] vt.砰地关上<br>
+sleeve [sli:v] n.袖子<br>
+slide [slaid] vi.滑<br>
+slight [slait] adj.很小的<br>
+slightly [ˈslaɪtli:] adv.轻微地<br>
+slip [slip] vi.溜<br>
+smooth [smu:ð] adj.光滑的<br>
+</div>
+
+<div>smuggler [ˈsmʌɡ(ə)lə(r)] n.走私者<br>
+snail [sneil] n.蜗牛<br>
+snap [snæp] vt.突然折断<br>
+snob [snɔb] n.势利小人<br>
+so-called [ˈsəʊˈkɔ:ld] adj.所谓的<br>
+solution [səˈlu:ʃən] n.解决办法<br>
+solve [sɔlv] vt.解答<br>
+somehow [ˈsʌmhau] adv.以某种方法；不知什么原因<br>
+sound [saund] vt.响，发声,adj.坚实的<br>
+southern [ˈsʌðən] adj.南方的<br>
+spacious [ˈspeiʃəs] adj.宽敞的<br>
+span [spæn] n.跨度<br>
+specialize [ˈspeʃəlaiz] vi.专门研究<br>
+specimen [ˈspesimən] n.标本<br>
+speculation [ˌspekjəˈleɪʃən] n.推测<br>
+spell [spel] vt.带来<br>
+sphere [sfiə] n.球体<br>
+spider [ˈspaidə] n.蜘蛛<br>
+spire [spaɪə] n.塔尖<br>
+spiritual [ˈspiritʃuəl] adj.精神上的<br>
+</div>
+
+<div>spokesman [ˈspəuksmən] n.代言人<br>
+spot [spɔt] vt.发现,n.一点点<br>
+squeeze [skwi:z] vi.挤<br>
+stack [stæk] vt.把...堆放,vi.堆积<br>
+staff [stɑ:f] n.(全体)工作人员<br>
+stage [steidʒ] vt.筹划<br>
+stagger [ˈstæɡə] vi.蹒跚，摇晃<br>
+stalactite [stəˈlækˌtaɪt] n.钟乳石<br>
+stalagmite [stəˈlægˌmaɪt] n.石笋<br>
+stall [stɔ:l] n.厩<br>
+stand [stænd] vi.位于，站立时身高<br>
+standard [ˈstændəd] adj.一般性的,n.标准<br>
+stare [stɛə] vi.盯<br>
+start [stɑ:t] n.惊奇<br>
+starve [stɑ:v] vi.饥饿<br>
+statement [ˈsteitmənt] n.陈述<br>
+statistics [stəˈtistiks] n.统计数字<br>
+status [ˈsteitəs] n.地位<br>
+steadily [ˈstedɪlɪ] adv.稳定地；不断地<br>
+steady [ˈstedi] adj.稳定的<br>
+</div>
+
+<div>steel [sti:l] n.钢<br>
+steep [sti:p] adj.陡峭的<br>
+stem [stem] vi.起源于<br>
+step [step] n.(台阶的)梯级<br>
+stick [stik] vt.陷住,vi.坚持(常与to连用...<br>
+sticky [ˈstiki] adj.粘性的<br>
+sting [stiŋ] vt.叮<br>
+stock [stɔk] n.存货<br>
+stocking [ˈstɔkiŋ] n.象袜子一样的东西<br>
+stomach [ˈstʌmək] n.肚子<br>
+store [stɔ:] vt.装备<br>
+storey [ˈstɔ:ri] n.(楼的)层<br>
+straight [streit] adj.一本正经的<br>
+stray [strei] adj.迷路的<br>
+stream [stri:m] vi.涌出；流<br>
+strength [streŋθ] n.巨大<br>
+stress [stres] vt.重读<br>
+stretch [stretʃ] n.绵亘的一片,vt.&vi.伸<br>
+string [striŋ] n.细绳<br>
+stroll [strəul] n.散，溜达<br>
+</div>
+
+<div>structure [ˈstrʌktʃə] n.结构物；结构<br>
+stuff [stʌf] n.东西<br>
+stuffy [ˈstʌfi:] adj.闷热的，不通风的<br>
+subject [ˈsʌbdʒikt] adj.受支配的,n.事物；科目<br>
+submarine [ˈsʌbməri:n] n.潜水艇<br>
+submerge [səbˈmə:dʒ] vt.浸没，淹没<br>
+substance [ˈsʌbstəns] n.物质<br>
+subtle [ˈsʌtl] adj.微妙的<br>
+suburb [ˈsʌbə:b] n.郊区<br>
+suffering [ˈsʌfərɪŋ] n.痛苦<br>
+suggestion [səˈdʒestʃən] n.建议<br>
+suit [sju:t] n.西服(套)<br>
+suitably [ˈsu:təblɪ] adv.适当地<br>
+sunken [ˈsʌŋkən] adj.沉没的<br>
+superior [sjuˈpiəriə] adj.优越的<br>
+supply [səˈplai] n.供给<br>
+sure [ʃuə] adj.有把握的<br>
+surface [ˈsə:fis] n.表面<br>
+surgeon [ˈsə:dʒən] n.外科医生<br>
+survive [səˈvaiv] vi.存活<br>
+</div>
+
+<div>suspect [səˈspekt] vt.怀疑<br>
+suspend [səˈspend] vt.悬挂；暂停<br>
+sway [swei] vi.摇摆<br>
+sweep [swi:p] vt.拖，扫<br>
+swerve [swə:v] vi.突然转弯<br>
+swift [swift] adj.迅速的<br>
+swiftly [ˈswɪftlɪ] adv.迅速地<br>
+switch [switʃ] vt.打开(与on连用)<br>
+syllable [ˈsiləbl] n.音节<br>
+symbol [ˈsimbəl] n.符号<br>
+system [ˈsistəm] n.系统<br>
+tanker [ˈtæŋkə] n.油轮<br>
+tape [teip] n.胶带<br>
+taste [teist] n.鉴赏力<br>
+taunt [tɔ:nt] n.嘲笑<br>
+tear [tiə] n.嘲笑<br>
+technically [ˈteknɪkəlɪ] adv.技术上<br>
+tedious [ˈti:diəs] adj.乏味的<br>
+teenager [ˈti:neidʒə] n.青少年<br>
+telegram [ˈteliɡræm] n.电报<br>
+</div>
+
+<div>telescope [ˈteliskəup] n.望远镜<br>
+temporary [ˈtempərəri] adj.临时的<br>
+tempt [tempt] vt.吸引<br>
+tend [tend] vt.趋向<br>
+territory [ˈteritəri] n.地区<br>
+theatrical [θi:ˈætrɪkəl] adj.演戏似的<br>
+theft [θeft] n.窃贼<br>
+thereby [ˈðɛəbai] adv.由此<br>
+thrifty [ˈθrɪfti:] adj.节俭的<br>
+thrust [θrʌst] vt.塞<br>
+tie [tai] vt.系，拴<br>
+times [taɪmz] n.时代<br>
+tip [tip] n.尖端<br>
+tire [ˈtaiə] n.（口）疲劳，劳累，轮胎，头饰<br>
+tiresome [ˈtaiəsəm] adj.讨厌的<br>
+title [ˈtaitl] n.官衔<br>
+tolerance [ˈtɔlərəns] n.忍受<br>
+tolerate [ˈtɔləreit] vt.忍受<br>
+torchlight [ˈtɔːtʃlaɪt] n.电筒光<br>
+toss [tɔs] vt.扔<br>
+</div>
+
+<div>total [ˈtəutəl] adj.总的<br>
+totally [ˈtəʊtəlɪ] adv.完全<br>
+tour [tuə] n.旅行<br>
+trace [treis] vt.找出；沿着,n.痕迹<br>
+track [træk] n.道路<br>
+tradesman [ˈtreɪdzmən] n.商人<br>
+tradition [trəˈdiʃən] n.传统<br>
+tragic [ˈtrædʒik] adj.悲惨的<br>
+trail [treil] n.痕迹<br>
+tramp [træmp] vt.步行<br>
+trap [træp] vi.陷入<br>
+traveller [ˈtræv(ə)lə] n.旅客<br>
+treat [tri:t] n.难得的乐事，享受<br>
+tremble [ˈtrembl] vi.颤抖<br>
+trial [ˈtraiəl] n.痛苦<br>
+trip [trip] vi.绊<br>
+triumph [ˈtraiəmf] n.胜利<br>
+triumphantly [traɪˈʌmfəntlɪ] adv.胜利地<br>
+trunk [trʌŋk] n.树干<br>
+turbine [ˈtə:bin] n.涡轮机<br>
+</div>
+
+<div>turn [tə:n] vi.拐弯；恶心<br>
+turning [ˈtɜ:nɪŋ] n.拐弯<br>
+twist [twist] vi.扭曲<br>
+typical [ˈtipikəl] adj.典型的<br>
+unacceptable [ˌʌnɪkˈseptəbəl] adj.不能接受的<br>
+unbroken [ʌnˈbrəʊkən] adj.连绵的<br>
+uncanny [ʌnˈkæni:] adj.不可思议的，神秘的<br>
+uncle [ˈʌŋkl] n.叔叔<br>
+underclothes [ˈʌndəˌkləʊz] n.内衣裤<br>
+underestimate [ˌʌndərˈestimeit] vt.低估<br>
+underground [ˈʌndəɡraund] vt.低估<br>
+underside [ˈʌndəˌsaɪd] n.下侧<br>
+undertake [ˌʌndəˈteik] vt.着手做，进行<br>
+undertaking [ˈʌndəˌteɪkɪŋ] n.任务，工作<br>
+unexpected [ˌʌnɪkˈspektɪd] adj.意外的<br>
+unforgivable [ˌʌnfəˈgɪvəbəl] adj.不可原谅的<br>
+unfortunate [ʌnˈfɔ:tʃənɪt] adj.不幸的<br>
+unique [ju:ˈni:k] adj.唯一的<br>
+unit [ˈju:nit] n.部队<br>
+universal [ˌju:niˈvə:səl] adj.普遍的<br>
+</div>
+
+<div>universe [ˈju:nivə:s] n.宇宙<br>
+unknown [ʌnˈnəʊn] adj.未知的<br>
+unless [ʌnˈles] conj.除非<br>
+unlock [ʌnˈlɔk] vt.开启<br>
+unmade [ʌnˈmeid] adj.未经修筑的<br>
+unpack [ʌnˈpæk] vt.打开<br>
+unrealistic [ˌʌnri:əˈlɪstɪk] adj.不真实的<br>
+unrelenting [ˌʌnrɪˈlentɪŋ] adj.不松懈的<br>
+unscrew [ʌnˈskru:] vt.拧开，旋开<br>
+unshakable [ʌnˈʃeikəbl] adj.不可动摇的<br>
+unsinkable  adj.不沉的<br>
+untold [ʌnˈtəʊld] adj.数不尽的<br>
+unwanted [ˌʌnˈwɔntɪd] adj.不需要的<br>
+valiant [ˈvæljənt] adj.英勇的<br>
+varied [ˈveəri:d] adj.各种各样的<br>
+variety [vəˈraiəti] n.种类<br>
+vast [vɑ:st] adj.大量的<br>
+vehicle [ˈvi:ɪkl] n.车辆<br>
+velvet [ˈvelvit] n.丝绒<br>
+verify [ˈverifai] vt.查证，核实<br>
+</div>
+
+<div>veritable [ˈverɪtəbəl] adj.真正的<br>
+versatile [ˈvə:sətail] adj.多才多艺的<br>
+vertically [ˈvɜ:tɪkəlɪ] adv.垂直地<br>
+vessel [ˈvesəl] n.船<br>
+vicinity [viˈsiniti] n.邻近<br>
+view [vju:] n.见解<br>
+violent [ˈvaiələnt] adj.凶暴的<br>
+virtually [ˈvə:tʃuəli] adv.实际上<br>
+virtue [ˈvə:tju:] n.优点<br>
+vivid [ˈvivid] adj.生动的<br>
+volunteer [ˌvɔlənˈtiə] vt.自愿<br>
+voyage [ˈvɔiidʒ] n.航海<br>
+wade [weid] vi.涉水<br>
+wage [weidʒ] vt.进行(斗争)；进行(斗争)<br>
+want [wɔnt] vt.征求<br>
+wardrobe [ˈwɔ:drəub] n.衣柜<br>
+warning [ˈwɔ:nɪŋ] n.警报<br>
+wasp [wɔsp] n.黄蜂<br>
+waterfall [ˈwɔ:təˌfɔ:l] n.瀑布<br>
+weakness [ˈwi:knis] n.弱点<br>
+</div>
+
+<div>wealthy [ˈwelθi] adj.富有的<br>
+weird [wiəd] adj.古怪的<br>
+wheel [hwi:l] n.驾驶盘<br>
+wheelbarrow [ˈhwi:lˌbærəʊ] n.手推车<br>
+widely [ˈwaɪdlɪ] adv.广泛地<br>
+wild [waild] adj.野生的<br>
+winch [wɪntʃ] n.绞车<br>
+windscreen [ˈwɪndˌskri:n] n.挡风玻璃<br>
+wire [ˈwaiə] n.钢丝<br>
+wisdom [ˈwizdəm] n.智慧<br>
+wise [waiz] adj.明智的<br>
+withdraw [wiðˈdrɔ:] vt.取回<br>
+wither [ˈwiðə] vi.枯萎，凋谢<br>
+within [wiˈðin] prep.在...范围之内<br>
+withstand [wiðˈstænd] vt.经受住<br>
+wonder [ˈwʌndə] vt.纳闷，想知道<br>
+wood [wud] n.树林<br>
+wool [wul] n.羊毛<br>
+wound [wu:nd] n.伤口<br>
+wounded [ˈwu:ndɪd] adj.受伤的<br>
+</div>
+
+<div>wreath [ri:θ] n.花圈，花环<br>
+wreck [rek] n.沉船<br>
+wretched [ˈretʃid] adj.悲惨的<br>
+yet [jet] adv.又，然而<br>
+zero [ˈziərəu] n.零<br>
+zoo [zu:] n.动物园<br>
+unsympathetic [ˈʌnˌsɪmpəˈθetɪk] adj.不表示同情的<br>
+wane [weɪn] vi.衰减<br>
+weigh [wei] vt.称...重量<br>
+wildly [ˈwaɪldlɪ] adv.发狂地，荒唐地<br>
+bedraggle [bɪˈdrægəl] vt.(在泥水中)拖湿<br>
+milometer  n.计程表<br>
+quintuplet [ˈkwintjuplit] n.五胞胎之一<br>
+absorb [əbˈsɔ:b] vt.使精神贯注<br>
+academy [əˈkædəmi] n.专科院校，中等学校<br>
+acquaint [əˈkweint] vt.使认识<br>
+adamant [ˈædəmənt] adj.不动摇的<br>
+addition [əˈdiʃən] n.增添物<br>
+advertiser  n.做广告的人<br>
+afflict [əˈflikt] vt.使苦恼<br>
+</div>
+
+<div>agonizing [ˈægənaɪzɪŋ] adj.使人坐卧不安的<br>
+alike [əˈlaik] adv.一样地<br>
+all-night [ˈɔ:lˌnaɪt] adj.通霄的<br>
+alternative [ɔ:lˈtə:nətiv] adj.两者挑一的<br>
+amaze [əˈmeiz] vt.使惊奇<br>
+amply [ˈæmpli] adv.足够地<br>
+amusement [ˌəˈmju:zmənt] n.开心，逗乐<br>
+anxious [ˈæŋkʃəs] adj.急要的，渴望的<br>
+arcade [ɑ:ˈkeɪd] n.有拱廊的街道<br>
+archway [ˈɑ:tʃwei] n.拱形门廊<br>
+assail [əˈseɪl] vt.缠住<br>
+associate [əˈsəuʃieit] vt.使发生联系<br>
+astound [əˈstaʊnd] vt.使吃惊<br>
+bewildering  adj.令人无所适从的<br>
+bewilderment [biˈwildəmənt] n.为难<br>
+bind [baind] vt.使结合<br>
+bit [bit] n.小片<br>
+bitterly [ˈbɪtəlɪ] adv.厉害地<br>
+blacken [ˈblækən] vt.使...变黑<br>
+blare [bleə] vi.发嘟嘟声<br>
+</div>
+
+<div>booming  adj.轰响的<br>
+boot [bu:t] n.(汽车的)车箱<br>
+bound [baund] adj.必定的<br>
+brilliantly [ˈbrɪljəntlɪ] adv.灿烂地<br>
+capsule [ˈkæpsju:l] n.宇宙容器<br>
+carve [kɑ:v] vt.镌刻<br>
+cast [kɑ:st] vt.选派...扮演角色<br>
+caveman [ˈkeɪvˌmæn] n.洞人<br>
+cavern [ˈkævən] n.大山洞、大洞穴<br>
+chasm [ˈkæzəm] n.(地壳的)陷窟<br>
+chief [tʃi:f] n.头目<br>
+chug [tʃʌɡ] vi.嘎嚓嘎嚓地响<br>
+clerical [ˈklerɪkəl] adj.办事员(式)的<br>
+click [klik] vi.发出卡嗒声<br>
+closely [ˈkləʊslɪ] adv.细细地<br>
+clutter [ˈklʌtə] n.杂七杂八的东西<br>
+compartment [kəmˈpɑ:tmənt] n.密封舱<br>
+comprehensive [ˌkɔmpriˈhensiv] adj.包括内容多的<br>
+conscious [ˈkɔnʃəs] adj.意识到的<br>
+conspire [kənˈspaiə] vt.(巧合地)协力促成<br>
+</div>
+
+<div>convince [kənˈvins] vt.使信服<br>
+corner [ˈkɔ:nə] vt.使...走投无路<br>
+couchette [ku:ˈʃet] n.(法)火车卧铺<br>
+creep [kri:p] vi.蹑手蹑脚地走动<br>
+crown [kraun] vt.为...加冠<br>
+curiously [ˈkjʊərɪəslɪ] adv.稀奇古怪地<br>
+dangle [ˈdæŋgəl] vi.摇摇晃晃<br>
+dawdle [ˈdɔ:dl] vt.慢吞吞地前进<br>
+decry [dɪˈkraɪ] vt.诋毁<br>
+dedicated [ˈdedɪˌkeɪtɪd] adj.潜心的<br>
+delicacy [ˈdelɪkəsi:] n.精美的食物<br>
+delicate [ˈdelikit] adj.淡色的<br>
+descend [diˈsend] vi.突然去访问<br>
+desert [ˈdezət] vi.突然去访问<br>
+devour [diˈvauə] vt.狼吞虎咽地吃<br>
+dimly [ˈdɪmlɪ] adv.不清楚地<br>
+disillusion [ˌdisiˈlu:ʒən] vt.使幻想破灭<br>
+dislocate [ˈdɪsləʊˌkeɪt] vt.使混乱<br>
+distasteful [dɪsˈteɪstfəl] adj.讨厌的<br>
+dive [daiv] vi.头先入水地跳入<br>
+</div>
+
+<div>dramatic [drəˈmætik] adj.扣人心弦的<br>
+dump [dʌmp] vt.把...砰的一声抛下<br>
+eccentric [ikˈsentrik] n.古怪人<br>
+eccentricity [ˌeksenˈtrɪsɪti:] n.怪僻<br>
+eerie [ˈɪəri:] adj.引起恐惧的<br>
+elaborate [iˈlæbəreit] adj.精心构思的<br>
+embed [imˈbed] vt.埋<br>
+encouragingly [ɪnˈkʌrɪdʒɪŋlɪ] adv.鼓励地<br>
+engage [ɪnˈɡeɪdʒ] vt.使啮合<br>
+entrance [ˈentrəns] vt.使出神<br>
+escapist [iˈskeipist] n.会消遣的人<br>
+evolve [iˈvɔlv] vt.使逐渐形成<br>
+exempt [iɡˈzempt] adj.被免除的<br>
+exhaust [iɡˈzɔ:st] vt.使精疲力竭<br>
+extraordinarily [ɪksˈtrɔ:dnrɪlɪ] adv.特别地<br>
+extravagant [iksˈtræviɡənt] adj.侈奢的<br>
+fail [feil] vi.停止作用<br>
+faintly [ˈfeɪntlɪ] adv.微微地<br>
+falter [ˈfɔ:ltə] vi.结结巴巴地说出<br>
+fanciful [ˈfænsɪfəl] adj.想像出来的<br>
+</div>
+
+<div>fantastic [fænˈtæstik] adj.大得难以置信的<br>
+favourably [ˈfeɪvərəblɪ] adv.有利地<br>
+ferry [ˈferi] vt.渡运<br>
+fete [feɪt] n.节目<br>
+find [faind] n.收藏品；发现物<br>
+fingerprint [ˈfɪŋgəˌprɪnt] n.手指印<br>
+flaw [flɔ:] n.缝隙<br>
+flood [flʌd] vt.注满水<br>
+flourish [ˈflʌriʃ] n.戏剧性动作<br>
+fortune [ˈfɔ:tʃən] n.大量财产<br>
+fresh [freʃ] adj.精神饱满的<br>
+fumble [ˈfʌmbl] vt.乱摸<br>
+fuse [fju:z] vi.保险丝烧断不通电<br>
+gentle [ˈdʒentl] adj.从容的<br>
+gesticulate [dʒeˈstɪkjəˌleɪt] vi.打手势<br>
+glare [ɡlɛə] vi.怒目注视<br>
+glisten [ˈglɪsən] vi.闪烁<br>
+glow [ɡləu] n.白热光<br>
+grab [ɡræb] vt.强夺<br>
+grapple [ˈgræpəl] vt.抓住<br>
+</div>
+
+<div>greet [ɡri:t] vt.冲鼻<br>
+grinding [ˈɡraɪndɪŋ] adj.嘎嘎响的<br>
+guinea [ˈɡini] n.几尼(英国金币)<br>
+haul [hɔ:l] vt.拖曳<br>
+hawser [ˈhɔ:zə] n.粗缆绳<br>
+hobble [ˈhɔbəl] vi.跛行<br>
+holly [ˈhɔli:] n.冬青属植物<br>
+horrify [ˈhɔrifai] vt.使震惊<br>
+hypnotize [ˈhɪpnəˌtaɪz] vt.使入迷<br>
+idyllic [aɪˈdɪlɪk] adj.田园诗的<br>
+immaculate [ɪˈmækjəlɪt] adj.清洁的<br>
+immediately [iˈmi:diətli] adv.紧挨着地<br>
+immensity [ɪˈmensɪti:] adj.优美的<br>
+inaccessible [ˌɪnækˈsesəbəl] adj.达不到的<br>
+indiscriminate [ˌɪndɪˈskrɪmɪnɪt] adj.不加选择的<br>
+inquisitive [ɪnˈkwɪzɪtɪv] adj.爱打听的<br>
+insistent [ɪnˈsɪstənt] adj.逼人注意的<br>
+inveterate [ɪnˈvetərɪt] adj.积习难改的<br>
+ironically [aɪˈrɒnɪkli] adv.讽刺地<br>
+junior [ˈdʒu:njə] n.等级低的<br>
+</div>
+
+<div>ken [ken] n.见识<br>
+knowledgable  adj.有见识的<br>
+launch [lɔ:ntʃ] vt.使(船)下水<br>
+lavishly [ˈlævɪʃlɪ] adv.慷慨地<br>
+legendary [ˈledʒənˌderi:] adj.传奇似的<br>
+line [lain] vt.沿...排列<br>
+liner [ˈlainə] n.定期航班船<br>
+litter [ˈlitə] vt.在...上放杂乱东西<br>
+loose [lu:s] adj.散乱的<br>
+lubricate [ˈlu:brikeit] vt.使润滑<br>
+magnetize [ˈmægnɪˌtaɪz] vt.使磁化<br>
+magpie [ˈmægˌpaɪ] n.任意收藏的收藏者<br>
+manned [mænd] adj.载人的<br>
+manual [ˈmænjuəl] adj.体力的<br>
+meet [mi:t] vt.与...对抗<br>
+mete [mi:t] vt.给予<br>
+midst [midst] n.中部<br>
+mildly [ˈmaɪldlɪ] adv.略微地，适度地<br>
+miserable [ˈmizərəbl] adj.使人难受的<br>
+misery [ˈmizəri] n.苦楚<br>
+</div>
+
+<div>modest [ˈmɔdist] adj.不过分的<br>
+moor [mʊə] vt.系舶(船只)<br>
+mortally [ˈmɔ:tlɪ] adv.致命地<br>
+narrow-minded [ˈnærəʊˈmaɪndɪd] adj.思想狭隘的<br>
+narrowly [ˈnærəʊlɪ] adv.勉强地<br>
+needless [ˈni:dlɪs] adj.不需要的<br>
+observant [əbˈzɜ:vənt] adj.观察力锐敏的<br>
+ominously [ˈɔmɪnəslɪ] adv.不吉祥地<br>
+opposite [ˈɔpəzit] n.相反物<br>
+outrageous [aʊtˈreɪdʒəs] adj.令人不能容忍的<br>
+overland [ˈəʊvəˌlænd] adj.陆上的<br>
+overtake [ˌəuvəˈteik] vt.突然袭击<br>
+pastoral [ˈpæstərəl] adj.田园的<br>
+peer [piə] vi.盯着看(与at连用)<br>
+pent-up [ˈpentˈʌp] adj.被抑制的<br>
+perch [pə:tʃ] vt.座落，位于<br>
+perturb [pəˈtɜ:b] vt.使担忧<br>
+pester [ˈpestə] vt.缠扰<br>
+petrify [ˈpetrəˌfaɪ] vt.使发呆<br>
+pit [pit] vt.使凹下<br>
+</div>
+
+<div>pitfall [ˈpitfɔ:l] n.易犯错误<br>
+pleadings  n.恳求<br>
+please [pli:z] vt.认为合适<br>
+plot [plɔt] vt.密谋策划<br>
+pneumatic [nu:ˈmætɪk] adj.风动的<br>
+positive [ˈpɔzitiv] adj.确信的，有自信的<br>
+positively [ˈpɔzətɪvlɪ] adv.实在地，绝对地<br>
+predecessor [ˈpri:disesə] n.前辈<br>
+prejudice [ˈpredʒudis] vt.抱偏见<br>
+preside [priˈzaid] vi.指挥<br>
+print [print] n.印子<br>
+privacy [ˈpraivəsi] n.清静<br>
+promptly [prɔmptlɪ] adv.准时地<br>
+provocation [ˌprɔvəˈkeɪʃən] n.惹怒<br>
+punctually [ˈpʌŋktʃʊəlɪ] adv.准时地<br>
+rambler [ˈræmblə] n.漫步者<br>
+ransack [ˈrænˌsæk] vt.洗劫<br>
+rapture [ˈræptʃə] n.欣喜若狂<br>
+rarity [ˈreərɪti:] n.罕见的东西<br>
+reassemble [ˌri:əˈsembəl] vt.再装配<br>
+</div>
+
+<div>recur [riˈkə:] vi.再发生<br>
+refinement [rɪˈfaɪnmənt] n.高雅<br>
+remonstrate [rɪˈmɔnˌstreɪt] vt.规劝(与with连用)<br>
+renew [riˈnju:] vt.重复<br>
+repulsive [rɪˈpʌlsɪv] adj.使人反感的<br>
+scramble [ˈskræmbl] vi.快爬<br>
+scurry [ˈskɜ:ri:] vi.急转，疾行<br>
+selection [siˈlekʃən] n.待挑选物<br>
+self-improvement [ˈselfimˈpru:vmənt] n.自我改造<br>
+separate [ˈsepəreit] vt.使分开<br>
+service [ˈsɜːvɪs] n.交通设施<br>
+shed  vt.发射<br>
+sheltered [ˈʃeltəd] adj.蔽阴的<br>
+shock [ʃɔk] vt.使电震,n.巨震<br>
+signal [ˈsiɡnəl] vt.用信号报告<br>
+site [sait] vt.使位于某处<br>
+snatch [snætʃ] n.断断续续<br>
+solely [ˈsəʊlli:] adv.唯一地<br>
+solitude [ˈsɔlitju:d] n.与外界隔绝<br>
+sort [sɔ:t] vt.拣选出<br>
+</div>
+
+<div>squint [skwɪnt] vi.眯着眼看<br>
+steer [stiə] vt.为船掌舵<br>
+straggling  adj.散乱的<br>
+strike [straik] vt.给...以印象<br>
+strong-minded [ˈstrɔ:ŋˈmaɪndɪd] adj.有坚强意志的<br>
+stumble [ˈstʌmbl] vi.踉跄地走<br>
+swarm [swɔ:m] vi.密集<br>
+sweeping [ˈswi:pɪŋ] adj.一览无遗的<br>
+terrifying [ˈterɪfaɪɪŋ] adj.使人害怕的<br>
+tighten [ˈtaɪtn] vt.使变紧<br>
+tin [tin] n.听头<br>
+tint [tɪnt] vt.给...着色<br>
+torpedo [tɔ:ˈpi:dəʊ] vt.用鱼雷攻击<br>
+trembling [ˈtremblɪŋ] adj.震颤的<br>
+troop [tru:p] vi.成群结队地走<br>
+trouble [ˈtrʌbl] vt.使烦恼<br>
+tuck [tʌk] vt.使隐藏<br>
+tunnel [ˈtʌnəl] vt.掘地道穿过<br>
+tusk [tʌsk] n.长牙，獠牙<br>
+twitter [ˈtwɪtə] vi.(鸟)嘁嘁喳喳地叫<br>
+<b>Page:41:A</b><br>
+undoing [ʌnˈdu:ɪŋ] n.毁灭，祸根<br>
+unduly [ʌnˈdu:li:] adv.过度地<br>
+unexpectedly [ˌʌnɪkˈspektɪdlɪ] adv.出人意味地<br>
+unreasonable [ʌnˈri:zənəbəl] adj.没有道理的<br>
+unrelated [ˌʌnrɪˈleɪtɪd] adj.互不相关的<br>
+unsettling  adj.令人不安地<br>
+unsympathetic [ˈʌnˌsɪmpəˈθetɪk] adj.不表示同情的<br>
+wane [weɪn] vi.衰减<br>
+weigh [wei] vt.称...重量<br>
+wildly [ˈwaɪldlɪ] adv.发狂地，荒唐地<br>
+</div>

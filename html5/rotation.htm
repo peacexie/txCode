@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>屏幕旋转与拨号</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; border:1px solid #CCC; }
+#testBox { width:420px; height:150px; border:1px solid #00F; text-align:center; margin:auto; }
+.wrap { word-wrap: break-word; line-height:120%; padding:10px; }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+<p class="topnav bgblue" id="stabs">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+</p>
+
+<p class="subNav">
+<a href="orientation.htm" class="bgblue">重力感应</a>
+<a href="rotation.htm" class="bgblue">屏幕旋转</a>
+<a href="smslinks.htm" class="bgblue">短信链接</a>
+</p>
+
+</div>
+
+<div id="testBox">
+  <p class="bgblue ph10 tc" id="res">屏幕旋转测试框</p>
+  <p class="wrap">3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679821480865132823</p>
+  <p class="wrap">http://bbs.phonegap100.com/thread-28-1-1.html</p>
+</div>
+  
+<div class="divOuter clearfix">
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+<a id="seclink" style="display:none"></a>
+</p>
+
+</div>
+
+
+<script type="text/JavaScript">
+/*
+// 锁定屏幕为竖屏模式，不能设备如何旋转，屏幕都不会切换到横屏模式。
+window.screen.lockOrientation(["portrait-primary","portrait-secondary"]);
+// 锁定屏幕为横屏模式，无能设备如何旋转，屏幕都不会切换到竖屏模式。
+window.screen.lockOrientation(["landscape-primary","landscape-secondary"]);
+// 取消屏幕的锁屏，屏幕回到原始状态，
+window.screen.unlockOrientation();
+window.screen.lockOrientation = screen.lockOrientation ||screen.mozLockOrientation || screen.msLockOrientation;
+window.screen.unlockOrientation = screen.unlockOrientation|| screen.mozUnLockOrientation || screen.msUnLockOrientation;
+availHeight: 872
+availLeft: 0
+availTop: 0
+availWidth: 1440
+colorDepth: 24
+height: 900
+lockOrientation: undefined
+pixelDepth: 24
+width: 1440
+*/
+//alert(screen.msLockOrientation);
+window.screen.lockOrientation = screen.lockOrientation || screen.mozLockOrientation || screen.msLockOrientation;
+if(window.screen.lockOrientation){ window.screen.lockOrientation(["landscape-primary","landscape-secondary"]); }
+else { jsElm.jeID('res').innerHTML = '不支持[screen.lockOrientation]屏幕旋转！'; }
+</script>
+</body>
+</html>

@@ -1,0 +1,282 @@
+
+<div>亚洲 Asia<br>
+新加坡	Singapore	SGP<br>
+韩国	Korea Rep.	KOR<br>
+叙利亚	Syrian	SYR<br>
+乌兹别克斯坦	Uzbekstan	UZB<br>
+巴林	Bahrian	BHR<br>
+日本	Japan	JPN<br>
+约旦	Jordan	JOR<br>
+越南	Vietnam	VNM<br>
+吉尔吉斯斯坦	Kirghizia	KGZ<br>
+泰国	Thailand	THA<br>
+斯里兰卡	Sri Lanka	LKA<br>
+阿联酋	United Arab Emirates	ARE<br>
+老挝	Laos,PDR	LAO<br>
+阿富汗	Afghanistan	AFG<br>
+中国澳门	Macau	MAC<br>
+塔吉克斯坦	Tadzhikistan	TJK<br>
+朝鲜	Korea,DPR	PRK<br>
+巴勒斯坦	Palestine	PAL<br>
+中国香港	Hong Kong	HKG<br>
+伊拉克	Iraq	IRQ<br>
+黎巴嫩	Lebanon	LBN<br>
+科威特	Kuwait	KWT<br>
+文莱	Brunei	BRN<br>
+马尔代夫	Maldives	MDV<br>
+</div>
+
+<div>亚洲 Asia<br>
+印度尼西亚	Indonesia	IDN<br>
+以色列	Israel	ISR<br>
+蒙古	Mongolia	MNG<br>
+亚洲其他国家(地区)	Oth. Asia nes	<br>
+阿曼	Oman	OMN<br>
+印度	India	IND<br>
+缅甸	Myanmar	MMR<br>
+马来西亚	Malaysia	MYS<br>
+东帝汶	East Timor	TMP<br>
+也门共和国	Republic of Yemen	YEM<br>
+不丹	Bhutan	BTN<br>
+柬埔寨	Cambodia	KHM<br>
+巴基斯坦	Pakistan	PAK<br>
+孟加拉国	Bangladesh	BGD<br>
+沙特阿拉伯	Saudi Arabia	SAU<br>
+土库曼斯坦	Turkmenistan	TKM<br>
+卡塔尔	Qatar	QAT<br>
+尼泊尔	Nepal	NPL<br>
+哈萨克斯坦	Kazakhstan	KAZ<br>
+菲律宾	Philippines	PHL<br>
+台湾	Taiwan prov.	TWN<br>
+中国大陆	China	CHN<br>
+伊朗	Iran	IRN<br>
+</div>
+
+<div>欧洲 Europe<br>
+格鲁吉亚	Georgia	GEO<br>
+亚美尼亚	Armenia	ARM<br>
+阿塞拜疆	Azerbaijan	AZE<br>
+白俄罗斯	Byelorussia	BLR<br>
+俄罗斯联邦	Russia	RUS<br>
+乌克兰	Ukraine	UKR<br>
+欧洲其他国家(地区)	Oth. Eur. nes	<br>
+匈牙利	Hungary	HUN<br>
+冰岛	Iceland	ISL<br>
+马耳他	Malta	MLT<br>
+摩纳哥	Monaco	MCO<br>
+挪威	Norway	NOR<br>
+罗马尼亚	Romania	ROM<br>
+圣马力诺	San Marino	SMR<br>
+瑞典	Sweden	SWE<br>
+瑞士	Switzerland	CHE<br>
+爱沙尼亚	Estonia	EST<br>
+拉脱维亚	Latvia	LVA<br>
+立陶宛	Lithuania	LTU<br>
+摩尔多瓦	Moldavia	MDA<br>
+土耳其	Turkey	TUR<br>
+斯洛文尼亚	Slovenia Rep	SVN<br>
+捷克共和国	Czech Rep	CZE<br>
+斯洛伐克	Slovak Rep	SVK<br>
+</div>
+
+<div>欧洲 Europe<br>
+马其顿	Macedonia Rep	MKD<br>
+波斯尼亚-黑塞哥维那共和	Bosnia&Hercegovina	BIH<br>
+梵蒂冈城国	Vatican City State	VAT<br>
+荷兰	Netherlands	NLD<br>
+克罗地亚	Croatia Rep	HRV<br>
+希腊	Greece	GRC<br>
+爱尔兰	Ireland	IRL<br>
+比利时	Belgium	BEL<br>
+塞浦路斯	Cyprus	CYP<br>
+丹麦	Denmark	DNK<br>
+英国	United Kingdom	ENG<br>
+德国	Germany	DEU<br>
+法国	France	FRA<br>
+意大利	Italy	ITA<br>
+卢森堡	Luxembourg	LUX<br>
+葡萄牙	Portugal	PRT<br>
+波兰	Poland	POL<br>
+西班牙	Spain	ESP<br>
+阿尔巴尼亚	Albania	ALB<br>
+安道尔	Andorra	AND<br>
+列支敦士登	Liechtenstein	LIE<br>
+塞黑	Serbia & Montenegro	S&M<br>
+奥地利	Austria	AUT<br>
+保加利亚	Bulgaria	BGR<br>
+芬兰	Finland	FIN<br>
+直布罗陀	Gibraltar	GIB
+</div>
+
+<div>北美 North America<br>
+多米尼克	Dominica	DMA<br>
+百慕大	Bermuda	BMU<br>
+加拿大	Canada	CAN<br>
+美国	United States	USA<br>
+格陵兰	Greenland	GRL<br>
+北美洲其他国家(地区)	Oth. N.Amer. nes	<br>
+</div>
+
+<div>中美 Central America<br>
+哥斯达黎加	Costa Rica	CRI<br>
+古巴	Cuba	CUB<br>
+多米尼加共和国	Dominican Rep.	DOM<br>
+墨西哥	Mexico	MEX<br>
+尼加拉瓜	Nicaragua	NIC<br>
+巴拿马	Panama	PAN<br>
+荷属安地列斯群岛	the Netherlands Antilles	ANT<br>
+萨尔瓦多	El Salvador	SLV<br>
+英属维尔京群岛	VIRGIN IS.(U.K.)	BVI<br>
+波多黎各	Puerto Rico	PTR<br>
+美属维尔京群岛	VIRGIN IS.(US)	<br>
+安圭拉(英)	ANGUILLA(U.K.)	<br>
+圣卢西亚	ST. LUCIA	<br>
+圣文森特和格纳丁斯	ST. VINCENT AND THE GRENADINES	VAG<br>
+荷属安德列斯	NETHERLANDS ANTILLES	<br>
+瓜德罗普	Guadeloupe	GLP<br>
+洪都拉斯	Honduras	HND<br>
+危地马拉	Guatemala	GTM<br>
+</div>
+
+<div>南美 South America<br>
+智利	Chile	CHL<br>
+哥伦比亚	Colombia	COL<br>
+法属圭亚那	French Guyana	GUF<br>
+圭亚那	Guyana	GUY<br>
+库腊索岛	Curacao	<br>
+巴拉圭	Paraguay	PRY<br>
+秘鲁	Peru	PER<br>
+苏里南	Suriname	SUR<br>
+委内瑞拉	Venezuela	VEN<br>
+乌拉圭	Uruguay	URY<br>
+厄瓜多尔	Ecuador	ECU<br>
+安提瓜和巴布达	Antigua & Barbuda	ATG<br>
+阿鲁巴岛	Aruba	ABW<br>
+巴哈马	Bahamas	BHS<br>
+巴巴多斯	Barbados	BRB<br>
+开曼群岛	Cayman Is	CYM<br>
+格林纳达	Grenada	GRD<br>
+萨巴	Saba	<br>
+</div>
+
+<div>南美 South America<br>
+海地	Haiti	HTI<br>
+牙买加	Jamaica	JAM<br>
+马提尼克	Martinique	MTQ<br>
+蒙特塞拉特	Montserrat	MSR<br>
+圣文森特和格林纳丁斯	Saint Vincent & Grenadines	VCT<br>
+特立尼达和多巴哥	Trinidad & Tobago	TTO<br>
+特克斯和凯科斯群岛	Turks & Caicos Is	TCA<br>
+英属维尔京群岛	Br. Virgin Is	VGB<br>
+圣其茨-尼维斯	St. Kitts-Nevis	KNA<br>
+圣马丁岛	Saint Martin Is	<br>
+南美洲其他国家(地区)	Oth. L.Amer. nes	<br>
+圣皮埃尔和密克隆	St.Pierre and Miquelon	SPM<br>
+阿根廷	Argentina	ARG<br>
+伯利兹	Belize	BLZ<br>
+玻利维亚	Bolivia	BOL<br>
+巴西	Brazil	BRA<br>
+博内尔	Bonaire	<br>
+圣卢西亚	Saint Lucia	LCA<br>
+
+</div>
+
+<div>大洋 Oceania<br>
+汤加	Tonga	TON<br>
+澳大利亚	Australia	AUS<br>
+库克群岛	Cook Is	COK<br>
+瑙鲁	Nauru	NRU<br>
+新喀里多尼亚	New Caledonia	NCL<br>
+瓦努阿图	Vanuatu	VUT<br>
+所罗门群岛	Solomon Is	SLB<br>
+萨摩亚	Samoa	WSM<br>
+图瓦卢	Tuvalu	TUV<br>
+密克罗尼西亚联邦	Micronesia Fs	FSM<br>
+马绍尔群岛	Marshall Is Rep	MHL<br>
+基里巴斯	Kiribati	KIR<br>
+</div>
+
+<div>大洋 Oceania<br>
+法属玻利尼西亚	French Polynesia	PYF<br>
+新西兰	New Zealand	NZL<br>
+斐济	Fiji	FJI<br>
+巴布亚新几内亚	Papua New Guinea	PNG<br>
+帕劳共和国	Palau	PLW<br>
+土阿莫土群岛	Tuamotu Is	<br>
+土布艾群岛	Tubai Is	<br>
+社会群岛	Society Is	<br>
+马克萨斯群岛	Marquesas Is	<br>
+瓦利斯和浮图纳	Wallis and Futuna	WLF<br>
+盖比群岛	Gambier Is	<br>
+诺福克岛	Norfolk Is	<br>
+大洋洲其他国家(地区)	Oth. Ocean. nes	<br>
+</div>
+
+<div>非洲 Africa<br>
+喀麦隆	Cameroon	CMR<br>
+贝宁	Benin	BEN<br>
+马达加斯加	Madagascar	MDG<br>
+卢旺达	Rwanda	RWA<br>
+塞舌尔	Seychelles	SYC<br>
+科特迪瓦	Cote d'lvoir	CIV<br>
+埃及	Egypt	EGY<br>
+毛里求斯	Mauritius	MUS<br>
+布基纳法索	Burkina Faso	BFA<br>
+厄立特里亚	Eritrea	ERI<br>
+圣多美和普林西比	Sao Tome & Principe	STP<br>
+安哥拉	Angola	AGO<br>
+利比亚	Libyan Arab Jm	LBY<br>
+非洲其他国家(地区)	Oth. Afr. nes	<br>
+塞卜泰	Ceuta	<br>
+津巴布韦	Zimbabwe	ZWE<br>
+几内亚	Guinea	GIN<br>
+塞拉利昂	Sierra Leone	SLE<br>
+留尼汪	Reunion	REU<br>
+加蓬	Gabon	GAB<br>
+加纳	Ghana	GHA<br>
+坦桑尼亚	Tanzania	TZA<br>
+马里	Mali	MLI<br>
+索马里	Somalia	SOM<br>
+毛里塔尼亚	Mauritania	MRT<br>
+乌干达	Uganda	UGA<br>
+乍得	Chad	TCD<br>
+马约特岛	Mayotte	MYT<br>
+科摩罗	Comoros	COM<br>
+博茨瓦那	Botswana	BWA<br>
+</div>
+
+<div>非洲 Africa<br>
+塞内加尔	Senegal	SEN<br>
+斯威士兰	Swaziland	SWZ<br>
+几内亚(比绍)	Guinea Bissau	GNB<br>
+民主刚果	Congo,DR	<br>
+中非共和国	Central African Rep.	CAF<br>
+莱索托	Lesotho	LSO<br>
+刚果	Congo	COG<br>
+南非	S.ZAF<br>
+利比里亚	Liberia	LBR<br>
+突尼斯	Tunisia	TUN<br>
+赞比亚	Zambia	ZMB<br>
+尼日尔	Niger	NER<br>
+西撒哈拉	Western Sahara	ESH<br>
+多哥	Togo	TGO<br>
+纳米比亚	Namibia	NAM<br>
+莫桑比克	Mozambique	MOZ<br>
+梅利利亚	Melilla	<br>
+埃塞俄比亚	Ethiopia	ETH<br>
+摩洛哥	Morocco	MAR<br>
+马拉维	Malawi	MWI<br>
+尼日利亚	Nigeria	NGA<br>
+佛得角	Cape Verde	CPV<br>
+布隆迪	Burundi	BDI<br>
+阿尔及利亚	Algeria	DZA<br>
+吉布提	Djibouti	DJI<br>
+加那利群岛	Canary Is	<br>
+冈比亚	Gambia	GMB<br>
+赤道几内亚	Eq.Guinea	GNQ<br>
+苏丹	Sudan	SDN<br>
+肯尼亚	Kenya	KEN<br>
+</div>
+
+
+

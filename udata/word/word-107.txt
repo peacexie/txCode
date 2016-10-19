@@ -1,0 +1,605 @@
+
+<div>Katrina  卡特里娜<br>
+yuck [jʌk] interj.呸；啐<br>
+Internet [ˈintənet] n.网络；互联网<br>
+about [əˈbaut] adv.约摸；几乎；大约<br>
+active [ˈæktiv] adj.活跃的；积极的<br>
+as for [æzfɔ:] 至于；关于<br>
+better [ˈbetə] adj.更好的；更令人满意的；健康状况...<br>
+chip [tʃip] n.薄片<br>
+chocolate [ˈtʃɔkəlit] n.巧克力<br>
+coffee [ˈkɔfi] n.咖啡<br>
+cola [ˈkəʊlə] n.可乐<br>
+different [ˈdifərənt] adj.不同的；有区别的<br>
+drink [driŋk] n.喝；饮<br>
+ever [ˈevə] adv.曾；曾经<br>
+exercise [ˈeksə] v.&n.锻炼；运动<br>
+grade [ɡreid] n.分数；成绩<br>
+grandpa [ˈɡrænpɑ:] n.爷爷；外公<br>
+habit [ˈhæbit] n.习惯<br>
+hardly [ˈhɑ:dli] adv.几乎不；几乎没有<br>
+health [helθ] n.健康；健康状况<br>
+</div>
+
+<div>high school [haisku:l] 中学；公立中等学校<br>
+how many [hauˈmeni] 多少<br>
+how often [hauˈɔfən] 多久一次<br>
+interviewer [ˈɪntəvjuːə(r)] n.采访者<br>
+junk food [dʒʌŋkfu:d] 垃圾食品<br>
+keep [ki:p] v.保持；使保持某种状态<br>
+lifestyle [ˈlaɪfˌstaɪl] n.生活方式<br>
+maybe [ˈmeibi:] adv.或许；大概<br>
+milk [milk] n.牛奶<br>
+most [məust] adj.大多数的；大部分的；几乎全部的...<br>
+no [nəʊ] adj.没有的；全无的<br>
+once [wʌns] adv.一次<br>
+program [ˈprəuɡræm] n.节目；表演<br>
+result [riˈzʌlt] n.结果；成果<br>
+same [seim] adj.同样的；相同的<br>
+shop [ʃɔp] v.购物<br>
+skateboard [ˈskeɪtˌbɔ:d] v.踩滑板；参加滑板运动<br>
+surf [sə:f] v.在……冲浪；在激浪上驾<br>
+time [taim] n.次；次数<br>
+try [trai] v.设法；试图；努力<br>
+</div>
+
+<div>twice [twais] adv.两次<br>
+unhealthy [ʌnˈhelθi:] adj.不健康的；不益于健康的<br>
+a lot of [əlɔtɔv] 大量；许多<br>
+although [ɔ:lˈðəu] conj.虽然；即使；纵然<br>
+junk [dʒʌŋk] 废弃的旧物；破烂物<br>
+less [les] adj.较小的；更小的；较少的；更少的...<br>
+look after [lukˈɑ:ftə] 照顾；照看<br>
+of course [ɔvkɔː(r)s] 当然；自然<br>
+difference [ˈdifərəns] n.不同；差异；区别<br>
+Dangshen  党参<br>
+Huangqi  黄芪<br>
+yang [jɑ:ŋ] 阳<br>
+yin [jin] 阴<br>
+advice [ədˈvais] n.劝告；忠告；建议<br>
+ago [əˈɡəu] adv.以前<br>
+angry [ˈæŋɡri] adj.愤怒的；生气的<br>
+arm [ɑ:m] n.臂；胳膊<br>
+at the moment  此时；现在<br>
+back [bæk] n.背；背部<br>
+balance [ˈbæləns] n.平衡；平衡状态；协调<br>
+</div>
+
+<div>balanced  adj.平衡的；均衡的<br>
+believe [biˈli:v] v.相信；认为<br>
+cold [kəuld] n.受凉；感冒<br>
+dear [diə] interj.呵；哎呀<br>
+dentist [ˈdentist] n.牙医<br>
+diet [ˈdaiət] n.饮食；节食<br>
+ear [iə] n.耳朵<br>
+everybody [ˈevribɔdi] pron.每人；人人；各人<br>
+eye [ai] n.眼睛<br>
+fever [ˈfi:və] n.发烧；发热<br>
+few [fju:] adj.很少的；几乎没有的<br>
+foot [fut] n.脚；足<br>
+get [ɡet] v.变得<br>
+hand [hænd] n.手<br>
+have [hæv] v.得；患<br>
+have a cold [hævəkəuld] 受凉；感冒<br>
+head [hed] n.头；头部<br>
+headache [ˈhedeik] n.头痛<br>
+hear [hiə] v.听见；听说<br>
+herb [hə:b] n.草本植物；药草；香草<br>
+</div>
+
+<div>honey [ˈhʌni] n.蜂蜜<br>
+host family [həustˈfæmili] 寄宿家庭<br>
+illness [ˈilnis] n.疾病；身体不适<br>
+important [imˈpɔ:tənt] adj.重要的；重大的<br>
+leg [leɡ] n.腿；腿部<br>
+matter [ˈmætə] n.事情；问题；差错<br>
+medicine [ˈmedisin] n.药；药物<br>
+moment [ˈməʊmənt] n.瞬间；片刻<br>
+neck [nek] n.脖子；颈部<br>
+nose [nəuz] n.鼻子<br>
+problem [ˈprɔbləm] n.问题；令人困惑的事物；难以处理的事...<br>
+rest [rest] v.休息<br>
+should [ʃud] v.应该<br>
+sore [sɔ:] adj.疼痛的；酸痛的<br>
+stay [stei] v.继续是；保持；维持<br>
+stomach [ˈstʌmək] n.胃；肚子；腹部<br>
+stomachache [ˈstʌməkˌeɪk] n.胃痛；腹痛；肚子痛<br>
+stress [stres] v.加压力于；使紧张<br>
+stressed out  有压力的；紧张的<br>
+thirsty [ˈθə:sti] adj.渴的；口渴的<br>
+</div>
+
+<div>throat [θrəut] n.喉咙；咽喉<br>
+tofu [ˈtəʊfu:] n.豆腐<br>
+tooth [tu:θ] n.牙齿<br>
+toothache [ˈtu:θˌeɪk] n.牙痛<br>
+traditional [trəˈdɪʃənəl] adj.传统的；惯例的<br>
+until [ənˈtil] conj.直到……之时；在……之前<br>
+weak [wi:k] adj.虚弱的；无力的<br>
+western [ˈwestən] adj.西方的；来自西方的<br>
+yesterday [ˈjestədi] n.&adv.昨天；昨日<br>
+a few [əfju:] 有些；几个；少数<br>
+late [leit] adv.晚；迟；迟于通常时间<br>
+mouth [mauθ] n.口；嘴；口腔<br>
+Hector  赫克托<br>
+Lambert  兰伯特<br>
+Morgan [ˈmɔ:ɡən] 摩根<br>
+Europe [ˈjʊərəp] n.欧洲<br>
+Greece [gri:s] 希腊<br>
+Hawaii [həˈwɑ:i:] 夏威夷<br>
+Hong Kong [ˈhɔŋˈkɔŋ] 香港<br>
+Italy [ˈɪtəlɪ] 意大利<br>
+</div>
+
+<div>San Francisco  旧金山<br>
+Spain [speɪn] 西班牙<br>
+Thailand [ˈtailænd] 泰国<br>
+Tibet [tɪˈbet] 西藏<br>
+away [əˈwei] adv.向远处；离开；向另一方向<br>
+babysit  v.临时照顾<br>
+bike [baik] n.自行车；脚踏车<br>
+camp [kæmp] v.宿营；露营<br>
+countryside [ˈkʌntrisaid] n.农村；乡村<br>
+famous [ˈfeiməs] adj.著名的；出名的<br>
+finish [ˈfiniʃ] v.结束；完成<br>
+fishing [ˈfɪʃɪŋ] n.捕鱼；钓鱼<br>
+forget [fəˈɡet] v.忘记<br>
+get back [ɡetbæk] 回来<br>
+hike [haik] v.徒步旅行；远行<br>
+lake [leik] n.湖；湖泊<br>
+leave [li:v] v.离开；出发<br>
+nature [ˈneitʃə] n.大自然；自然界<br>
+plan [plæn] n.&v.计划；规划；方案<br>
+postcard [ˈpəʊstkɑːd] n.名信片<br>
+</div>
+
+<div>rent [rent] v.租用；出租<br>
+ride [raid] v.乘骑；搭乘n.乘骑旅行<br>
+sightseeing [ˈsaitˌsi:ɪŋ] n.观光；游览<br>
+something [ˈsʌmθiŋ] pron.某物；某事<br>
+take a vacation [teikəvəˈkeiʃən] 去度假<br>
+the Great Lakes  五大湖<br>
+tourist [ˈtuərist] n.旅行者；游客<br>
+yeah [ˈjeə] adv.是；是的；好的<br>
+a lot [əlɔt] 很；非常；常常<br>
+how long [haulɔŋ] 多久；多长时间<br>
+send [send] v.送；寄；派遣<br>
+North America  北美洲<br>
+bicycle [ˈbaisikl] n.自行车；两轮脚踏车<br>
+boat [bəut] n.船<br>
+by [bai] prep.表示交通、传递等的方式<br>
+by boat  乘船<br>
+by bus [baibʌs] 乘公共汽车<br>
+car [kɑ:] n.小汽车<br>
+depend [diˈpend] v.依赖；依靠<br>
+depend on [diˈpendɔn] 视……而定；决定于<br>
+</div>
+
+<div>early [ˈɜrli] adj.早的；提早的<br>
+eighty [ˈeɪti:] num.八十<br>
+far [fɑ:] adj.远的；遥远的<br>
+fifty [ˈfɪfti:] num.五十<br>
+forty [ˈfɔ:ti:] num.四十<br>
+hey [heɪ] 嘿；喂<br>
+how far [haufɑ:] 多远<br>
+hundred [ˈhʌndrəd] num.一百<br>
+ill [il] adj.生病的；不健康的<br>
+kilometer [ˈkiləˌmi:tə] n.公里；千米<br>
+look at [lukæt] 朝……看<br>
+means  n.方法；手段；工具<br>
+mile [mail] n.英里<br>
+minute [ˈminit] n.分钟<br>
+more [mɔ:] adj.&adv.比……更；更多的；更...<br>
+much [mʌtʃ] adv.十分；非常<br>
+must [mʌst] v.一定<br>
+ninety [ˈnaɪnti:] num.九十<br>
+north [nɔ:θ] adj.北部的；北方的<br>
+other [ˈʌðə(r] adj.另外的；其他的<br>
+</div>
+
+<div>part [pɑ:t] n.地区；区域<br>
+quick [kwik] adj.快的；迅速的<br>
+river [ˈrivə] n.河；江<br>
+seventy [ˈsevənti:] num.七十<br>
+shower [ˈʃauə] v.淋浴<br>
+sixty [ˈsɪksti:] num.六十<br>
+so [səʊ] adv.这么；那么<br>
+station [ˈsteiʃən] n.车站<br>
+stop [stɔp] n.车站<br>
+subway [ˈsʌbwei] n.地铁；地下火车<br>
+take [teik] v.花费<br>
+than [ðən] conj.比<br>
+thing [θiŋ] n.事物；事情<br>
+town [taun] n.镇；城镇<br>
+train [trein] n.火车<br>
+transportation [ˌtrænspɔ:ˈteiʃən] n.公共交通；运输<br>
+walk [wɔ:k] v.走；步行；散步<br>
+worry [ˈwʌri] v.担心；担忧；焦虑<br>
+Eliza  依赖扎<br>
+Kay  凯<br>
+</div>
+
+<div>Lisa  利萨<br>
+Vince  文斯<br>
+American [əˈmerɪkən] adj.美国的；美洲的<br>
+Ted  特德<br>
+another [əˈnʌðər] adj.又一的；再一的<br>
+calendar [ˈkælində] n.日历；日程表<br>
+chemistry [ˈkemistri] n.化学<br>
+come over [kʌmˈəuvə] 顺便来访<br>
+concert [ˈkɔnsət] n.音乐会<br>
+free [fri:] adj.空闲的；有空的<br>
+invitation [ˌɪnviˈteiʃən] n.邀请；邀请书<br>
+lesson [ˈlesən] n.课；课程<br>
+match [mætʃ] n.比赛；竞赛<br>
+project [prəˈdʒekt] n.课题；作业；项目<br>
+the day after tomorrow  后天<br>
+till [til] conj.直到……之时；在……之前<br>
+tomorrow [təˈmɔrəu] n.&adv.明天；明日<br>
+weekday [ˈwi:kdei] n.非周末休息日；工作日<br>
+whole [həul] adj.整个的；全部的；完整的<br>
+whom [hu:m] pron.谁；什么人<br>
+</div>
+
+<div>training [ˈtreiniŋ] n.训练；锻炼；培训<br>
+Holly  霍莉<br>
+Isabel  伊莎贝尔<br>
+Pedro  彼得<br>
+Sandy [ˈsændi] 桑迪<br>
+Tina  蒂娜<br>
+Harbin [ˈhɑ:rbin] 哈尔滨<br>
+Tara  泰拉<br>
+as [æz] adv.以……的方式；如同……那样<br>
+athletic [æθˈletɪk] adj.擅长运动的；活跃的；强健的<br>
+beat [bi:t] v.打败；战胜<br>
+before [biˈfɔ:] prep.在……以前；在……前面<br>
+begin [biˈɡin] v.开始<br>
+begin with [biˈɡinwið] 以……开始<br>
+between [biˈtwi:n] prep.在……之间；在……中间<br>
+body [ˈbɔdi] n.身体；躯体<br>
+both [bəuθ] pron.两个；两者<br>
+calm [kɑ:m] adj.镇静的；沉着的<br>
+cheese [tʃi:z] n.干酪；奶酪<br>
+excited [ɪkˈsaɪtɪd] adj.激动的；兴奋的<br>
+</div>
+
+<div>fast [fɑ:st] adj.快的；迅速的<br>
+friendship [ˈfrendʃip] n.友情；友谊<br>
+hers [hə:z] pron.她的；属于她的<br>
+however [hauˈevə] adv.然而<br>
+in common [inˈkɔmən] 公有；共有<br>
+information [ˌɪnfəˈmeiʃən] n.消息；信息<br>
+interest [ˈintrist] n.兴趣；爱好<br>
+laugh [lɑ:f] v.笑；感到好笑<br>
+make [meik] v.使；促使；迫使<br>
+mean [mi:n] v.表示……的意思；作……的解释<br>
+more than  超出……<br>
+necessary [ˈnesisəri] adj.必要的；必须的；必需的<br>
+note [nəut] n.注释；说明<br>
+opposite [ˈɔpəzit] adj.对立的；相反的<br>
+outgoing [ˈaʊtˌgəʊɪŋ] adj.友好的；外向的<br>
+passenger [ˈpæsindʒə] n.乘客；旅客<br>
+physics [ˈfiziks] n.物理；物理学<br>
+primary [ˈpraiməri] adj.初级的；小学的<br>
+primary school [ˈpraimərisku:l] 小学<br>
+safety [ˈseifti] n.安全；平安<br>
+</div>
+
+<div>schoolwork [ˈsku:lˌwɜ:k] n.学业；功课<br>
+serious [ˈsiəriəs] adj.严肃的；庄重的<br>
+sick [sik] adj.不适的；患病的<br>
+smart [smɑ:t] adj.聪明的；伶俐的；机敏的<br>
+swimming pool [ˈswɪmɪŋpu:l] 游泳池<br>
+twin [twin] adj.孪生的；双胞胎的<br>
+view [vju:] n.观点；看法<br>
+way [wei] n.某个方面<br>
+wheel [hwi:l] n.轮子<br>
+wild [waild] adj.鲁莽的；轻率的<br>
+woman [ˈwumən] n.女人<br>
+be good at [bi:ɡudæt] 擅长；在……方面做得好<br>
+for [fɔ:] prep.为；给；对<br>
+though [ðəu] conj.虽然；即使；纵然<br>
+use [ju:z] v.用；使用；利用<br>
+green onion [ɡri:nˈʌnjən] 嫩洋葱；葱<br>
+popper [ˈpɔpə] n.爆米花机<br>
+add [æd] v.加；增加；加添<br>
+add...to...  把……加到……上<br>
+blender [ˈblendə] n.果汁机；搅拌机<br>
+</div>
+
+<div>boil [bɔil] adv.煮沸；烹煮<br>
+bread [bred] n.面包<br>
+butter [ˈbʌtə] n.黄油<br>
+check [tʃek] v.核对；检查<br>
+cup [kʌp] n.小奶茶；一杯的容量<br>
+cut [kʌt] v.切；割<br>
+cut up [kʌtʌp] 切碎<br>
+duck [dʌk] n.鸭子<br>
+finally [ˈfaɪnəli] adv.最后的；最终<br>
+ingredient [inˈɡri:djənt] n.材料；原料；成分<br>
+instruction [inˈstrʌkʃən] n.命令；指示；用法说明<br>
+into [ˈɪntuː] prep.到……里；进入到……之内<br>
+lettuce [ˈletis] n.莴苣；生菜<br>
+milk shake [milkʃeik] 奶昔<br>
+mix [miks] v.混合；混在一起<br>
+mix up [miksʌp] 混合在一起<br>
+pancake [ˈpænˌkeɪk] n.薄煎饼；烙饼<br>
+peel [pi:l] v.剥；削<br>
+popcorn [ˈpɔpkɔ:n] n.爆米花<br>
+pour [pɔ:] v.倾倒；灌；浇<br>
+</div>
+
+<div>recipe [ˈresəpi] n.烹调法；食谱<br>
+relish [ˈreliʃ] n.调味品；佐料<br>
+roll [rəul] v.卷；裹<br>
+salt [sɔ:lt] n.盐；食盐<br>
+sandwich [ˈsænwidʒ] n.三明治<br>
+sauce [sɔ:s] n.调味汁；酱油<br>
+shake [ʃeik] n.混合饮料<br>
+slice [slais] n.薄片；片<br>
+super [ˈsju:pə] adj.超级的；极好的<br>
+teaspoon [ˈti:ˌspu:n] n.茶匙<br>
+top [tɔp] n.顶；上部<br>
+turkey [ˈtɜːki] n.火鸡<br>
+turn on [tə:nɔn] 打开<br>
+up [ʌp] adv.分开；成几部分<br>
+watermelon [ˈwɔ:təˌmelən] n.西瓜<br>
+yogurt [ˈjəʊgət] n.酸奶；酸乳酪<br>
+amount [əˈmaunt] n.总额；总数；数量<br>
+Toby  托比<br>
+seal [si:l] n.海豹<br>
+California [ˌkælɪˈfɔ:njə] 加利福尼亚<br>
+</div>
+
+<div>Chicago [ʃɪˈkɑ:gəʊ] 芝加哥<br>
+DVD [ˌdi:vi:ˈdi:] 数字化视频光盘<br>
+Grace [ɡreis] 格雷斯<br>
+Jake  詹克<br>
+Laura  劳拉<br>
+again [əˈɡen] adv.再一次；又一次<br>
+aquarium [əˈkweəri:əm] n.水族馆<br>
+autograph [ˈɔ:təˌgræf] n.亲笔签名<br>
+competition [ˌkɔmpiˈtiʃən] n.竞争；比赛；竞赛<br>
+drive [draiv] n.驾驶；驱车旅行<br>
+end [end] n.结束；结尾<br>
+future [ˈfju:tʃə] n.将来；未来<br>
+gift [ɡift] n.礼物；赠品<br>
+hang [hæŋ] v.逗留；徘徊<br>
+hang out [hæŋaut] 闲荡；闲逛<br>
+luckily [ˈlʌkɪli] adv.幸运地<br>
+monitor [ˈmɔnitə] n.班长<br>
+octopus [ˈɔktəpəs] n.章鱼<br>
+off [ɔf] adj.休息；不工作<br>
+outdoor [ˈautdɔ:] adj.户外的；在户外的<br>
+</div>
+
+<div>rain [rein] n.雨；雨水<br>
+raincoat [ˈreinkəut] n.雨衣<br>
+shark [ʃɑ:k] n.鲨鱼<br>
+sleep late [sli:pleit] 睡过头；起得晚<br>
+souvenir [ˈsu:vəniə] n.纪念物；纪念品<br>
+umbrella [ʌmˈbrelə] n.雨伞；伞<br>
+visitor [ˈvizitə] n.访问者；参观者；游客<br>
+wet [wet] adj.湿的；潮湿的<br>
+win [win] v.赢；获胜<br>
+yard [jɑ:d] n.院子；庭院<br>
+yard sale [jɑ:dseil] 庭院旧货出售<br>
+day off [deiɔf] 休息；不工作；不上学<br>
+prize [praiz] n.奖赏；奖金；奖品<br>
+Arthur [ˈɑ:θə] 亚瑟<br>
+David Beckham  大卫·贝克汉姆<br>
+Donna  丹娜<br>
+ITIF  国际乒乓球比赛<br>
+Martina Hingis  马蒂娜·辛吉斯<br>
+Midori  梅多利<br>
+Ronaldo  罗纳尔多<br>
+</div>
+
+<div>Shirley Temple [ˈʃə:liˈtempl] 秀兰·邓波<br>
+Tiger Woods  老虎·伍兹<br>
+Vivian  维维安<br>
+the U.S  美利坚合众国；美国<br>
+too...to...  太……以致不能……<br>
+Asia [ˈeɪʃə] 亚洲<br>
+Brazilian [brəˈzɪliən] adj.巴西的；巴西人的<br>
+Charles [tʃɑ:lz] 查尔斯<br>
+Chopin [ʃəʊˈpæn] 肖邦<br>
+Mozart [ˈməʊtsɑ:t] 莫扎特<br>
+Poland [ˈpəʊlənd] 波兰<br>
+accordion [əˈkɔ:di:ən] n.手风琴<br>
+achievement [əˈtʃi:vmənt] n.成就；成绩<br>
+alive [əˈlaiv] adj.活着的；在世的<br>
+athlete [ˈæθli:t] n.运动选手；运动员<br>
+become [biˈkʌm] v.成为；变成<br>
+born [bɔ:n] v.出生；出世<br>
+champion [ˈtʃæmpjən] n.得第一名的人；冠军<br>
+championship [ˈtʃæmpi:ənˌʃɪp] n.冠军称号；锦标赛<br>
+creative [kriˈeitiv] adj.有创造力的；创造性的<br>
+</div>
+
+<div>gold [ɡəuld] n.金子；黄金adj.金的<br>
+golf [ɡɔlf] v.&n.高尔夫球<br>
+golfer  n.高尔夫运动员<br>
+grandson [ˈgrændˌsʌn] n.孙子；外孙<br>
+gymnast [ˈdʒɪmˌnæst] n.体操运动员<br>
+hiccup [ˈhɪkəp] v.&n.打嗝<br>
+hum [hʌm] v.作嗡嗡声；哼唱<br>
+ice skating [aisˈskeɪtɪŋ] 滑冰<br>
+international [ˌɪntəˈnæʃənəl] adj.国际的；世界的<br>
+kind [kaind] adj.和蔼的；仁慈的；友好的；亲切的...<br>
+loving [ˈlʌvɪŋ] adj.慈爱的<br>
+major [ˈmeidʒə] v.主修；专研<br>
+management [ˈmænidʒmənt] n.管理；经营<br>
+medal [ˈmedəl] n.奖牌；奖章<br>
+national [ˈnæʃənəl] adj.国家的；全国的；民族的<br>
+number [ˈnʌmbə] n.号码；编号<br>
+outstanding [ˌautˈstændiŋ] adj.杰出的；出色的<br>
+perform [pəˈfɔ:m] v.演出；表演<br>
+person [ˈpɜːsn] n.人；人物<br>
+pianist [pi:ˈænɪst] n.钢琴手；钢琴家<br>
+</div>
+
+<div>record [ˈrekɔ:d] n.记录；最高纪录<br>
+single [ˈsiŋɡl] n.单打比赛<br>
+skate [skeit] v.滑冰；溜冰<br>
+sneeze [sni:z] v.&n.打喷嚏<br>
+song [sɔŋ] n.歌曲<br>
+table tennis  乒乓球运动<br>
+take part [teikpɑ:t] 参加……；参与……<br>
+talented [ˈtæləntid] adj.有天赋的；天才的<br>
+tour [tuə] v.在……旅行；观光；参观<br>
+university [ˌjuːnɪˈvɜː(r)səti] n.大学<br>
+unusual [ˌʌnˈju:ʒuəl] adj.不寻常的；罕有的；独特的<br>
+violinist [vaɪəˈlɪnɪst] n.小提琴手<br>
+well-known [ˌwelˈnəun] adj.有名的；出名的；众所周知的<br>
+because of [biˈkɔzɔv] 因为；由于<br>
+call [kɔ:l] v.把……叫做；称呼；为……取名<br>
+could [kud] v.可以；能；可能<br>
+major in [ˈmeidʒəin] 主修；专研<br>
+Manuel  曼纽尔<br>
+all over [ɔ:lˈəuvə] 到处；遍及各处<br>
+artist [ˈɑ:tist] n.艺术家；画家<br>
+</div>
+
+<div>at the same time [ætðəseimtaim] 同时<br>
+build [bild] v.建造；建筑<br>
+communicate [kəˈmju:nikeit] v.交流；沟通<br>
+computer science [kəmˈpju:təˈsaiəns] 计算机科学<br>
+engineer [ˌendʒiˈniə] n.工程师<br>
+exchange [iksˈtʃeindʒ] n.&v.交换；互换；交流<br>
+exchange student  交换生<br>
+exhibition [ˌeksiˈbiʃən] n.展览；展览会<br>
+fax [fæks] n.传真<br>
+fit [fit] adj.强健的；健康的<br>
+foreign [ˈfɔrin] adj.外国的；在外国的；对外的<br>
+grow [ɡrəu] v.生长；成长<br>
+grow up [ɡrəuʌp] 成长；长大<br>
+hold [həuld] v.举行；主持<br>
+lady [ˈleidi] n.女士；贵妇人；淑女<br>
+move [mu:v] v.移动；搬动<br>
+over [ˈəuvə] prep.超过；在……以上<br>
+part-time [ˈpɑ:tˌtaɪm] adj.兼职的<br>
+pilot [ˈpailət] n.飞行员；飞机驾驶员<br>
+professional [prəˈfeʃənəl] adj.专业的；职业的<br>
+</div>
+
+<div>programmer [ˈprəʊˌgræmə] n.电脑程序设计者；程序师<br>
+reader [ˈri:də] n.读者<br>
+resolution [ˌrezəˈlu:ʃən] n.决心；决心要做的事<br>
+retire [riˈtaiə] v.退休；退役<br>
+rich [ritʃ] adj.富有的；富裕的；富饶的<br>
+save [seiv] v.储存；储蓄<br>
+somewhere [ˈsʌm(h)wɛə] adv.在某处；到某处<br>
+teach [ti:tʃ] v.教；讲授<br>
+travel [ˈtrævəl] v.旅行；长途旅行<br>
+yet [jet] adv.到此时；至今<br>
+dream [dri:m] n.梦；梦想；幻想<br>
+instrument [ˈinstrumənt] n.器具；工具；乐器<br>
+player [ˈpleɪə] n.唱机<br>
+Rosa [ˈrəʊzə] 罗莎<br>
+borrow [ˈbɒrəʊ] v.借；借入；借用<br>
+care [kɛə] n.照顾；照管；关心<br>
+chore [tʃɔː(r)] n.杂务；杂事；日常的普通工作<br>
+dish [diʃ] n.盘；碟<br>
+do chores  处理琐事；干家务<br>
+do the dishes  洗餐具<br>
+</div>
+
+<div>do the laundry [du:ðəˈlɔ:ndri] 洗衣服<br>
+feed [fi:d] v.喂养；饲养<br>
+fold [fəuld] v.折叠；折起来<br>
+hate [heit] v.憎恨；憎恶<br>
+invite [inˈvait] v.邀请；恳请<br>
+laundry [ˈlɔ:ndri] n.洗衣店；待洗或已洗好的衣物<br>
+living room [ˈliviŋru:m] 起居室；客厅<br>
+make one's bed  整理床铺<br>
+meeting [ˈmi:tiŋ] n.会议；舞会<br>
+mine [main] pron.我的<br>
+snack [snæk] n.小吃；快餐<br>
+sweep [swi:p] v.扫除；清扫；清除<br>
+take care of [teikkɛəɔv] 照看；照顾<br>
+take out [teikaut] 取出<br>
+teenager [ˈti:neidʒə] n.青少年<br>
+trash [træʃ] n.垃圾；废物<br>
+work on [wə:kɔn] 从事；忙于<br>
+AM  abbr.调幅<br>
+Cruise  克鲁斯<br>
+DJ  n.音乐节目主持人<br>
+</div>
+
+<div>Danny  丹尼<br>
+Dennis  丹尼斯<br>
+FM  abbr.调频<br>
+Fido  费多<br>
+Jason [ˈdʒeɪsən] 展森<br>
+Jim Carrey  金·凯瑞<br>
+act [ækt] n.一段表演；短节目；表演者<br>
+bargain [ˈbɑ:ɡin] n.特价商品；便宜货<br>
+Forbidden City [fəˈbɪdn] 故宫<br>
+Los Angeles  洛杉矶<br>
+at all [ætɔ:l] 丝毫；一点<br>
+band [bænd] n.管乐队；伴舞乐队<br>
+brown bread [braunbred] 黑面包<br>
+camel [ˈkæməl] n.骆驼<br>
+central [ˈsentrəl] adj.中心的<br>
+cinema [ˈsinəmə] n.电影院<br>
+close [kləuz] adj.近的；接近的<br>
+clothing [ˈkləuðiŋ] n.衣服<br>
+comfortable [ˈkʌmfətəbl] adj.舒适的；安逸的<br>
+cow [kau] n.母牛；奶牛<br>
+</div>
+
+<div>curry [ˈkɜ:ri:] n.咖喱；咖喱菜肴<br>
+deli [ˈdeli] n.熟食店<br>
+diner [ˈdainə] n.路边小餐馆；小饭店<br>
+distance [ˈdistəns] n.距离；路程<br>
+easy [ˈi:zi] adj.容易的；不费力的<br>
+enough [iˈnʌf] adj.充足的；充分的<br>
+farthest [ˈfɑ:ðɪst] adj.&adv.最远的<br>
+forbid [fəˈbid] v.禁止；不许<br>
+funky [ˈfʌŋki:] adj.时髦的；极好的<br>
+ha [hɑ:] interj.哈<br>
+hen [hen] n.母鸡<br>
+jazz [dʒæz] n.爵士乐<br>
+jeans  n.牛仔裤<br>
+lay [lei] v.产；下<br>
+leader [ˈli:də] n.领导者；指挥者<br>
+loud [laud] adj.响亮的；喧闹的<br>
+musical [ˈmju:zikəl] adj.音乐的<br>
+near [niə] adj.近的；靠近的；接近的<br>
+negative [ˈneɡətiv] adj.消极的；否定的<br>
+northern  adj.北方的；在北方的<br>
+</div>
+
+<div>performer [pəˈfɔ:mə(r)] n.演员；远处者；演奏者<br>
+positive [ˈpɔzitiv] adj.积极的；肯定的<br>
+province [ˈprɔvins] n.省份<br>
+quality [ˈkwɔliti] n.品质；质量<br>
+radio [ˈreidiəu] n.无线电；无线电广播<br>
+radio station [ˈreidiəuˈsteiʃən] 无线电台<br>
+rat [ræt] n.老鼠<br>
+sea [si:] n.海；海洋<br>
+seat [si:t] n.座位<br>
+seriously [ˈsɪərɪəslɪ] adv.说正经的；严肃的<br>
+service [ˈsɜːvɪs] n.服务；招待<br>
+snow [snəu] n.雪；下雪天气<br>
+southern [ˈsʌðən] adj.南方的；在南方的<br>
+still [stil] adv.还；仍然<br>
+success [səkˈses] n.成功<br>
+talent [ˈtælənt] n.天才；天资；才干<br>
+talent show [ˈtæləntʃəu] 才艺表演<br>
+teen [ti:n] n.青少年<br>
+theater [ˈθiətə] n.剧院；戏院<br>
+together [təˈɡeðə] adv.一起；共同<br>
+</div>
+
+<div>trendy [ˈtrendi:] adj.时髦的；赶时髦的；流行的<br>
+without [wiˈðaut] prep.无；没有<br>
+worse [wə:s] adj.更坏的；更差的<br>
+worst [wə:st] adj.最坏的；最差的<br>
+dull [dʌl] adj.乏味的；无聊的；单调的<br>
+lovely [ˈlʌvli] adj.美丽的；可爱的；令人愉快的<br>
+meal [mi:l] n.餐；饭；一餐<br>
+piece [pi:s] n.片；块；段<br>
+screen [skri:n] n.屏；幕；荧光屏<br>
+</div>

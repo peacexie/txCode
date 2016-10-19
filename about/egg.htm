@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>个人展示-称鸡蛋</title>
+<script src="../cjs/jsbase.js"></script>
+<style>
+table { margin-bottom: 10px }
+p { line-height: 150%; margin: 10px 0px; }
+td { width: 33%; text-align: center; white-space: nowrap; }
+.mcontent { border: 1px solid #999; margin: 5px; }
+</style>
+</head>
+<body>
+<div class="divOuter clearfix">
+  <p class="topnav bgblue"> <a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a> <a href="../about/index.htm">工具与收藏</a> </p>
+  <h2 class="msubject"><a class="right icons ico-arrowreturnthick-1-w" onClick="change('e0')"></a>称鸡蛋</h2>
+  <div class="mcontent" id="e0">
+    <p>有12只鸡蛋，其中有一只是坏的。<br>
+      用一个天平，限3次把坏的鸡蛋秤出来？<br>
+      （坏的鸡蛋与好的不是一样重）</p>
+    <p class="tc">
+      <img border="0" src="../uimgs/egg/egg001.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg002.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg003.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg004.gif" width="49" height="61"><br>
+      <img border="0" src="../uimgs/egg/egg005.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg006.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg007.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg008.gif" width="49" height="61"><br>
+      <img border="0" src="../uimgs/egg/egg009.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg010.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg011.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg012.gif" width="49" height="61"></p>
+    <hr color="#0000FF">
+    <p class="tc">解答：<a onClick="change('e1-1')">第一步</a></p>
+  </div>
+  <div class="mcontent" id="e1-1">
+    <p>做法：01,02,03,04与05,06,07,08称比：</p>
+    <table border="1" width="100%" cellspacing="8" cellpadding="8" height="188" bordercolor="#808080">
+      <tr>
+        <td valign="top"><img border="0" src="../uimgs/egg/egg001.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg002.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg003.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg004.gif" width="49" height="61"></td>
+        <td><img border="0" src="../uimgs/egg/egg005.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg006.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg007.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg008.gif" width="49" height="61"></td>
+      </tr>
+      <tr>
+        <td colspan="2" valign="top"><p>若相等&gt;&gt;<a onClick="change('e1-24')">下一步</a><br>
+            坏蛋在09~12,04个中
+          
+          <p>若不等&gt;&gt;<a onClick="change('e1-28')">下一步</a><br>
+            坏蛋在01~08,08个中</td>
+      </tr>
+    </table>
+  </div>
+  <div class="mcontent" id="e1-24">
+    <p>坏蛋在09~12,04个中(上一步01,02,03,04与05,06,07,08称比相等得)</p>
+    <p>做法：09与10称比:</p>
+    <table border="1" width="100%" >
+      <tr>
+        <td valign="middle" bgcolor="#808080"><img border="0" src="../uimgs/egg/egg011.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg012.gif" width="49" height="61"></td>
+        <td><img border="0" src="../uimgs/egg/egg009.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg010.gif" width="49" height="61"></td>
+        <td ><p>若相等&gt;&gt;<a onClick="change('e1-24-3a')">下一步</a><br>
+            坏蛋在11~12,02个中
+          
+          <p>若不等&gt;&gt;下一步略<br>
+            坏蛋在09~10,02个中</td>
+      </tr>
+    </table>
+  </div>
+  <div class="mcontent" id="e1-24-3a">
+    <p>09=10,坏蛋在11~12,02个中</p>
+    <p>做法：09与11称比:(09与12称比相似,09为好蛋)</p>
+    <table border="1" width="100%" >
+      <tr>
+        <td valign="middle" bgcolor="#808080"><img border="0" src="../uimgs/egg/egg010.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg012.gif" width="49" height="61"></td>
+        <td><img border="0" src="../uimgs/egg/egg011.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg009.gif" width="49" height="61"></td>
+        <td ><p>若相等&gt;&gt;<br>
+            坏蛋为12
+          
+          <p>若不等&gt;&gt;<br>
+            坏蛋为11</td>
+      </tr>
+    </table>
+  </div>
+  <div class="mcontent" id="e1-28-3a">
+    <p>原来左边01,02,03,04重，现01,02,06重，<br>
+      重量方向不变，坏蛋在01,02,05中<br>
+      <b>并且知道</b>：01,02<u>之间有一个重的坏蛋或05是轻的坏蛋</u></p>
+    <table border="1" width="100%" >
+      <tr>
+        <td  valign="middle" class="tr"><img border="0" src="../uimgs/egg/egg001.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg002.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg006.gif" width="49" height="61"></td>
+        <td  valign="middle" class="tl"><img border="0" src="../uimgs/egg/egg005.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg003.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg004.gif" width="49" height="61"></td>
+      </tr>
+    </table>
+    <p>做法：如下图：</p>
+    <table border="1" width="100%" >
+      <tr>
+        <td  valign="middle" align="center"><img border="0" src="../uimgs/egg/egg001.gif" width="49" height="61"></td>
+        <td  valign="middle" align="center"><img border="0" src="../uimgs/egg/egg002.gif" width="49" height="61"></td>
+        <td><p align="center">若相等&gt;&gt;<br>
+            坏蛋为05
+          
+          <p align="center">若左重&gt;&gt;<br>
+            重量方向不变<br>
+            坏蛋为01
+          
+          <p align="center">若右重&gt;&gt;<br>
+            重量方向改变<br>
+            坏蛋为02</td>
+      </tr>
+    </table>
+    <p>分析：</p>
+    <ul>
+      <li>已经知道：01,02<u>之间有一个重的坏蛋或05是轻的坏蛋</u>；<br>
+        若01,02不相等,则01,02之间有一个重的<br>
+        当称01,02时，重的一边是坏蛋</li>
+    </ul>
+  </div>
+  <div class="mcontent" id="e1-28">
+    <p>01,02,03,04与05,06,07,08不等，坏蛋在这8个中</p>
+    <table border="1" width="100%" >
+      <tr>
+        <td valign="top"><img border="0" src="../uimgs/egg/egg001.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg002.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg003.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg004.gif" width="49" height="61"></td>
+        <td><img border="0" src="../uimgs/egg/egg005.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg006.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg007.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg008.gif" width="49" height="61"></td>
+      </tr>
+    </table>
+    <p>做法：从一边拿出07,08;03,04与06交换如下图：<br>
+      （注意：01,02,05没换位子,[设原来左边01,02,03,04重]）</p>
+    <table border="1" width="100%" >
+      <tr>
+        <td valign="middle" class="tr"><img border="0" src="../uimgs/egg/egg001.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg002.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg006.gif" width="49" height="61"></td>
+        <td valign="middle" class="tl"><img border="0" src="../uimgs/egg/egg005.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg003.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg004.gif" width="49" height="61"></td>
+      </tr>
+      <tr>
+        <td colspan="2" valign="top"><p>若相等&gt;&gt;下一步略<br>
+            坏蛋在07~08,02个中
+          
+          <p>若左重&gt;&gt;<a onClick="change('e1-28-3a')">下一步</a><br>
+            重量方向不变<br>
+            坏蛋在01,02,05中
+          
+          <p>若右重&gt;&gt;下一步略<br>
+            重量方向改变<br>
+            坏蛋在03,04,06中</td>
+      </tr>
+      <tr>
+        <td valign="top"><img border="0" src="../uimgs/egg/egg007.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg008.gif" width="49" height="61"></td>
+        <td>若坏蛋在<br>
+          07~08中</td>
+      </tr>
+      <tr>
+        <td colspan="2" valign="top">拿07或08任意一个与好蛋比称<br>
+          若与好蛋<b>不一致</b>的则为坏蛋<br>
+          若与好蛋<b>一致</b> 则另一个为坏蛋</td>
+      </tr>
+    </table>
+    <p>分析：</p>
+    <ul>
+      <li>若相等 &gt;&gt; &nbsp;原来天平两边不等，现在相等，<br>
+        说明原来不等是由于拿走的蛋引起的，故<br>
+        坏蛋在07~08,02个中<br>
+      </li>
+      <li>若左重 &gt;&gt; 
+        重量方向不变，<br>
+        说明天平不等是由没有改变位子的01,02,05引起的，故<br>
+        坏蛋在中01,02,05<br>
+      </li>
+      <li>若右重 &gt;&gt; 重量方向改变，<br>
+        说明天平不等是由改变位子的03,04,06引起的，故<br>
+        坏蛋在中03,04,06<br>
+      </li>
+    </ul>
+  </div>
+  <div class="mcontent" id="e2-28-3a">
+    <p>（06,07,08中有一轻的坏鸡蛋）</p>
+    <table border="1" width="100%" >
+      <tr>
+        <td valign="middle"><img border="0" src="../uimgs/egg/egg006.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg007.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg008.gif" width="49" height="61"></td>
+        <td > ---</td>
+      </tr>
+    </table>
+    <p>做法：06,07称比如下图：<br>
+    <table border="1" width="100%" >
+      <tr>
+        <td valign="middle"><img border="0" src="../uimgs/egg/egg006.gif" width="49" height="61"></td>
+        <td valign="middle"><img border="0" src="../uimgs/egg/egg007.gif" width="49" height="61"></td>
+        <td ><p>若相等&gt;&gt;<br>
+            坏蛋为08
+          
+          <p>若左重&gt;&gt;<br>
+            坏蛋为07
+          
+          <p>若右重&gt;&gt;<br>
+            坏蛋为06</td>
+      </tr>
+    </table>
+  </div>
+  <div class="mcontent" id="e2-28">
+    <p>01,02,03,04与05,06,07,08不等，坏蛋在这8个中</p>
+    <table border="1" width="100%" >
+      <tr>
+        <td><img border="0" src="../uimgs/egg/egg001.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg002.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg003.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg004.gif" width="49" height="61"></td>
+        <td><img border="0" src="../uimgs/egg/egg005.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg006.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg007.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg008.gif" width="49" height="61"></td>
+      </tr>
+    </table>
+    <hr>
+    <p>做法：从一边拿出06,07,08;与3个好的交换如下图：<br>
+      （[设原来左边01,02,03,04重]<br>
+      则02,03,04之中有一重的坏鸡蛋，或06,07,08中有一轻的坏鸡蛋）</p>
+    <table border="1" width="100%" cellspacing="8" cellpadding="8" height="277" bordercolor="#808080">
+      <tr>
+        <td valign="middle"><img border="0" src="../uimgs/egg/egg005.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg002.gif" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg003.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg004.gif" width="49" height="61"></td>
+        <td valign="middle"><img border="0" src="../uimgs/egg/egg001.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg000.GIF" width="49" height="61"><br>
+          <img border="0" src="../uimgs/egg/egg000.GIF" width="49" height="61"><img border="0" src="../uimgs/egg/egg000.GIF" width="49" height="61"></td>
+      </tr>
+      <tr>
+        <td valign="middle" colspan="2"><p>若相等&gt;&gt;<a onClick="change('e2-28-3a')">下一步</a><br>
+            坏蛋在06,07,08中
+          
+          <p>若左重&gt;&gt;下一步略<br>
+            重量方向不变<br>
+            坏蛋在02,03,04中
+          
+          <p>若右重&gt;&gt;下一步略<br>
+            重量方向改变<br>
+            坏蛋在01,05中</td>
+      </tr>
+      <tr>
+        <td width="20%" valign="middle" colspan="2"><img border="0" src="../uimgs/egg/egg006.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg007.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg008.gif" width="49" height="61"></td>
+      </tr>
+    </table>
+  </div>
+  <div class="mcontent" id="e2-28">
+    <p> （06,07,08中有一轻的坏鸡蛋）</p>
+    <table border="1" width="100%" >
+      <tr>
+        <td valign="middle"><img border="0" src="../uimgs/egg/egg006.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg007.gif" width="49" height="61"><img border="0" src="../uimgs/egg/egg008.gif" width="49" height="61"></td>
+        <td > ---</td>
+      </tr>
+    </table>
+    <p>做法：06,07称比如下图：<br>
+    <table border="1" width="100%" >
+      <tr>
+        <td valign="middle"><img border="0" src="../uimgs/egg/egg006.gif" width="49" height="61"></td>
+        <td valign="middle"><img border="0" src="../uimgs/egg/egg007.gif" width="49" height="61"></td>
+        <td ><p>若相等&gt;&gt;<br>
+            坏蛋为08
+          
+          <p>若左重&gt;&gt;<br>
+            坏蛋为07
+          
+          <p>若右重&gt;&gt;<br>
+            坏蛋为06</td>
+      </tr>
+    </table>
+  </div>
+  <p onClick="change('e0')" id="breturn" class="tc"> 返回<a class="icons ico-arrowreturnthick-1-w"></a> </p>
+  <p class="topnav bggray"> <a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a> <a href="../about/index.htm">工具与收藏</a> </p>
+</div>
+<script type="text/javascript">
+function change(n){
+	$(".mcontent").hide();
+	$("#"+n).show();
+	$("#breturn").show();
+	if(n=='e0') $("#breturn").hide();
+}
+change('e0');
+</script>
+</body>
+</html>

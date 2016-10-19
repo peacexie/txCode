@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>设置/分享</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+table { background:#CCC; }
+td { background:#FFF; border:1px solid #CCC; }
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; border:1px solid #CCC; }
+label.cbitm { display:block; padding:0px 0px 0px 10px; margin:3px 0px; }
+.cbitm input { vertical-align:middle; }
+label.ccitm { padding:0px 0px 0px 10px; margin:3px 0px; }
+.ccitm input { vertical-align:middle; }
+p.msgp { width:100%; overflow:hidden; text-align:center; padding:5px; }
+#msgp { width:90%; height:120px; margin:auto; }
+p.send { width:120px; text-align:center; padding:5px; margin:5px auto; }
+p.send a { display:inline-block; padding:3px 5px; margin:1px 1px 8px 1px; border:1px solid #CCC; }
+p.return { text-align:center; margin:5px; }
+a.reindex { display:inline-block; border:1px solid #CCC; padding:1px 5px;; }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue" id="stabs">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../about/index.htm">工具收藏</a>
+</p>
+
+  <p class="subNav">
+  <a href="#e9top" class="bggray">模块设置</a>
+  <a href="#e9top" class="bgblue">应用分享</a>
+  </p>
+
+<div class="mcontent">
+
+  <p class="bgblue bold ph10">模块关闭设置：</p> 
+  <p>
+  <label class="cbitm"><input name="mods" type="checkbox" id="mods1" value="learn">学无止境</label>
+  <label class="cbitm"><input name="mods" type="checkbox" id="mods2" value="mlabs">实验室</label>
+  <label class="cbitm"><input name="mods" type="checkbox" id="mods3" value="about">积极生活</label>
+  <label class="cbitm"><input name="mods" type="checkbox" id="mods4" value="health">健康保健</label>
+  </p>
+  
+  <p class="bgblue bold ph10">24点游戏设置：</p> 
+  <p class="bold pv10">
+  发牌最大值为：
+  </p>
+  <p>
+  <label class="ccitm">5<input name="c24max" type="radio" value="5"></label>
+  <label class="ccitm">9<input name="c24max" type="radio" value="9"></label>
+  <label class="ccitm">10<input name="c24max" type="radio" value="10"></label>
+  <label class="ccitm">13<input name="c24max" type="radio" value="13"></label>
+  </p> 
+  
+  <p class="bgblue bold ph10">[天气预报]设置：</p> 
+  <p class="pv10">
+  <label class="ccitm">清理:城市列表缓存：<input name="ctqcache" type="checkbox" value="list"></label>
+  <br>
+  <label class="ccitm">清理:预报数据缓存：<input name="ctqcache" type="checkbox" value="rems"></label>
+  <br>
+  <label class="ccitm">设置:不缓存列表：<input id="ctqnoli" type="checkbox" value="noli"></label>
+  
+  </p>
+
+  <p class="bgblue bold ph10">英语900句：</p> 
+  <p class="bold pv10">
+  偏移量-用于点击后自动偏移定位的页面：
+  </p>
+  <p>
+  <label class="ccitm">0<input name="ce900" type="radio" value="0"></label>
+  <label class="ccitm">1<input name="ce900" type="radio" value="1"></label>
+  <label class="ccitm">2<input name="ce900" type="radio" value="2"></label>
+  <label class="ccitm">3<input name="ce900" type="radio" value="3"></label>
+  <label class="ccitm">4<input name="ce900" type="radio" value="4"></label>
+  <label class="ccitm">5<input name="ce900" type="radio" value="5"></label>
+  </p>  
+ 
+  <p class="bgblue bold ph10">每日一句：</p> 
+  <p class="bold pv10">
+  偏移量-用于点击后自动偏移定位的页面：
+  </p>
+  <p>
+  <label class="ccitm">0<input name="ceday" type="radio" value="0"></label>
+  <label class="ccitm">2<input name="ceday" type="radio" value="2"></label>
+  <label class="ccitm">4<input name="ceday" type="radio" value="4"></label>
+  <label class="ccitm">6<input name="ceday" type="radio" value="6"></label>
+  <label class="ccitm">8<input name="ceday" type="radio" value="8"></label>
+  <label class="ccitm">10<input name="ceday" type="radio" value="10"></label>
+  <br>
+  <label class="ccitm">1<input name="ceday" type="radio" value="1"></label>
+  <label class="ccitm">3<input name="ceday" type="radio" value="3"></label>
+  <label class="ccitm">5<input name="ceday" type="radio" value="5"></label>
+  <label class="ccitm">7<input name="ceday" type="radio" value="7"></label>
+  <label class="ccitm">9<input name="ceday" type="radio" value="9"></label>
+  </p>  
+ 
+  <p class="return"><a href="../index.htm" class="reindex">保存并返回<i class="icons ico-arrowreturnthick-1-w"></i></a></p>
+  
+</div>
+
+<div class="mcontent" style="display:none;">
+  <p class="bgblue bold ph10">应用分享：</p>  
+  
+  <p class="msgp">
+  <textarea id="msgp">您好！我正在使用“贴心口袋”应用；可打开：_urlpub_app/tools/copy.htm 下载应用。</textarea>
+  </p> 
+  <p class="send"><a href="#" id="sendbtn">发送 <i class="icons ico-mail-closed"></i> ……</a></p>
+  <!--包含：经典英语，国学，数字等学习资料 及 常见健康保健资料；-->
+</div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../about/index.htm">工具收藏</a>
+<a id="seclink" style="display:none"></a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+
+jsElm.jeID('msgp').value = jsElm.jeID('msgp').value.replace('_urlpub_',_cbase.run.urlpub);
+$('#sendbtn').attr("href","sms:?body="+$('#msgp').val()+"");
+
+var locStore = new multiStore('local');
+var ls_skey = _cbase.ck.ckpre+'closed';
+function setClose(e){
+	var cstr = ',', cnt = 0;
+	for(j=1;j<5;j++){
+		var cb = jsElm.jeID('mods'+j);
+		if(cb.checked){
+			cnt++;
+			if(cnt>2){
+				alert('最多可关闭[2]个');
+				return false;	
+			}else{
+				cstr += cb.value+',';
+			}
+		}else{
+			
+		}
+	}
+	locStore.set(ls_skey,cstr);
+	//console.log(cstr);
+}
+function initClose(){
+	var ls_closed = locStore.get(ls_skey); 
+	if(!ls_closed) ls_closed = ','; 
+	for(j=1;j<5;j++){
+		var cb = jsElm.jeID('mods'+j);
+		if(ls_closed.indexOf(cb.value)>0){
+			cb.checked = true;
+		}
+	}
+}
+initClose();
+$("label").click(function(){
+	return setClose(this);
+});
+function change(n){
+	$(".mcontent").toggle();
+	$("p.subNav a").each(function(){
+		$(this).toggleClass("bggray");
+		$(this).toggleClass("bgblue");
+	});	
+}
+$("p.subNav a").click(function(){
+	if($(this).hasClass("bggray")){
+		return;	
+	}
+	//var index = $(this).index();
+	change();
+});
+var sec = urlPara('sec'); 
+if(sec=='share'){ change(0); }
+
+var kc24_max = _cbase.ck.ckpre+'kc24_max';
+var nc24max = locStore.get(kc24_max);
+nc24max = nc24max ? nc24max : '10';
+$("input[name='c24max']").each(function(){
+	if($(this).val()==nc24max){
+	$(this).attr("checked",true);//toggleClass("bgblue");
+	}
+});	
+$("input[name='c24max']").click(function(){
+	locStore.set(kc24_max,$(this).val());
+});	
+$("input[name='ctqcache']").click(function(){
+	locStore.set(_cbase.ck.ckpre+'ktq_'+$(this).val(),'');
+});	
+
+var ktq_noli = _cbase.ck.ckpre+'ktq_noli';
+$("#ctqnoli").prop('checked',locStore.get(ktq_noli)==='noli' ? true : false);
+$("#ctqnoli").click(function(){
+	var chkd = $(this).prop('checked') ? 'noli' : '';
+	locStore.set(ktq_noli,chkd); //console.log(chkd);
+});	
+
+var keday_offset = _cbase.ck.ckpre+'keday_offset';
+keday_offval = mgetStore('keday_offset');
+$("input[name='ceday']").each(function(){
+	if($(this).val()==keday_offval){
+	$(this).attr("checked",true);//toggleClass("bgblue");
+	}
+});	
+$("input[name='ceday']").click(function(){
+	locStore.set(keday_offset,$(this).val());
+});	
+
+var ke900_offset = _cbase.ck.ckpre+'ke900_offset';
+var ke900_offval = mgetStore('ke900_offset');
+$("input[name='ce900']").each(function(){
+	if($(this).val()==ke900_offval){
+	$(this).attr("checked",true);//toggleClass("bgblue");
+	}
+});	
+$("input[name='ce900']").click(function(){
+	locStore.set(ke900_offset,$(this).val());
+});	
+//jsLog(ke900_offval+':'+keday_offval);
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>打电话/发短信连接</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; border:1px solid #CCC; }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+<p class="topnav bgblue" id="stabs">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+</p>
+
+<p class="subNav">
+<a href="orientation.htm" class="bgblue">重力感应</a>
+<a href="rotation.htm" class="bgblue">屏幕旋转</a>
+<a href="smslinks.htm" class="bgblue">短信链接</a>
+</p>
+
+<div class="mcontent">
+  <p class="bgblue bold ph10"> &nbsp; 打电话/发短信连接</p>
+  <p> &nbsp; &#8226; <a href="tel:10086">打电话给我</a></p>
+  <p> &nbsp; &#8226; <a href="sms:10086?body=hello">给 10086 发送内容为"hello"的短信</a></p>
+  <p> &nbsp; &#8226; <a href="sms:10086?body=(你好啊,这是短信内容)这个可以当广告位！招租热线xpigeon(at)163.com！">发送"广告"的短信</a></p>
+  <p> &nbsp; &#8226; <a href="sms:10086?(你好啊,这是短信内容)这个可以当广告位！招租热线xpigeon(at)163.com！">(无body)发短信给我</a></p>
+  <p> &nbsp; &#8226; <a href="sms:?body=hello">(无号码)发短信给我</a></p>
+  <p> &nbsp; &#8226; &lt;a href=&quot;tel:10086&quot;&gt;打电话给我&lt;/a&gt;&lt;br&gt;</p>
+  <p> &nbsp; &#8226; &lt;a href=&quot;sms:10086&quot;&gt;发短信给我&lt;/a&gt;&lt;br&gt;</p>
+  <p> &nbsp; &#8226; td里面：[td onclick="location.href='tel:10086'"][/td];</p>
+</div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+<a id="seclink" style="display:none"></a>
+</p>
+
+</div>
+
+</body>
+</html>

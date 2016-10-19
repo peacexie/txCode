@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>拖放Demo</title>
+<script src="../cjs/jsbase.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="filedrag.css" />
+<style type="text/css">
+table { background:#CCC; }
+td { background:#FFF; border:1px solid #CCC; }
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; border:1px solid #CCC; }
+img { margin:10px }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+</p>
+
+<p class="subNav">
+<a href="drag-demo1.html" class="bgblue">拖放Demo</a>
+<a href="filedrag.html" class="bgblue">文件拖放</a>
+<a href="drag-up.html" class="bgblue">文件上传</a>
+</p>
+
+<div class="mcontent">
+
+<p>把那个[图片]和[Debug]拖到框里！</p>
+<div ondrop="fdragDrop(event)" ondragover="fdragOver(event)" style=" width:80%; height:80px; border:1px solid #CCC; margin: 10px auto"></div>
+<p class="tc">[[
+<img id="drag1" src="../uimgs/logo/gezi1-40x.jpg" draggable="true" ondragstart="fdragStart(event)" /> 
+]] --- [[
+<a id="drag2" href="#" draggable="true" ondragstart="fdragDebug(event)">Debug</a>
+]]</p>
+<div ondrop="fdragDrop(event)" ondragover="fdragOver(event)" style=" width:80%; height:80px; border:1px solid #CCC; margin: 10px auto">
+MouseEvent {dataTransfer: Clipboard, toElement: a#drag2, fromElement: null, y: 330, x: 502…}
+</div>
+<hr>
+<div id="bugInfo">bugInfo</div>
+<script type="text/javascript">
+var dFlag = 'N';
+function fdragOver(ev){
+	ev.preventDefault();
+}
+function fdragDrop(ev){
+	ev.preventDefault();
+	var data=ev.dataTransfer.getData("Text");
+	ev.target.appendChild(document.getElementById(data));
+}
+function fdragStart(ev){
+	ev.dataTransfer.setData("Text",ev.target.id);
+}
+function fdragDebug(ev){
+	var dFlag = 'Y';
+	ev.dataTransfer.setData("Text",ev.target.id);
+	//*
+	var s = '';
+	for(i in ev){
+		var v = ev[i]; 
+		var t = typeof(ev[i]); 
+		s += '<li>('+t+')'+i+'='+v+'</li>';
+	}
+	$('#bugInfo').html(s);
+	//*/
+}
+</script>
+
+</div>
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+</p>
+</div>
+
+</body>
+</html>

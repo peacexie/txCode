@@ -1,0 +1,151 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>课标古诗词</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+<!--
+p.title { color:#999; font-size:smaller; line-height:150%; padding:8px 0px; }
+p.title span, .tmpall{  color: #F0F; font-weight: bolder; }
+#subNav a { display:inline-block; padding:0px 3px; margin:1px 1px 8px 1px; border:1px solid #CCC; }
+.reindex { display:inline-block; border:1px solid #CCC; padding:5px; }
+#navs li a { line-height:120%; padding:5px 0; } 
+-->
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+  <div class="blinks">
+    <i style="line-height:0px; line-height:0px;" id="e9top" name="e9top"></i>
+    <p><a href="#e9top" class="icobox right" onClick="MM_show()" id="Ulist1" style="display:none"><i class="icons ico-arrowreturnthick-1-w"></i></a>
+      <strong>课标诗词</strong></p>
+    <div id="navAll">
+    <p id="subNav" class="tc">
+    
+    <a href="#e9top" onClick="MN_Show(1)">01</a>
+    <a href="#e9top" onClick="MN_Show(2)">02</a>
+    <a href="#e9top" onClick="MN_Show(3)">03</a>
+    <a href="#e9top" onClick="MN_Show(4)">04</a>
+    <a href="#e9top" onClick="MN_Show(5)">05</a>
+    <a href="#e9top" onClick="MN_Show(6)">06</a>
+    <a href="#e9top" onClick="MN_Show(7)">07</a>
+    <a href="#e9top" onClick="MN_Show(8)">08</a>
+    <a href="#e9top" onClick="MN_Show(9)">09</a>
+    <a href="#e9top" onClick="MN_Show(10)">五绝</a>
+    <a href="#e9top" onClick="MN_Show(11)">五律</a>
+    <a href="#e9top" onClick="MN_Show(12)">七绝</a>
+    <a href="#e9top" onClick="MN_Show(13)">七律</a>
+    
+    </p>
+    <ul id="navs">
+      <li><a href="#e9top">...加载中...</a></li>
+    </ul> 
+  </div>  
+  </div>
+  <div class="mcontent">
+    <div id="subList" class="subList tc"></div>
+    <p class="tc pv10" id="Ulist2" style="display:none"><a href="#e9top" onClick="MM_show()" class="reindex">返回目录<i class="icons ico-arrowreturnthick-1-w"></i></a></p>
+  </div>
+  
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+</div>
+
+<script type="text/JavaScript">
+
+function MS_show(e,id){
+	var data = pageArray[id];
+	//data = data.replace(/\n/g,'<br>');  
+	var sps = '：|——|，|；|。|！|？'.split('|'); // ,| 
+	for(i=0;i<sps.length;i++){
+		var tmp = "/"+sps[i]+"/g,'"+sps[i]+"<br>'";
+		eval("data = data.replace("+tmp+");");
+		//data = data.replace("/"+sps[i]+"/g",sps[i]+"<br>");
+	}
+	var title = e.innerHTML;
+	title = title.replace('（','</span>（');
+	if(title.indexOf('<br>')<=0) title = title.replace('（','<br>（');
+	title = '<p class="title"><span>'+title+'</p>';
+	jsElm.jeID('subList').innerHTML = title+data; 
+	jsElm.jeID('subList').style.display = '';
+	jsElm.jeID('subNav').style.display = 'none';
+	jsElm.jeID('navs').style.display = 'none';
+	jsElm.jeID('Ulist1').style.display = '';
+	jsElm.jeID('Ulist2').style.display = '';
+	return;
+}
+function MM_show(){
+	jsElm.jeID('subList').style.display = 'none';
+	jsElm.jeID('subNav').style.display = '';
+	jsElm.jeID('navs').style.display = '';
+	jsElm.jeID('Ulist1').style.display = 'none';
+	jsElm.jeID('Ulist2').style.display = 'none';
+}
+function MN_Show(id){
+	var data = __httpData__;
+	var p1 = data.indexOf('start'+id), p2 = data.indexOf('end'+id);
+	var dsub = data.substr(p1,p2-p1); 
+	var dtitle = new Array(), drem = new Array();
+	var j = -1, tmp, drow = dsub.split('\n');
+	for(i=0;i<drow.length;i++){
+		tmp = drow[i];
+		if(tmp.indexOf('skip')>0) continue;
+		if(tmp.indexOf('【')>=0){
+			j++;
+			dtitle[j] = tmp;
+			drem[j] = '';
+		}else if(j>-1){
+			drem[j] += tmp;
+		}
+	} //console.log(dtitle);
+	var nstr = '';
+	for(i=0;i<dtitle.length;i++){
+		nstr += "<li><a href='#e9top' onClick=\"MS_show(this,"+i+")\">"+dtitle[i]+"</a></li>";
+	}
+	jsElm.jeID('navs').innerHTML = nstr;
+	pageArray = drem;
+}
+var __httpData__ = '', pageArray = new Array(); 
+jsHttp('../udata/yuwen/cn-shici.txt',"setTimeout('MN_Show(1);',200)");
+
+function all_show(){
+	var data = __httpData__;
+	drow = data.split('\n');
+	var dfmt = new Array();
+	for(i=0;i<drow.length;i++){
+		tmp = drow[i];
+		if(tmp.indexOf('skip')>0) continue;
+		if(tmp.indexOf('【')>=0){
+			tmp = '<span class="tmpall">'+tmp+'</span><br>';
+		}
+		dfmt += tmp;
+	} //console.log(dtitle);	
+	var sps = '：|——|，|；|。|！|？'.split('|'); // ,| 
+	for(i=0;i<sps.length;i++){
+		var tmp = "/"+sps[i]+"/g,'"+sps[i]+"<br>'";
+		eval("dfmt = dfmt.replace("+tmp+");");
+	}
+	jsElm.jeID('tttt1').innerHTML = dfmt;
+}
+
+</script>
+<!--
+<a onClick="all_show()">sss</a>
+<div id="tttt1"></div>
+-->
+</BODY>
+</html>
+
+

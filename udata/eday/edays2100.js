@@ -1,0 +1,35 @@
+﻿
+var edata = new Array();
+
+edata[2001] = '2016-05-07';
+edata[2001] += '[br 1]No matter what type of animal you are, change starts with you.';
+edata[2001] += '[br 2] 天性如何并不重要，重要的是你开始改变。--电影《疯狂动物城》';
+edata[2001] += '[br 3]词霸小编：周末啦！你们有什么计划？据说初三党高三党正在准备考试，加油啦！但学习的同时也要劳逸结合，推荐这部电影《疯狂动物城》，前段时间也是火得不行不行的，同时正能量满满，没有什么是不可能的！大家周末愉快~ ';
+edata[2002] = '2016-05-08';
+edata[2002] += '[br 1]Youth fades. Love droops. The leaves of friendship fall. A mother`s secret hope outlives them all.';
+edata[2002] += '[br 2] 青春会逝去，爱情会枯萎，友谊也会凋零。而一个母亲内心的希望比它们都要长久。';
+edata[2002] += '[br 3]词霸小编：之前看到过一句话特别有感触，当你回家抱着电脑手机玩时，当你抱怨老妈不会用手机时，别忘了她曾经手把手地教你怎么握笔，怎么用筷子。母亲节，记得对她说声“辛苦了”。 ';
+edata[2003] = '2016-05-09';
+edata[2003] += '[br 1]The scabbard is content to be dull when it protects the keenness of the sword.';
+edata[2003] += '[br 2] 刀鞘保护刀的锋利，它自己却满足于迟钝。--泰戈尔';
+edata[2003] += '[br 3]词霸小编：泰戈尔《飞鸟集》中的经典，之前看过一句话，人要学会知足，但不能满足。要知足自己现在所拥有的，但是不能停止上进，满足现状停滞不前。可以敢于平凡但不能随波逐流。新的一周，加油啦各位！';
+edata[2004] = '2016-05-07';
+edata[2004] += '[br 1]That you must stay who you are. Not a perfect soldier, but a good man. ';
+edata[2004] += '[br 2] 大家来猜翻译和出处';
+edata[2004] += '[br 3]小编喵：今天没有翻译和出处，来来来，大家都来猜猜这是哪部电影里的经典台词？试着来翻译下！小编提示，这部电影的第3部已经上映咯，悠闲周末约上小伙伴一起看部电影吧~ ';
+edata[2005] = '2016-05-08';
+edata[2005] += '[br 1]I don`t know why all the trees change in the fall. I know you`re not scared of anything at all. Don`t know if snow white`s house is near or far away.But I know I had the best day with you today.';
+edata[2005] += '[br 2] 我不知道树木为何在秋天落叶，但知道你无畏世间一切；我不知道白雪公主的城堡是近是远，但知道有你陪伴的今天是最美好的一天。';
+edata[2005] += '[br 3]点歌人：@lemon 小编喵：Taylor Swift的 The Best Day，献给母亲的歌，5岁时，什么都不懂，只觉得母亲是世界上最勇敢的人。13岁时，她被同学排挤，很委屈，但她的母亲对她格外温和，同她谈心…万物变化，但有一点没变，就是母亲的爱。';
+edata[2006] = '2016-05-09';
+edata[2006] += '[br 1]Finders keepers, losers weepers. ';
+edata[2006] += '[br 2] 先到先得。';
+edata[2006] += '[br 3]投稿人：Maybe全球粉丝后援团 小编喵：来自《老友记》第一季 ，一句俚语。最近有小伙伴说，小编鸡汤喝多了，有点反胃，哈哈哈，小编以后会注意哒~你们有什么投稿也可以发给小编呦~征稿邮箱 hiciba@wps.cn ';
+edata[2007] = '2016-05-10';
+edata[2007] += '[br 1]Energy and persistence conquer all things.';
+edata[2007] += '[br 2] 能量加毅力可以征服一切。--本杰明·富兰克林';
+edata[2007] += '[br 3]词霸小编：富兰克林的励志名言很好的道出了拳王帕奎奥生涯。拳王在此前迎来了职业生涯最后的一场胜利。而帕奎奥并非天生拳王，人生道路奔波和坎坷多于成功和荣耀。是力量和毅力成就了现在的他。相信大家都能充满活力，怀着毅力去实现自己的理想。【书城全新改版咯！更多功能优化，更多优惠活动，更多好书推荐，安卓用户快快升级到最新版吧，iOS用户也不要着急，会紧跟步伐哒~】';
+edata[2008] = '2016-05-10';
+edata[2008] += '[br 1]You are infinite. And on those keys, the music that you can make is infinite. ';
+edata[2008] += '[br 2] 你的才华是无限的。因此在这些琴键上，你可以弹奏出无限的音乐。';
+edata[2008] += '[br 3]小编喵：琴键有限，能创造的音乐无限，生命有限，能创造的美好无限，小编前几天看了经典电影《海上钢琴师》，感觉心灵都被净化了喵，大家有空的时候可以去看看呀，然后记得回来说说感受哟！';

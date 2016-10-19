@@ -1,0 +1,225 @@
+
+<div>﻿AM Clouds / PM Sun  上午有云/下午后晴<br>
+AM Showers  上午阵雨<br>
+AM Snow Showers  上午阵雪<br>
+AM T-Storms  上午雷暴雨<br>
+Clear  晴朗<br>
+Cloudy [ˈklaʊdi] 多云<br>
+Cloudy / Wind  阴时有风<br>
+Clouds Early / Clearing Late  早多云/晚转晴<br>
+Drifting Snow  飘雪<br>
+Drizzle  毛毛雨<br>
+Dust  灰尘<br>
+Fair  晴<br>
+Few Showers  短暂阵雨<br>
+Few Snow Showers  短暂阵雪<br>
+Few Snow Showers / Wind  短暂阵雪时有风<br>
+Fog  雾<br>
+Haze  薄雾<br>
+Hail  冰雹<br>
+Heavy Rain [ˈhevirein] 大雨<br>
+Heavy Rain Icy  大冰雨<br>
+</div>
+
+<div>Heavy Snow  大雪<br>
+Heavy T-Storm  强烈雷雨<br>
+Isolated T-Storms  局部雷雨<br>
+Light Drizzle  微雨<br>
+Light Rain [laitrein] 小雨<br>
+Light Rain Shower  小阵雨<br>
+Light Rain Shower and Windy  小阵雨带风<br>
+Light Rain with Thunder  小雨有雷声<br>
+Light Snow  小雪<br>
+Light Snow Fall  小降雪<br>
+Light Snow Grains  小粒雪<br>
+Light Snow Shower  小阵雪<br>
+Lightening  雷电<br>
+Mist  薄雾<br>
+Mostly Clear  大部晴朗<br>
+Mostly Cloudy  大部多云<br>
+Mostly Cloudy/ Windy  多云时阴有风<br>
+Mostly Sunny  晴时多云<br>
+Partly Cloudy  局部多云<br>
+Partly Cloudy/ Windy  多云时有风<br>
+</div>
+
+<div>PM Rain / Wind  下午小雨时有风<br>
+PM Light Rain  下午小雨<br>
+PM Showers  下午阵雨<br>
+PM Snow Showers  下午阵雪<br>
+PM T-Storms  下午雷雨<br>
+Rain  雨<br>
+Rain Shower  阵雨<br>
+Rain Shower/ Windy  阵雨/有风<br>
+Rain / Snow Showers  雨或阵雪<br>
+Rain / Snow Showers Early  下雨/早间阵雪<br>
+Rain / Wind  雨时有风<br>
+Rain and Snow  雨夹雪<br>
+Scattered Showers  零星阵雨<br>
+Scattered Showers / Wind  零星阵雨时有风<br>
+Scattered Snow Showers  零星阵雪<br>
+Scattered Snow Showers / Wind  零星阵雪时有风<br>
+Scattered Strong Storms  零星强烈暴风雨<br>
+Scattered T-Storms  零星雷雨<br>
+Showers  阵雨<br>
+Showers Early  早有阵雨<br>
+</div>
+
+<div>Showers Late  晚有阵雨<br>
+Showers / Wind  阵雨时有风<br>
+Showers in the Vicinity  周围有阵雨<br>
+Smoke  烟雾<br>
+Snow  雪<br>
+Snow / Rain Icy Mix  冰雨夹雪<br>
+Snow and Fog  雾夹雪<br>
+Snow Shower [snəuˈʃauə] 阵雪<br>
+Snowflakes  雪花<br>
+Sunny  阳光<br>
+Sunny / Wind  晴时有风<br>
+Sunny Day  晴天<br>
+Thunder  雷鸣<br>
+Thunder in the Vicinity  周围有雷雨<br>
+T-Storms  雷雨<br>
+T-Storms Early  早有持续雷雨<br>
+T-Storms Late  晚有持续雷雨<br>
+Windy [ˈwɪndi] 有风<br>
+Windy / Snowy  有风/有雪<br>
+Windy Rain  刮风下雨<br>
+</div>
+
+<div>Wintry Mix  雨雪混合<br>
+weather forecast [ˈweðəˈfɔ:-kɑ:st] 天气预报<br>
+clear [kliə] 晴<br>
+cloudy day [ˈklaudidei] 阴天<br>
+scorching heat  炎热<br>
+muggy weather  闷热天气<br>
+freakish weather  反常天气<br>
+rainbow [ˈreɪnbəʊ] 虹<br>
+fog [fɔɡ] 雾<br>
+cool [ku:l] 凉<br>
+frost [frɒst] 霜<br>
+dew [dju:] 露<br>
+snow [snəu] 雪<br>
+hail [heɪl] 雹<br>
+thunder [ˈθʌndə(r)] 雷<br>
+ice [aɪs] 冰<br>
+snowdrift [ˈsnəʊdrɪft] 雪堆<br>
+snow flake [snəufleik] 雪花<br>
+lightning [ˈlaɪtnɪŋ] 闪电<br>
+zero [ˈziərəu] 零度<br>
+</div>
+
+<div>chilly [ˈtʃɪli] 寒冷<br>
+freezing point  冰点<br>
+icicle [ˈaɪsɪkl] 冰柱<br>
+local rains  地形雨<br>
+rainfall [ˈreɪnfɔ:l] 雨量<br>
+rainy season [ˈreiniˈsi:zən] 雨季<br>
+raindrops  雨点<br>
+intermittent rain [ˌɪntəˈmitəntrein] 间歇雨<br>
+heavy rain [ˈhevirein] 大雨<br>
+welcome rain [ˈwelkəmrein] 甘霖<br>
+downpour [ˈdaʊnpɔ:(r)] 滂沱大雨<br>
+wind scale [windskeil] 风级<br>
+barometric pressure  气压<br>
+air mass [eə(r)mæs] 气团<br>
+eye of a storm  风眼<br>
+cyclone [ˈsaɪkləʊn] 气旋<br>
+low-pressure [ˈləʊˈpreʃə] 低气压<br>
+high-pressure [ˈhaɪˈpreʃə] 高气压<br>
+frontal edge [ˈfrʌntledʒ] 锋面<br>
+warm front [wɔ:mfrʌnt] 暖锋<br>
+</div>
+
+<div>cold front [kəuldfrʌnt] 冷峰<br>
+constant wind [ˈkɔnstəntwind] 恒风<br>
+breeze [bri:z] 微风<br>
+calm [kɑ:m] 无风<br>
+light breeze [laitbri:z] 轻风<br>
+trade wind [treidwind] 信风<br>
+gentle breeze [ˈdʒentlbri:z] 微风<br>
+moderate breeze [ˈmɔdəritbri:z] 和风<br>
+headwind [ˈhedwɪnd] 逆风<br>
+typhoon [taɪˈfu:n] 台风<br>
+fresh breeze [freʃbri:z] 清风<br>
+strong breeze [strɒŋbri:z] 强风<br>
+northwester [ˈnɔ:θˈwestə] 西北风<br>
+near gale  疾风<br>
+gale [geɪl] 大风<br>
+squall [skwɔ:l] 狂风<br>
+strong gale  烈风<br>
+northeaster [ˌnɔ:θˈi:stə] 东北风<br>
+storm [stɔ:m] 狂风<br>
+violent storm [ˈvaiələntstɔ:m] 暴风<br>
+</div>
+
+<div>northeast trades  东北信风<br>
+hurricane [ˈhʌrikən] 飓风<br>
+southeaster [ˌsauθˈi:stə] 东南风<br>
+tornado [tɔ:ˈneidəu] 龙卷风<br>
+southwester [sauθˈwestə] 西南风<br>
+north wind [nɔ:θwind] 北风<br>
+gusty wind [ˈɡʌstiwind] 疾风<br>
+favorable wind  顺风<br>
+east wind  东风<br>
+heat wave [hi:tweiv] 热浪<br>
+high seas  强浪<br>
+smooth wavelets  微浪<br>
+light seas  细浪<br>
+moderate seas  小浪<br>
+rough seas  中浪<br>
+very rough seas  大浪<br>
+very high seas  巨浪<br>
+rippled  微波<br>
+monster waves  狂浪<br>
+Natural Disaster  自然灾害<br>
+</div>
+
+<div>earthquake [ˈɜ:θkweɪk] 地震<br>
+volcanic earthquake [vɔlˈkænɪkˈə:θkweik] 火山地震<br>
+tidal wave [ˈtaɪdlweiv] 海啸<br>
+landslide [ˈlændslaɪd] 山崩<br>
+avalanche [ˈævəˌlæntʃ] 雪崩<br>
+lahar [ˈlɑ:hɑ:] 火山泥流<br>
+mudflow [ˈmʌdfləu] 泥石流（=landslide）<br>
+supervolcano  超级火山爆发<br>
+flood [flʌd] 洪水<br>
+maelstrom [ˈmeɪlstrɒm] 大(或急剧的)漩涡<br>
+Tsunami  海啸<br>
+blizzard [ˈblɪzəd] 暴风雪<br>
+Drought  干旱<br>
+Hailstorm  雹暴<br>
+Hurricanes  飓风（台风）（=Tropicalcyc...<br>
+ice storm [aisstɔ:m] 冰雹<br>
+ice age [aiseidʒ] 冰河时代<br>
+wildfire [ˈwaɪldfaɪə(r)] 森林大火<br>
+Epidemic  流行病<br>
+Famine  饥荒<br>
+</div>
+
+<div>Solar flare [ˈsəuləflɛə] 太阳耀斑<br>
+mountain climate [ˈmauntinˈklaimit] 山地气候<br>
+winter monsoon climate  冬季季风气候<br>
+monsoon climate [mɔnˈsu:nˈklaimit] 季风气候<br>
+sub-tropical climate  亚热带气候<br>
+plateau climate [ˈplætəuˈklaimit] 高原气候<br>
+littoral climate [ˈlɪtərəlˈklaimit] 海滨气候<br>
+polar climate [ˈpəuləˈklaimit] 极地气候<br>
+tropical climate [ˈtrɔpikəlˈklaimit] 热带气候<br>
+temperate desert climate  温带沙漠气候<br>
+temperate arid climate  温带干燥气候<br>
+tropical monsson climate  热带季风气候<br>
+continental climate  大陆气候<br>
+desert climate [ˈdezətˈklaimit] 沙漠气候<br>
+coastal climate [ˈkəʊstlˈklaimit] 沿海气候<br>
+highland climate [ˈhaɪləndˈklaimit] 高地气候<br>
+marine climate [məˈri:nˈklaimit] 海洋气候<br>
+forest climate [ˈfɔristˈklaimit] 森林气候<br>
+temperate climate [ˈtempəritˈklaimit] 温带气候<br>
+humid climate [ˈhju:mɪdˈklaimit] 湿润气候<br>
+</div>
+
+<div>temperate grassy climate  温带草原气候<br>
+tropical rainy climate  热带雨林气候<br>
+tropical marine climate  热带海洋气候<br>
+</div>

@@ -1,0 +1,231 @@
+
+<div>abscissa [æbˈsɪsə] n.横坐标<br>
+add [æd] v.加<br>
+addend [əˈdend] n.加数<br>
+addition [əˈdiʃən] n.加<br>
+aggregate [ˈæɡriɡit] n.集合<br>
+algebra [ˈældʒibrə] n.代数<br>
+amplitude [ˈæmplɪˌtu:d] n.振幅<br>
+angle [ˈæŋɡl] n.角<br>
+arc [ɑ:k] n.弧<br>
+area [ˈɛəriə] n.面积<br>
+arithmetic [əˈriθmətik] n.算术<br>
+augend [ˈɔ:dʒend] n.被加数<br>
+average [ˈævəridʒ] n.平均数<br>
+axiom [ˈæksi:əm] n.公理<br>
+axis [ˈæksis] n.轴<br>
+base [beis] n.底<br>
+calculation [ˌkælkjəˈleɪʃən] n.计算<br>
+calculus [ˈkælkjələs] n.微积分<br>
+carry [ˈkæri] n.进位<br>
+center [ˈsentə] n.圆心<br>
+</div>
+
+<div>centre [ˈsentə] n.圆心<br>
+circle [ˈsə:kl] n.圆<br>
+circumference [səˈkʌmfərəns] n.圆周<br>
+coefficient [ˌkəʊəˈfɪʃənt] n.系数<br>
+combination [ˌkɔmbiˈneiʃən] n.组合<br>
+cone [kəun] n.圆锥<br>
+congruent [ˈkɔŋgru:ənt] n.全等<br>
+constant [ˈkɔnstənt] n.常量<br>
+coordinate [kəuˈɔ:dineit] n.坐标<br>
+cosine [ˈkəusain] n.余弦<br>
+cotangent [ˈkəuˈtændʒənt] n.余切<br>
+cube [kju:b] n.三次方，立方;立方体<br>
+cylinder [ˈsilində] n.圆柱<br>
+decimal [ˈdesiməl] n.小数<br>
+degree [diˈɡri:] n.角度<br>
+denominator [dɪˈnɔməˌneɪtə] n.分母<br>
+derivative [diˈrivətiv] n.导数<br>
+determinant [diˈtə:minənt] n.行列式<br>
+diameter [daiˈæmitə] n.直径<br>
+diamond [ˈdaiəmənd] n.菱形<br>
+</div>
+
+<div>difference [ˈdifərəns] n.差<br>
+differential [ˌdɪfəˈrenʃəl] n.微分<br>
+digit [ˈdidʒit] n.数字;个位;十分位<br>
+distribution [ˌdistriˈbju:ʃən] n.分布<br>
+divide [diˈvaid] v.除<br>
+dividend [ˈdividend] n.被除数<br>
+division [diˈviʒən] n.除<br>
+divisor [dɪˈvaɪzə] n.除数<br>
+domain [dəuˈmein] n.定义域<br>
+element [ˈelimənt] n.元素<br>
+ellipse [ɪˈlɪps] n.椭圆<br>
+equation [iˈkweiʃən] n.等式，方程式<br>
+evolution [ˌi:vəˈlu:ʃən] n.开方<br>
+exponent [eksˈpəunənt] n.指数，幂<br>
+factor [ˈfæktə] n.因数<br>
+factorial [fækˈtɔ:riəl] n.&adj.阶乘（的）<br>
+formula [ˈfɔ:mjulə] n.公式<br>
+fraction [ˈfrækʃən] n.分数<br>
+function [ˈfʌŋkʃən] n.函数<br>
+geometry [dʒiˈɔmitri] n.几何<br>
+</div>
+
+<div>graph [ɡrɑ:f] n.图表<br>
+height [hait] n.高<br>
+hemisphere [ˈhemiˌsfiə] n.半球<br>
+hexagon [ˈheksəˌgɔn] n.六边形<br>
+hexahedron [ˌheksəˈhedrən] n.六面体<br>
+hyperbola [haiˈpə:bələ] n.双曲线<br>
+hypotenuse [haɪˈpɔtnˌu:s] n.斜边<br>
+hypothesis [haiˈpɔθisis] n.假设<br>
+image [ˈimidʒ] n.图象<br>
+infinitesimal [ˌɪnfɪnɪˈtesəməl] n.无穷小<br>
+integer [ˈɪntɪdʒə] n.整数<br>
+integral [ˈintiɡrəl] n.积分<br>
+intersect [ˌɪntəˈsekt] n.相交<br>
+intersection [intəˈsekʃən] n.交集<br>
+length [leŋθ] n.长<br>
+limit [ˈlimit] n.极限<br>
+line [lain] n.线<br>
+locus [ˈləʊkəs] n.轨迹<br>
+logarithm [ˈlɔ:gəˌrɪðəm] n.对数<br>
+mapping  n.映射<br>
+</div>
+
+<div>matrix [ˈmeɪtrɪks] n.矩阵<br>
+minuend [ˈminjuend] n.被减数<br>
+minus [ˈmainəs] v.减<br>
+monotonicity  n.单调性<br>
+multinomial [ˌmʌltiˈnəumiəl] n.多项式<br>
+multiple [ˈmʌltipl] n.倍数<br>
+multiplicand [ˌmʌltipliˈkænd] n.被乘数<br>
+multiplication [ˌmʌltəplɪˈkeɪʃən] n.乘<br>
+multiplier [ˈmʌltəˌplaɪə] n.乘数<br>
+multiply [ˈmʌltiplai] v.乘<br>
+negative [ˈneɡətiv] adj.负的<br>
+nil [nil] n.零<br>
+nought [nɔ:t] n.零<br>
+null [nʌl] n.零<br>
+number [ˈnʌmbə] n.数<br>
+numerator [ˈnu:məˌreɪtə] n.分子<br>
+octahedron [ˌɔktəˈhedrən] n.八面体<br>
+operation [ˌɔpəˈreiʃən] n.运算<br>
+operator [ˈɔpəreitə] n.运算符<br>
+ordinate [ˈɔ:dnɪt] n.纵坐标<br>
+</div>
+
+<div>origin [ˈɔridʒin] n.原点<br>
+parabola [pəˈræbələ] n.抛物线<br>
+parallel [ˈpærəlel] n.平行<br>
+parallelogram [ˌpærəˈleləˌgræm] n.平行四边形<br>
+parity [ˈpærɪti:] n.奇偶性<br>
+pentagon [ˈpentəˌgɔn] n.五边形<br>
+per capita [pə:ˈkeɪpətə] n.每人<br>
+percent [pəˈsent] n.百分比<br>
+percentage [pəˈsentidʒ] n.百分点<br>
+percentile [pəˈsentail] n.百分位（数）；百分位（数）之一<br>
+perimeter [pəˈrɪmɪtə] n.周长<br>
+period [ˈpiəriəd] n.周期<br>
+periodicity [ˌpɪri:əˈdɪsɪti:] n.周期性<br>
+permutation [ˌpɜ:mjʊˈteɪʃən] n.排列<br>
+phase [feiz] n.相位<br>
+plane [plein] n.面<br>
+plus [plʌs] n.加<br>
+point [pɔint] n.点<br>
+polygon [ˈpɔli:ˌgɔn] n.多边形<br>
+polyhedron [pɔliˈhedrən] n.多面体<br>
+</div>
+
+<div>polynomial [ˌpɔliˈnəumjəl] n.多项式<br>
+positive [ˈpɔzitiv] n.正<br>
+prism [ˈprɪzəm] n.棱柱<br>
+probability [ˌprɔbəˈbiliti] n.概率，或然率<br>
+product [ˈprɔdʌkt] n.积;乘积<br>
+proposition [ˌprɔpəˈziʃən] n.命题<br>
+prove [pru:v] n.证明<br>
+pyramid [ˈpirəmid] v.棱锥<br>
+quadrant [ˈkwɔdrənt] n.象限<br>
+quadrilateral [ˌkwɔdrəˈlætərəl] n.四边形<br>
+quotient [ˈkwəʊʃənt] n.商<br>
+radial [ˈreɪdi:əl] n.射线<br>
+radian [ˈreidjən] n.弧度<br>
+radius [ˈreidjəs] n.半径<br>
+range [reindʒ] n.值域<br>
+ratio [ˈreiʃiəu] n.比<br>
+real number [riəlˈnʌmbə] n.实数<br>
+rectangle [ˈrektæŋɡl] n.矩形<br>
+remainder [riˈmeində] n.差;余数<br>
+rhombus [ˈrɔmbəs] n.菱形<br>
+</div>
+
+<div>ring [riŋ] n.环<br>
+rotation [rəʊˈteɪʃən] n.旋转<br>
+round [raund] n.四舍五入<br>
+secant [ˈsi:kənt] n.正割<br>
+sector [ˈsektə] n.扇形<br>
+segment [ˈseɡmənt] n.线段<br>
+semicircle [ˈsemɪˌsɜ:kəl] n.半圆<br>
+sequence [ˈsi:kwəns] n.数列<br>
+series [ˈsiəri:z] n.数列，级数<br>
+set [set] n.集合<br>
+side [said] n.边<br>
+significance [siɡˈnifikəns] n.权<br>
+similar [ˈsimilə] n.相似<br>
+sine [sain] n.正弦<br>
+slope [sləup] n.斜率<br>
+solid [ˈsɔlid] n.体<br>
+space [speis] n.空间<br>
+sphere [sfiə] n.球<br>
+square [skwɛə] n.二次方，平方;正方形<br>
+statistics [stəˈtistiks] n.统计<br>
+</div>
+
+<div>subset [ˈsʌbset] n.子集<br>
+subtract [səbˈtrækt] v.减<br>
+subtraction [səbˈtrækʃən] n.减<br>
+subtrahend [ˈsʌbtrəhend] n.减数<br>
+sum [sʌm] n.和<br>
+tangent [ˈtændʒənt] n.正切<br>
+tetrahedron [ˈtetrəˈhedrən] n.四面体<br>
+theorem [ˈθi:ərəm] n.定理<br>
+times [taɪmz] v.乘<br>
+trapezoid [ˈtræpizɔid] n.梯形<br>
+triangle [ˈtraiæŋɡl] n.三角形<br>
+trigonometry [ˌtrɪgəˈnɔmɪtri:] n.三角<br>
+union [ˈju:njən] n.并集<br>
+unknown [ʌnˈnəʊn] n.未知数<br>
+variable [ˈvɛəriəbl] n.变量<br>
+variance [ˈveəri:əns] n.方差<br>
+volume [ˈvɔlju:m] n.体积<br>
+weight [weit] n.权<br>
+width [widθ] n.宽<br>
+x-axis [ˈeksˌæksis] n.坐标轴<br>
+</div>
+
+<div>zero [ˈziərəu] n.零<br>
+complement [ˈkɔmplimənt] n.补集<br>
+divisible [dɪˈvɪzəbəl] n.可整除的<br>
+extraction [ɪkˈstrækʃən] n.开方<br>
+histogram [ˈhistəuɡræm] n.柱形统计图<br>
+intercede [ˌɪntəˈsi:d] n.截距<br>
+irrational [ɪˈræʃənəl] n.无理数adj.不合理的，荒谬的<br>
+leg [leɡ] n.直角边<br>
+loca  n.轨迹<br>
+multiplicator  n.乘数<br>
+octagon [ˈɔktəˌgɔn] n.八边形<br>
+parallelepiped [pærəleˈlepiped] n.平行六面体<br>
+pi [pai] n.圆周率<br>
+power [ˈpauə] n.乘方<br>
+rhomb  n.菱形<br>
+solution [səˈlu:ʃən] n.（方程的）解<br>
+tenth [tenθ] n.十分位<br>
+undersurface [ˈʌndəˈsə:fis] n.底面<br>
+void [vɔid] n.空集<br>
+x-coordinate  n.横坐标<br>
+</div>
+
+<div>z-axis [ˈzedˌæksis] n.Z轴<br>
+barycentre [ˌbæriˈsentə] n.重心<br>
+cosecant [ˈkauˈsi:kənt] n.余割<br>
+decagon [ˈdekəˌgɔn] n.十边形<br>
+heptagon [ˈheptəɡən] n.七边形<br>
+icosahedron [ˌaikəusəˈhedrən] n.二十面体<br>
+incenter  n.内心<br>
+inequation  n.不等式<br>
+y-axis [ˈwaiˌæksis] n.Y轴，纵坐标轴<br>
+</div>

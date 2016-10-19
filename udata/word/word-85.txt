@@ -1,0 +1,131 @@
+
+<div>Brazil [brəˈzil] n.巴西木<br>
+acorn [ˈeɪˌkɔ:n] n.橡树果<br>
+amaryllis [æməˈrilis] n.孤挺花<br>
+anemone [əˈneməni] n.银莲花<br>
+anther [ˈænθə] n.花药<br>
+apple [ˈæpl] n.苹果<br>
+apricot [ˈæprɪˌkɔt] n.杏<br>
+azalea [əˈzeiliə] n.杜鹃；杜鹃花<br>
+bamboo [bæmˈbu:] n.竹<br>
+baobab [ˈbeiəubæb] n.猴面包树<br>
+bark [bɑ:k] n.树皮<br>
+beech [bi:tʃ] n.山毛榉<br>
+begonia [bɪˈɡəʊniə] n.秋海棠<br>
+birch [bɜ:tʃ] n.白桦<br>
+bough [baʊ] n.大树枝<br>
+box [bɔks] n.黄杨<br>
+branch [brɑ:ntʃ] n.树枝<br>
+cactus [ˈkæktəs] n.仙人掌<br>
+cambium [ˈkæmbiəm] n.形成层<br>
+camellia [kəˈmi:ljə] n.山茶；山茶花<br>
+</div>
+
+<div>canna [ˈkænə] n.美人蕉<br>
+chrysanthemum [kriˈsænθəməm] n.菊；菊花<br>
+crocus [ˈkrəukəs] n.番红花<br>
+cycad [ˈsaikæd] n.苏铁<br>
+cypress [ˈsaɪprɪs] n.柏树<br>
+daffodil [ˈdæfədɪl] n.黄水仙<br>
+daisy [ˈdeɪzi:] n.雏菊<br>
+daphne [ˈdæfni:] n.瑞香<br>
+date [deit] n.枣椰树<br>
+dogwood [ˈdɔ:gˌwʊd] n.山茱萸<br>
+elder [ˈeldə] n.接骨木<br>
+fir [fɜ:] n.冷杉<br>
+freesia [ˈfri:ʒiə] n.小苍兰<br>
+gardenia [gɑ:ˈdi:njə] n.栀子<br>
+ginkgo [ˈɡiŋkɡəu] n.银杏树<br>
+hawthorn [ˈhɔ:θɔ:n] n.山楂<br>
+hibiscus [haɪˈbɪskəs] n.木槿<br>
+hickory [ˈhikəri] n.山核桃树<br>
+holly [ˈhɔli:] n.冬青<br>
+hydrangea [haiˈdreindʒiə] n.八仙花<br>
+</div>
+
+<div>iris [ˈaɪərɪs] n.蝴蝶花<br>
+jasmine [ˈdʒæzmɪn] n.茉莉<br>
+juniper [ˈdʒu:nipə] n.杜松<br>
+knot [nɔt] n.树节<br>
+larch [lɑ:tʃ] n.落叶松<br>
+leaf [li:f] n.树叶<br>
+lilac [ˈlaɪlək] n.丁香；紫丁香<br>
+lily [ˈlɪli] n.百合；百合花<br>
+linden [ˈlindən] n.椴树<br>
+magnolia [mægˈnəʊljə] n.木兰<br>
+maple [ˈmeipl] n.枫树<br>
+marigold [ˈmæriɡəuld] n.金盏花<br>
+narcissus [nɑ:ˈsɪsəs] n.水仙花<br>
+oak [əuk] n.橡树<br>
+oleander [ˌəuliˈændə] n.夹竹桃<br>
+orange [ˈɔrindʒ] n.桔子<br>
+orchid [ˈɔ:kɪd] n.兰花<br>
+ovary [ˈəʊvəri:] n.子房<br>
+pansy [ˈpænzi] n.三色堇<br>
+pear [pɛə] n.梨<br>
+</div>
+
+<div>peony [ˈpi:əni:] n.牡丹；芍药<br>
+petal [ˈpetl] n.花瓣<br>
+pine [pain] n.松<br>
+pink [piŋk] n.石竹花<br>
+pistil [ˈpistil] n.雌蕊<br>
+pith [pɪθ] n.木髓<br>
+plum [plʌm] n.洋李<br>
+pollen [ˈpɔlən] n.花粉<br>
+poplar [ˈpɔplə] n.白杨<br>
+poppy [ˈpɔpi:] n.罂粟花<br>
+redbud [ˈredbʌd] n.紫荆<br>
+resin [ˈrezɪn] n.树脂<br>
+rhododendron [ˌrəʊdəˈdendrən] n.杜鹃花<br>
+ring [riŋ] n.年轮<br>
+root [ru:t] n.树根<br>
+rose [rəuz] n.月季；玫瑰；玫瑰花<br>
+rosewood [ˈrəuzwud] n.紫檀<br>
+sandalwood [ˈsændlˌwʊd] n.檀香木<br>
+sapling [ˈsæplɪŋ] n.树苗<br>
+sepal [ˈsepəl] n.萼片<br>
+</div>
+
+<div>sequoia [siˈkwɔiə] n.红杉<br>
+sprout [spraut] n.新芽<br>
+spruce [spru:s] n.云杉<br>
+stamen [ˈsteɪmən] n.雄蕊<br>
+stump [stʌmp] n.树桩<br>
+sunflower [ˈsʌnˌflauə] n.向日葵<br>
+taproot [ˈtæpru:t] n.主根<br>
+trunk [trʌŋk] n.树干<br>
+tulip [ˈtju:lip] n.郁金香<br>
+twig [twiɡ] n.小树枝<br>
+violet [ˈvaiəlit] n.紫罗兰<br>
+willow [ˈwiləu] n.垂柳<br>
+wood [wud] n.木材<br>
+yew [joəʊ] n.紫杉<br>
+yucca [ˈjʌkə] n.丝兰<br>
+balsam [ˈbɔ:lsəm] n.凤仙花<br>
+carnation [kɑ:ˈneɪʃən] n.麝香石竹；麝香石竹(康乃馨)<br>
+coco [ˈkəukəu] n.椰树<br>
+cone [kəun] n.松果<br>
+cosmos [ˈkɔzməs] n.大波斯菊<br>
+</div>
+
+<div>dahlia [ˈdeiljə] n.大丽花<br>
+datura [dəˈtjuərə] n.曼陀罗<br>
+ebony [ˈebəni:] n.乌檀<br>
+elm [elm] n.榆木树<br>
+fuchsia [ˈfju:ʃə] n.倒挂金钟<br>
+geranium [dʒiˈreinjəm] n.大竺葵<br>
+hyacinth [ˈhaiəsinθ] n.风信花<br>
+locust [ˈləʊkəst] n.洋槐<br>
+marguerite  n.雏菊<br>
+myrtle [ˈmə:tl] n.桃金娘科植物<br>
+osier [ˈəuʒə] n.紫皮柳树<br>
+quince [kwins] n.柑橘<br>
+rowan [ˈrəuən] n.欧洲山梨<br>
+stalk [stɔ:k] n.花柄<br>
+sycamore [ˈsɪkəˌmɔ:] n.美国梧桐<br>
+teak [ti:k] n.柚木树<br>
+treetop [ˈtri:ˌtɔp] n.树梢<br>
+wattle [ˈwɔtl] n.金合欢树<br>
+wisteria [wiˈstiəriə] n.柴藤<br>
+</div>

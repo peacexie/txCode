@@ -1,0 +1,205 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>算24</title>
+<script src="../cjs/jsbase.js"></script>
+<script src="../cjs/ms_suan24.js?v1.3"></script>
+<style type="text/css">
+<!--
+table { border:1px solid #CCC; width:100%; margin:10px auto; }
+td { text-align:center; padding:5px 5px; border:1px solid #CCC; }
+input { min-width:40px; min-height:30px; font-size:larger; font-family:sans-serif; padding:4px 5px 3px 5px; margin:5px 5px; }
+p.cutop { text-align:center; }
+p.cutop input { padding:3px 5px; margin-top:10px; }
+p.cucards { text-align:center; margin:10px 1px 1px 1px; }
+p.cucards span { display:inline-block; font-size:xx-large; padding:5px 5px; border:1px solid #CCC; }
+p.cucards i, p.cucards b { display:inline-block; font-weight:normal; font-style:normal; }
+p.cucards b { font-size:small; padding:0px 2px; xdisplay:none; }
+p.opNav { text-align:center; }
+p.opNav span { display:inline-block; padding:1px 8px; margin:3px 0px; border:1px solid #CCC; }
+td.exps { background:#333; font-family:"Comic Sans MS", cursive; font-size:larger; font-weight:bold; color:#FF0; }
+td.eout p{ text-align:left; font-weight:bold; } 
+td.eout i{ display:block; font-weight:normal; font-style:normal; } 
+td.eout b{ font-weight:bold; font-size:large; color:#F0F; } 
+a.inp { display:inline-block; background-color:#CCC; padding:1px; }
+td.clasic {  }
+td.clasic p{ }
+td.clasic i{ width:40%; display:inline-block; font-size:large; font-style:normal; padding:2px 5px; margin:3px 1px; border:1px solid #CCC; }
+input.inps { width:90%; font-size:larger; font-weight:bold; line-height:150%; }
+#rowinp span { display:inline-block; padding:0px; margin:0px; }
+#rowinp .inps { width:90%; }
+#rowinp .icon { width:10%; padding-top:15px; }
+-->
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+  <div class="mcontent">
+
+  <p class="cutop">
+  <input type="submit" name="Submit" value="发牌" onclick="cuReset()" />
+  <input type="submit" name="Submit22" value="自定" onclick="cuReset(1)" />
+  <input type=button value='说明' onclick="$('.mcontent').toggle();">
+  </p>
+  <p class="cucards">
+  <span onClick="cuopn(0)"><i id="card0">?</i><b>&#9824;</b></span>
+  <span onClick="cuopn(1)"><i id="card1">?</i><b>&#9827;</b></span>
+  <span onClick="cuopn(2)"><i id="card2">?</i><b><a class="cF0F">&#9829;</a></b></span>
+  <span onClick="cuopn(3)"><i id="card3">?</i><b><a class="cF0F">&#9830;</a></b></span>
+  </p>
+  <table id="cupick" style="display:none">  
+    <tr>
+      <td><input type=button value='10' onclick="cuset('10')"></td>
+      <td><input type=button value='１' onclick="cuset('1')"></td>
+      <td><input type=button value='２' onclick="cuset('2')"></td>
+      <td><input type=button value='３' onclick="cuset('3')"></td>
+    </tr>
+    <tr>
+      <td><input type=button value='11' onclick="cuset('11')"></td>
+      <td><input type=button value='４' onClick="cuset('4')"></td>
+      <td><input type=button value='５' onclick="cuset('5')"></td>
+      <td><input type=button value='６' onclick="cuset('6')"></td>
+   </tr>
+    <tr>
+      <td><input type=button value='12' onclick="cuset('12')"></td>
+      <td><input type=button value='７' onclick="cuset('7')"></td>
+      <td><input type=button value='８' onclick="cuset('8')"></td>
+      <td><input type=button value='９' onclick="cuset('9')"></td>
+   </tr>   
+    <tr>
+      <td><input type=button value='13' onclick="cuset('13')"></td>
+      <td>&nbsp;</td>
+      <td><input type=button value='清除' onclick="cuset('clear')"></td>
+      <td><input type=button value='确定' onclick="cuset('setok')"></td>
+    </tr>
+   <tr>
+      <td colspan=4 class="clasic">
+      
+      <p class="tl bgblue"><b>选取经典组合：自定义</b></p>
+
+      <i onclick="cuset(this)">3,6,7,10</i>
+      <i onclick="cuset(this)">1,5,9,10</i>
+      <i onclick="cuset(this)">1,2,4,6</i>
+      <i onclick="cuset(this)">2,6,9,10</i>
+
+       <i onclick="cuset(this)" class="c30F">1,1,4,6</i>
+      <i onclick="cuset(this)" class="c30F">2,3,12,12</i>
+      <i onclick="cuset(this)" class="c30F">2,3,6,9</i>
+      <i onclick="cuset(this)" class="c30F">1,2,3,4</i>      
+      
+      <p class="tl bgblue"><b>选取经典组合：分数运算</b></p>
+      
+      <i onclick="cuset(this)">2,7,7,10</i>      
+      <i onclick="cuset(this)">3,3,7,7</i>
+      <i onclick="cuset(this)">4,4,7,7</i>
+      <i onclick="cuset(this)">2,2,11,11</i>
+      <i onclick="cuset(this)">2,2,13,13</i>
+      <i onclick="cuset(this)">1,3,4,6</i>
+      <i onclick="cuset(this)" class="c30F">1,5,5,5</i>
+      <i onclick="cuset(this)" class="c30F">3,3,8,8</i>      
+     
+      <p class="tl bgblue"><b>选取经典组合：大数/奇数</b></p>
+      <i onclick="cuset(this)">7,8,8,10</i>
+      <i onclick="cuset(this)">1,2,7,7</i>
+      <i onclick="cuset(this)">3,8,8,10</i>
+      <i onclick="cuset(this)">4,8,8,11</i>
+      
+      <i onclick="cuset(this)">1,5,11,11</i>
+      <i onclick="cuset(this)">1,6,11,13</i>
+      <i onclick="cuset(this)" class="c30F">1,7,13,13</i>
+      <i onclick="cuset(this)" class="c30F">5,10,10,13</i>
+
+      </td>
+   </tr>  
+  </table>
+  <table id="cutab">
+    <tr id="rowinp" style="display:none;">
+      <td colspan=4>
+      <span class="right icon">
+      <a class="icons ico-arrowreturnthick-1-w inp " onClick="cusinp('ret')"></a>
+      </span>
+      <span class="inps">
+      <input id="inps" type="text" value="" class="inps">
+      </span>
+      </td>
+    </tr>
+    <tr id="rowexp">
+      <td colspan=4 class="exps">
+      <b id="exps"></b>
+      <span class="right" style="margin:5px 0px;">
+      <a class="icons ico-pencil inp right" onClick="cusinp('inp')"></a>
+      </span>
+      </td>
+    </tr>
+    <tr>
+      <td><input type=button value='＋' onclick=cuops('+')></td>
+      <td><input type=button value='－' onclick=cuops('-')></td>
+      <td><input type=button value='ｘ' onclick=cuops('*')></td>
+      <td><input type=button value='÷' onclick=cuops('/')></td>
+    </tr>
+    <tr>
+      <td><input type=button value='（' onclick=cuops('(')></td>
+      <td><input type=button value='）' onclick=cuops(')')></td>
+      <td><input type=button value='←' onclick="cuctrl('clone')"></td>
+      <td><input type=button value='Ｃ'  onclick="cuctrl('clear')"></td>
+    </tr>
+    <tr>
+      <td><input type=button value='确定' onclick="cuctrl('setok')"></td>
+      <td><input type=button value='无解' onclick="cuctrl('setno')"></td>
+      <td>&nbsp;</td>
+      <td><input type=button value='答案' onclick="cuctrl('res')"></td>
+    </tr>
+    <tr>
+      <td colspan=4 class="eout" id="eout">请发牌！</td>
+    </tr>
+  </table>
+  
+  </div>
+  
+  <div class="mcontent" style="display:none;">
+  <p class="tc pv10"><b>24点游戏说明</b></p>
+  <p>　　24点游戏是一种使用扑克牌来进行的益智类游戏。</p>
+  <p>　　游戏内容是：从一副扑克牌中抽去大小王剩下52张，任意抽取4张牌，把牌面上的数（A代表1）运用加、减、乘、除和括号进行运算得出24。</p>
+  <p>　　每张牌都必须使用一次，但不能重复使用。在不同版本中，对J、Q、和K的处理有些差异。一个常见的版本是把J、Q、和K去除，或当成10；还有一个版本是把J表示11，Q表示12，K代表13。</p>
+  <p>　　本游戏，默认取值1-10；可<a href="../tools/admset.htm?sec=aset">设置(发牌最大值)参数</a>为：5,9,10,13；A、J、Q、K直接用数字表示。</p>
+  <p class="cutop pv10">
+  <input type="submit" name="Submit" value="返回" onclick="$('.mcontent').toggle();" />
+  </p>
+  </div>
+  
+  
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+
+var exps = jsElm.jeID('exps');
+cuStyle();
+
+var locStore = new multiStore('local');
+var kc24_max = _cbase.ck.ckpre+'kc24_max';
+var nc24max = locStore.get(kc24_max);
+nc24max = nc24max ? nc24max : 10;
+nc24max = parseInt(nc24max);
+
+</script>
+</BODY>
+</html>
+
+
+
+
+

@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>网线线序/常用端口</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+table { background:#CCC; }
+td { background:#FFF; border:1px solid #CCC; }
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; border:1px solid #CCC; }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue" id="stabs">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">实验室</a>
+</p>
+
+  <p class="subNav">
+  <a href="#e9top" class="bggray">线序</a>
+  <a href="#e9top" class="bgblue">Soft</a>
+  <a href="#e9top" class="bgblue">端口</a>
+  <a href="#e9top" class="bgblue">大全</a>
+  </p>
+
+<div class="mcontent">
+
+  <p class="bgblue bold ph10">备份与重装：</p>
+
+<p>
+<b>备份：</b><br>
+IP地址,机器名,WORKGROUP; <br>
+型号(主扳/网卡/显卡/声卡)<br>
+收藏夹,桌面,我的文档,邮件,QQ记录; <br>
+Driver,Program; <br>
+<b>常用命令</b><br>
+分区表mbr修复 --- dos下fdisk /mbr<br>
+修复磁盘错误 --- chkdsk G: /x /i /c<br>
+查看端口状况：netstat -an 命令<br>
+输出目录文件树：tree E:\myobj\core /f &gt; E:\myobj\tree.txt<br>
+</p>
+
+  <p class="bgblue bold ph10">网线线序：</p>
+  <p><b>两种水晶头的排线方法：</b><br>
+568A： <br>
+A绿白,C绿,B橙白,蓝,蓝白,D橙,棕白,棕<br>
+568B： <br>
+B橙白,D橙,A绿白,蓝,蓝白,C绿,棕白,棕<br>
+(记忆): 只要将其中一头的1和3 2和6对换一下<br>
+<b>交叉线(A+B): </b> <br>
+用于连接相同的设备,如<br>
+1. 2台计算机直接相连<br>
+2. 集线器/交换机的级连（Uplink口+Uplink口 / 普通口+普通口)<br>
+<b>直通线(X+X)：</b><br>
+用于连接计算机与网络设备，如<br>
+1. 计算机与集线器/交换机直接相连<br>
+2. 集线器/交换机的级连（Uplink口+普通口）<br>
+3. 计算机与超级终端（如交换机，路由器）的连接。<br>
+<b>常用DSN:</b><br>
+202.96.172.218 / 202.96.128.86 / 202.84.1.101香港<br>
+202.84.1.101 / 59.36.99.142 / 211.95.193.97联通<br>
+8.8.8.8 / 8.8.4.4 / ns1.prdcity.com</p>
+
+</div>
+
+<div class="mcontent" style="display:none;">
+
+  <p class="bgblue bold ph10">Soft目标：</p>
+
+<p>
+网络：内网IP扫描，多线程下载，信息采集，<br>
+主机：站点管理(站点列表,修改)，站点增加，IIS分析，<br>
+文件：文件改名，强力删除，原代码导出，简繁转化，木马扫描，<br>
+图片：图片加水印，图片缩放，图片优化，图片描边，<br>
+系统：系统垃圾清理，注册表扫描，辅助工具(显示桌面,锁定桌面)，<br>
+娱乐：算24游戏，算素数，算数独，<br>
+帮助：关于...，帮助...，在线支持，[关闭]，<br>
+</p>
+
+  <p class="bgblue bold ph10">常用代码：</p>
+
+<p>  
+<b>常用代码</b><br>
+&lt;?php ... ?&gt; &lt;% ... %&gt; &lt;!--#include file=&quot;fname.inc&quot;--&gt;<br>
+$conn = mysql_connect(&quot;localhost:3306&quot;, &quot;root&quot;, &quot;&quot;);<br>
+mysql_query(&quot;set names 'utf8'&quot;); mysql_select_db(&quot;mysql&quot;);<br>
+$res=mysql_query(&quot;select * from help_category LIMIT 5,5&quot;); <br>
+while($rs=mysql_fetch_object($res)) <br>
+{ echo &quot;\r\n&quot;.$rs-&gt;help_category_id.&quot; | &quot;.$rs-&gt;name.&quot;&lt;br&gt;&quot;; }<br>
+cnAcc = &quot;Provider=Microsoft.Jet.OLEDB.4.0;Data Source=&quot;&amp;Server.MapPath(&quot;data.mdb&quot;) <br>
+cnSql = &quot;Provider=SqlOleDB.1;Data Source=(local);UID=u;PWD=p;Initial Catalog=DGNet&quot;<br>
+sql = &quot;SELECT TOP 5 KeyID,InfSubj FROM InfoNews&quot;<br>
+Set rs=Server.CreateObject(&quot;Adodb.Recordset&quot;)<br>
+rs.Open sql,cnAcc,1,1 :Do While NOT rs.EOF<br>
+sID = rs(&quot;KeyID&quot;) :sSubj = rs(&quot;InfSubj&quot;)<br>
+Response.Write vbcrlf&amp;sID&amp;&quot;,&quot;&amp;sSubj&amp;&quot;&lt;br&gt;&quot;<br>
+rs.MoveNext :Loop<br>
+rs.Close :Set rs=Nothing<br>
+</p>
+
+</div>
+
+<div class="mcontent" style="display:none;">
+
+  <p class="bgblue bold ph10">常用端口：</p>
+
+<p>
+Server(s)  Port(s)<br>
+--------------------------<br>
+ftp        20* 201:<br>
+apache     21* 210:apache; 211:myPHPAdmin; 212:...<br>
+tomcat     22*<br>
+iis-test   23* iis-php<br>
+iis.net    24*<br>
+iis-asp    25*<br>
+iis-dgnet  26*<br>
+保留       27*~29*<br>
+客户       3**(7**,8**,9**)<br>
+--------------------------<br>
+TCP   256=Nirvana<br>
+TCP   315=The Invasor<br>
+TCP   389=Lightweight Directory Access Protocol (LDAP)<br>
+TCP   396=Novell Netware over IP<br>
+TCP   777=AIM Spy<br>
+TCP   808=RemoteControl,WinHole<br>
+TCP   815=Everyone Darling<br>
+TCP   901=Backdoor.Devil<br>
+TCP   911=Dark Shadow<br>
+TCP   999=DeepThroat<br>
+--------------------------<br>
+netstat -an 命令<br>
+
+<b>端口大全 如下:</b><br>
+//《Windows优化大师》本地端口分析黑客端口数据库文件---更新时间：2003年2月17日<br>
+//恳求信息：此文件为《Windows优化大师》作者鲁锦历经数月搜集整理所得，使用者未经许可不得将其用于其他用途。<br>
+//《Windows优化大师》用户可以手动编辑此文件，格式为：协议 端口号=黑客名称<br>
+//注意：由于一些应用软件占用了部分端口，因此此文件中的部分端口被注释掉了（注释的字符为：//）。<br>
+
+</p>
+
+</div>
+
+<div class="mcontent" style="display:none;">
+
+  <p class="bgblue bold ph10">端口大全：</p>
+
+<p>
+
+TCP 1=TCP Port Service Multiplexer<br>
+TCP 2=Death<br>
+TCP 5=Remote Job Entry,yoyo<br>
+TCP 7=Echo<br>
+TCP 11=Skun<br>
+TCP 12=Bomber<br>
+TCP 16=Skun<br>
+TCP 17=Skun<br>
+TCP 18=消息传输协议,skun<br>
+TCP 19=Skun<br>
+TCP 20=FTP Data,Amanda<br>
+TCP 21=文件传输,Back Construction,Blade Runner,Doly Trojan,Fore,FTP trojan,Invisible FTP,Larva, WebEx,WinCrash<br>
+TCP 22=远程登录协议<br>
+TCP 23=远程登录(Telnet),Tiny Telnet Server (= TTS)<br>
+TCP 25=电子邮件(SMTP), Ajan, Antigen, Email Password Sender, Happy 99, Kuang2, ProMail trojan, Shtrilitz, Stealth, Tapiras, Terminator, WinPC, WinSpy, Haebu Coceda<br>
+TCP 27=Assasin<br>
+TCP 28=Amanda<br>
+TCP 29=MSG ICP<br>
+TCP 30=Agent 40421<br>
+TCP 31=Agent 31,Hackers Paradise,Masters Paradise,Agent 40421<br>
+TCP 37=Time,ADM worm<br>
+TCP 39=SubSARI<br>
+TCP 41=DeepThroat,Foreplay<br>
+TCP 42=Host Name Server<br>
+TCP 43=WHOIS<br>
+TCP 44=Arctic<br>
+TCP 48=DRAT<br>
+TCP 49=主机登录协议<br>
+TCP 50=DRAT<br>
+TCP 51=Fuck Lamers Backdoor<br>
+TCP 52=MuSka52,Skun<br>
+TCP 53=DNS,Bonk (DOS Exploit)<br>
+TCP 54=MuSka52<br>
+TCP 58=DMSetup<br>
+TCP 59=DMSetup<br>
+TCP 66=AL-Bareki<br>
+TCP 69=W32.Evala.Worm,BackGate Kit,Nimda,Pasana,Storm,Storm worm,Theef<br>
+TCP 70=Gopher服务,ADM worm<br>
+TCP 79=用户查询(Finger),Firehotcker,ADM worm<br>
+TCP 80=超文本服务器(Http),Executor,RingZero<br>
+TCP 81=Chubo<br>
+TCP 99=Hidden Port<br>
+TCP 108=SNA网关访问服务器<br>
+TCP 109=Pop2<br>
+TCP 110=电子邮件(Pop3),ProMail<br>
+TCP 113=Kazimas, Auther Idnet<br>
+TCP 115=简单文件传输协议<br>
+TCP 118=SQL Services, Infector 1.4.2<br>
+TCP 119=Newsgroup(Nntp), Happy 99<br>
+TCP 121=JammerKiller, Bo jammerkillah<br>
+TCP 129=Password Generator Protocol<br>
+TCP 123=Net Controller<br>
+TCP 133=Infector 1.x<br>
+//TCP 135=Netbios Remote procedure call<br>
+//TCP 137=Netbios name (DoS attacks)<br>
+//TCP 138=Netbios datagram <br>
+//TCP 139=Netbios session (DoS attacks)<br>
+TCP 143=IMAP<br>
+TCP 146=FC Infector,Infector<br>
+TCP 150=NetBIOS Session Service<br>
+TCP 156=SQL服务器<br>
+TCP 161=Snmp<br>
+TCP 162=Snmp-Trap<br>
+TCP 170=A-Trojan<br>
+TCP 179=Border网关协议(BGP)<br>
+TCP 190=网关访问控制协议(GACP)<br>
+TCP 194=Irc<br>
+TCP 197=目录定位服务(DLS)<br>
+TCP 256=Nirvana<br>
+TCP 315=The Invasor<br>
+TCP 389=Lightweight Directory Access Protocol (LDAP)<br>
+TCP 396=Novell Netware over IP<br>
+TCP 420=Breach<br>
+TCP 421=TCP Wrappers<br>
+TCP 443=安全服务<br>
+TCP 444=Simple Network Paging Protocol(SNPP)<br>
+TCP 445=Microsoft-DS<br>
+TCP 456=Hackers paradise,FuseSpark<br>
+TCP 458=苹果公司QuickTime<br>
+TCP 531=Rasmin<br>
+TCP 546=DHCP Client<br>
+TCP 547=DHCP Server<br>
+TCP 555=Ini-Killer,Phase Zero,Stealth Spy<br>
+TCP 569=MSN<br>
+TCP 605=SecretService<br>
+TCP 606=Noknok8<br>
+TCP 661=Noknok8<br>
+TCP 666=Attack FTP,Satanz Backdoor,Back Construction,Dark Connection Inside 1.2<br>
+TCP 667=Noknok7.2<br>
+TCP 668=Noknok6<br>
+TCP 692=GayOL<br>
+TCP 777=AIM Spy<br>
+TCP 808=RemoteControl,WinHole<br>
+TCP 815=Everyone Darling<br>
+TCP 901=Backdoor.Devil<br>
+TCP 911=Dark Shadow<br>
+TCP 999=DeepThroat<br>
+TCP 1000=Der Spaeher<br>
+TCP 1001=Silencer,WebEx,Der Spaeher<br>
+TCP 1003=BackDoor<br>
+TCP 1010=Doly<br>
+TCP 1011=Doly<br>
+TCP 1012=Doly<br>
+TCP 1015=Doly<br>
+TCP 1020=Vampire<br>
+TCP 1024=NetSpy.698(YAI)<br>
+//TCP 1025=NetSpy.698<br>
+//TCP 1033=Netspy<br>
+//TCP 1042=Bla<br>
+//TCP 1045=Rasmin<br>
+//TCP 1047=GateCrasher<br>
+//TCP 1050=MiniCommand<br>
+TCP 1080=Wingate<br>
+//TCP 1090=Xtreme, VDOLive<br>
+//TCP 1095=Rat<br>
+//TCP 1097=Rat<br>
+//TCP 1098=Rat<br>
+//TCP 1099=Rat<br>
+TCP 1111=Backdoor.AIMVision<br>
+//TCP 1170=Psyber Stream Server,Streaming Audio trojan,Voice<br>
+//TCP 1200=NoBackO<br>
+//TCP 1201=NoBackO<br>
+//TCP 1207=Softwar<br>
+//TCP 1212=Nirvana,Visul Killer<br>
+//TCP 1234=Ultors<br>
+//TCP 1243=BackDoor-G, SubSeven, SubSeven Apocalypse<br>
+//TCP 1245=VooDoo Doll<br>
+//TCP 1269=Mavericks Matrix<br>
+//TCP 1313=Nirvana<br>
+//TCP 1349=BioNet<br>
+//TCP 1441=Remote Storm<br>
+//TCP 1492=FTP99CMP(BackOriffice.FTP)<br>
+//TCP 1509=Psyber Streaming Server<br>
+//TCP 1600=Shivka-Burka<br>
+//TCP 1703=Exloiter 1.1<br>
+//TCP 1807=SpySender<br>
+//TCP 1966=Fake FTP 2000<br>
+//TCP 1976=Custom port<br>
+//TCP 1981=Shockrave<br>
+//TCP 1999=BackDoor, TransScout<br>
+//TCP 2000=Der Spaeher,INsane Network<br>
+//TCP 2001=Transmisson scout<br>
+//TCP 2002=Transmisson scout<br>
+//TCP 2003=Transmisson scout<br>
+//TCP 2004=Transmisson scout<br>
+//TCP 2005=TTransmisson scout<br>
+//TCP 2023=Ripper,Pass Ripper,Hack City Ripper Pro<br>
+//TCP 2115=Bugs<br>
+//TCP 2121=Nirvana<br>
+//TCP 2140=Deep Throat, The Invasor<br>
+//TCP 2155=Nirvana<br>
+//TCP 2208=RuX<br>
+//TCP 2255=Illusion Mailer<br>
+//TCP 2283=HVL Rat5<br>
+//TCP 2300=PC Explorer<br>
+//TCP 2311=Studio54<br>
+//TCP 2565=Striker<br>
+//TCP 2583=WinCrash<br>
+//TCP 2600=Digital RootBeer<br>
+//TCP 2716=Prayer Trojan<br>
+//TCP 2801=Phineas Phucker<br>
+//TCP 2989=Rat<br>
+//TCP 3024=WinCrash trojan<br>
+//TCP 3128=RingZero<br>
+//TCP 3129=Masters Paradise<br>
+//TCP 3150=Deep Throat, The Invasor<br>
+//TCP 3210=SchoolBus<br>
+//TCP 3456=Terror<br>
+//TCP 3459=Eclipse 2000<br>
+//TCP 3700=Portal of Doom<br>
+//TCP 3791=Eclypse<br>
+//TCP 3801=Eclypse<br>
+TCP 4000=腾讯QQ客户端<br>
+TCP 4092=WinCrash<br>
+TCP 4242=VHM<br>
+TCP 4321=BoBo<br>
+TCP 4444=Prosiak,Swift remote<br>
+TCP 4500=W32.HLLW.Tufas<br>
+TCP 4567=File Nail<br>
+TCP 4590=ICQTrojan<br>
+TCP 4950=ICQTrojan<br>
+TCP 5000=WindowsXP服务器,Blazer 5,Bubbel,Back Door Setup,Sockets de Troie<br>
+TCP 5001=Back Door Setup, Sockets de Troie<br>
+TCP 5011=One of the Last Trojans (OOTLT)<br>
+TCP 5031=Firehotcker,Metropolitan,NetMetro<br>
+TCP 5032=Metropolitan<br>
+TCP 5190=ICQ Query<br>
+TCP 5321=Firehotcker<br>
+TCP 5333=Backage Trojan Box 3<br>
+TCP 5343=WCrat<br>
+TCP 5400=Blade Runner, BackConstruction1.2<br>
+TCP 5401=Blade Runner,Back Construction<br>
+TCP 5402=Blade Runner,Back Construction<br>
+TCP 5471=WinCrash<br>
+TCP 5521=Illusion Mailer<br>
+TCP 5550=Xtcp,INsane Network<br>
+TCP 5555=ServeMe<br>
+TCP 5556=BO Facil<br>
+TCP 5557=BO Facil<br>
+TCP 5569=Robo-Hack<br>
+TCP 5598=BackDoor 2.03<br>
+TCP 5631=PCAnyWhere data<br>
+TCP 5637=PC Crasher<br>
+TCP 5638=PC Crasher<br>
+TCP 5698=BackDoor<br>
+TCP 5714=Wincrash3<br>
+TCP 5741=WinCrash3<br>
+TCP 5742=WinCrash<br>
+TCP 5881=Y3K RAT<br>
+TCP 5882=Y3K RAT<br>
+TCP 5888=Y3K RAT<br>
+TCP 5889=Y3K RAT<br>
+TCP 6000=Backdoor.AB<br>
+TCP 6006=Noknok8<br>
+TCP 6272=SecretService<br>
+TCP 6267=广外女生<br>
+TCP 6400=Backdoor.AB,The Thing<br>
+TCP 6500=Devil 1.03<br>
+TCP 6661=Teman<br>
+TCP 6666=TCPshell.c<br>
+TCP 6667=NT Remote Control<br>
+TCP 6669=Vampyre<br>
+TCP 6670=DeepThroat<br>
+TCP 6711=SubSeven<br>
+TCP 6712=SubSeven1.x<br>
+TCP 6713=SubSeven<br>
+TCP 6723=Mstream<br>
+TCP 6767=NT Remote Control<br>
+TCP 6771=DeepThroat<br>
+TCP 6776=BackDoor-G,SubSeven,2000 Cracks<br>
+TCP 6789=Doly Trojan<br>
+TCP 6838=Mstream<br>
+TCP 6883=DeltaSource<br>
+TCP 6912=Shit Heep<br>
+TCP 6939=Indoctrination<br>
+TCP 6969=GateCrasher, Priority, IRC 3<br>
+TCP 6970=GateCrasher<br>
+TCP 7000=Remote Grab,NetMonitor,SubSeven1.x<br>
+TCP 7001=Freak88<br>
+TCP 7201=NetMonitor<br>
+TCP 7215=BackDoor-G, SubSeven<br>
+TCP 7001=Freak88,Freak2k<br>
+TCP 7300=NetMonitor<br>
+TCP 7301=NetMonitor<br>
+TCP 7306=NetMonitor<br>
+TCP 7307=NetMonitor, ProcSpy<br>
+TCP 7308=NetMonitor, X Spy<br>
+TCP 7323=Sygate服务器端<br>
+TCP 7424=Host Control<br>
+TCP 7597=Qaz<br>
+TCP 7609=Snid X2<br>
+TCP 7626=冰河<br>
+TCP 7777=The Thing<br>
+TCP 7789=Back Door Setup, ICQKiller<br>
+TCP 7983=Mstream<br>
+TCP 8000=XDMA, 腾讯OICQ服务器端<br>
+TCP 8010=Logfile<br>
+TCP 8080=WWW 代理,Ring Zero,Chubo<br>
+TCP 8520=W32.Socay.Worm<br>
+TCP 8787=BackOfrice 2000<br>
+TCP 8897=Hack Office,Armageddon<br>
+TCP 8989=Recon<br>
+TCP 9000=Netministrator<br>
+TCP 9325=Mstream<br>
+TCP 9400=InCommand<br>
+TCP 9401=InCommand<br>
+TCP 9402=InCommand<br>
+TCP 9872=Portal of Doom<br>
+TCP 9873=Portal of Doom<br>
+TCP 9874=Portal of Doom<br>
+TCP 9875=Portal of Doom<br>
+TCP 9876=Cyber Attacker<br>
+TCP 9878=TransScout<br>
+TCP 9989=Ini-Killer<br>
+TCP 9999=Prayer Trojan<br>
+TCP 10067=Portal of Doom<br>
+TCP 10084=Syphillis<br>
+TCP 10085=Syphillis<br>
+TCP 10086=Syphillis<br>
+TCP 10101=BrainSpy<br>
+TCP 10167=Portal Of Doom<br>
+TCP 10520=Acid Shivers<br>
+TCP 10607=Coma trojan<br>
+TCP 10666=Ambush<br>
+TCP 11000=Senna Spy<br>
+TCP 11050=Host Control<br>
+TCP 11051=Host Control<br>
+TCP 11223=Progenic,Hack '99KeyLogger<br>
+TCP 11831=TROJ_LATINUS.SVR<br>
+TCP 12076=Gjamer, MSH.104b<br>
+TCP 12223=Hack?9 KeyLogger<br>
+TCP 12345=GabanBus, NetBus, Pie Bill Gates, X-bill<br>
+TCP 12346=GabanBus, NetBus, X-bill<br>
+TCP 12349=BioNet<br>
+TCP 12361=Whack-a-mole<br>
+TCP 12362=Whack-a-mole<br>
+TCP 12378=W32/Gibe@MM<br>
+TCP 12456=NetBus<br>
+TCP 12623=DUN Control<br>
+TCP 12624=Buttman<br>
+TCP 12631=WhackJob, WhackJob.NB1.7<br>
+TCP 12701=Eclipse2000<br>
+TCP 12754=Mstream<br>
+TCP 13000=Senna Spy<br>
+TCP 13010=Hacker Brazil<br>
+TCP 13013=Psychward<br>
+TCP 13700=Kuang2 The Virus<br>
+TCP 14456=Solero<br>
+TCP 14500=PC Invader<br>
+TCP 14501=PC Invader<br>
+TCP 14502=PC Invader<br>
+TCP 14503=PC Invader<br>
+TCP 15000=NetDaemon 1.0<br>
+TCP 15092=Host Control<br>
+TCP 15104=Mstream<br>
+TCP 16484=Mosucker<br>
+TCP 16660=Stacheldraht (DDoS)<br>
+TCP 16772=ICQ Revenge<br>
+TCP 16969=Priority<br>
+TCP 17166=Mosaic<br>
+TCP 17300=Kuang2 The Virus<br>
+TCP 17490=CrazyNet<br>
+TCP 17500=CrazyNet<br>
+TCP 17569=Infector 1.4.x + 1.6.x<br>
+TCP 17777=Nephron<br>
+TCP 18753=Shaft (DDoS)<br>
+TCP 19864=ICQ Revenge<br>
+TCP 20000=Millennium II (GrilFriend)<br>
+TCP 20001=Millennium II (GrilFriend)<br>
+TCP 20002=AcidkoR<br>
+TCP 20034=NetBus 2 Pro<br>
+TCP 20203=Logged,Chupacabra<br>
+TCP 20331=Bla<br>
+TCP 20432=Shaft (DDoS)<br>
+TCP 21544=Schwindler 1.82,GirlFriend<br>
+TCP 21554=Schwindler 1.82,GirlFriend,Exloiter 1.0.1.2<br>
+TCP 22222=Prosiak,RuX Uploader 2.0<br>
+TCP 22784=Backdoor.Intruzzo<br>
+TCP 23432=Asylum 0.1.3<br>
+TCP 23456=Evil FTP, Ugly FTP, WhackJob<br>
+TCP 23476=Donald Dick<br>
+TCP 23477=Donald Dick<br>
+TCP 23777=INet Spy<br>
+TCP 26274=Delta<br>
+TCP 26681=Spy Voice<br>
+TCP 27374=Sub Seven 2.0+, Backdoor.Baste<br>
+TCP 27444=Tribal Flood Network,Trinoo<br>
+TCP 27665=Tribal Flood Network,Trinoo<br>
+TCP 29431=Hack Attack<br>
+TCP 29432=Hack Attack<br>
+TCP 29104=Host Control<br>
+TCP 29559=TROJ_LATINUS.SVR<br>
+TCP 29891=The Unexplained<br>
+TCP 30001=Terr0r32<br>
+TCP 30003=Death,Lamers Death<br>
+TCP 30029=AOL trojan<br>
+TCP 30100=NetSphere 1.27a,NetSphere 1.31<br>
+TCP 30101=NetSphere 1.31,NetSphere 1.27a<br>
+TCP 30102=NetSphere 1.27a,NetSphere 1.31<br>
+TCP 30103=NetSphere 1.31<br>
+TCP NetSphere Final<br>
+TCP 30303=Sockets de Troie<br>
+TCP 30947=Intruse<br>
+TCP 30999=Kuang2<br>
+TCP 21335=Tribal Flood Network,Trinoo<br>
+TCP 31336=Bo Whack<br>
+TCP 31337=Baron Night,BO client,BO2,Bo Facil,BackFire,Back Orifice,DeepBO,Freak2k,NetSpy<br>
+TCP 31338=NetSpy,Back Orifice,DeepBO<br>
+TCP 31339=NetSpy DK<br>
+TCP 31554=Schwindler<br>
+TCP 31666=BOWhack<br>
+TCP 31778=Hack Attack<br>
+TCP 31785=Hack Attack<br>
+TCP 31787=Hack Attack<br>
+TCP 31789=Hack Attack<br>
+TCP 31791=Hack Attack<br>
+TCP 31792=Hack Attack<br>
+TCP 32100=PeanutBrittle<br>
+TCP 32418=Acid Battery<br>
+TCP 33333=Prosiak,Blakharaz 1.0<br>
+TCP 33577=Son Of Psychward<br>
+TCP 33777=Son Of Psychward<br>
+TCP 33911=Spirit 2001a<br>
+TCP 34324=BigGluck,TN,Tiny Telnet Server<br>
+TCP 34555=Trin00 (Windows) (DDoS)<br>
+TCP 35555=Trin00 (Windows) (DDoS)<br>
+TCP 36794=Worm.Bugbear-A<br>
+TCP 37651=YAT<br>
+TCP 40412=The Spy<br>
+TCP 40421=Agent 40421,Masters Paradise.96<br>
+TCP 40422=Masters Paradise<br>
+TCP 40423=Masters Paradise.97<br>
+TCP 40425=Masters Paradise<br>
+TCP 40426=Masters Paradise 3.x<br>
+TCP 41666=Remote Boot<br>
+TCP 43210=Schoolbus 1.6/2.0<br>
+TCP 44444=Delta Source<br>
+TCP 47252=Prosiak<br>
+TCP 47262=Delta<br>
+TCP 47878=BirdSpy2<br>
+TCP 49301=Online Keylogger<br>
+TCP 50505=Sockets de Troie<br>
+TCP 50766=Fore, Schwindler<br>
+TCP 51966=CafeIni<br>
+TCP 53001=Remote Windows Shutdown<br>
+TCP 53217=Acid Battery 2000<br>
+TCP 54283=Back Door-G, Sub7<br>
+TCP 54320=Back Orifice 2000,Sheep<br>
+TCP 54321=School Bus .69-1.11,Sheep, BO2K<br>
+TCP 57341=NetRaider<br>
+TCP 58008=BackDoor.Tron<br>
+TCP 58009=BackDoor.Tron<br>
+TCP 58339=ButtFunnel<br>
+TCP 59211=BackDoor.DuckToy<br>
+TCP 60000=Deep Throat<br>
+TCP 60068=Xzip 6000068<br>
+TCP 60411=Connection<br>
+TCP 60606=TROJ_BCKDOR.G2.A<br>
+TCP 61466=Telecommando<br>
+TCP 61603=Bunker-kill<br>
+TCP 63485=Bunker-kill<br>
+TCP 65000=Devil, DDoS<br>
+TCP 65432=Th3tr41t0r, The Traitor<br>
+TCP 65530=TROJ_WINMITE.10<br>
+TCP 65535=RC,Adore Worm/Linux<br>
+TCP 69123=ShitHeep<br>
+TCP 88798=Armageddon,Hack Office<br>
+UDP 1=Sockets des Troie<br>
+UDP 9=Chargen<br>
+UDP 19=Chargen<br>
+UDP 69=Pasana<br>
+UDP 80=Penrox<br>
+//UDP 135=Netbios Remote procedure call<br>
+//UDP 137=Netbios name (DoS attacks)<br>
+//UDP 138=Netbios datagram <br>
+//UDP 139=Netbios session (DoS attacks)<br>
+UDP 146=Infector<br>
+UDP 1025=Maverick's Matrix 1.2 - 2.0<br>
+UDP 1026=Remote Explorer 2000<br>
+UDP 1028=KiLo,SubSARI<br>
+UDP 1029=SubSARI<br>
+UDP 1031=Xot<br>
+UDP 1032=Akosch4<br>
+UDP 1104=RexxRave<br>
+UDP 1111=Daodan<br>
+UDP 1116=Lurker<br>
+UDP 1122=Last 2000,Singularity<br>
+UDP 1183=Cyn,SweetHeart<br>
+UDP 1200=NoBackO<br>
+UDP 1201=NoBackO<br>
+UDP 1342=BLA trojan<br>
+UDP 1344=Ptakks<br>
+UDP 1349=BO dll<br>
+UDP 1561=MuSka52<br>
+UDP 1772=NetControle<br>
+UDP 1978=Slapper<br>
+UDP 1985=Black Diver<br>
+UDP 2000=A-trojan,Fear,Force,GOTHIC Intruder,Last 2000,Real 2000<br>
+UDP 2001=Scalper<br>
+UDP 2002=Slapper<br>
+UDP 2130=Mini BackLash<br>
+UDP 2140=Deep Throat,Foreplay,The Invasor<br>
+UDP 2222=SweetHeart, Way<br>
+UDP 2339=Voice Spy<br>
+UDP 2702=Black Diver<br>
+UDP 2989=RAT<br>
+UDP 3150=Deep Throat<br>
+UDP 3215=XHX<br>
+UDP 3333=Daodan<br>
+UDP 3801=Eclypse<br>
+UDP 3996=Remote Anything<br>
+UDP 4128=RedShad<br>
+UDP 4156=Slapper<br>
+UDP 5419=DarkSky<br>
+UDP 5503=Remote Shell Trojan<br>
+UDP 5555=Daodan<br>
+UDP 5882=Y3K RAT<br>
+UDP 5888=Y3K RAT<br>
+UDP 6112=Battle.net Game<br>
+UDP 6666=KiLo<br>
+UDP 6667=KiLo<br>
+UDP 6766=KiLo<br>
+UDP 6767=KiLo,UandMe<br>
+UDP 6838=Mstream Agent-handler<br>
+UDP 7028=未知木马<br>
+UDP 7424=Host Control<br>
+UDP 7788=Singularity<br>
+UDP 7983=MStream handler-agent<br>
+UDP 8012=Ptakks<br>
+UDP 8090=Aphex's Remote Packet Sniffer<br>
+UDP 8127=9_119,Chonker<br>
+UDP 8488=KiLo<br>
+UDP 8489=KiLo<br>
+UDP 8787=BackOrifice 2000<br>
+UDP 8879=BackOrifice 2000<br>
+UDP 9325=MStream Agent-handler<br>
+UDP 10000=XHX<br>
+UDP 10067=Portal of Doom<br>
+UDP 10084=Syphillis<br>
+UDP 10100=Slapper<br>
+UDP 10167=Portal of Doom<br>
+UDP 10498=Mstream<br>
+UDP 10666=Ambush<br>
+UDP 11225=Cyn<br>
+UDP 12321=Protoss<br>
+UDP 12345=BlueIce 2000<br>
+UDP 12378=W32/Gibe@MM<br>
+UDP 12623=ButtMan,DUN Control<br>
+UDP 15210=UDP remote shell backdoor server<br>
+UDP 15486=KiLo<br>
+UDP 16514=KiLo<br>
+UDP 16515=KiLo<br>
+UDP 18753=Shaft handler to Agent<br>
+UDP 20433=Shaft<br>
+UDP 21554=GirlFriend<br>
+UDP 22784=Backdoor.Intruzzo<br>
+UDP 23476=Donald Dick<br>
+UDP 25123=MOTD<br>
+UDP 26274=Delta Source<br>
+UDP 26374=Sub-7 2.1<br>
+UDP 26444=Trin00/TFN2K<br>
+UDP 26573=Sub-7 2.1<br>
+UDP 27184=Alvgus trojan 2000<br>
+UDP 27444=Trinoo<br>
+UDP 29589=KiLo<br>
+UDP 29891=The Unexplained<br>
+UDP 30103=NetSphere<br>
+UDP 31320=Little Witch<br>
+UDP 31335=Trin00 DoS Attack<br>
+UDP 31337=Baron Night, BO client, BO2, Bo Facil, BackFire, Back Orifice, DeepBO<br>
+UDP 31338=Back Orifice, NetSpy DK, DeepBO<br>
+UDP 31339=Little Witch<br>
+UDP 31340=Little Witch<br>
+UDP 31416=Lithium<br>
+UDP 31787=Hack aTack<br>
+UDP 31789=Hack aTack<br>
+UDP 31790=Hack aTack<br>
+UDP 31791=Hack aTack<br>
+UDP 33390=未知木马<br>
+UDP 34555=Trinoo<br>
+UDP 35555=Trinoo<br>
+UDP 43720=KiLo<br>
+UDP 44014=Iani<br>
+UDP 44767=School Bus<br>
+UDP 46666=Taskman<br>
+UDP 47262=Delta Source<br>
+UDP 47785=KiLo<br>
+UDP 49301=OnLine keyLogger<br>
+UDP 49683=Fenster<br>
+UDP 49698=KiLo<br>
+UDP 52901=Omega<br>
+UDP 54320=Back Orifice<br>
+UDP 54321=Back Orifice 2000<br>
+UDP 54341=NetRaider Trojan<br>
+UDP 61746=KiLO<br>
+UDP 61747=KiLO<br>
+UDP 61748=KiLO<br>
+UDP 65432=The Traitor<br>
+</p>
+  
+</div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">实验室</a>
+<a id="seclink" style="display:none"></a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+function change(){
+	$("p.subNav a").each(function(){
+		$(this).removeClass("bggray");
+		$(this).addClass("bgblue");
+	});	
+	$(".mcontent").hide();
+}
+$("p.subNav a").click(function(){
+	if($(this).hasClass("bggray")){
+		return;	
+	}
+	var index = $(this).index();
+	change();
+	$(".mcontent").eq(index).show();
+	$("p.subNav a").eq(index).addClass("bggray");
+	$("p.subNav a").eq(index).removeClass("bgblue");
+});
+var sec = urlPara('sec'); 
+if(sec=='share'){ change(0); }
+</script>
+
+</body>
+</html>
+
+</body>
+</html>

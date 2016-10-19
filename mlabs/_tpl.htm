@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>婴儿按摩</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+<!--
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; border:1px solid #CCC; }
+-->
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">健康保健</a>
+</p>
+
+  <p class="subNav">
+  <a href="#e9top" class="bggray">概述说明</a>
+  <a href="#e9top" class="bgblue">按摩益处</a>
+  <a href="#e9top" class="bgblue">操作方法</a>
+  <a href="#e9top" class="bgblue">注意事项</a>
+  </p>
+
+<div class="mcontent">
+<h2 class="msubject">概述说明</h2>
+
+</div>
+
+<div class="mcontent">
+<h2 class="msubject">按摩益处</h2>
+
+</div>
+
+<div class="mcontent">
+<h2 class="msubject">操作方法</h2>
+
+</div>
+
+<div class="mcontent">
+<h2 class="msubject">注意事项</h2>
+
+</div>
+  
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">健康保健</a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+function change(){
+	$("p.subNav a").each(function(){
+		$(this).removeClass("bggray");
+		$(this).addClass("bgblue");
+	});	
+	$(".mcontent").hide();
+}
+$("p.subNav a").click(function(){
+	if($(this).hasClass("bggray")){
+		return;	
+	}
+	var index = $(this).index();
+	change();
+	$(".mcontent").eq(index).show();
+	$("p.subNav a").eq(index).addClass("bggray");
+	$("p.subNav a").eq(index).removeClass("bgblue");
+});
+change(0);
+$(".mcontent").eq(0).show();
+</script>
+
+</BODY>
+</html>
+
+

@@ -1,0 +1,90 @@
+﻿
+<b>装B必知：Apple Watch八大功能</b>
+
+You can put the Apple Watch on your wrist April 10.
+
+4月10日你就能将这款Apple Watch戴在手腕上了。
+
+That's according to Apple CEO Tim Cook, who stepped on stage Monday at the Yerba Buena Center for the Arts Theater in San Francisco to unveil the final details about the wearable device. April 10 is the preorder date and the first day you'll be able to try the Watch on in an Apple Store. The product will be available to own April 24.
+
+昨晚在美国旧金山芳草地艺术中心举行的新品发布会上，苹果公司的CEO蒂姆·库克在揭开了Apple Watch的设计细节。这款Apple Watch4月10日开始接受预定，到时顾客可在苹果零售店中试戴。4月24日开始现货供应。
+
+The most basic version of the watch, Apple Watch Sport, will start at $349 for the 38mm watch face. The 42mm face is priced at $399. Upgrading to the stainless steel version takes the starting price to $549. Finally, the 18-karat gold Apple Watch Edition starts at $10,000.
+
+其中基本款Apple Watch Sport的售价为：38毫米版349美元，42毫米版399美元。不锈钢表链系列的549美元起。表盘采用18K金打造的Apple Watch Edition售价1万美元起。
+
+Keep in mind that for many of the features to work, the Apple Watch needs to be paired with an iPhone 5 (or later) running the latest version of iOS 8.
+
+需要注意的一点是，Apple Watch的很多功能都需要连接运行最新的IOS8系统的iPhone5及以上版本的苹果手机之后才能使用。
+
+Here's a recap of the Apple Watch's features:
+
+以下是Apple Watch功能的要点简述。
+
+Fitness
+
+健身
+
+A big draw for the Apple Watch is its suite of health and activity trackers. The built-in Activity app shows you how many calories you've burned in a day, and how much exercise you've gotten.
+
+Apple Watch的一大吸睛点就是它的健康管理和运动追踪功能，内置应用Activity可以记录你每天消耗的卡路里和每天的运动量等。
+
+Its built-in heart sensor helps keep track of your exercise during workouts. It's water-resistant (not waterproof), so you don't have to worry about destroying it with all of your technology-enabled sweating.
+
+自带的心率传感器能帮助你更好地记录运动数据。而且Apple Watch是防水的，因此不用担心因出汗等情况对其造成的损坏。
+
+Glances
+
+信息查看
+
+Important information is just a glance away on the Apple Watch. Use your finger to swipe up from the bottom of the watch face and you can check the weather, look at your calendar, control your music or check your heart rate.
+
+在Apple Watch上查看重要信息仅需用手指在屏幕底部向上一滑，天气、日历、音乐和心率等信息便可一目了然。
+
+Apps
+
+应用
+
+It's always been clear that Apple Watch would support apps made by third-party developers. On Monday, Apple showcased a few examples and announced that they can be downloaded via a connected iPhone. Apple Watch supports WeChat, a popular Chinese messaging app.
+
+Apple Watch支持第三方开发的应用已经不是什么新鲜事了。昨晚的发布会上，苹果公司也在此方面做了一些演示，并通过和一部iPhone连接下载了一些应用。Apple Watch支持国内流行的通讯社交软件微信。
+
+Siri
+
+Siri
+
+Everyone's favorite digital assistant is on the watch, because of course it is. Apple Watch owners will be able to say, "Hey, Siri" into their devices and then ask for turn-by-turn directions or information about upcoming events.
+
+大家都喜欢的智能助手Siri也来到了Apple Watch上，戴上Apple Watch你也能像在iPhone上一样说一句"Hey, Siri"来唤醒Siri帮你完成某些事项了。
+
+The "Taptic Engine"
+
+触感引擎
+
+Apple Watch will tap you on the wrist when you receive a notification. Cook said Monday that any notification you get on your iPhone will be viewable on the Apple Watch.
+
+当你收到一条新通知，Apple Watch会轻点你的手腕让你感到轻微触碰。库克说你的iPhone收到的任何通知都能在Apple Watch上显示。
+
+Instant Messages
+
+即时收发短信
+
+When you get a text message on your iPhone, the Apple Watch will be able to display it on your wrist and offer you quick ways to respond based on "the context of your message.
+
+当你的iPhone上收到一条短信时，Apple Watch上也会显示并根据短信内容为你提供快捷回复选项。
+
+Phone Calls On Your Wrist
+
+通话
+
+Apple Watch allows you to answer incoming calls and have a conversation straight from your wrist, using the device's speaker and microphone.
+
+Apple Watch配有扬声器和麦克风，能使你在手腕上直接接听电话。
+
+Battery
+
+电池
+
+The Apple Watch powers up via a magnetic charger on its back, and Cook said it will last for 18 hours.
+
+Apple Watch通过其背面的磁性充电器充电，库克说其电池使用时间长达18个小时。

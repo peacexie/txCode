@@ -1,0 +1,159 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日一句(金山词霸)</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+<!--
+.title { color: #F0F; font-weight: bolder; }
+.cont { color: #333; }
+.note { color: #999; }
+.cnow { color: #F0F }
+p.allNav { text-align:center; margin:auto; }
+p.allNav a { display:inline-block; padding:1px 3px; margin:3px 5px 10px 5px; border:1px solid #CCC; }
+p.allNav a.act { color:#F00; border:1px solid #3CF; }
+#subNav { text-align:center; }
+a.e9snav { display:inline-block; padding:0px 3px; margin:1px 1px 8px 1px; border:1px solid #CCC; }
+.reindex { display:inline-block; border:1px solid #CCC; padding:5px; }
+-->
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+  <div class="blinks">
+    <i id="e9top" name="e9top"></i>
+    <p><a href="#e9top" class="icobox right" onClick="MM_show(0)" id="Ulist1" style="display:none"><i class="icons ico-arrowreturnthick-1-w"></i></a>
+      <strong>每日一句</strong></p>
+      <p class="allNav" id="L0"></p>
+    </ul>
+  </div>
+
+  <div class="mcontent">
+    <p id="subNav" style="display:none"></p>
+    <p id="subList"></p>
+    <p class="tc pv10" id="Ulist2" style="display:none"><a href="#e9top" onClick="MM_show(0)" class="reindex">返回单元目录<i class="icons ico-arrowreturnthick-1-w"></i></a></p>
+  </div>
+  
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+</div>
+
+<script type="text/JavaScript">
+
+function MS_show(id,sid){
+	id = id>0 ? id : nowDataID;
+	if(id>0){
+		nowDataID = id;
+	}else{
+		id = nowData;
+	}
+	var snav = '', i, j, ch, stmp, ntmp, spn, sprev, snext;
+	for(i=0;i<10;i++){
+		 j=i+1; ch = j==10 ? j : '0'+j; 
+		 ntmp = 0;
+		 for(j=0;j<10;j++){
+			stmp = edata[(id-1)*100+i*10+1+j]; 
+			if(stmp) ntmp += stmp.length;
+		 }
+		 if(i==sid){
+			stmp = '<a class="e9snav cnow">v</a>';
+			var pm=0, pi=i+1; 
+			var nm=0, ni=i-1;
+		    sprev = '<a href="#e9top" onClick="MS_show('+pm+','+pi+')" class="e9snav">&lt;&lt;'+id+'00:'+(pi+1)+'</a>';
+		    snext = '<a href="#e9top" onClick="MS_show('+nm+','+ni+')" class="e9snav">'+id+'00:'+(ni+1)+'&gt;&gt;</a>';
+			if(i==9){
+				pm = id+1; pi = 0; 
+				if(pm>=maxPre+1) sprev = '<a class="e9snav c930">&lt;&lt;'+pm+'00:'+pi+'</a>';
+				else sprev = '<a href="#e9top" onClick="MM_show('+pm+','+pi+')" class="e9snav">&lt;&lt;'+pm+'00:'+(pi+1)+'</a>';
+			}else if(i==0){
+				nm = id-1, ni = 9;
+				if(nm<=0)  snext = '<a class="e9snav c930">[-First-]</a>';
+				else snext = '<a href="#e9top" onClick="MM_show('+nm+','+ni+')" class="e9snav">'+nm+'00:'+(ni+1)+'&gt;&gt;</a>';
+			}
+			var maxNext = (id-1)*100+(sid+1)*10+1; //console.log(maxNext); console.log(maxDataID);
+			if(maxNext>maxDataID){ 
+				sprev = '<a class="e9snav c930">[-End-]</a>'; 
+			}
+			spn = '<p class="tc">'+sprev+'<a class="e9snav c930">'+ch+'</a>'+snext+'</p>';
+		 }else if(ntmp<320){ 
+			stmp = '<a class="e9snav c930">'+ch+'</a>';
+		 }else{
+		 	stmp = '<a href="#e9top" onClick="MS_show(0,'+i+')" class="e9snav">'+ch+'</a>';
+		 }
+		 snav = stmp+snav;
+	}
+	jsElm.jeID('subNav').innerHTML = snav;
+	var dataid = (id-1)*100+sid*10+1;
+	var html = ''; 
+	for(j=0;j<10;j++){
+		var itm = edata[dataid+j]; if(!itm || itm.length<36) continue;
+		itm = '<p><span class="title">'+itm+''; 
+		itm = itm.replace('[br 1]','</span> ('+(dataid+j)+')<br>&#8226 ');
+		itm = itm.replace('[br 2]','</p><p class="cont">&#8226 ');
+		itm = itm.replace('[br 3]','<br><span class="note">&#8226 ');
+		itm = itm+'</span></p>';
+		itm = itm.replace('-0','<i>-</i>0').replace('-1','<i>-</i>1');
+		html = itm+html; 
+	} //alert(html);
+	html = html.length==0 ? '<p>当前页无资料！</p>' : html;
+	jsElm.jeID('subList').innerHTML = spn+html+spn;
+}
+function MM_show(id,sid){
+	jsElm.jeID('subNav').style.display = id==0 ? 'none' : '';
+	jsElm.jeID('subList').style.display = id==0 ? 'none' : '';
+	if(id>0){ 
+		var fid = id>=10 ? id : '0'+id; 
+		var url = "../udata/eday/edays"+fid+"00.js";
+        var defsid = rndDate(1,'d1')-1; if(maxDataID<(id-1)*100+defsid*10+1) defsid = 0;
+		sid = sid ? sid : defsid;
+		jsImps(url,"setTimeout('MS_show("+id+","+sid+");',200)");
+	}else{ 
+	}
+	jsElm.jeID('L0').style.display = id==0 ? '' : 'none';
+	jsElm.jeID('Ulist1').style.display = id==0 ? 'none' : '';
+	jsElm.jeID('Ulist2').style.display = id==0 ? 'none' : '';
+}
+function Nav_show(){
+	maxPre = parseInt(maxDataID.toString().substring(0,2));
+	maxFix = parseInt(maxDataID.toString().substring(2,4));
+	if(maxFix>0) maxPre++; 
+	var s = '';
+	for(j=1;j<=maxPre;j++){
+		var fid = j>=10 ? j : '0'+j; 
+		var css = npage==j ? 'class="act"' : '';
+		s = '<a href="#e9top" '+css+' onClick="MM_show('+j+')">'+fid+'00</a>'+s;
+		if(j>0 && j%3==0 && j<maxPre) s = '<br>'+s;
+	}
+	jsElm.jeID('L0').innerHTML = s;
+}
+function Aut_page(){
+	var nxm = rndDate(0,'m'), nxd = rndDate(1,'d2'); 
+	var orx = nxm*3+nxd;
+	var offset = mgetStore('keday_offset');
+	orx = orx + offset; if(orx>12) orx = orx-12;	
+	return orx;
+}
+</script>
+
+<script>
+var nowDataID, maxDataID=2008, maxPre=0, maxFix=0; 
+var npage = Aut_page(); //jsLog(npage);
+Nav_show(); MM_show(0); 
+//setTimeout('MM_show('+npage+');',500);
+</script>
+</BODY>
+</html>
+
+

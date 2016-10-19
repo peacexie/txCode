@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CS模型(Client-Server)</title>
+<script src="../cjs/jsbase.js"></script>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue" id="stabs">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">实验室</a>
+</p>
+
+  <h2 class="msubject">CS模型-(Client-Server)</h2>
+  <div class="mcontent">
+    <p>设置部分</p>
+    <form action="" method="get">
+      <ul>
+      <li>url:
+        <select name="url" id="url">
+          <option value="">-请选择-</option>
+          <option value="_urlserver_csfr-srv.php" id="svropt">server</option>
+          <option value="csfr-srv.js">localhost@js</option>
+          <option value="csfr-srv.php">localhost@php</option>
+        </select>
+      </li>
+      <li>flag:
+        <input name="flag" type="text" value="cn汉字/English:" id="flag">
+      </li>
+      <li>debug:
+        <select name="ubug" id="ubug">
+          <option value="">-请选择-</option>
+          <option value="console">console</option>
+          <option value="josntxt">josntxt</option>
+          <option value="itmlist">itmlist</option>
+        </select>
+        <input name="send" type="button" value="send" onClick="pu_send()">
+      </li>
+      </lu>
+    </form>
+      
+  </div>
+  
+  <div class="mcontent">  
+  <input name="local" type="text" value="cn汉字/English:" id="local" style="width:100%;">
+  <div class="mcontent brd-top" id="dynamic">
+    <p><strong>dynamic部分</strong></p>
+    <p>原始资料</p>
+    <p>更新中……</p>
+  </div>
+  </div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">实验室</a>
+<a id="seclink" style="display:none"></a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+
+jsElm.jeID('local').value = location.href;
+jsElm.jeID('svropt').value = jsElm.jeID('svropt').value.replace('_urlserver_',_cbase.run.urlserver);
+
+function pu_send(){
+	var url = jsElm.jeID('url').value; var revar = jsGuid(); revar = 'reval_'+revar.replace('.','_')
+	var para = '?flag='+jsElm.jeID('flag').value+'&revar='+revar;
+	jsImps(jsElm.jeID('url').value+para,"pu_fill('"+revar+"')");
+}
+
+function pu_fill(revar){
+	p_bug = jsElm.jeID('ubug').value; 
+	eval('var data = '+revar+';');
+	if(p_bug=='josntxt'){
+		jsElm.jeID('dynamic').innerHTML = data;
+	}else if(p_bug=='itmlist'){
+		var s = '';
+		for(i=0;i<data.length;i++){
+			s += '<p>'+data[i].aid+':';
+			s += ''+data[i].subject+'</p>';
+		}
+		jsElm.jeID('dynamic').innerHTML = s;
+	}else{ 
+		console.log(data);	
+	}
+}
+
+</script>
+</body>
+</html>

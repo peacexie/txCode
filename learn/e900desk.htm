@@ -1,0 +1,175 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>English 900 vDesk [for Shirley]</title>
+<script src="../cjs/jsbase.js"></script>
+<script type="text/javascript" src="../udata/eday/e900data.js"></script>
+<style type="text/css">
+<!--
+.style3 {color:#FF00FF; font-weight:bolder;}
+.style1 {color: #FFFFFF}
+--> 
+</style>
+</head>
+<body>
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="divOuter">
+  <tr>
+    <td bgcolor="#3A6EA5"><table width="100%"  border="0" align="center" cellpadding="2" cellspacing="1" bgcolor="#3A6EA5">
+      <tr bgcolor="ddddff">
+        <td bgcolor="3333ff"><span class="style1">&nbsp;English 900 [for Shirley] &gt;&gt;</span></td>
+      </tr>
+      <tr align="center" bgcolor="ddddff">
+        <td bgcolor="#D7E3FF"><table width="100%" border="0" cellpadding="3" cellspacing="2" bgcolor="#00CCFF">
+            <tr>
+              <td align="center" bgcolor="#FFFFFF"><span id=FullTim>2005-04-03 Wek 23:59:59</span></td>
+            </tr>
+            <tr class="brd-top brd-bot">
+              <td bgcolor="#DEFBFF"><span id="MSGShow">Free</span> </td>
+            </tr>
+            <tr>
+              <td align="center" bgcolor="#FFFFFF">&nbsp; <span 
+				    onClick="ShowMSGU00X(1);" 
+				    style="color:#0000FF;CURSOR: hand; ">U01</span> - <span 
+					onClick="ShowMSGU00X(151);" 
+				    style="color:#0000FF;CURSOR: hand; ">U02</span> - <span 
+				    onClick="ShowMSGU00X(301);" 
+				    style="color:#0000FF;CURSOR: hand; ">U03</span> - <span 
+					onClick="ShowMSGU00X(451);" 
+				    style="color:#0000FF;CURSOR: hand; ">U04</span> - <span 
+					onClick="ShowMSGU00X(601);" 
+				    style="color:#0000FF;CURSOR: hand; ">U05</span> - <span 
+					onClick="ShowMSGU00X(751);" 
+				    style="color:#0000FF;CURSOR: hand; ">U06</span> <br> <span 
+				    onClick="ShowMSGClick('First');" 
+				    style="color:#0000FF;CURSOR: hand; ">First</span> - <span 
+					onClick="ShowMSGClick('Prev');" 
+				    style="color:#0000FF;CURSOR: hand; ">Prev</span> - <span 
+					onClick="ShowMSGClick('Next');" 
+				    style="color:#0000FF;CURSOR: hand; ">Next</span> - <span 
+					onClick="ShowMSGClick('End');" 
+				    style="color:#0000FF;CURSOR: hand; ">End</span></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr bgcolor="ddddff">
+        <td width="60%" align="right" bgcolor="ccccff"><span id="REC" 
+		style="visibility:hidden ">0</span>&nbsp; <font color="#003399">Yours,Peace</font></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">学无止境</a>
+</p>
+
+<script language="javascript">
+function TimeDetect(){
+ var TimeN=new Date();
+ var HH=TimeN.getHours();
+ var MM=TimeN.getMinutes();
+ var SS=TimeN.getSeconds();
+ var S2=TimeN.getMilliseconds(); 
+ var YY=TimeN.getFullYear();
+ var MO=TimeN.getMonth(); 
+ var DD=TimeN.getDate();
+ var WeekVal  =TimeN.getDay();
+ var WeekName = new Array("Sun", "Mon", "Tue", "Wen","Thu", "Fri", "Sat");
+ var WeekShow = " "+WeekName[WeekVal]+"["+WeekVal+"] ";
+ var sYY=YY;  MO=MO+1;
+ var sMO=MO; if (MO<=9)  sMO="0"+MO;
+ var sDD=DD; if (DD<=9)  sDD="0"+DD;
+ var sHH=HH; if (HH<=9)  sHH="0"+HH;
+ var sMM=MM; if (MM<=9)  sMM="0"+MM;
+ var sSS=SS; if (SS<=9)  sSS="0"+SS;  
+ DateStr=YY+"-"+sMO+"-"+sDD+" ";
+ DetectMin = MM;
+ DetectSec = SS;
+ if(S2<500)
+ { 
+   DashStr="<b>:</b>"; 
+ }else{ 
+   DashStr="<font color=ffffff><b>:</b></font>";
+ }
+ TimeStr=sHH+DashStr+sMM+DashStr+sSS;
+ var DetectStr = sHH+':'+sMM;
+ FullTim.innerHTML = DateStr + WeekShow + TimeStr;
+
+// ======================================================================= Set Program Start 
+ var ProgCount = 6;
+ var ProgList = new Array(ProgCount);
+ ProgList[1] = new Array("06:30","HI: It's time for GET UP!");
+ ProgList[2] = new Array("10:00","HI: Please HAVE A REST!");
+ ProgList[3] = new Array("12:30","HI: It's time for MID-DAY REST!"); 
+ ProgList[4] = new Array("15:00","HI: Please HAVE A REST");
+ ProgList[5] = new Array("22:30","HI: It's time for GO TO SLEEP!");
+// ======================================================================= Set Program End 
+ for (i=1;i<ProgCount;i++)
+ {
+	   if (DetectStr==ProgList[i][0]) 
+       { 
+	     MSGShow.innerHTML = "<font color=ff0000>"+ProgList[i][1]+"</font>";
+		 if (SS%15==0) {alert(ProgList[i][1]);}
+		 i=1024; 
+       }else{     
+		 if (((DetectMin%5)==0) && (DetectSec==0) ) { ShowMSGStart(); }		 
+	   }
+ }
+ setTimeout("TimeDetect()",500); //1000*X
+}
+
+
+function ShowMSGStart()
+{
+  MSG="";
+  tpN = 179*Math.random();
+  tpN = 5*(Math.round(tpN))+1;
+  ShowMSG(tpN);
+}
+
+function ShowMSGClick(act)
+{
+  xN = REC.innerHTML;
+  if(act=="First") tpN=1;  
+  if(act=="Prev") tpN=xN*1-5;  
+  if(act=="Next") tpN=xN*1+5; 
+  if(act=="End") tpN=896;
+  if(tpN*1>896) tpN=1; 
+  if(tpN*1<=0  ) tpN=896;
+  ShowMSG(tpN);
+}
+
+function ShowMSG(tpN)
+{
+  REC.innerHTML=tpN;
+  MSG="";
+  for (i=tpN;i<tpN+5;i++)
+  {
+    MSG=MSG+L00X[i]+"<BR>";
+  }
+  MSGShow.innerHTML=MSG;
+}
+
+function ShowMSGU00X(tpN)
+{
+  ShowMSG(tpN);
+}
+
+var MSG ="";
+var tpN =0;
+
+TimeDetect();
+ShowMSGStart();
+
+</script>
+</BODY>
+</html>

@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>宽带连接-651</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+table { width:100%; margin:auto; }
+table td { padding:5px 0px; white-space:nowrap; text-align:center; }
+table.out td{ padding:5px; }
+
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">贴心专用</a>
+</p>
+
+<div class="mcontent">
+
+  <p class="mcnav"><strong>您的计算机配置似乎是正确的，但该设备或资源(DNS 服务器)没有响应</strong></p>
+
+<p><br>
+  您的计算机配置似乎是正确的，但该设备或资源(DNS 服务器)没有响应<br>
+  <a href="http://zhidao.baidu.com/link?url=rONjxQgiBHLsaZHsBJ9b_w-kysD7NpsF5fOIabRw8NuSCT7IyRToxjW26DHYZRE6yi0ecg5ubV7_wpAdcZ_DGK">http://zhidao.baidu.com/link?url=...</a></p>
+<p>我用的是ADSL  有时候网络会断 打个电话就连上了 我用的是自动获取IP的</p>
+<p>你电脑本地连IP协议里面IP地址和DNS要自动获取ip地址，<br>
+  然后你在网址上输入你路由器的网关一般是192.168.1.1，有的是192.168.0.1.<br>
+  你看下你电脑本地址连接是点0点1的 还是点1点1 的啊<br>
+  然后就跳出个口令输入路由器账号密码，一般是账号： admin 密码：admin<br>
+  进去里面WAN设置MAC地址克隆保存，路由器自动从启应该马上就好了。</p>
+<hr>
+<p>http://bbs.51cto.com/thread-1022911-1.html<br>
+  【棘手】该设备或资源(DNS 服务器)没有响应!【已解决】</p>
+<p>win7重启后上不了网。<br>
+  局域网也PING不通了。<br>
+  经过对网卡诊断提示：您的计算机配置似乎是正确的,但该设备或资源(DNS 服务器)没有响应<br>
+  有遇到这个问题的吗？怎么解决呢？我排查过了HOST文件   网络适配器的配置   都没有错误。交换是TP-LINK小型自适应交换机，上面连接了5台PC，其它电脑可以正常上网，就这台不行。<br>
+  我换了个端口一样不行，端口指示灯闪烁是正常的。</p>
+<p>问题已经解决了，通过第三方软件cintrep修复成功！！！<br>
+  cintrep网络修复工具.zip (442.48 KB) </p>
+<p>首先局域网就已经PING不通了，说明已经到达不到网关。<br>
+  其次静态地址，DNS配置是正确无误的，解析亦是不行。<br>
+  系统日志没有相关记录！！！<br>
+  谢谢您的回答！！！</p>
+<p>首先，Ping通不通与DNS无关。DNS是域名服务，你Ping ip地址能通吗？<br>
+  1，能否能从DHCP拿到地址？<br>
+  2，确认没有安全策略阻挡ICMP?<br>
+  3，手工设置地址是否能ping通？ping不通网关不代表什么，ping同子网同交换机上的其他机器呢？<br>
+  4, 同一条网线换别的机器是否能通？</p>
+<p>认可ping不通与DNS无关。<br>
+  公司是静态地址，没有DHCP服务。<br>
+  安全策略是没有的。<br>
+  目前是静态IP，我首先PING的是该交换上的其它PC，不通，网关一样不通。<br>
+  该网线插在其他电脑是可以通信的。<br>
+  谢谢您！！！</p>
+<p>OK那么现在问题已经判断出来是你那台电脑的问题。<br>
+  1，网卡硬件故障，或者接触不良（win7一般情况不会出现驱动不对的问题，只要设备驱动没有黄！就算驱动是好的不用换）<br>
+  2，是不是安装了什么防火墙或网络监控，网络策略软件。<br>
+  3，Winsock 及 TCP/IP 协议故障。(用下面的命令修复)<br>
+  netsh winsock reset<br>
+  netsh inter ip reset</p>
+<hr>
+<p><a href="http://zhidao.baidu.com/link?url=vZEu-2JmsqDo3xlSgs2Z7pG4SrokSALxejGSGhqSlN-1ea4UwCGVN5v2juqfDyntkeH6Bna4PjTf65AofAXy8a">http://zhidao.baidu.com/link?url=...</a><br>
+</p>
+<p>3太电脑连接路由器！4m 网通宽带，2台win 7 一台XP ！交了网费一个礼拜都显示这个！客服以确认宽带是开通！会是什么原因啊</p>
+<p>你好,你的笔记本有可能是由于无线网络连接里面的DNS服务器错误,导致的网卡断网,</p>
+<p>解决方法:打开“网络和共享中心”，选择“更改适配器设置”，反手键点“无线网络连接”，点“属性”，<br>
+  在网络里找到 &quot;internet协议版本 4（TCP/IPv4)&quot;双击,选择&quot;使用下面的DNS服务器地址:,<br>
+  在首选DNS地址上面,添加8.8.8.8(谷哥DNS服务器)<br>
+  在备用DNS地址上面添加:114.114.114.114(国内114DNS服务器)然后点击确定,<br>
+  再点击确定.希望可以帮到你</p>
+<p>XP电脑DNS设置<br>
+  一、右键桌面“网上邻居”，点“属性”；<br>
+  二、鼠标移到“本地连接”，右键点“属性”（这里“本地连接”有可能是其他字，新建宽带连接的时候可以自定义文字，所以自己看着办）：<br>
+  三、双击“Internet 协议（TCP/IP）”：<br>
+  四、选择“使用下面的DNS服务器地址”，然后填写对应的IP地址(在首选DNS地址上面,添加8.8.8.8(谷哥DNS服务器)在备用DNS地址上面添加:114.114.114.114(国内114DNS服务器)，最后点确定，搞定。</p>
+<hr>
+<p>http://www.myhack58.com/Article/54/93/2013/38082.htm<br>
+  WIN7提示：您的计算机配置似乎正确的</p>
+<p>若DNS显示没有反应，先PING上一级路由器有没有反应，若有再检查PING外网，再PING DNS(先保证类似QQ的软件能上网然后再调试DNS)<br>
+</p>
+<p><br>
+</p>
+<hr>
+</div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="index.htm">贴心专用</a>
+</p> 
+
+</div>
+
+</body>
+</html>

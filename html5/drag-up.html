@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>文件上传按钮</title>
+<script src="../cjs/jsbase.js"></script>
+<link rel="stylesheet" type="text/css" media="all" href="filedrag.css" />
+<style type="text/css">
+table { background:#CCC; }
+td { background:#FFF; border:1px solid #CCC; }
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; border:1px solid #CCC; }
+img { margin:10px }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+</p>
+
+<p class="subNav">
+<a href="drag-demo1.html" class="bgblue">拖放Demo</a>
+<a href="filedrag.html" class="bgblue">文件拖放</a>
+<a href="drag-up.html" class="bgblue">文件上传</a>
+</p>
+
+<div class="mcontent">
+
+    <form id="test" name="test" method="post" enctype="">
+        <input name="test_input" type="file" id="test_input" multiple="multiple" onchange="handleFiles(this.files)" />
+    </form>
+    <div id="test_div"></div>
+    <script type="text/javascript">
+        function handleFiles( files )
+        {
+            var divDOM = document.getElementById('test_div');
+            for ( var i = 0; i < files.length; ++i )
+            {
+                divDOM.innerHTML += '<img src="' + getObjectURL(files[i]) + '" />';
+            }
+        }
+        
+        function getObjectURL( file )
+        {
+        	var url = '' ;
+        	if ( window.createObjectURL != undefined )
+            {
+                // basic
+        		url = window.createObjectURL(file);
+        	}
+            else if ( window.URL!=undefined )
+            {
+                // mozilla(firefox)
+        		url = window.URL.createObjectURL(file);
+        	}
+            else if ( window.webkitURL != undefined )
+            {
+                // webkit or chrome
+        		url = window.webkitURL.createObjectURL(file);
+        	}
+        	return url ;
+        }
+    </script>
+
+</div>
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../mlabs/index.htm">实验室</a>
+</p>
+</div>
+
+</body>
+</html>

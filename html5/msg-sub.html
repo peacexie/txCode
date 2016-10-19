@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title></title>
+<script src="../cjs/jquery-2.x.js"></script>
+</head>
+<body>
+<div id='msg'>
+</div>
+<input type="text" id="w_h" />
+<input type="button" id="send" value="发送信息给外层框架">
+<script type="text/javascript">
+$(document).ready(function () {
+var url = '';
+var source = '';
+window.addEventListener('message', function (ev) {
+//此处需要做来源验证
+if (ev.origin) { }
+$('#msg').html(ev.origin + ' 发来消息：' + ev.data);
+url = ev.origin;
+source = ev.source;
+//ev.source.postMessage('这里是：' + this.location, ev.origin);
+});
+
+$('#send').click(function () {
+source.postMessage($('#w_h').val(), url);
+});
+});
+</script>
+</body>
+</html>

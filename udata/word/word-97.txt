@@ -1,0 +1,743 @@
+
+<div>recruitment [rɪˈkru:tmənt] 招聘<br>
+mediator [ˈmi:di:ˌeɪtə] 调解人<br>
+authority [ɔ:ˈθɔriti] 职权<br>
+organization [ˌɔ:ɡənaiˈzeiʃən] 组织<br>
+unemployment rate [ˌʌnimˈplɔiməntreit] 失业率<br>
+resignation [ˌrezɪgˈneɪʃən] 辞职<br>
+stress [stres] 压力<br>
+life insurance [laifinˈʃuərəns] 人寿保险<br>
+vacation [vəˈkeiʃən] 假期<br>
+unemployment [ˌʌnimˈplɔimənt] 失业<br>
+training [ˈtreiniŋ] 培训<br>
+just cause [dʒʌstkɔ:z] 正当理由<br>
+conflict [ˈkɔnflikt] 冲突<br>
+function [ˈfʌŋkʃən] 职能<br>
+transfer [trænsˈfə:] 调动<br>
+job [dʒɔb] 工作<br>
+equal pay for equal work  同工同酬<br>
+minimum wage [ˈminiməmweidʒ] 最低工资<br>
+treatment [ˈtri:tmənt] 待遇<br>
+conciliation [kənˌsɪlɪˈeɪʃɵn] 调解<br>
+</div>
+
+<div>strike [straik] 罢工<br>
+talent [ˈtælənt] 人才<br>
+maternity leave [məˈtɜ:nɪti:li:v] 产假<br>
+needs assessment [ni:dzəˈsesmənt] 需求评估<br>
+work demand [wə:kdiˈmɑ:nd] 工作要求<br>
+seniority [si:nˈjɔ:rɪti:] 资历<br>
+employment [imˈplɔimənt] 雇用<br>
+promote [prəˈməut] 晋升<br>
+employment agency  职业介绍所<br>
+statutory right [ˈstætjutərirait] 法定权利<br>
+resume [riˈzju:m] 简历<br>
+hypnosis [hɪpˈnəʊsɪs] 催眠<br>
+retirement [rɪˈtaɪəmənt] 退休<br>
+allowance [əˈlauəns] 津贴<br>
+retirement age [rɪˈtaɪəmənteidʒ] 退休年龄<br>
+job enlargement [dʒɔbenˈlɑ:dʒmənt] 工作扩大化<br>
+unemployment insurance  失业保险<br>
+work efficiency [wə:kiˈfiʃənsi] 工作效率<br>
+expectation [ˌekspekˈteiʃən] 期望值<br>
+extra work  加班<br>
+</div>
+
+<div>motivation [ˌməʊtəˈveɪʃən] 激励<br>
+labor cost [ˈleibəkɔst] 劳动成本<br>
+executive director  执行董事<br>
+attribution theory  归因理论<br>
+organization structure  组织结构<br>
+formal organization  正式组织<br>
+job enrichment [dʒɔbinˈritʃmənt] 工作丰富化<br>
+psychological factor  心理因素<br>
+industrial union  产业工会<br>
+social security [ˈsəuʃəlsiˈkjuəriti] 社会保障<br>
+demote [dɪˈməʊt] 降职<br>
+occupational disease  职业病<br>
+early retirement [ˈɜrlirɪˈtaɪəmənt] 提前退休<br>
+selection [siˈlekʃən] 选拔<br>
+sexual discrimination  性别歧视<br>
+part-time job [ˈpɑ:tˌtaɪmdʒɔb] 兼职<br>
+leadership [ˈli:dəʃip] 领导能力<br>
+correlation analysis  相关分析<br>
+matrix structure [ˈmeɪtrɪksˈstrʌktʃə] 矩阵结构<br>
+exit interview [ˈeksitˈintəvju:] 离职面谈<br>
+</div>
+
+<div>fulltime  全职<br>
+employment history  工作经历<br>
+face validity  表面效度<br>
+reinforcement theory  强化理论<br>
+psychological phenomenon  心理现象<br>
+professional competence  专业能力<br>
+marital status [ˈmæritlˈsteitəs] 婚姻状况<br>
+employee turnover rate  员工流动率<br>
+role conflict [rəulˈkɔnflikt] 角色冲突<br>
+external equity [eksˈtə:nlˈekwiti] 外部公平<br>
+organizational level  组织层次<br>
+professional ethics  职业道德<br>
+conflict management  冲突管理<br>
+executive ability  执行力<br>
+campus recruiting  校园招聘<br>
+long term trend [lɔŋtə:mtrend] 长期趋势<br>
+application blank [ˌæpliˈkeiʃənblæŋk] 申请表<br>
+labor insurance [ˈleibəinˈʃuərəns] 劳保<br>
+individual income tax  个人所得税<br>
+performance management system  绩效管理制度<br>
+</div>
+
+<div>work attitude [wə:kˈætitju:d] 工作态度<br>
+sexual harassment  性骚扰<br>
+agreement content [əˈɡri:məntˈkɔntent] 协议内容<br>
+predictive validity  预测效度<br>
+election campaign [iˈlekʃənkæmˈpein] 选举活动<br>
+labor dispute [ˈleibədisˈpju:t] 劳动纠纷<br>
+long-distance education  远程教育<br>
+employee security  员工安全<br>
+functional department  职能部门<br>
+wage policy [weidʒˈpɔləsi] 工资政策<br>
+extrinsic rewards  外部奖励<br>
+mentor [ˈmenˌtɔ:] 指导者<br>
+interpersonal skill [ˌɪntəˈpə:sənlskil] 人际交往能力<br>
+attendance rate [əˈtendənsreit] 出勤率<br>
+equity theory [ˈekwitiˈθiəri] 公平理论<br>
+trend analysis [trendəˈnæləsis] 趋势分析<br>
+personal leave [ˈpə:sənəlli:v] 事假<br>
+training plan [ˈtreiniŋplæn] 培训计划<br>
+administer [ədˈministə] 管理者<br>
+total payroll [ˈtəutəlˈpeirəul] 工资总额<br>
+</div>
+
+<div>funeral leave [ˈfju:nərəlli:v] 丧假<br>
+work pressure [wə:kˈpreʃə] 工作压力<br>
+trainer [ˈtreɪnə] 培训师<br>
+earnings [ˈɜ:nɪŋz] 薪资<br>
+age discrimination  年龄歧视<br>
+opinion survey [əˈpinjənˈsɜrˌveɪ] 意见调查<br>
+system structure [ˈsistəmˈstrʌktʃə] 系统结构<br>
+career planning  职业规划<br>
+insurance benefit [inˈʃuərənsˈbenifit] 保险福利<br>
+job evaluation [dʒɔbɪˌvæljʊˈeɪʃən] 工作评估<br>
+long-term contract  长期合同<br>
+professional liability insurance  职业责任保险<br>
+labor market [ˈleibəˈmɑ:kit] 劳动力市场<br>
+performance feedback  绩效反馈<br>
+role behavior [rəulbɪˈheɪvjə] 角色行为<br>
+labor protection [ˈleibəprəˈtekʃən] 劳动保护<br>
+glass ceiling [ɡlɑ:sˈsi:liŋ] 玻璃天花板<br>
+management right [ˈmænidʒməntrait] 管理权<br>
+discriminant analysis  判别分析<br>
+career counseling  职业咨询<br>
+</div>
+
+<div>expectancy theory  期望理论<br>
+KSA  知识，技能，态度（knowledge,...<br>
+core value [kɔ:ˈvælju] 核心价值观<br>
+unsafe act [ʌnˈseɪfækt] 不安全行为<br>
+training needs analysis  培训需求分析<br>
+management tool [ˈmænidʒmənttu:l] 管理工具<br>
+system of retirement  退休制度<br>
+HR manager  人力资源经理<br>
+job rotation [dʒɔbrəʊˈteɪʃən] 工作轮换<br>
+managerial authority  管理权威<br>
+executive management  行政管理<br>
+probation period [prəˈbeiʃənˈpiəriəd] 试用期<br>
+wage system [weidʒˈsistəm] 工资制度<br>
+employee skill [ˌemplɔiˈi:skil] 员工技能<br>
+annual leave [ˈænjuəlli:v] 年假<br>
+training function [ˈtreiniŋˈfʌŋkʃən] 培训职能<br>
+performance standard [pəˈfɔ:mənsˈstændəd] 绩效标准<br>
+attendance [əˈtendəns] 考勤<br>
+time management [taimˈmænidʒmənt] 时间管理<br>
+learning organization  学习型组织<br>
+</div>
+
+<div>job security [dʒɔbsiˈkjuəriti] 工作安全感<br>
+performance appraisal  绩效评估<br>
+attitude survey [ˈætitju:dˈsɜrˌveɪ] 态度调查<br>
+competency [ˈkɔmpit(ə)nsi] 胜任特征<br>
+job assignment [dʒɔbəˈsainmənt] 工作分配<br>
+downsizing  裁员<br>
+background investigation  背景调查<br>
+pay card [peikɑ:d] 工资卡<br>
+disciplinary action  纪律处分<br>
+self-assessment [selfəˈsesmənt] 自我评价<br>
+employee turnover  员工流动<br>
+corporate image [ˈkɔ:pəritˈimidʒ] 企业形象<br>
+informal organization  非正式组织<br>
+job design [dʒɔbdiˈzain] 工作设计<br>
+complex [ˈkɔmpleks] 情结<br>
+flex time [flekstaim] 弹性工作时间<br>
+professional manager  职业经理人<br>
+job analysis [dʒɔbəˈnæləsis] 工作分析<br>
+arbitration [ˌɑ:bɪˈtreɪʃən] 调解<br>
+wage plan [weidʒplæn] 工资计划<br>
+</div>
+
+<div>managerial function  管理职能<br>
+normal retirement [ˈnɔ:məlrɪˈtaɪəmənt] 正常退休<br>
+role playing  角色扮演<br>
+observation method  观察法<br>
+mediation [ˌmiːdiˈeɪʃn] 仲裁<br>
+turnover [ˈtə:nˌəuvə] 人事变动<br>
+external costs  外部成本<br>
+self-efficacy [selfˈefɪkəsi:] 自我效能<br>
+incentive plan [inˈsentivplæn] 激励计划<br>
+job satisfaction [dʒɔbˌsætisˈfækʃən] 工作满意度<br>
+interview method [ˈintəvju:ˈmeθəd] 访谈法<br>
+simulation exercise  模拟练习<br>
+job plan [dʒɔbplæn] 工作计划<br>
+classification method  分类法<br>
+competency model  胜任特征模型<br>
+learning curve [ˈlə:niŋkə:v] 学习曲线<br>
+work behavior [wə:kbɪˈheɪvjə] 工作行为<br>
+privacy right [ˈpraivəsirait] 隐私权<br>
+excellent leader [ˈeksələntˈli:də] 优秀领导<br>
+job description [dʒɔbdisˈkripʃən] 职位描述，工作说明<br>
+</div>
+
+<div>evaluation criterion  评价标准<br>
+efficiency of labor [iˈfiʃənsiɔvˈleibə] 劳动效率<br>
+merit pay [ˈmeritpei] 绩效工资<br>
+job performance [dʒɔbpəˈfɔ:məns] 工作表现<br>
+labor discipline [ˈleibəˈdisiplin] 劳动纪律<br>
+e-recruit  网络招聘<br>
+age composition [eidʒˌkɔmpəˈziʃən] 年龄结构<br>
+wage level [weidʒˈlevl] 工资水平<br>
+medical insurance [ˈmedikəlinˈʃuərəns] 医疗保险<br>
+informal communication  非正式沟通<br>
+individual retirement account  个人退休账户<br>
+labor laws  劳动法<br>
+dimission  离职<br>
+bounded rationality  有限理性<br>
+recruiter [rɪˈkru:tə] 招聘人员<br>
+questionnaire method [ˌkwestiəˈnɛəˈmeθəd] 问卷调查法<br>
+wage standard [weidʒˈstændəd] 工资标准<br>
+labor relation [ˈleibəriˈleiʃən] 劳动关系<br>
+headhunting  猎头<br>
+lower management [ˈləuəˈmænidʒmənt] 基层管理<br>
+</div>
+
+<div>core competency [kɔ:ˈkɔmpit(ə)nsi] 核心竞争力<br>
+team building  团队建设<br>
+independent contractor  合同工<br>
+labor shortage [ˈleibəˈʃɔ:tidʒ] 劳动力短缺<br>
+virtual team [ˈvə:tjuəlti:m] 虚拟团队<br>
+cohesiveness [kəʊˈhiːsɪvnəs] 凝聚力<br>
+pension plan [ˈpenʃənplæn] 退休金计划<br>
+employee involvement  员工参与<br>
+organization character  组织特征<br>
+management risk [ˈmænidʒməntrisk] 管理风险<br>
+travel allowance [ˈtrævələˈlauəns] 旅行津贴<br>
+career stage [kəˈriəsteidʒ] 职业阶段<br>
+management training  管理培训<br>
+position description  职位描述<br>
+knowledge management [ˈnɔlidʒˈmænidʒmənt] 知识管理<br>
+job involvement  工作投入<br>
+absence rate [ˈæbsənsreit] 缺勤率<br>
+marriage leave [ˈmæridʒli:v] 婚假<br>
+on-the-job training [ˈɔnðəˈdʒɔbˈtreiniŋ] 在职培训<br>
+virtual organization  虚拟组织<br>
+</div>
+
+<div>labor contract [ˈleibəkənˈtrækt] 劳动合同<br>
+recruitment method  招聘方法<br>
+personal character [ˈpə:sənəlˈkæriktə] 个人性格,个性<br>
+employee manual [ˌemplɔiˈi:ˈmænjuəl] 员工手册<br>
+job stress [dʒɔbstres] 工作压力<br>
+distributive justice  分配公正<br>
+corporate culture [ˈkɔ:pəritˈkʌltʃə] 企业文化<br>
+employee training method  员工培训方法<br>
+permissive management  放任式管理<br>
+recommend [ˌrekəˈmend] 员工推荐<br>
+HR  officer  人力资源主任<br>
+payroll tax [ˈpeirəultæks] 工资所得税<br>
+exempt employee [iɡˈzemptˌemplɔiˈi:] 豁免员工<br>
+job scope [dʒɔbskəup] 工作范围<br>
+job posting  公开招聘<br>
+defined benefit plan  固定收益制<br>
+noncontributory plan  非付费退休金计划<br>
+dimission interview  离职面谈<br>
+career development method  职业发展方法<br>
+job analysis schedule  工作分析计划表<br>
+</div>
+
+<div>HR generalist  人力资源通才<br>
+expected salary  期望薪水<br>
+external labor supply  外部劳力供应<br>
+payroll system [ˈpeirəulˈsistəm] 工资管理系统<br>
+unemployment compensation  失业津贴<br>
+job surrounding [dʒɔbsəˈraʊndɪŋ] 工作环境<br>
+survival rate [səˈvaivəlreit] 留任率<br>
+dismissal reason [dɪsˈmɪsəlˈri:zən] 解雇理由<br>
+labor relations process  劳工关系进程<br>
+pay according to work  业绩报酬<br>
+hygiene factor [ˈhaidʒi:nˈfæktə] 保健因素<br>
+job vacancy [dʒɔbˈveɪkənsi:] 职业空缺<br>
+education subsidy  教育津贴<br>
+incentive suggestion system  奖励建议制度<br>
+employment at will  自由就业<br>
+organizational commitment  组织认同感<br>
+analytic approach [ˌænəˈlɪtɪkəˈproʊtʃ] 分析法<br>
+reliability evaluation  信度评估<br>
+halo effect [ˈheɪləʊiˈfekt] 晕轮效应<br>
+labor rate variance  工资率差异<br>
+</div>
+
+<div>job knowledge test  业务知识测试<br>
+quality circles  质量圈<br>
+standard labor cost  标准人工成本<br>
+personnel test [ˌpə:səˈneltest] 人格测验品格测验<br>
+psychological contract  心理精神契约<br>
+competency based pay  技能工资<br>
+individual interview  个别谈话<br>
+return of talent [riˈtə:nɔvˈtælənt] 人才回流<br>
+management of human resource development  人力资源开发管理<br>
+leaderless group discussion  无领导小组讨论法<br>
+applicant tracking system  求职跟踪系统(ATS)<br>
+HRD appraisal  人力资源开发评价<br>
+housing rental allowance  住房补贴<br>
+special training [ˈspeʃəlˈtreiniŋ] 特别训练<br>
+flex place [flekspleis] 弹性工作地点<br>
+assessment center [əˈsesməntˈsentə] 评价中心<br>
+pay day [peidei] 发薪日<br>
+job attitude [dʒɔbˈætitju:d] 工作态度<br>
+pay equity [peiˈekwiti] 报酬公平<br>
+performance analysis  绩效分析<br>
+</div>
+
+<div>regular earning pay wage  固定工资<br>
+labor relation consultant  劳工关系顾问<br>
+recruitment examination  招聘考试<br>
+apprenticeship training  学徒式培训<br>
+labor handbook [ˈleibəˈhændbuk] 劳动手册<br>
+employee leasing [ˌemplɔiˈi:ˈli:ziŋ] 员工租借<br>
+no financial compensation  非经济报酬<br>
+knowledge database  知识数据库<br>
+personality test  个性测试<br>
+reference check [ˈrefrənstʃek] 个人证明材料检查<br>
+performance appraisal period  考评期<br>
+case study training method  案例研究培训法<br>
+internal equity [inˈtə:nəlˈekwiti] 内部公平<br>
+job analysis methods  工作分析方法<br>
+hierarchy of needs theory  需要层次理论<br>
+organizational stress  组织压力<br>
+employee ownership  员工所有制<br>
+culture shock [ˈkʌltʃəʃɔk] 文化冲突<br>
+scatter plot [ˈskætəplɔt] 散点分析<br>
+effective working hour  有效工时<br>
+</div>
+
+<div>benefit welfare [ˈbenifitˈwelfɛə] 福利<br>
+variable compensation  可变报酬<br>
+in-house training [inhausˈtreiniŋ] 在公司内的培训<br>
+appraiser training  考评者培训<br>
+board interview [bɔ:dˈintəvju:] 会议型面试<br>
+internal environment of hr  人力资源内部环境<br>
+ill-health retirement  病退<br>
+gross pay [ɡrəuspei] 工资总额<br>
+psychological test  心理测验心理测试<br>
+roll-down training  自上而下分级培训法<br>
+basic skill [ˈbeisikskil] 基础技能<br>
+management by objective  目标管理（MBO）<br>
+Kirkpatrick's four level model of evaluation  四阶层评估模型<br>
+leader participation model  领导参与模式<br>
+coordination training  合作培训<br>
+recreation leave allowance  休假津贴<br>
+employee consultation services  员工咨询服务<br>
+indirect financial compensation  间接经济报酬<br>
+psychological goal  心理目标<br>
+pay survey [peiˈsɜrˌveɪ] 薪酬调查<br>
+</div>
+
+<div>enterprise resource planning  企业资源计划（ERP）<br>
+cost per hire [kɔstpə:ˈhaiə] 单位招聘成本<br>
+career cycle [kəˈriəˈsaikl] 职业周期<br>
+organized administration  组织管理<br>
+self-actualization need  自我实现需要<br>
+HR information system  人力资源信息系统<br>
+appraisal interview [əˈpreizəlˈintəvju:] 考评面谈<br>
+power distance [ˈpauəˈdistəns] 权力距离<br>
+internal job posting  内部职位公开招聘<br>
+management psychology  管理心理学<br>
+incentive compensation reward  奖金<br>
+interview appraisal  面谈考评<br>
+balanced score card  平衡计分卡（BSC）<br>
+self-assessment tool  自我评估工具<br>
+employee self service  员工自助服务<br>
+advertisement recruiting  广告招聘<br>
+employment offer enrollment  录用<br>
+work and life balance  工作生活平衡<br>
+human resource planning  人力资源规划（HRP）<br>
+motivational factor  激励因素<br>
+</div>
+
+<div>undue hardship [ʌnˈdu:ˈhɑ:dʃip] 过度重负<br>
+forced-choice method  强迫性选择法<br>
+training design [ˈtreiniŋdiˈzain] 培训设计<br>
+classroom training  课堂培训<br>
+mental ability test  逻辑思维测试<br>
+compensation  benefit  薪酬福利<br>
+HR  policy  人力资源政策<br>
+conference method [ˈkɔnfərənsˈmeθəd] 会议方法<br>
+welfare staff [ˈwelfɛəstɑ:f] 福利工作人员<br>
+incident process [ˈinsidəntˈprəuses] 事件处理法<br>
+core workforce [kɔ:ˈwɜ:kˌfɔ:s] 核心工作团队<br>
+nonexempt employee  非豁免的员工<br>
+effect factors of development  开发影响因素<br>
+lump-sum bonus [lʌmpsʌmˈbəunəs] 绩效奖金<br>
+employee-centered job redesign  以员工为中心的工作再设计<br>
+bottom line concept  底线概念<br>
+conceptual skill [kənˈseptjuəlskil] 概念性技能<br>
+training outcome [ˈtreiniŋˈautkʌm] 培训结果<br>
+negotiator [nɪˈgəʊʃɪeɪtə(r)] 仲裁人<br>
+compensatory time off  补假<br>
+</div>
+
+<div>wage by age system  工龄工资制<br>
+job identification  工作识别<br>
+horizontal career path  横向职业途径<br>
+rehiring  回聘<br>
+employment objective  应聘职位<br>
+job standard [dʒɔbˈstændəd] 工作标准<br>
+group bonus [ɡru:pˈbəunəs] 团体奖金<br>
+training administration  培训管理<br>
+perceptual motor approach  知觉运动型工作设计法<br>
+payroll analysis [ˈpeirəuləˈnæləsis] 工资分析<br>
+rewarding by merit  业绩报酬<br>
+job analysis information  工作分析信息<br>
+sabbatical leave [səˈbætɪkəlli:v] 休假<br>
+ego-involvement [ˈeɡəuɪnˈvɔlvmənt] 自我投入<br>
+benefit plan [ˈbenifitplæn] 福利计划<br>
+pay envelop [peienˈveləp] 工资单<br>
+managed care  有控制的医疗保健<br>
+wage incentive plan  奖励工资制<br>
+in-basket training  篮中训练<br>
+skill based pay [skilbeɪstpei] 技能工资<br>
+</div>
+
+<div>labor contract renewal  劳动合同续签<br>
+smart [smɑ:t] smart分析法<br>
+entitlement [inˈtaitlmənt] 授权法<br>
+distribute bonus profit sharing  分红<br>
+computer based training  以计算机为载体的培训（CBT）<br>
+disparate treatment  差别性对待<br>
+pay period [peiˈpiəriəd] 工资结算周期<br>
+recruitment ditch [rɪˈkru:tməntditʃ] 招聘渠道<br>
+dual career path [ˈdju:əlkəˈriəpɑ:θ] 双重职业途径<br>
+cross training [krɔsˈtreiniŋ] 岗位轮换培训<br>
+function of HRM  人力资源管理职能<br>
+pay incentive [peiinˈsentiv] 绩效奖金<br>
+team bonus [ti:mˈbəunəs] 小组奖金<br>
+job redesign [dʒɔbˌri:diˈzain] 工作再设计<br>
+regular incentive [ˈreɡjuləinˈsentiv] 常规奖励<br>
+panel group interview  小组面试<br>
+employees bonus  雇员红利<br>
+frontline manager  基层管理人员<br>
+human resource development  人力资源开发（HRD）<br>
+occupational choice  职业选择<br>
+</div>
+
+<div>standard wage rate [ˈstændədweidʒreit] 标准工资率<br>
+realistic job preview  实际岗位演习<br>
+goal conflict [ɡəulˈkɔnflikt] 目标冲突<br>
+employment application form  应聘申请表<br>
+core worker [kɔ:ˈwə:kə] 核心员工<br>
+lower-order need [ˈləuəˈɔ:dəni:d] 低层次需求<br>
+fixed term appointment  固定期聘用<br>
+people first value  "以人为本"的价值观<br>
+lump-sum merit program  一次性总付绩效报酬计划<br>
+cyclical variation  循环变动<br>
+external employment  外部招聘<br>
+executive recruiters  高级猎头公司<br>
+industrial injury compensation  工伤补偿<br>
+corporate identity  企业识别<br>
+wage accounting [weidʒəˈkaʊntɪŋ] 工资核算<br>
+individual incentive plan  个人奖金方案<br>
+off-the-job training  脱产培训<br>
+key process indication  企业关键业绩指标（KPI）<br>
+copayment  共同付费<br>
+pay slip [peislip] 工资单<br>
+</div>
+
+<div>mission installation allowance  出差津贴<br>
+post wage system [pəustweidʒˈsistəm] 岗位工资制<br>
+market price [ˈmɑ:kitprais] 市场工资<br>
+distributive bargaining  分配式谈判<br>
+employee stock ownership plan  员工持股计划（ESOP）<br>
+performance appraisal interview  绩效评估面谈<br>
+long-range strategy  长期策略<br>
+unstructured interview  非结构化面试<br>
+pension retirement benefit  退休福利<br>
+nondirective interview  非定向面试<br>
+offer letter [ˈɔfəˈletə] 录用通知书<br>
+employee under training  受训员工<br>
+unit labor cost [ˈju:nitˈleibəkɔst] 单位劳动成本<br>
+brainstorm ideas  头脑风暴法<br>
+positional title  职称<br>
+80/20 principle  80/20法则<br>
+personality-job fit theory  性格与工作搭配理论<br>
+participative management  参与式管理<br>
+dimission rate  离职率<br>
+human resource management  人力资源管理（HRM）<br>
+</div>
+
+<div>flexible benefits program  弹性福利计划<br>
+job posting system  工作告示系统<br>
+risk pay planning  风险工资计划<br>
+national union [ˈnæʃənəlˈju:njən] (国家)总工会<br>
+HRD intermediary  人力资源开发媒介<br>
+employee paycheck [ˌemplɔiˈi:ˈpeitʃek] 工资支票<br>
+bargaining issue  谈判问题<br>
+work schedule [wə:kˈʃedju:əl] 工作进度表<br>
+motivational approach  激励型工作设计法<br>
+work sampling technique  工作样本技术<br>
+employee services benefits  员工服务福利<br>
+paired comparison method  配对比较法<br>
+stock option [stɔkˈɔpʃən] 持股权<br>
+training item [ˈtreiniŋˈaitəm] 培训项目<br>
+behavioral description interview  工作方式介绍面试<br>
+managerial art [ˌmænɪˈdʒɪəri:əlɑ:t] 管理艺术<br>
+essay method [ˈeseiˈmeθəd] 叙述法<br>
+nominal group technique  群体决策法（NGT）<br>
+benchmark job [ˈbentʃˌmɑ:kdʒɔb] 基准职位<br>
+subordinate appraisal  下级考评<br>
+</div>
+
+<div>organizational orientation  组织定位<br>
+efficiency wage [iˈfiʃənsiweidʒ] 效率工资<br>
+pay calculation [peiˌkælkjəˈleɪʃən] 工资结算<br>
+effective coaching technique  有效的训练方法<br>
+labor condition [ˈleibəkənˈdiʃən] 劳动条件<br>
+employee surplus [ˌemplɔiˈi:ˈsə:pləs] 员工过剩<br>
+employee safety and health  员工安全和健康<br>
+employee potential  员工潜能<br>
+initial interview [iˈniʃəlˈintəvju:] 初试<br>
+expiry of employment  雇用期满<br>
+mandated benefit  强制性福利<br>
+job inventory [dʒɔb/ˈɪnvəntri/] 工作测量表<br>
+compensation committee  报酬委员会<br>
+pay compression [peikəmˈpreʃən] 压缩工资<br>
+job morale [dʒɔbmɔˈrɑ:l] 工作情绪<br>
+salary rate standard  工资率标准<br>
+object teaching [ˈɔbdʒiktˈti:tʃɪŋ] 实物教学,直观教学<br>
+roles of  HRM  人力资源管理角色<br>
+merit raise [ˈmeritreiz] 绩效加薪<br>
+﻿360degree appraisal  360度评估<br>
+</div>
+
+<div>annuity pension [əˈnu:ɪti:ˈpenʃən] 退休金<br>
+stress interview [stresˈintəvju:] 压力面试<br>
+salary survey [ˈsæləriˈsɜrˌveɪ] 薪资调查<br>
+job context [dʒɔbˈkɔntekst] 工作背景<br>
+management development  管理层开发<br>
+borderless organizational structure  无疆界组织结构<br>
+behavior modification  行为矫正疗法<br>
+managerial grid theory  管理方格理论<br>
+nonverbal communication  非言语沟通<br>
+annual bonus [ˈænjuəlˈbəunəs] 年终分红<br>
+employment consultant  招聘顾问<br>
+team spirit [ti:mˈspirit] 协作精神<br>
+renege [rɪˈnɪg] 违约<br>
+functional conflict theory  冲突功能理论<br>
+organizational function  组织职能<br>
+profitsharing plan  利润分享计划<br>
+economic strike [ˌɪkəˈnɔmikstraik] 经济罢工<br>
+workplace learning  工作场所学习<br>
+employee orientation  员工向导<br>
+external recruitment environment  外部招聘环境<br>
+</div>
+
+<div>web based training  网络培训<br>
+organizational merger  组织合并<br>
+situational interview  情景面试<br>
+employment contract renewal  雇用合同续签<br>
+positional level [pəˈzɪʃənəlˈlevl] 职位层次<br>
+job clinic [dʒɔbˈklinik] 职业问题咨询所<br>
+lay-off [leiɔf] 解雇<br>
+appraisal standardization  考评标准化<br>
+effect factors of career planning  职业规划影响因素<br>
+forced distribution method  强制分配法<br>
+leader member exchange theory  领导者成员交换理论<br>
+administrative level  管理层次<br>
+wage structure [weidʒˈstrʌktʃə] 工资结构<br>
+appraisal feedback [əˈpreizəlˈfi:dbæk] 考评反馈<br>
+leader member relation  上下级关系<br>
+requisite task attributes theory  必要任务属性理论<br>
+jap-job analysis program  工作分析程序法<br>
+fundamental attribution error  基本归因误差<br>
+motivational pattern  激励方式<br>
+organizational diagnosis  组织诊断<br>
+</div>
+
+<div>executive salaries  管理层工资<br>
+employment separation certificate  离职证明书<br>
+high performance work system  高绩效工作系统<br>
+performance-reward relationship  绩效与报酬关系<br>
+360degree feedback  360度反馈<br>
+stress source [stressɔ:s] 压力来源<br>
+gain-sharing plan  收益分享计划<br>
+e-learning  网络化学习<br>
+job classification  职位分类<br>
+job aid [dʒɔbeid] 工作辅助<br>
+five-day workweek  每周五天工作制<br>
+labor reserve [ˈleibəriˈzə:v] 劳动力储备<br>
+executive development program  主管发展计划<br>
+pay secrecy [peiˈsi:krɪsi:] 工资保密<br>
+collective bargaining  劳资谈判<br>
+job specialization  工作专业化<br>
+management as porpoise  海豚式管理<br>
+job account [dʒɔbəˈkaunt] 工作统计<br>
+position vacant [pəˈziʃənˈveikənt] 招聘职位<br>
+organization change and development  组织变革与发展<br>
+</div>
+
+<div>empowerment  激励自主<br>
+payroll fund [ˈpeirəulfʌnd] 工资基金<br>
+wage form [weidʒfɔ:m] 工资形式<br>
+reallocate [ˌriːˈæləkeɪt] 重新安排重新分配<br>
+first impression effect  初次印象效应<br>
+requirement identification  需求识别<br>
+cognitive aptitude test  认知能力测试<br>
+on boarding training  入职培训<br>
+computerized forecast  电脑化预测<br>
+compensable factor  报酬要素<br>
+worker involvement  雇员参与<br>
+normative analysis  规范分析法<br>
+organization goal  组织目标<br>
+quantity of applicant  侯选人数量<br>
+factor comparison method  因素比较法<br>
+job sharing  临时性工作分担<br>
+wage analysis [weidʒəˈnæləsis] 工资分析<br>
+balance sheet approach  决算表平衡法<br>
+personal information record  人事档案<br>
+organization-centered career planning  以企业为中心的职业计划<br>
+</div>
+
+<div>bos-behavior observation scale  行为观察量表<br>
+unsafe condition [ʌnˈseɪfkənˈdiʃən] 不安全条件<br>
+situational leadership theory  情境领导理论<br>
+professional examination  专业考试<br>
+job family [dʒɔbˈfæmili] 工作群<br>
+interview content [ˈintəvju:ˈkɔntent] 面试内容<br>
+no-pay study leave  无薪进修假期<br>
+home-family leave [həumˈfæmilili:v] 探亲假<br>
+specialized course  专门课程<br>
+work age [wə:keidʒ] 工龄<br>
+internal recruitment environment  内部招聘环境<br>
+coercive power [kəuˈə:sivˈpauə] 强制权力<br>
+pay freeze [peifri:z] 工资冻结<br>
+job qualification and restriction  工作任职条件和资格<br>
+employee equity [ˌemplɔiˈi:ˈekwiti] 员工公平<br>
+colleague appraisal  同事考评<br>
+quit rate [kwitreit] 离职率<br>
+employee attitude surveys  员工态度调查<br>
+performance appraisal principle  绩效评估原则<br>
+motivation hygiene theory  激励保健论<br>
+</div>
+
+<div>health maintenance organization  健康维护组织（HMO）<br>
+flat organizational structure  扁平化组织结构<br>
+fixed term staff [fɪksttə:mstɑ:f] 固定期合同工<br>
+executive marketing director  市场执行总监<br>
+physical ability test  体检<br>
+salary administration  薪水管理<br>
+comparable worth [ˈkɔmpərəblwə:θ] 可比价值<br>
+behavior modeling [bɪˈheɪvjəˈmɔdlɪŋ] 行为模拟<br>
+eq-emotional quotient  情感智商<br>
+systematic training model  分类训练模式<br>
+computerized career progression system  电脑化职业生涯行进系统<br>
+competence based interview  基于能力的面试<br>
+organization size  组织规模<br>
+comparative appraisal method  比较评估法<br>
+protected group  受保护群体<br>
+systemic thinking [sisˈtemikˈθiŋkiŋ] 系统性思考<br>
+employer unfair labor practices  雇主不当劳动行为<br>
+career curve [kəˈriəkə:v] 职业曲线<br>
+compressed workweek [kəmˈprestˈwə:kwi:k] 压缩工作周<br>
+periodic salary adjustment  定期薪资调整<br>
+</div>
+
+<div>employment relationship  员工关系<br>
+incentive system [inˈsentivˈsistəm] 奖金制<br>
+external environment of hr  人力资源外部环境<br>
+internal recruitment  内部招聘<br>
+adventure learning  探险学习法<br>
+training development manager  培训经理<br>
+salary range [ˈsælərireindʒ] 薪水范围<br>
+fixed term contract  固定任期合同<br>
+mandatory bargaining issue  强制性谈判项目<br>
+job specification  工作要求细则<br>
+personal grievance  个人抱怨<br>
+HRD process  人力资源开发过程<br>
+work sample [wə:kˈsɑ:mpl] 工作样本<br>
+labor clause [ˈleibəklɔ:z] 劳工协议条款<br>
+physiological need  生理需要<br>
+flex plan [fleksplæn] 弹性工作计划<br>
+internal growth strategy  内部成长战略<br>
+job analysis process  工作分析流程<br>
+nondiscrimination rule  非歧视性原则<br>
+massed practice  集中练习集中学习<br>
+</div>
+
+<div>welfare management  福利管理<br>
+payroll form [ˈpeirəulfɔ:m] 工资形式<br>
+employee relationship management  员工关系管理（ERM）<br>
+competency assessment  能力评估<br>
+group appraisal [ɡru:pəˈpreizəl] 小组评价<br>
+position analysis questionnaire  职位分析问卷法<br>
+management assessment center  管理评价中心<br>
+organization environment  组织环境<br>
+premium plan [ˈpri:miəmplæn] 奖金制<br>
+work out [wə:kaut] 合力促进<br>
+membership group [ˈmembəʃipɡru:p] 实属群体<br>
+team group incentive plan  团队激励计划<br>
+survey feedback [ˈsɜrˌveɪˈfi:dbæk] 调查反馈<br>
+exploit of hr  人力资源开发<br>
+biological approach  生物型工作设计法<br>
+wage fund [weidʒfʌnd] 工资基金<br>
+executive compensation  管理层薪资水平<br>
+training specialist  培训专员<br>
+resumption from leave  销假<br>
+no-smoking rule [nəʊˈsməʊkɪŋru:l] 禁烟规定<br>
+</div>
+
+<div>benchmarking management  标杆管理<br>
+career path [kəˈriəpɑ:θ] 职业途径<br>
+attendance incentive plan  参与式激励计划<br>
+labor stability index  人力稳定指数<br>
+statutory holidays  法定假期<br>
+ability test  能力测试<br>
+holiday pay [ˈhɔlədipei] 假日薪水<br>
+mentoring  辅导制<br>
+central tendency [ˈsentrəlˈtendənsi] 居中趋势<br>
+human relations movement  人际关系运动<br>
+high performance organization  高绩效组织<br>
+management by walking about  走动管理<br>
+time wage [taimweidʒ] 计时工资<br>
+multiple hurdle model  跨栏模式<br>
+reward system [riˈwɔ:dˈsistəm] 奖金制<br>
+employee survey [ˌemplɔiˈi:ˈsɜrˌveɪ] 员工测评<br>
+job pricing  工作定价<br>
+pay grade [peiɡreid] 工资等级<br>
+performance appraisal objective  绩效评估目标<br>
+labor exchange employment agency  职业介绍所<br>
+</div>
+
+<div>labor demand forecast  劳动力需求预测<br>
+external recruiting sources  外部招聘来源<br>
+wage audit [weidʒˈɔ:dit] 工资审计<br>
+shift differential [ʃiftˌdɪfəˈrenʃəl] 值班津贴<br>
+orientation [ˌɔ:rienˈteiʃən] 岗前培训<br>
+physical ability inspection  体检<br>
+leader attach training  领导者匹配训练<br>
+oversea assignment  海外工作<br>
+wage by seniority system  工龄工资制<br>
+employee career management  员工职业生涯管理<br>
+personnel selection  选拔<br>
+availability forecast  供给预测<br>
+behavioral rating  工作方式考核法<br>
+coaching  辅导教练<br>
+employment diseases  职业病<br>
+</div>

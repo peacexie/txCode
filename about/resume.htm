@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>微简历</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+table { background:#CCC; }
+td { background:#FFF; border:1px solid #CCC; }
+.subNav{ text-align:center; padding:5px; margin:1px; }
+.subNav a { display:inline-block; padding:1px 8px; border:1px solid #CCC; }
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue" id="stabs">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../about/index.htm">工具收藏</a>
+</p>
+
+  <p class="subNav">
+  <a href="#e9top" class="bggray">简历</a>
+  <a href="#e9top" class="bgblue">作品</a>
+  <a href="#e9top" class="bgblue">附件</a>
+  </p>
+
+<div class="mcontent">
+  简历
+</div>
+
+<div class="mcontent" style="display:none;">
+  作品
+</div>
+
+<div class="mcontent" style="display:none;">
+  附件
+</div>
+
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../about/index.htm">工具收藏</a>
+<a id="seclink" style="display:none"></a>
+</p>
+
+</div>
+
+<script type="text/javascript">
+function change(){
+	$("p.subNav a").each(function(){
+		$(this).removeClass("bggray");
+		$(this).addClass("bgblue");
+	});	
+	$(".mcontent").hide();
+}
+$("p.subNav a").click(function(){
+	if($(this).hasClass("bggray")){
+		return;	
+	}
+	var index = $(this).index();
+	change();
+	$(".mcontent").eq(index).show();
+	$("p.subNav a").eq(index).addClass("bggray");
+	$("p.subNav a").eq(index).removeClass("bgblue");
+});
+var sec = urlPara('sec'); 
+if(sec=='share'){ change(0); }
+</script>
+
+</body>
+</html>
+
+</body>
+</html>
