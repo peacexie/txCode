@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>迪斯尼Ppt精简版</title>
+<script src="../cjs/jsbase.js"></script>
+<style type="text/css">
+<!--
+.title { color: #F0F; font-weight: bolder; }
+.cont { color: #333; }
+.note { color: #999; }
+.cnow { color: #F0F }
+p.allNav { margin:auto; }
+p.allNav a { display:block; font-size:large; padding:1px 3px; margin:5px; border:1px solid #CCC; }
+#L0 a.act { color:#F00; border:1px solid #3CF; }
+#subNav { text-align:center; }
+a.e9snav { display:inline-block; padding:0px 3px; margin:1px 1px 8px 1px; border:1px solid #CCC; }
+.reindex { display:inline-block; border:1px solid #CCC; padding:5px; }
+h2,h3 { color:#336; cursor:pointer; border:1px solid #CCC; padding:1px 5px; margin:8px 0; }
+h2.act,h3.act { color:#633; }
+#subList div b { display:inline-block; padding:8px 5px 5px 0px; }
+-->
+</style>
+</head>
+<body>
+
+<div class="divOuter clearfix">
+
+<p class="topnav bgblue">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../learn/index.htm">学无止境</a>
+</p>
+
+  <div class="blinks">
+    <i id="e9top" name="e9top"></i>
+    <p><a href="#e9top" class="icobox right" onClick="MM_show(-1)" id="Ulist1" style="display:none"><i class="icons ico-arrowreturnthick-1-w"></i></a>
+      <strong>迪斯尼Ppt精简版</strong></p>
+      <p class="allNav" id="L0"></p>
+    </ul>
+  </div>
+
+  <div class="mcontent">
+    <div id="subList" style="display:none"></div>
+    <p class="tc pv10" id="Ulist2" style="display:none"><a href="#e9top" onClick="MM_show(-1)" class="reindex">返回单元目录<i class="icons ico-arrowreturnthick-1-w"></i></a></p>
+  </div>
+  
+<p class="topnav bggray">
+<a href="../index.htm" class="icobox right"><i class="icons ico-home"></i></a>
+<a href="../learn/index.htm">学无止境</a>
+</p>
+
+</div>
+
+<script type="text/JavaScript">
+
+function MM_show(id,e){
+	jsElm.jeID('subList').style.display = id==-1 ? 'none' : '';
+	$('#subList div').hide();
+	if(id>=0){ 
+		$('#sl_i'+id+'').show();
+		$('#L0 a').hide();
+		$(e).show();
+	}else{
+		$('#L0 a').show();
+	}
+	jsElm.jeID('Ulist1').style.display = id==-1 ? 'none' : '';
+	jsElm.jeID('Ulist2').style.display = id==-1 ? 'none' : '';
+}
+function init(){
+	var s='', data = __httpData__; 
+	var arr = data.split('# Lesson');
+	for(var i=1;i<arr.length;i++){
+		var itm = arr[i].split('======');
+		jsElm.jeID('L0').innerHTML += '<a href="#e9top" onClick="MM_show('+i+',this)">'+itm[0]+'</a>';
+		var istr = ihtml(itm[1]);
+		jsElm.jeID('subList').innerHTML += '<div id="sl_i'+i+'">'+istr+'</div>';
+	}
+	var npage = rndDate(0,'d'); 
+	if(npage>26){ //1~5
+		npage = 4*(npage-26)+parseInt(rndDate(0,4)); 
+	}
+	$('#L0 a').eq(npage).addClass('act');
+}
+function ihtml(istr){
+	var arr = istr.split('\n');
+	var re = '', blank = 1;
+	for(var i=1;i<arr.length;i++){
+		tmp = arr[i].replace(/\r/g,'').replace(/(^\s*)|(\s*$)/g, "");
+		/*if(tmp.length<=3){
+			continue;
+		}*/
+		if(tmp.length>3){
+			blank = 0; 
+		}else if(tmp.length<=3 && blank>0){
+			continue;
+		}else{
+			blank = 1;
+		}
+		if(tmp.indexOf('### ')>=0){
+			 tmp = '<b>'+tmp+'</b>';
+			 blank = 1;
+		}
+		if(tmp.indexOf('> ')>=0) tmp = ' &nbsp;'+tmp+'';
+		re += tmp+'<br>';
+	}
+	return re;
+}
+</script>
+
+<script type="text/JavaScript">
+var chs,h2s; 
+jsHttp('../udata/yuwen/dismin.htm?v1',"setTimeout('init();',200)");
+for(j=0;j<20;j++){
+	//jsLog(parseInt(rndDate(0,4)));
+}
+</script>
+
+<!--
+
+	//istr = istr.replace(/[ | ]*\n/g,'\n'); //去除行尾空白
+	//istr = istr.replace(/\n[\s| | ]*\r/g,'\n'); //去除多余空行
+	//istr = istr.replace(/\s*$/g,""); 
+
+# Lesson X XXX ======
+
+### 口语
+### Song: XXX
+### Story: XXX 
+-->
+
+</BODY>
+</html>
+
+

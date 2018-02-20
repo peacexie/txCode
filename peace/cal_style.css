@@ -1,59 +1,164 @@
 
+body{ padding:0px; margin:0px 0px; }
+
 td {
-	text-align:center;
-	background-color:#FFFFFF;
-	overflow:hidden;
-	line-height:150%;
-	padding:3px;
+    text-align:center;
+    background-color:#FFFFFF;
+    overflow:hidden;
+    line-height:150%;
+    font-size:larger; font-family:Arial, Helvetica, sans-serif;
+    padding:2px 1px;
 }
-.day1 { padding:5px 0px; line-height:150%; }
-.day1 .dnum {
-	display:inline-block;
-	font-size:larger;
-	font-family:Arial, Helvetica, sans-serif;
-	font-weight:bold;
-	line-height:150%;
+textarea { width:96%; }
+.tl{text-align:left;}
+.tr{text-align:right;}
+
+.day1 { 
+    font-size:larger; font-family:Arial, Helvetica, sans-serif;
+    padding:2px; line-height:130%; 
+    position:absolute;
+    vertical-align:top;
 }
-.dm {
-    color:#000099;
-	padding:1px 1px 0px 1px;
-	border:1px #666666 solid;
-	background-color:#D0D0D0;
+.today { 
+    background-color:#FF9;
 }
-.d24c {
-    color:#FF00FF;
-	border:1px #999999 solid;
-	padding:1px 1px 0px 1px;
+td.day1 i.mark { position:absolute; right:1px; top:0px; font-size:large; }
+
+.sp24, .spnum, .spnl, .spgz {
+    display:inline-block;
+    padding:0px 1px 0px 1px;
 }
-.d24b {
-	border-right:0px;
+.sp24, .spnl, .spgz, .spm1, .spm2, .spnls{
+    font-family:"Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu;
+    white-space:nowrap; 
 }
+.spnum {
+    font-weight:bold;
+    font-size: larger;
+    display:block;
+    clear:both;
+}
+/*margin:8px 0px 0px 0px;*/
+.sp24, .spm1, .spm1s, .spm2 {
+	display:block;
+	color:#000099;
+	padding:0px 1px 0px 1px;
+	margin:0px 0px 0px 0px; 
+	border-top:1px #999 solid;
+    border-bottom:1px #999 solid;
+    border-radius:8px;
+}
+.spm2 {
+    font-size:smaller;
+}
+.spnl {
+    float: left; 
+}
+.spnls,.spm1s {
+    font-size:small;
+    font-weight:normal;
+    position:absolute; right:0; bottom:0px;
+}
+.spm1s {
+	color:#000099;
+    border-top:1px #CCC solid;
+}
+.spgz {
+    font-size: small;
+    color: #333;
+    float: right;
+    padding:1px 0px 0px 1px;
+}
+.line1 {
+    line-height:60px;
+}
+
 fieldset {
-	height:100%;
-	padding:5px;
+    height:100%;
+    padding:3px;
 }
 legend {
-	font-weight:bold;
+    font-weight:bold;
 }
 .th {
-	background-color:#CCCCFF;
-	font-weight:bold;
-	width:14%;
+    background-color:#CCCCFF;
+    font-weight:bold;
+    width:14%;
 }
 .tNull {
-	background-color:#FFFFFF;
+    background-color:#FFFFFF;
 }
 
 table.out { border:0px; max-width:680px; min-width:640px; margin:1px auto 0px auto; page-break-after: always; }
-div.out { max-width:680px; min-width:640px; margin:30px auto; }
+div.out { max-width:680px; min-width:640px; margin:1px auto; }
 table { width:100%; margin:auto; }
 table.c { border:2px solid #333; }
 table.c td { border:1px solid #999; position:relative; }
 .notes { font-size:small; text-align:left; line-height:150%; }
+.notes span{ display:inline; }
 .ntitle { color:#666; }
-.umark { display:inline-block; position:absolute; top:1px; right:10px; }
 .nitem { display:inline-block; padding:0px 10px; }
 
-table.mtitle { border:0px; }
-table.mtitle td { border:0px; font-weight:bold; }
+table.mtitle { border:0px; padding:0px; margin:0px; }
+table.mtitle td { border:0px; font-weight:bold; padding:0px; margin:0px; }
+
+#tab_cover, #tab_set{
+    margin-top:20px;
+}
+#tab_cover td{
+    width:18%;
+    font-size:72px; 
+    color:#FFF;
+    text-align:center;
+    background:#FF0000;
+}
+#tab_cover .cbar{
+    width:16%;
+    color:#FF0000;
+    background:#FFF;
+    font-size: 56px;
+    border:1px solid #FF0000; 
+}
+#tab_cover .cnote{
+    width:16%;
+    color:#333;
+    background:#FFF;
+    font-size: 14px;
+    border:1px solid #FF0000; 
+}
+#tab_cover .img{
+    width:65%;
+    background:#FFFFFF;
+}
+
+@media only screen and (max-width:760px) {
+    .th{ font-weight: normal; }
+    .spnl, .spnls, .spgz {
+        font-size: small; display:block;
+    }
+    .sp24, .spm1 {
+        font-size: small; 
+		padding:3px 3px 0px 3px;
+		margin:8px 0px 0px 0px; 
+    }
+    .spnls, .spm1s {
+        position:static;
+        margin-top:3px;  
+    }
+    .spm1 {
+		font-weight:bold;
+    }
+    .spm2 {
+        font-size:small;
+        line-height:120%;
+        padding:1px 3px 0px 3px;
+        margin:5px 0px 0px 0px; 
+    }
+    .day1{ padding:10px 1px 2px 1px; line-height:90%; }
+    table.out { width:99%; max-width:99%; min-width:99%; }
+    div.out { width:99%; max-width:99%; min-width:99%; }
+    table.mtitle td { font-weight: normal; }
+    .spnl { float: none; }
+    .spgz { float: none; color:#CCC; }
+}
 

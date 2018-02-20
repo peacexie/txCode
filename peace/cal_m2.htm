@@ -1,33 +1,35 @@
 <!doctype html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
 <title>贴心日历</title>
 <script src="../cjs/jsbase.js?noimp=1"></script>
-<script src="cal_funcs.js" type="text/javascript"></script>
+<script src="cal_funcs.js"></script>
+<script src="cal_funcu.js"></script>
 <link rel="stylesheet" type="text/css" href="cal_style.css"/>
 </head>
 <body id="id_body">
 <div class="out">
-  <table border="0" cellpadding="3" cellspacing="2">
+  <table border="0" cellpadding="1" cellspacing="0">
     <tr>
-      <td width="40%"><b><span id="cal_year">cal_year</span></b>年 贴心日历</td>
-      <td>&nbsp;</td>
-      <td id="td_set" width="10%"><a href="?act=set">设置</a></td>
-      <td id="td_page" width="40%" nowrap>
-      <span id="cal_Timer" style="color:#FFFFFF;"></span>切换: 
+      <td><b><span id="cal_year">cal_year</span></b>年</td>
+      <td></td>
+      <td id="td_page" nowrap>
+      <span id="cal_Timer" style="color:#FFFFFF;"></span> 
       <span style="cursor:pointer;" onclick="listM02(-1)">上一月</span> 
       <span style="cursor:pointer;" onclick="listM02(1)">下一月</span></td>
+      <td id="td_set"><a href="?act=set">设置</a></td>
     </tr>
   </table>
-  <table border="0" cellpadding="0" cellspacing="20" id="tab_m2">
+  <table border="0" cellpadding="0" cellspacing="1" id="tab_m2">
     <tr>
       <td id="cal_m1">1</td>
     </tr>
-    <tr>
+    <!--tr>
       <td id="cal_m2">2</td>
-    </tr>
+    </tr-->
   </table>
   <table border="0" cellpadding="0" cellspacing="1" id="tab_set" style="display:none">
     <form action="?" method="get" target="_blank">
@@ -41,31 +43,92 @@
     </tr>
     <tr>
       <td>
+        <select name="rem" id="rem">
+        <option value="0">无记事</option>
+        <option value="1">记事本</option>
+        </select>
+        &nbsp;
         <select name="yno" id="yno">
         <option value="0">-选择-</option>
         </select>
         &nbsp;
-        <input type="submit" name="button" id="button" value="设置"></td>
+        <input type="submit" name="button" id="button" value="设置日历"></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="?act=cover&dlid=def1">封面</a>:
+        <a href="?act=cover&dlid=hnw1">hnw1</a>,
+        <a href="?act=cover&dlid=cat1">cat1</a>,
+        <a href="?act=cover&dlid=c105">c105</a>,
+        <a href="?act=cover&dlid=diw1">diw1</a>;
+      </td>
     </tr>
     </form>
+  </table>
+  <table border="0" cellpadding="0" cellspacing="1" id="tab_cover" style="display:none">
+    <tr>
+        <td class="cleft">肥</td>
+        <td class="cbar">锦</td>
+        <td class="cbar">绣</td>
+        <td class="cbar">南</td>
+        <td class="cbar">湾</td>
+        <td class="cright">绿</td>
+    </tr>
+    <tr>
+        <td class="cleft">田</td>
+        <td class="img" colspan="4" rowspan="5"><a href="?yno="><img src="./cal_fu400x.jpg"/></a></td>
+        <td class="cright">水</td>
+    </tr>
+    <tr>
+        <td class="cleft">沃</td>
+        <td class="cright">青</td>
+    </tr>
+    <tr>
+        <td class="cleft">土</td>
+        <td class="cright">山</td>
+    </tr>
+    <tr>
+        <td class="cleft">农</td>
+        <td class="cright">此</td>
+    </tr>
+    <tr>
+        <td class="cleft">家</td>
+        <td class="cright">南</td>
+    </tr>
+    <tr>
+        <td class="cleft">乐</td>
+        <td class="cnote" colspan="4">
+        含公历,农历,24节气,干支 / 点击福字进入日历,适合打印;
+        <br>
+        制作设计: 和平鸽 / 技术支持: <a href="http://yscode.txjia.com/tools/screen.htm" target="1">贴心口袋</a>
+        </td>
+        <td class="cright">湾</td>
+    </tr>
   </table>
 </div>
 <script type="text/javascript">
 var act = urlPara('act');
 var yno = parseInt(urlPara('yno')); 
+var rem = parseInt(urlPara('rem')); 
 var cdaya1 = cdayParas(1); 
 var cdaya2 = cdayParas(2); 
 var now = new Date(); 
 var nSY = now.getFullYear(); 
 var nSM = now.getMonth();
-if(yno>1900){ //y=2015
-	listYear();
+var strToday = nSY+'-'+nSM+'-'+now.getDate();
+var winw = winSize().winWidth; 
+var wmod = 'print'; // 
+if(act=='cover'){
+  setCover();
+}else if(yno>1900){ //y=2015
+  listYear();
 }else if(act=='set'){
-	setPage();
+  setPage();
 }else{ //def:2m
-	listM02(0); //console.log(nSY+':'+nSM);
+  wmod = winw>=768 ? 'print' : 'mob';
+  listM02(0); //jsLog(nSY+':'+nSM);
+  if(winw<768) jeShow('td_set');
 }
-// console.log(cdaya1);
 // style="page-break-after: always;" 分页
 </script> 
 </body>

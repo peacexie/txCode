@@ -18,15 +18,15 @@ var lunarInfo=new Array(
 
 //==== 传回农历 y年的总天数  
 function lYearDays(y) {  
-   var i, sum = 348  
-   for(i=0x8000; i>0x8; i>>=1) sum += (lunarInfo[y-1900] & i)? 1: 0  
-   return(sum+leapDays(y))  
+    var i, sum = 348  
+    for(i=0x8000; i>0x8; i>>=1) sum += (lunarInfo[y-1900] & i)? 1: 0  
+    return(sum+leapDays(y))  
 }  
 
 //==== 传回农历 y年闰月的天数  
 function leapDays(y) {  
-   if(leapMonth(y))  return((lunarInfo[y-1900] & 0x10000)? 30: 29)  
-   else return(0)  
+    if(leapMonth(y))  return((lunarInfo[y-1900] & 0x10000)? 30: 29)  
+    else return(0)  
 }  
 
 //==== 传回农历 y年闰哪个月 1-12 , 没闰传回 0  
@@ -38,208 +38,162 @@ function monthDays(y,m) { return( (lunarInfo[y-1900] & (0x10000>>m))? 30: 29 )}
 //==== 算出农历, 传入日期物件, 传回农历日期物件  
 //     该物件属性有 .year .month .day .isLeap .yearCyl .dayCyl .monCyl  
 function objLunar(objDate) {  
-   var i, leap=0, temp=0;  
-   var baseDate = new Date(1900,0,31);  
-   var offset   = (objDate - baseDate)/86400000;  
-   this.dayCyl = offset + 40;  
-   this.monCyl = 14;  
-   for(i=1900; i<2050 && offset>0; i++) {  
-      temp = lYearDays(i);  
-      offset -= temp;  
-      this.monCyl += 12;  
-   }  
-   if(offset<0) {  
-      offset += temp;  
-      i--;  
-      this.monCyl -= 12;  
-   }  
-   this.year = i;  
-   this.yearCyl = i-1864;  
-   leap = leapMonth(i); //闰哪个月  
-   this.isLeap = false;  
-   for(i=1; i<13 && offset>0; i++) {  
-      //闰月  
-      if(leap>0 && i==(leap+1) && this.isLeap==false)  
-         { --i; this.isLeap = true; temp = leapDays(this.year); }  
-      else  
-         { temp = monthDays(this.year, i); }  
-      //解除闰月  
-      if(this.isLeap==true && i==(leap+1)) this.isLeap = false;  
-      offset -= temp;
-      if(this.isLeap == false) this.monCyl ++;
-   }  
-   if(offset==0 && leap>0 && i==leap+1)  
-      if(this.isLeap)  
-         { this.isLeap = false; }  
-      else  
-         { this.isLeap = true; --i; --this.monCyl;}  
-   if(offset<0){ offset += temp; --i; --this.monCyl; }  
-   this.month = i;  
-   this.day = offset + 1;  
+    var i, leap=0, temp=0;  
+    var baseDate = new Date(1900,0,31);  
+    var offset   = (objDate - baseDate)/86400000;  
+    this.dayCyl = offset + 40;  
+    this.monCyl = 14;  
+    for(i=1900; i<2050 && offset>0; i++) {  
+        temp = lYearDays(i);  
+        offset -= temp;  
+        this.monCyl += 12;  
+    }  
+    if(offset<0) {  
+        offset += temp;  
+        i--;  
+        this.monCyl -= 12;  
+    }  
+    this.year = i;  
+    this.yearCyl = i-1864;  
+    leap = leapMonth(i); //闰哪个月  
+    this.isLeap = false;  
+    for(i=1; i<13 && offset>0; i++) {  
+        //闰月  
+        if(leap>0 && i==(leap+1) && this.isLeap==false){  
+            --i; this.isLeap = true; temp = leapDays(this.year);   
+        }else{  
+            temp = monthDays(this.year, i); 
+        }  
+        //解除闰月  
+        if(this.isLeap==true && i==(leap+1)) this.isLeap = false;  
+        offset -= temp;
+        if(this.isLeap == false) this.monCyl ++;
+    }  
+    if(offset==0 && leap>0 && i==leap+1)  
+        if(this.isLeap){  
+            this.isLeap = false;   
+        }else{  
+            this.isLeap = true; --i; --this.monCyl;
+        }  
+    if(offset<0){ offset += temp; --i; --this.monCyl; }  
+    this.month = i;  
+    this.day = offset + 1;  
 }  
 
 //==== 中文日期  
 function strLunar(dObj){  
-	var m = dObj.month, d = dObj.day; //.month,lDObj.day
-	var nStr1 = new Array('日','一','二','三','四','五','六','七','八','九','十');  
-	var nStr2 = new Array('初','十','廿','卅','');  
-	var s1, s2;  
-	if (m>10){s1 = '十'+nStr1[m-10]} else {s1 = nStr1[m]} s1 += '月';  
-	switch (d) {  
-		case 10:s2 = '初十'; break;  
-		case 20:s2 = '二十'; break;  
-		case 30:s2 = '三十'; break;  
-		default:s2 = nStr2[Math.floor(d/10)]; s2 += nStr1[d%10];  
-	}
-	if(dObj.isLeap) s1 = '闰'+s1;
-	return(s2=='初一' ? s1 : s2);  
-}  
-
-function strTerm(SY,SM,SD){
-	var aData = new Array(0,21208,42467,63836,85337,107014,128867,150921,173149,195551,218072,240693,263343,285989,308563,331033,353350,375494,397447,419210,440795,462224,483532,504758)  
-	var aName = new Array("小寒","大寒","立春","雨水","惊蛰","春分","清明","谷雨","立夏","小满","芒种","夏至","小暑","大暑","立秋","处暑","白露","秋分","寒露","霜降","立冬","小雪","大雪","冬至")  
-	var ObjTerm='',tmp1,tmp2;
-	tmp1 = new Date((31556925974.7*(SY-1900)+aData[SM*2+1]*60000)+Date.UTC(1900,0,6,2,5));
-	tmp2 = tmp1.getUTCDate();
-	if (tmp2==SD) ObjTerm = aName[SM*2+1];
-	tmp1 = new Date((31556925974.7*(SY-1900)+aData[SM*2]*60000)+Date.UTC(1900,0,6,2,5));
-	tmp2= tmp1.getUTCDate();
-	if (tmp2==SD) ObjTerm = aName[SM*2];
-	if(ObjTerm!='') ObjTerm =""+ObjTerm+"";
-	return(ObjTerm);  
-}
-
-////////////////////////////////////////////
-
-var strHead = "<tr><td class='th'>日</td><td class='th'>一</td><td class='th'>二</td><td class='th'>三</td><td class='th'>四</td><td class='th'>五</td><td class='th'>六</td></tr>";
-var strHTab = "<table cellpadding='0' cellspacing='0' class='c'>";
-var strNull = "<td class='tNull'>&nbsp;</td>"; 
-var arrMonth = "January;February;March;April;May;June;July;August;September;October;November;December".split(";"); 
-var strMark = "<i class='umark'>*</i>";
-
-function nullCells(xDays,xFlag){
-  var s = "";
-  if(xFlag=='End'){
-    xDays = 6 - xDays;
-	for(var i=0;i<xDays;i++){ s += strNull;}
-  }else{
-    if(xDays>0){
-       for(var i=0;i<xDays;i++){ s += strNull;}
+    var m = dObj.month, d = dObj.day; //.month,lDObj.day
+    var nStr1 = new Array('日','一','二','三','四','五','六','七','八','九','十');  
+    var nStr2 = new Array('初','十','廿','卅','');  
+    var s1, s2;  
+    if (m>10){s1 = '十'+nStr1[m-10]} else {s1 = nStr1[m]} s1 += '月';  
+    switch (d) {  
+          case 10:s2 = '初十'; break;  
+          case 20:s2 = '二十'; break;  
+          case 30:s2 = '三十'; break;  
+          default:s2 = nStr2[Math.floor(d/10)]; s2 += nStr1[d%10];  
     }
-  }
-  return s;
+    if(dObj.isLeap) s1 = '闰'+s1;
+    return(s2=='初一' ? s1 : s2);  
+}  
+function strTerm(SY,SM,SD){
+    var aData = new Array(0,21208,42467,63836,85337,107014,128867,150921,173149,195551,218072,240693,263343,285989,308563,331033,353350,375494,397447,419210,440795,462224,483532,504758)  
+    var aName = new Array("小寒","大寒","立春","雨水","惊蛰","春分","清明","谷雨","立夏","小满","芒种","夏至","小暑","大暑","立秋","处暑","白露","秋分","寒露","霜降","立冬","小雪","大雪","冬至")  
+    var ObjTerm='',tmp1,tmp2;
+    tmp1 = new Date((31556925974.7*(SY-1900)+aData[SM*2+1]*60000)+Date.UTC(1900,0,6,2,5));
+    tmp2 = tmp1.getUTCDate();
+    if (tmp2==SD) ObjTerm = aName[SM*2+1];
+    tmp1 = new Date((31556925974.7*(SY-1900)+aData[SM*2]*60000)+Date.UTC(1900,0,6,2,5));
+    tmp2 = tmp1.getUTCDate();
+    if (tmp2==SD) ObjTerm = aName[SM*2];
+    if(ObjTerm!='') ObjTerm =""+ObjTerm+"";
+    return(ObjTerm);  
+}
+function strGanzhi(SY,SM,SD){ 
+    var m = SM+1, y = SY; // 注意:m已经+1
+    if(m<=2){ m=m+12; y--; } // console.log(C+'-'+y+'-');
+    var iG = "甲乙丙丁戊己庚辛壬癸"; 
+    var iZ = "子丑寅卯辰巳午未申酉戌亥";
+    // 生俏 = 年份 ÷ 12 // 0.猴 1.鸡 2.狗 3.猪 4.鼠 5.牛 6.虎 7.兔 8.龙 9.蛇 10.马 11.羊
+    var C = parseInt(y.toString().substr(0,2));
+    var y = parseInt(y.toString().substr(2,2)); 
+    var i = (m%2==0) ? 6 : 0;
+    var g = 4*C+parseInt((C/4))+parseInt((5*y))+parseInt(y/4)+parseInt(3*(m)/5)+SD-3;
+    var z = g+4*C+10+i;
+    g = g%10; z = z%12;
+    return iG.substr(g,1)+iZ.substr(z,1); 
+    /*
+    g=4C+[C/4]+[5y]+[y/4]+[3*(m+1)/5]+d-3 
+    z=8C+[C/4]+[5y]+[y/4]+[3*(m+1)/5]+d+7+i 
+    - 其中c是世纪数减1。- 奇数月 i=0，偶数月 i=6，
+    - 年份前两位，y 是年份后两位，- M 是月份，d 是日数。[ ] 表示取整数。
+    - 1月和 2月按上一年的 13月和 14月来算，因此C和y也要按上一年的年份来取值。
+    - 如果先求得了g，那么：z=g+4C+10+i(奇数月i=0，偶数月i=6)
+    - eg: 2009年7月16日
+    - G=80+5+45+2+4+16-3=149 余数为 9，天干是「壬」
+    - Z=149+80+10+0=239       余数为11，地支是「戌」
+    */
 }
 
 ////////////////////////////////////////////
-
-//公历纪念日
-var cdayarr = new Array();
-cdayarr[1] = new Array();
-cdayarr[1]["0309"] = '结婚登记日';
-cdayarr[1]["0424"] = 'Craby生日'; 
-cdayarr[1]["0913"] = 'Peace生日';
-//农历纪念日
-cdayarr[2] = new Array();
-cdayarr[2]["0709"] = 'Shirley生日';
-cdayarr[2]["0211"] = '(广西)妈妈生日';
-cdayarr[2]["0322"] = '(广西)爸爸生日';
-cdayarr[2]["0327"] = '爷爷生日';
-cdayarr[2]["0610"] = '(湖南)妈妈生日';
-cdayarr[2]["0408"] = '(湖南)爸爸生日';
-//cdaya2[""] = 'xxx';
-
-function listM01(xYear, xMonth){ 
-	var dnow = new Date(""+xYear+"/"+(parseInt(xMonth)+1)+"/01"); 
-	var sMounth="<tr>", iWDay = 0, SY = xYear, rows = 1;
-	var y, m , cdays1 = '', cdays2 = '', fcday = '';
-	for(var i=0;i<35;i++){ 
-		if(i) dnow.setDate(dnow.getDate() + 1); 
-		var SM = dnow.getMonth(), SD = dnow.getDate(), fcday = ''; 
-		if(!(SM==xMonth)){ break; } //var pDate = SY+'-'+(SM+1)+'-'+SD; //console.log(pDate);
-		var iWDay = dnow.getDay(); 
-		if(i==0){sMounth += nullCells(iWDay,'');} //处理前空白
-		if((iWDay==0)&&(i>0)){ sMounth += "</tr><tr>"; rows++; } //换行
-		//农历对象
-     	var nlObj = new objLunar(new Date(SY,SM,SD)); 
-     	sDay = strLunar(nlObj).toString(); sTerm = strTerm(SY,SM,SD); 
-		tDay = (sTerm.length>0 && sDay.length>2) ? sDay.replace('月','') : sDay;
-		var fprnt = yno>1900 ? ' &nbsp; ' : '';
-		//处理纪念日
-		m = parseInt(xMonth)+1; m = m<10 ? "0"+m : m;
-		d = parseInt(SD);       d = d<10 ? "0"+d : d;
-		if(cdaya1[m+''+d]){ 
-			cdays1 += "<span class='nitem'>"+fprnt+"("+SD+"日)"+cdaya1[m+''+d]+'</span>';
-			fcday = strMark;
-		}
-		m = parseInt(nlObj.month); m = m<10 ? "0"+m : m;
-		d = parseInt(nlObj.day);   d = d<10 ? "0"+d : d;
-		if(cdaya2[m+''+d]){ 
-			cdays2 += "<span class='nitem'>"+fprnt+"(农历"+nlObj.day+"日)"+cdaya2[m+''+d]+'</span>';
-			fcday = strMark;
-		}
-		//组某日字串
-		exDay = sTerm.length>0 ? "<span class='"+(sDay.indexOf('月')>0 ? 'd24c d24b' : 'd24c')+"'>"+sTerm+"</span>" : '';
-		exDay += "<span "+(sDay.indexOf('月')>0 ? "class='dm'" : '')+">"+tDay+"</span>"; 
-		sMounth += "<td class='day1'><span class='dnum'>"+fcday+SD+"</span><br>"+exDay+"</td>";
-	} 
-	if(iWDay<6){sMounth += nullCells(iWDay,'End');} //处理后空白
-	var tabTitle = "<table class='mtitle' cellpadding=0 cellspacing=0><tr><td>"+SY+'年'+(xMonth+1)+"月</td><td width='60%'>&nbsp;</td><td>"+arrMonth[xMonth]+"</td></tr></table>";
-	var pTitle = "<tr><td colspan='7'>"+tabTitle+"</td></tr>"; 
-	var pNotes = "<tr><td colspan='7' class='notes'><span class='ntitle'>记事：</span>"+cdays1+""+cdays2+"</td></tr>";
-	return strHTab+pTitle+strHead+sMounth+pNotes+"</table>";
-}
-
-function listM02(xOffset){
-	var Timer1 = (new Date()).getTime(); 
-	nSM += xOffset; 
-	if(nSM<0){ nSM = 11; nSY--; }
-	if(nSM>11){ nSM = 0; nSY++; }
-	var uby = nSY, ubm = nSM; //备份
-	jsElm.jeID('cal_m1').innerHTML = listM01(nSY,nSM); 
-	jsElm.jeID('cal_year').innerHTML = nSY; 
-	nSM++; if(nSM>11){ nSM = 0; nSY++; }
-	jsElm.jeID('cal_m2').innerHTML = listM01(nSY,nSM); 
-	nSY = uby, nSM = ubm; //还原
-	var Timer2 = (new Date()).getTime();
-	jsElm.jeID('cal_Timer').innerHTML = Timer2-Timer1;
-}
 
 function cdayParas(no){
-	var data = urlPara('d'+no), b = new Array(), n = 0;
-	var a = (data && data.length>0) ? data.split(';') : new Array();  
-	for(var i=0;i<a.length;i++){ 
-		var t = a[i].replace("\r",'').replace("\n",'').replace(" ",''); 
-		if(!t.indexOf(',')>0) continue;
-		var ta = t.split(','); 
-		if(ta[0].length>0 && ta[1].length>0){
-			b[ta[0]] = ta[1]; n++;
-		}
-	}
-	var re = n>0 ? b : cdayarr[no];
-	return re;
+   var data = urlPara('d'+no), b = new Array(), n = 0;
+   var a = (data && data.length>0) ? data.split(';') : new Array();  
+   for(var i=0;i<a.length;i++){ 
+          var t = a[i].replace("\r",'').replace("\n",'').replace(" ",''); 
+          if(!t.indexOf(',')>0) continue;
+          var ta = t.split(','); 
+          if(ta[0].length>0 && ta[1].length>0){
+                 b[ta[0]] = ta[1]; n++;
+          }
+   }
+   var re = n>0 ? b : cdayarr[no];
+   return re;
 }
 
 function listYear(){
-	var m12 = '';
-	for(var m2=0;m2<6;m2++){
-		m12 += '<table cellpadding="0" cellspacing="20" class="out">';
-		m12 += '<tr><td>'+listM01(yno,m2*2)+'</td></tr>'; 
-		m12 += '<tr><td>'+listM01(yno,m2*2+1)+'</td></tr>'; 
-		m12 += '</table><br>&nbsp;';
-	}
-	jsElm.jeID('id_body').innerHTML = m12;	
+   var m12 = '';
+   for(var m2=0;m2<6;m2++){
+          m12 += '<table cellpadding="0" cellspacing="1" class="out">';
+          m12 += '<tr><td><div class="line1">&nbsp;</div>'+listM01(yno,m2*2)+'</td></tr>'; 
+          m12 += '<tr><td>'+listM01(yno,m2*2+1)+'</td></tr>'; 
+          m12 += '</table>';
+   }
+   jsElm.jeID('id_body').innerHTML = m12;    
 }
 
 function setPage(){
-	jsElm.jeID('td_page').style.display = 'none';
-	jsElm.jeID('cal_year').innerHTML = nSY; 
-	jsElm.jeID('tab_m2').style.display = 'none';
-	jsElm.jeID('tab_set').style.display = '';
-	var ymin = nSY-5, ymax = nSY+6; 
-	for(var yi=ymin;yi<ymax;yi++){ 
-		var opt = new Option(yi,yi);
-		jsElm.jeID('yno').options.add(opt);
-	}
-	jsElm.jeID('yno').value = nSY;	
+   jsElm.jeID('td_page').style.display = 'none';
+   jsElm.jeID('cal_year').innerHTML = nSY; 
+   jsElm.jeID('tab_m2').style.display = 'none';
+   jsElm.jeID('tab_set').style.display = '';
+   var ymin = nSY-5, ymax = nSY+6; 
+   for(var yi=ymin;yi<ymax;yi++){ 
+           var opt = new Option(yi,yi);
+           jsElm.jeID('yno').options.add(opt);
+   }
+   jsElm.jeID('yno').value = nSY;    
 }
 
+function setCover(){
+    jsElm.jeID('td_page').style.display = 'none';
+    jsElm.jeID('tab_m2').style.display = 'none';
+    jsElm.jeID('tab_cover').style.display = '';
+    jsElm.jeID('cal_year').innerHTML = yno || nSY;
+    var dlid = urlPara('dlid'); if(!dlid) dlid = 'def1';
+    var a1 = ',cleft,cright,cbar'.split(',');
+    var a2 = aduilian[dlid]; 
+    var tds = jsElm.jeID('tab_cover').getElementsByTagName('td');
+    for(var i=1;i<a1.length;i++){
+        var s1 = a2[i], k = 0;
+        for(var j=0; j<tds.length; j++) {
+            var cls = tds[j].className; 
+            if(cls==a1[i]){
+                tds[j].innerHTML = s1.substr(k,1);
+                k++;
+            }
+        }
+    }
+    return;
+}
