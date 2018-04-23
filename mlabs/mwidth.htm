@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,minimal-ui">
+    <title>media-width</title>
+    <style type="text/css">
+        body{ padding:0; margin:0; background:#FFF; }
+        div{ text-align:center; padding:5px 0; margin:10px auto; border:1px solid #CCC; }
+        .w100p{ width:96%; background:#EEE; }
+        .w180{ width:170px; }
+        .w240{ width:230px; }
+        .w320{ width:310px; }
+        .w360{ width:350px; }
+        .w375{ width:365px; }
+        .w425{ width:415px; }
+        .w480{ width:470px; }
+        .w640{ width:630px; }
+        .w768{ width:758px; }
+        .w800{ width:790px; }
+        .w1024{ width:1014px; }
+        .w1200{ width:1190px; }
+        .w1440{ width:1430px; }
+        .w1800{ width:1790px; }
+        .w2400{ width:2390px; }
+        .w2560{ width:2550px; }
+        .wpad{ text-align:left; }
+    </style>
+</head>
+<body>
+<div class="w100p" id="inner"></div>
+<div class="w100p" id="screen"></div>
+<div class="w100p" id="scroll"></div>
+<div class="w180">w180</div>
+<div class="w240">w240</div>
+<div class="w320">w320</div>
+<div class="w360">w360</div>
+<div class="w375">w375</div>
+<div class="w425">w425</div>
+<div class="w480">w480</div>
+<div class="w640">w640</div>
+<div class="w768">w768</div>
+<div class="w800">w800</div>
+<div class="w1024">w1024</div>
+<div class="w1200">w1200</div>
+<div class="w1440">w1440</div>
+<div class="w1800">w1800</div>
+<div class="w2400">w2400</div>
+<div class="w2560">w2560</div>
+</body>
+</html>
+<script>
+    // screen.*
+    var s1 = 'window.screen.*' + window.screen.width;
+        s1 += 'x' + window.screen.height;
+    document.getElementById('screen').innerHTML = s1;
+    // body.inner*
+    var s2 = 'window.inner*' + window.innerWidth + 'x';
+    s2 += 'x' + window.innerHeight;
+    document.getElementById('inner').innerHTML = s2;
+    // body.scroll*
+    var s3 = 'body.scroll*' + document.body.scrollWidth + 'x';
+    s3 += 'x' + document.body.scrollHeight;
+    document.getElementById('scroll').innerHTML = s3;
+    // padding
+    var sw = window.innerWidth;
+    var divs = document.querySelectorAll('div');
+    for(var i=0; i<divs.length; i++){
+        var di = divs[i];
+        var vi = di.innerHTML;
+        if(parseInt(vi.substr(1))>sw){
+            var w = parseInt(vi.substr(1)) - (sw-80) - 10;
+            di.style.width = w+'px';
+            di.setAttribute('class','wpad');
+            di.style.paddingLeft = (sw-80)+'px';
+            //console.log(w);
+        }
+
+    }
+
+</script>

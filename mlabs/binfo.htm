@@ -35,10 +35,37 @@ p span, .span { color:#0A246A; font-weight:bold; }
     <p class="title"><strong>userAgent/location.href</strong></p>
     <p class="test" id="jsua">JS NOT Support(不支持JavaScript)!</p>
     <p class="test" id="jshref"></p>
-    <!--
-    <textarea style="width:100%;"></textarea>
-    <input type="text" style="width:100%;" value="">
-    -->
+  </div>
+   
+  <div class="sec">
+    <p class="title"><strong>转义还原</strong></p>
+    <p class="test"><select name="otype" id='otype' class="btn">
+    	<option value="auto">-auto-</option>
+        <option value="url">url</option>
+        <option value="json">json</option>
+        <option value="html">html</option>
+    	</select>
+        <input name="orstr" type="text" id="orstr" size="20" placeholder="编码过的url,json,html">
+        <br>
+    </p>
+    <p class="test">
+      <input type="button" value="-=&gt;" size="10" onClick="funEnc()" class="btn">
+      <input name="obstr" type="text" id="obstr" size="20">
+      <br>
+    测试: <a onClick="funSet(0)">&lt;url&gt;</a>,<a onClick="funSet(1)">&lt;json&gt;</a>,<a onClick="funSet(2)">&lt;html&gt;</a> </p>
+  </div>
+   
+  <div class="sec">
+    <p class="title"><strong>时间 &amp; 转化</strong></p>
+    <p class="test">Date.now: <span id="jsnow"></span></p>
+    <p class="test">
+      <input name="dtstr" type="text" id="dtstr" size="20">
+      <input name="btn2stamp" type="button" id="btn2stamp" value="-&gt;stamp" size="20" onClick="f2stamp()" class="btn">
+    </p>
+    <p class="test">
+      <input name="dtstamp" type="text" id="dtstamp" size="20">
+      <input name="btn2str" type="button" id="btn2str" value="-&gt;string" size="15" onClick="f2str()" class="btn">
+    </p>
   </div>
   
   <div class="sec">
@@ -124,20 +151,6 @@ p span, .span { color:#0A246A; font-weight:bold; }
     <p class="test">cookieEnabled: <span id="jscook"></span></p>
     <p class="test">platform: <span id="jsplat"></span></p>
     <p class="test">localStorage: <span id="locstore">不支持本地存储。</span></p>
-  </div>
-  
-  <div class="sec">
-    <p class="title"><strong>时间 &amp; 转化</strong></p>
-    <p class="test">Date.now: <span id="jsnow"></span></p>
-    <p class="test">
-      <input name="dtstr" type="text" id="dtstr" size="20">
-      <input name="btn2stamp" type="button" id="btn2stamp" value="-&gt;stamp" size="20" onClick="f2stamp()" class="btn">
-    </p>
-    <p class="test">
-      
-      <input name="dtstamp" type="text" id="dtstamp" size="20">
-      <input name="btn2str" type="button" id="btn2str" value="-&gt;string" size="15" onClick="f2str()" class="btn">
-    </p>
   </div>
   
   <div class="sec">
@@ -263,6 +276,39 @@ h5cxt.moveTo(20,1);
 h5cxt.lineTo(140,40);
 h5cxt.lineTo(20,40);
 h5cxt.stroke();
+
+function funEnc(){
+	var ot = jsElm.jeID('otype'), vt = ot.value;
+	var or = jsElm.jeID('orstr'), vr = or.value;
+	var ob = jsElm.jeID('obstr'); //alert(vt+vr+vb);
+	if(!vr) return;
+	if(vt=='auto'){
+		if(vr.indexOf(';&')>0){ vt = 'html'; }
+		else if(vr.indexOf('\\u')>0){ vt = 'json'; }
+		else if(vr.indexOf('%')>0){ vt = 'url'; }
+	}
+	if(vt=='url'){
+		ob.value = decodeURIComponent(vr);
+	}else if(vt=='json'){
+		eval("tmp='"+vr+"'");
+		ob.value = tmp;
+	}else{
+		var temp = document.createElement("div"); 
+		temp.innerHTML = vr; 
+		var output = temp.innerText || temp.textContent; 
+		temp = null; 
+		ob.value = output;	
+	}
+}
+function funSet(no){
+	var tmp = new Array(
+		'url-%E6%B5%8B%E8%AF%95:end',
+		'json-\\u6d4b\\u8bd5:end',
+		'html测试(&lt;&quot;&#039;&amp;&gt;):end'
+	);
+	jsElm.jeID('orstr').value = tmp[no];
+}
+
 
 // 时间转换时间戳
 //alert(transdate('2014-02-32 12:23:32'));

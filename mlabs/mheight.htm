@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no,minimal-ui">
+    <title>media-height</title>
+    <style type="text/css">
+        body{ padding:0; margin:0; background:#FFF; }
+        div{ width:5px; float:left; text-align:center; vertical-align:text-bottom; padding:4px 1px; margin:0px 1px; border:1px solid #CCC; }
+        .w100p{ width:96%; background:#EEE; }
+
+        .h180, .h240, .h320, .h360, .h480, .h640, .h800, .h1024, .h1200, .h1440, .h1800, .h2400, .h2560 { position:relative; bottom:10px; }
+        .h180 span, .h240 span, .h320 span, .h360 span, .h480 span, .h640 span, .h800 span, .h1024 span, .h1200 span, .h1440 span, .h1800 span, .h2400 span, .h2560 span { position:absolute; bottom:10px; }
+
+        .h180{ height:170px; }
+        .h240{ height:230px; }
+        .h320{ height:310px; }
+        .h360{ height:350px; }
+        .h480{ height:470px; }
+        .h640{ height:630px; }
+        .h800{ height:790px; }
+        .h1024{ height:1014px; }
+        .h1200{ height:1190px; }
+        .h1440{ height:1430px; }
+        .h1800{ height:1790px; }
+        .h2400{ height:2390px; }
+        .h2560{ height:2550px; }
+
+    </style>
+</head>
+<body>
+
+<div class="h180"><span>h180</span></div>
+<div class="h240"><span>h240</span></div>
+<div class="h320"><span>h320</span></div>
+<div class="h360"><span>h360</span></div>
+<div class="h480"><span>h480</span></div>
+<div class="h640"><span>h640</span></div>
+<div class="h800"><span>h800</span></div>
+<div class="h1024"><span>h1024</span></div>
+<div class="h1200"><span>h1200</span></div>
+<div class="h1440"><span>h1440</span></div>
+<div class="h1800"><span>h1800</span></div>
+<div class="h2400"><span>h2400</span></div>
+<div class="h2560"><span>h2560</span></div>
+
+<div class="w100p" id="inner"></div>
+<div class="w100p" id="screen"></div>
+<div class="w100p" id="scroll"></div>
+
+</body>
+</html>
+<script>
+    // screen.*
+    var s1 = 'window.screen.*' + window.screen.width;
+        s1 += 'x' + window.screen.height;
+    document.getElementById('screen').innerHTML = s1;
+    // body.inner*
+    var s2 = 'window.inner*' + window.innerWidth + 'x';
+    s2 += 'x' + window.innerHeight;
+    document.getElementById('inner').innerHTML = s2;
+    // body.scroll*
+    var s3 = 'body.scroll*' + document.body.scrollWidth + 'x';
+    s3 += 'x' + document.body.scrollHeight;
+    document.getElementById('scroll').innerHTML = s3;
+    //*/ padding
+    var sw = window.innerHeight;
+    var divs = document.querySelectorAll('div');
+    for(var i=0; i<divs.length; i++){
+        var di = divs[i];
+        var vi = di.innerHTML;
+        if(parseInt(vi.substr(1))>sw){
+            var w = parseInt(vi.substr(1)) - (sw-80) - 10;
+            //di.style.height = w+'px';
+            //di.setAttribute('class','wpad');
+            //di.style.paddingTop = (sw-80)+'px';
+            //console.log(w);
+        }
+    }//*/
+
+</script>

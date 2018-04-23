@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>CS模型(Client-Server)</title>
 <script src="../cjs/jsbase.js"></script>
+<script src="../cjs/md5.js"></script>
 </head>
 <body>
 
@@ -52,6 +53,13 @@
     <p>原始资料</p>
     <p>更新中……</p>
   </div>
+  <hr>
+  <div class="mcontent brd-top">
+    <p><strong>Demo : Data From IntimateCat</strong></p>
+    <div id="txmao">
+    <p>IntimateCat资料获取中……</p>
+    <div>
+  </div>
   </div>
 
 <p class="topnav bggray">
@@ -90,6 +98,39 @@ function pu_fill(revar){
 	}
 }
 
+var appkey = 'api-OwNVO-IywfA-givEQ-zXTLt-LQtpf';
+var ustamp = Date.parse(new Date())/1000; 
+var sign = '_012[tm]='+ustamp+'&_012[enc]='+hex_md5(appkey+"."+ustamp)+'';
+
+function app_get(){ 
+	var burl = 'http://txmao.txjia.com/root/run/app.php';
+	var rurl = '?mod=news&psize=5&domain=yscode.txjia.com&retype=jsonp&page='+rndDate(1,7);
+	$(function(){
+		$.get(
+			burl+rurl+'&'+sign, {_test1: 'tester'}, 
+			function (data) { 
+				// console.log(data.errno);
+				if(typeof(data.errno)=='number'){
+					$('#txmao').html('...获取资料错误!');
+					return;
+				}
+				var html = ''; 
+				for(var i in data){ 
+					var iurl = burl+'?mod=news&id='+data[i].did+'&'+sign;
+					html += '<p><a href="'+iurl+'" target="_blank">'+data[i].title+'</a></p>';  
+				}
+				$('#txmao').html(html);
+			}, 'jsonp'
+		);
+	});
+}
+setTimeout('app_get();',700);
+
+/*
+var s1 = 'peace'; r1 = hex_md5(s1); console.log(r1);
+var s1 = 'abc'; r1 = hex_md5(s1); console.log(r1);
+var s1 = '汉字'; r1 = hex_md5(s1); console.log(r1);
+*/
 </script>
 </body>
 </html>
