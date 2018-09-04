@@ -82,8 +82,8 @@ function objLunar(objDate) {
 
 //==== 中文日期  
 function strLunar(dObj){  
-    var m = dObj.month, d = dObj.day; //.month,lDObj.day
-    var nStr1 = new Array('日','一','二','三','四','五','六','七','八','九','十');  
+    var m = dObj.month, d = Math.round(dObj.day); //.month,lDObj.day
+    var nStr1 = new Array('日','一','二','三','四','五','六','七','八','九','十','');  
     var nStr2 = new Array('初','十','廿','卅','');  
     var s1, s2;  
     if (m>10){s1 = '十'+nStr1[m-10]} else {s1 = nStr1[m]} s1 += '月';  
@@ -92,7 +92,7 @@ function strLunar(dObj){
           case 20:s2 = '二十'; break;  
           case 30:s2 = '三十'; break;  
           default:s2 = nStr2[Math.floor(d/10)]; s2 += nStr1[d%10];  
-    }
+    } //console.log(d,s2);
     if(dObj.isLeap) s1 = '闰'+s1;
     return(s2=='初一' ? s1 : s2);  
 }  
