@@ -86,7 +86,7 @@ function strLunar(dObj){
     var nStr1 = new Array('日','一','二','三','四','五','六','七','八','九','十','');  
     var nStr2 = new Array('初','十','廿','卅','');  
     var s1, s2;  
-    if (m>10){s1 = '十'+nStr1[m-10]} else {s1 = nStr1[m]} s1 += '月';  
+    if (m>10){s1 = m} else {s1 = nStr1[m]} s1 += '月';  
     switch (d) {  
           case 10:s2 = '初十'; break;  
           case 20:s2 = '二十'; break;  
@@ -156,7 +156,6 @@ function listYear(){
    var m12 = '';
    for(var m2=0;m2<12;m2++){
           m12 += '<table cellpadding="0" cellspacing="1" class="out">';
-          //m12 += '<tr><td><div class="line1">&nbsp;</div>'+listM01(yno,m2*2)+'</td></tr>'; 
           m12 += '<tr><td>'+listM01(yno,m2)+'</td></tr>'; 
           m12 += '</table>';
    }

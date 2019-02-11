@@ -15,7 +15,7 @@ textarea { width:96%; }
 
 .day1 { 
     font-size:larger; font-family:Arial, Helvetica, sans-serif;
-    padding:1rem 3px; line-height:130%; 
+    padding:1rem 3px; 
     position:absolute;
     vertical-align:top;
 }
@@ -24,25 +24,23 @@ textarea { width:96%; }
 }
 td.day1 i.mark { position:absolute; right:1px; top:0px; font-size:large; }
 
-.spnum, .spnl {
+.spnum, .spnl, .spyue, .spj24{
     display:block;
-    padding:0px 1px 0px 1px;
-}
-.spnl{
-    white-space:nowrap; 
-}
-.spnum {
-    font-weight:bold;
-    font-size: larger;
-    display:block;
-    clear:both;
+    white-space:nowrap;
 }
 
-.spnlm {
-    color:#000099;
+.spnum {
+    font-weight:bold;
+    font-size:larger;
 }
-.spnum24 {
+
+.spyue {
     color:#000099;
+    border-top:1px solid #666;
+}
+.spj24 {
+    color:#000099;
+    font-weight:bold;
     font-size:large;
 }
 
@@ -110,8 +108,6 @@ table.mtitle td { border:0px; font-weight:bold; padding:0px; margin:0px; }
 
 @media only screen and (max-width:760px) {
     .th{ font-weight: normal; }
-    .spnl { font-size: small; }
-    .day1{ padding:10px 1px 2px 1px; line-height:110%; }
     table.out { width:99%; max-width:99%; min-width:99%; }
     div.out { width:99%; max-width:99%; min-width:99%; }
     table.mtitle td { font-weight: normal; }
