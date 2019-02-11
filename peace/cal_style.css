@@ -15,7 +15,7 @@ textarea { width:96%; }
 
 .day1 { 
     font-size:larger; font-family:Arial, Helvetica, sans-serif;
-    padding:2px; line-height:130%; 
+    padding:1rem 3px; line-height:130%; 
     position:absolute;
     vertical-align:top;
 }
@@ -24,12 +24,11 @@ textarea { width:96%; }
 }
 td.day1 i.mark { position:absolute; right:1px; top:0px; font-size:large; }
 
-.sp24, .spnum, .spnl, .spgz {
-    display:inline-block;
+.spnum, .spnl {
+    display:block;
     padding:0px 1px 0px 1px;
 }
-.sp24, .spnl, .spgz, .spm1, .spm2, .spnls{
-    font-family:"Microsoft YaHei",微软雅黑,"MicrosoftJhengHei",华文细黑,STHeiti,MingLiu;
+.spnl{
     white-space:nowrap; 
 }
 .spnum {
@@ -38,37 +37,15 @@ td.day1 i.mark { position:absolute; right:1px; top:0px; font-size:large; }
     display:block;
     clear:both;
 }
-/*margin:8px 0px 0px 0px;*/
-.sp24, .spm1, .spm1s, .spm2 {
-	display:block;
-	color:#000099;
-	padding:0px 1px 0px 1px;
-	margin:0px 0px 0px 0px; 
-	border-top:1px #999 solid;
-    border-bottom:1px #999 solid;
-    border-radius:8px;
+
+.spnlm {
+    color:#000099;
 }
-.spm2 {
-    font-size:smaller;
+.spnum24 {
+    color:#000099;
+    font-size:large;
 }
-.spnl {
-    float: left; 
-}
-.spnls,.spm1s {
-    font-size:small;
-    font-weight:normal;
-    position:absolute; right:0; bottom:0px;
-}
-.spm1s {
-	color:#000099;
-    border-top:1px #CCC solid;
-}
-.spgz {
-    font-size: small;
-    color: #333;
-    float: right;
-    padding:1px 0px 0px 1px;
-}
+
 .line1 {
     line-height:60px;
 }
@@ -89,10 +66,10 @@ legend {
     background-color:#FFFFFF;
 }
 
-table.out { border:0px; max-width:680px; min-width:640px; margin:1px auto 0px auto; page-break-after: always; }
-div.out { max-width:680px; min-width:640px; margin:1px auto; }
+table.out { border:0px; max-width:720px; min-width:640px; margin:1px auto 0px auto; page-break-after: always; }
+div.out { max-width:720px; min-width:640px; margin:1px auto; }
 table { width:100%; margin:auto; }
-table.c { border:2px solid #333; }
+table.c { margin:3rem auto 1rem auto; border:2px solid #333; }
 table.c td { border:1px solid #999; position:relative; }
 .notes { font-size:small; text-align:left; line-height:150%; }
 .notes span{ display:inline; }
@@ -133,32 +110,10 @@ table.mtitle td { border:0px; font-weight:bold; padding:0px; margin:0px; }
 
 @media only screen and (max-width:760px) {
     .th{ font-weight: normal; }
-    .spnl, .spnls, .spgz {
-        font-size: small; display:block;
-    }
-    .sp24, .spm1 {
-        font-size: small; 
-		padding:3px 3px 0px 3px;
-		margin:8px 0px 0px 0px; 
-    }
-    .spnls, .spm1s {
-        position:static;
-        margin-top:3px;  
-    }
-    .spm1 {
-		font-weight:bold;
-    }
-    .spm2 {
-        font-size:small;
-        line-height:120%;
-        padding:1px 3px 0px 3px;
-        margin:5px 0px 0px 0px; 
-    }
-    .day1{ padding:10px 1px 2px 1px; line-height:90%; }
+    .spnl { font-size: small; }
+    .day1{ padding:10px 1px 2px 1px; line-height:110%; }
     table.out { width:99%; max-width:99%; min-width:99%; }
     div.out { width:99%; max-width:99%; min-width:99%; }
     table.mtitle td { font-weight: normal; }
-    .spnl { float: none; }
-    .spgz { float: none; color:#CCC; }
 }
 

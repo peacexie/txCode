@@ -154,10 +154,10 @@ function cdayParas(no){
 
 function listYear(){
    var m12 = '';
-   for(var m2=0;m2<6;m2++){
+   for(var m2=0;m2<12;m2++){
           m12 += '<table cellpadding="0" cellspacing="1" class="out">';
-          m12 += '<tr><td><div class="line1">&nbsp;</div>'+listM01(yno,m2*2)+'</td></tr>'; 
-          m12 += '<tr><td>'+listM01(yno,m2*2+1)+'</td></tr>'; 
+          //m12 += '<tr><td><div class="line1">&nbsp;</div>'+listM01(yno,m2*2)+'</td></tr>'; 
+          m12 += '<tr><td>'+listM01(yno,m2)+'</td></tr>'; 
           m12 += '</table>';
    }
    jsElm.jeID('id_body').innerHTML = m12;    

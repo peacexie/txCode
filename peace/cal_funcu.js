@@ -49,14 +49,17 @@ aduilian["def1"][2] = '身心健康即是福';
 aduilian["def1"][3] = '健康平安';
 
 function oneCell(SY,SM,SD,sDay,sTerm,sixFlag){
-    sDay = sDay.replace('十三月','一月');
-    tDay = sDay.length>2 ? sDay.replace('月','') : sDay; // 十一
-    tDay = tDay.replace('闰十一','闰11').replace('闰十二','闰12');
-    spNum = "<span class='spnum'>"+SD+"</span>"; // *15
-    nlStr = "<span class='spnl'>"+tDay+"</span>"; // 初十 
-    if(sDay.indexOf('月')>0){ nlStr = nlStr.replace('spnl','spm1'); } // 十一月
-    spS24 = sTerm.length>0 ? "<span class='sp24'>"+sTerm+"</span>" : ''; // 立夏
-    gzStr = "<span class='spgz'>"+strGanzhi(SY,SM,SD)+"</span>"; // 甲子
+    tDay = sDay = sDay.replace('十三月','一月');
+    //tDay = sDay //sDay.length>2 ? sDay.replace('月','') : sDay; // 十一
+    tDay = tDay.replace('闰十一月','闰11').replace('闰十二月','闰12');
+    spNum = "<span class='spnum"+(sTerm.length>0 ? ' spnum24' : '')+"'>"+(sTerm.length>0 ? sTerm : SD)+"</span>"; // *15
+    nlStr = "<span class='spnl"+(sDay.indexOf('月')>0 ? ' spnlm' : '')+"'>"+tDay+"</span>"; // 初十 
+    //if(sDay.indexOf('月')>0){ nlStr.replace('spnl','spnl spnlm'); alert(3); }
+    //if(sDay.indexOf('月')>0){ nlStr = nlStr.replace('spnl','spm1'); } // 十一月
+    //spS24 = sTerm.length>0 ? "<span class='sp24'>"+sTerm+"</span>" : ''; // 立夏
+    //gzStr = "<span class='spgz'>"+strGanzhi(SY,SM,SD)+"</span>"; // 甲子
+    //gzStr = "<span class='spgz'>"+sTerm+"</span>"; // 立夏
+    /*
     if(sDay.indexOf('月')>0){ gzStr = ''; }
     if(spS24.length>0){
         gzStr = ''; 
@@ -66,12 +69,12 @@ function oneCell(SY,SM,SD,sDay,sTerm,sixFlag){
         }else{
             nlStr = spS24;
         }
-    }
+    }*/
     if(!sixFlag){ /*jsLog(sDay);//占6行处理格*/ 
-        gzStr = ''; 
-        nlStr = nlStr.replace('spnl','spnls').replace('spm1','spm1s');
+        //gzStr = ''; 
+        //nlStr = nlStr.replace('spnl','spnls').replace('spm1','spm1s');
     }
-    return spNum+nlStr+gzStr;
+    return spNum+nlStr;
 }
 function sixLine(nDays,iWDay,i){
     var f1 = nDays==30 && i==0 && iWDay==6;
