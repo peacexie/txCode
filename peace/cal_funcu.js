@@ -93,13 +93,13 @@ function listM01(xYear, xMonth){
         m = parseInt(xMonth)+1; m = m<10 ? "0"+m : m;
         d = parseInt(SD);       d = d<10 ? "0"+d : d;
         if(cdaya1[m+''+d]){ 
-            cdays1 += "<span class='nitem'>"+fprnt+"("+SD+"日)"+cdaya1[m+''+d]+'</span>';
+            cdays1 += "<span class='nitem'>"+fprnt+"("+m+''+d+"日)"+cdaya1[m+''+d]+'</span>';
             fstar = strMark;
         }
         m = parseInt(nlObj.month); m = m<10 ? "0"+m : m;
         d = parseInt(nlObj.day);   d = d<10 ? "0"+d : d;
         if(cdaya2[m+''+d]){ 
-            cdays2 += "<span class='nitem'>"+fprnt+"(农历"+nlObj.day+"日)"+cdaya2[m+''+d]+'</span>';
+            cdays2 += "<span class='nitem'>"+fprnt+"(农历"+m+''+d+"日)"+cdaya2[m+''+d]+'</span>';
             fstar = strMark;
         }
         //组某日字串
