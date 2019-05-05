@@ -109,31 +109,6 @@ function strTerm(SY,SM,SD){
     if(ObjTerm!='') ObjTerm =""+ObjTerm+"";
     return(ObjTerm);  
 }
-function strGanzhi(SY,SM,SD){ 
-    var m = SM+1, y = SY; // 注意:m已经+1
-    if(m<=2){ m=m+12; y--; } // console.log(C+'-'+y+'-');
-    var iG = "甲乙丙丁戊己庚辛壬癸"; 
-    var iZ = "子丑寅卯辰巳午未申酉戌亥";
-    // 生俏 = 年份 ÷ 12 // 0.猴 1.鸡 2.狗 3.猪 4.鼠 5.牛 6.虎 7.兔 8.龙 9.蛇 10.马 11.羊
-    var C = parseInt(y.toString().substr(0,2));
-    var y = parseInt(y.toString().substr(2,2)); 
-    var i = (m%2==0) ? 6 : 0;
-    var g = 4*C+parseInt((C/4))+parseInt((5*y))+parseInt(y/4)+parseInt(3*(m)/5)+SD-3;
-    var z = g+4*C+10+i;
-    g = g%10; z = z%12;
-    return iG.substr(g,1)+iZ.substr(z,1); 
-    /*
-    g=4C+[C/4]+[5y]+[y/4]+[3*(m+1)/5]+d-3 
-    z=8C+[C/4]+[5y]+[y/4]+[3*(m+1)/5]+d+7+i 
-    - 其中c是世纪数减1。- 奇数月 i=0，偶数月 i=6，
-    - 年份前两位，y 是年份后两位，- M 是月份，d 是日数。[ ] 表示取整数。
-    - 1月和 2月按上一年的 13月和 14月来算，因此C和y也要按上一年的年份来取值。
-    - 如果先求得了g，那么：z=g+4C+10+i(奇数月i=0，偶数月i=6)
-    - eg: 2009年7月16日
-    - G=80+5+45+2+4+16-3=149 余数为 9，天干是「壬」
-    - Z=149+80+10+0=239       余数为11，地支是「戌」
-    */
-}
 
 ////////////////////////////////////////////
 
@@ -195,4 +170,30 @@ function setCover(){
         }
     }
     return;
+}
+
+function strGanzhi(SY,SM,SD){ 
+    var m = SM+1, y = SY; // 注意:m已经+1
+    if(m<=2){ m=m+12; y--; } // console.log(C+'-'+y+'-');
+    var iG = "甲乙丙丁戊己庚辛壬癸"; 
+    var iZ = "子丑寅卯辰巳午未申酉戌亥";
+    // 生俏 = 年份 ÷ 12 // 0.猴 1.鸡 2.狗 3.猪 4.鼠 5.牛 6.虎 7.兔 8.龙 9.蛇 10.马 11.羊
+    var C = parseInt(y.toString().substr(0,2));
+    var y = parseInt(y.toString().substr(2,2)); 
+    var i = (m%2==0) ? 6 : 0;
+    var g = 4*C+parseInt((C/4))+parseInt((5*y))+parseInt(y/4)+parseInt(3*(m)/5)+SD-3;
+    var z = g+4*C+10+i;
+    g = g%10; z = z%12;
+    return iG.substr(g,1)+iZ.substr(z,1); 
+    /*
+    g=4C+[C/4]+[5y]+[y/4]+[3*(m+1)/5]+d-3 
+    z=8C+[C/4]+[5y]+[y/4]+[3*(m+1)/5]+d+7+i 
+    - 其中c是世纪数减1。- 奇数月 i=0，偶数月 i=6，
+    - 年份前两位，y 是年份后两位，- M 是月份，d 是日数。[ ] 表示取整数。
+    - 1月和 2月按上一年的 13月和 14月来算，因此C和y也要按上一年的年份来取值。
+    - 如果先求得了g，那么：z=g+4C+10+i(奇数月i=0，偶数月i=6)
+    - eg: 2009年7月16日
+    - G=80+5+45+2+4+16-3=149 余数为 9，天干是「壬」
+    - Z=149+80+10+0=239       余数为11，地支是「戌」
+    */
 }
