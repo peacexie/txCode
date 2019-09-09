@@ -3657,6 +3657,8 @@ for(i=0;i<a.length;i++){
 function show(id){ 
 	jsElm.jeID('mcontent').innerHTML = jsElm.jeID('san_p'+id).innerHTML;
 }
-show(rndDate(1,'w'));
+var _rno = rndDate(1,'w');
+if(''+_rno=='7') _rno = '0';
+show(_rno);
 </script> 
 
