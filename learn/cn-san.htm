@@ -7,6 +7,7 @@
 <script src="../cjs/jsbase.js"></script>
 <style type="text/css">
 .mcontent { font-family:Verdana,Arial,Helvetica,sans-serif; font-size:large; }
+.mcontent audio{ width:100%; margin:auto; }
 .subNav a { display:inline-block; padding:0px 2px; margin:2px 1px 8px 2px; border:1px solid #CCC; }
 .pinyin { color:#069; }
 .title { color: #FF00FF; font-weight: bolder; }
@@ -2232,13 +2233,21 @@
 </table>
 
 
-<script type="text/javascript">
+<script>
 var a = '0,1,2,3,4,5,6'.split(',');
+var b = '00:00,00:05,00:45,01:05,04:35,06:25,09:50'.split(',');
 for(i=0;i<a.length;i++){ 
 	jsElm.jeID('san_p'+a[i]).style.display = 'none'; 
 }
+function smp3(id){
+  var msg = '<p class=tc>提示:['+b[id]+']开始</p>';
+  var url = '../udata/dian/san-all.mp3';
+  var str = "<audio controls><source src='"+url+"'' type='audio/mp3'></audio>";
+  return msg + str
+}
 function show(id){ 
-	jsElm.jeID('mcontent').innerHTML = jsElm.jeID('san_p'+id).innerHTML;
+    html = smp3(id) + jsElm.jeID('san_p'+id).innerHTML;
+	jsElm.jeID('mcontent').innerHTML = html;
 }
 var _rno = rndDate(1,'w');
 if(''+_rno=='7') _rno = '0';

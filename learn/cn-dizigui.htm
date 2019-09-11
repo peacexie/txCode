@@ -7,6 +7,7 @@
 <script src="../cjs/jsbase.js"></script>
 <style type="text/css">
 .mcontent { font-family:Verdana,Arial,Helvetica,sans-serif; font-size:large; }
+.mcontent audio{ width:100%; margin:auto; }
 .subNav a { display:inline-block; padding:0px 3px; margin:2px 1px 8px 2px; border:1px solid #CCC; }
 .pinyin { color:#069; }
 .title { color: #FF00FF; font-weight: bolder; }
@@ -296,10 +297,15 @@ function fmtData(id){
 	}
 	return s;
 }
+function smp3(id){
+  var url = '../udata/dian/dizi'+id+'-'+a[id]+'.mp3';
+  var str = "<audio controls><source src='"+url+"'' type='audio/mp3' autoplay='autoplay'></audio>";
+  return str
+}
+
 function show(id){ 
-	//str = jsElm.jeID(a[id]).innerHTML;
-	str = fmtData(id);
-	jsElm.jeID('mcontent').innerHTML = str;
+  html = smp3(id) + fmtData(id);
+	jsElm.jeID('mcontent').innerHTML = html;
 }
 var _rno = rndDate(0,4);
 show(rndDate(1,_rno));
