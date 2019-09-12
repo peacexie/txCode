@@ -298,10 +298,10 @@ function fmtData(id){
 	return s;
 }
 function smp3(id){
-  var snv = jsElm.jeID('snv_'+id).innerHTML;
-  var msg = '<p class=tc>'+snv+':录音</p>';
   var url = '../udata/dian/dizi'+id+'-'+a[id]+'.mp3';
-  var str = "<audio controls><source src='"+url+"'' type='audio/mp3' autoplay='autoplay'></audio>";
+  var snv = jsElm.jeID('snv_'+id).innerHTML;
+  var msg = '<p class=tc>'+snv+':录音，<a href="'+url+'" target="mp3">单独打开</a></p>';
+  var str = "<audio controls src='"+url+"'' type='audio/mp3' autoplay='autoplay'></audio>";
   return msg + str
 }
 

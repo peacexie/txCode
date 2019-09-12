@@ -2240,10 +2240,10 @@ for(i=0;i<a.length;i++){
 	jsElm.jeID('san_p'+a[i]).style.display = 'none'; 
 }
 function smp3(id){
-  var snv = jsElm.jeID('snv_'+id).innerHTML;
-  var msg = '<p class=tc>'+snv+':['+b[id]+']开始</p>';
   var url = '../udata/dian/san-all.mp3';
-  var str = "<audio controls><source src='"+url+"'' type='audio/mp3'></audio>";
+  var snv = jsElm.jeID('snv_'+id).innerHTML;
+  var msg = '<p class=tc>'+snv+':['+b[id]+']开始，<a href="'+url+'" target="mp3">单独打开</a></p>';
+  var str = "<audio controls src='"+url+"'' type='audio/mp3'></audio>";
   return msg + str
 }
 function show(id){ 
