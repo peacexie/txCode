@@ -32,13 +32,13 @@
     <p><span class="icobox right">全文带拼音</span><strong>《三字经》</strong></p>
       
     <p class="tc subNav">
-    <a href="#" onClick="show(0)">[序]</a>  
-    <a href="#" onClick="show(1)">[一]</a>
-    <a href="#" onClick="show(2)">[二]</a>
-    <a href="#" onClick="show(3)">[三]</a>
-    <a href="#" onClick="show(4)">[四]</a>
-    <a href="#" onClick="show(5)">[五]</a>
-    <a href="#" onClick="show(6)">[六]</a>
+    <a href="#" onClick="show(0)" id='snv_0'>[序]</a>  
+    <a href="#" onClick="show(1)" id='snv_1'>[一]</a>
+    <a href="#" onClick="show(2)" id='snv_2'>[二]</a>
+    <a href="#" onClick="show(3)" id='snv_3'>[三]</a>
+    <a href="#" onClick="show(4)" id='snv_4'>[四]</a>
+    <a href="#" onClick="show(5)" id='snv_5'>[五]</a>
+    <a href="#" onClick="show(6)" id='snv_6'>[六]</a>
     </p>
   </div>
 
@@ -2240,7 +2240,8 @@ for(i=0;i<a.length;i++){
 	jsElm.jeID('san_p'+a[i]).style.display = 'none'; 
 }
 function smp3(id){
-  var msg = '<p class=tc>提示:['+b[id]+']开始</p>';
+  var snv = jsElm.jeID('snv_'+id).innerHTML;
+  var msg = '<p class=tc>'+snv+':['+b[id]+']开始</p>';
   var url = '../udata/dian/san-all.mp3';
   var str = "<audio controls><source src='"+url+"'' type='audio/mp3'></audio>";
   return msg + str

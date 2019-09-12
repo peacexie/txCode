@@ -27,11 +27,11 @@
     <p><a href="cn-dizirem.htm" class="icobox right">注释版</a><strong>《弟子规》拼音版</strong></p>
       
     <p class="tc subNav">
-    <a href="#" onClick="show(0)">总叙</a>
-    <a href="#" onClick="show(1)">首孝弟</a>
-    <a href="#" onClick="show(2)">次谨信</a>
-    <a href="#" onClick="show(3)">爱众亲仁</a>
-    <a href="#" onClick="show(4)">余力学文</a>
+    <a href="#" onClick="show(0)" id='snv_0'>总叙</a>
+    <a href="#" onClick="show(1)" id='snv_1'>首孝弟</a>
+    <a href="#" onClick="show(2)" id='snv_2'>次谨信</a>
+    <a href="#" onClick="show(3)" id='snv_3'>爱众亲仁</a>
+    <a href="#" onClick="show(4)" id='snv_4'>余力学文</a>
     </p>
   </div>
 
@@ -298,9 +298,11 @@ function fmtData(id){
 	return s;
 }
 function smp3(id){
+  var snv = jsElm.jeID('snv_'+id).innerHTML;
+  var msg = '<p class=tc>'+snv+':录音</p>';
   var url = '../udata/dian/dizi'+id+'-'+a[id]+'.mp3';
   var str = "<audio controls><source src='"+url+"'' type='audio/mp3' autoplay='autoplay'></audio>";
-  return str
+  return msg + str
 }
 
 function show(id){ 
