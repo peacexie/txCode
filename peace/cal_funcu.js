@@ -47,6 +47,10 @@ aduilian["def1"] = new Array();
 aduilian["def1"][1] = '老少平安庆佳节';
 aduilian["def1"][2] = '身心健康即是福';
 aduilian["def1"][3] = '健康平安';
+aduilian["2021"] = new Array();
+aduilian["2021"][1] = '新冠网课齐抗疫';
+aduilian["2021"][2] = '疫苗检测共护航';
+aduilian["2021"][3] = '国泰民安';
 
 function oneCell(SY,SM,SD,sDay,sTerm,sixFlag){
     f24 = sTerm.length>0; //tGZ = strGanzhi(SY,SM,SD);
