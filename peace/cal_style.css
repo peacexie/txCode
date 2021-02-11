@@ -106,10 +106,27 @@ table.mtitle td { border:0px; font-weight:bold; padding:0px; margin:0px; }
     background:#FFFFFF;
 }
 
-@media only screen and (max-width:760px) {
+@media only screen and (max-width:750px) {
     .th{ font-weight: normal; }
     table.out { width:99%; max-width:99%; min-width:99%; }
     div.out { width:99%; max-width:99%; min-width:99%; }
     table.mtitle td { font-weight: normal; }
+    #tab_cover td{
+        font-size:56px; 
+    }
+    #tab_cover img{
+        width:80%;
+    }
+    #tab_cover .cbar{
+        font-size:48px;
+    }
 }
 
+@media only screen and (max-width:550px) {
+    #tab_cover td{
+        font-size:36px; 
+    }
+    #tab_cover .cbar{
+        font-size:32px;
+    }
+}
