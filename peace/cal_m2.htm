@@ -6,9 +6,9 @@
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <title>贴心日历</title>
 <script src="../cjs/jsbase.js?noimp=1&_r=0211b"></script>
-<script src="cal_funcs.js?_r=0211b"></script>
-<script src="cal_funcu.js?_r=0211d"></script>
-<link rel="stylesheet" type="text/css" href="cal_style.css?_r=0211d"/>
+<script src="cal_funcs.js?_r=0211e"></script>
+<script src="cal_funcu.js?_r=0211e"></script>
+<link rel="stylesheet" type="text/css" href="cal_style.css?_r=0211e"/>
 </head>
 <body id="id_body">
 <div class="out">
@@ -101,11 +101,17 @@
     <tr>
         <td class="cleft">乐</td>
         <td class="cnote" colspan="4">
-        含公历,农历,24节气,干支 / 点击福字进入日历,适合打印;
-        <br>
-        制作设计: 和平鸽 / 技术支持: <a href="http://txjia.com/yscode/tools/screen.htm" target="1">贴心口袋</a>
+        点击福字进入日历，PC打开可打印;
+        <span id="pc_note"><br>
+        制作设计: <a href="http://txjia.com/imcat/hi.php/weys" target="1">Weys.微样式库</a>
+        </span>
         </td>
         <td class="cright">湾</td>
+    </tr>
+    <tr id='tr_last'>
+        <td class="cleft"></td>
+        <td class="cnote" colspan="4">
+        <td class="cright"></td>
     </tr>
   </table>
 </div>
@@ -130,7 +136,10 @@ if(act=='cover'){
 }else{ //def:2m
   wmod = winw>=768 ? 'print' : 'mob';
   listM02(0); //jsLog(nSY+':'+nSM);
-  //if(winw<768) jeShow('td_set');
+  if(winw<768){
+    //jeShow('td_set');
+    jsElm.jeID('pc_note').style.display = 'none';
+  } 
 }
 // style="page-break-after: always;" 分页
 </script> 

@@ -169,6 +169,7 @@ function setCover(){
             }
         }
     }
+    jsElm.jeID('tr_last').style.display = (dlid=='hnw2' ? '' : 'none');
     return;
 }
 
